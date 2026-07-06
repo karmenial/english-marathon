@@ -666,7 +666,7 @@
         "unit": "1"
       },
       {
-        "sentence": "book ",
+        "sentence": "book",
         "options": [
           "bar",
           "bear",
@@ -810,7 +810,6 @@
         "curriculum": "AL",
         "unit": "2"
       }
-    ],
-    "sentence": []
+    ]
   }
 }
