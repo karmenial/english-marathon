@@ -941,7 +941,7 @@
     } catch (e) { console.warn("⚠️ خطأ في localStorage:", e); }
     
     try {
-      const response = await fetch('./marathonQuestionsDB.json');
+     const response = await fetch('../../marathonQuestionsDB.json');
       if (response.ok) {
         const db = await response.json();
         if (db && db.activityDatabase && db.activityDatabase.complete) {
