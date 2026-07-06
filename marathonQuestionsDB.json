@@ -5,20 +5,8 @@
     "complete": [
       {
         "passage": "I have a {blank1} cat. Its name is {blank2}. It likes to eat {blank3} and {blank4}. Sometimes it sleeps on my {blank5}.",
-        "options": [
-          "small",
-          "Mimi",
-          "fish",
-          "milk",
-          "bed"
-        ],
-        "correctAnswer": [
-          "small",
-          "Mimi",
-          "fish",
-          "milk",
-          "bed"
-        ],
+        "options": ["small", "Mimi", "fish", "milk", "bed"],
+        "correctAnswer": ["small", "Mimi", "fish", "milk", "bed"],
         "reason": "Complete the description of the cat with the correct words.",
         "id": 1,
         "level": "primary",
@@ -56,10 +44,7 @@
     "find_the_vowel": [
       {
         "word": "boat",
-        "vowels": [
-          "o",
-          "a"
-        ],
+        "vowels": ["o", "a"],
         "reason": "The vowels in 'boat' are 'o' and 'a'.",
         "id": 1,
         "level": "primary",
@@ -74,12 +59,7 @@
         "correctAnswer": "are",
         "arabicReason": "مع 'both' نستخدم الفعل الجمع دائمًا لأنها تشير إلى شخصين.",
         "englishReason": "With 'both' we always use plural verb because it refers to two people.",
-        "options": [
-          "am",
-          "is",
-          "are",
-          "was"
-        ],
+        "options": ["am", "is", "are", "was"],
         "id": 1,
         "level": "primary",
         "grade": "3",
@@ -91,12 +71,7 @@
         "correctAnswer": "both",
         "arabicReason": "لأن الجملة تضم 'and'، و'both' تُستخدم مع 'and'.",
         "englishReason": "Because the sentence has 'and', and 'both' is used with 'and'.",
-        "options": [
-          "both",
-          "every",
-          "either",
-          "neither"
-        ],
+        "options": ["both", "every", "either", "neither"],
         "id": 2,
         "level": "primary",
         "grade": "3",
@@ -107,18 +82,9 @@
     "justtalk": [
       {
         "sentences": [
-          {
-            "text": "She goes to school every day.",
-            "target": "She goes to school every day."
-          },
-          {
-            "text": "He likes apples.",
-            "target": "He likes apples."
-          },
-          {
-            "text": "They are playing football now.",
-            "target": "They are playing football now."
-          }
+          {"text": "She goes to school every day.", "target": "She goes to school every day."},
+          {"text": "He likes apples.", "target": "He likes apples."},
+          {"text": "They are playing football now.", "target": "They are playing football now."}
         ],
         "id": 1,
         "level": "primary",
@@ -130,26 +96,11 @@
     "Matching": [
       {
         "pairs": [
-          {
-            "definition": "the man who drives the car",
-            "word": "driver"
-          },
-          {
-            "definition": "a place where you borrow books",
-            "word": "library"
-          },
-          {
-            "definition": "the person who teaches students",
-            "word": "teacher"
-          },
-          {
-            "definition": "a building where you live",
-            "word": "house"
-          },
-          {
-            "definition": "the machine that washes clothes",
-            "word": "washing machine"
-          }
+          {"definition": "the man who drives the car", "word": "driver"},
+          {"definition": "a place where you borrow books", "word": "library"},
+          {"definition": "the person who teaches students", "word": "teacher"},
+          {"definition": "a building where you live", "word": "house"},
+          {"definition": "the machine that washes clothes", "word": "washing machine"}
         ],
         "id": 1,
         "level": "primary",
@@ -185,110 +136,23 @@
       }
     ],
     "Scramble": [
-      {
-        "word": "shoes",
-        "id": 1,
-        "level": "primary",
-        "grade": "3",
-        "curriculum": "AL",
-        "unit": "1"
-      },
-      {
-        "word": "book",
-        "id": 2,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "cat",
-        "id": 3,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "win",
-        "id": 4,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "horse",
-        "id": 5,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "get",
-        "id": 6,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "you",
-        "id": 7,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "yet",
-        "id": 8,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "go",
-        "id": 9,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "dog",
-        "id": 10,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "food",
-        "id": 11,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      }
+      {"word": "shoes", "id": 1, "level": "primary", "grade": "3", "curriculum": "AL", "unit": "1"},
+      {"word": "book", "id": 2, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "cat", "id": 3, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "win", "id": 4, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "horse", "id": 5, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "get", "id": 6, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "you", "id": 7, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "yet", "id": 8, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "go", "id": 9, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "dog", "id": 10, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "food", "id": 11, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"}
     ],
     "sequence": [
       {
         "question": "My birthday party is today. My friends come to my house. They play and sing. They give me gifts.",
-        "options": [
-          "My birthday party is today",
-          "My friends come to my house",
-          "They play and sing",
-          "They give me gifts"
-        ],
-        "correctOrder": [
-          1,
-          2,
-          3,
-          4
-        ],
+        "options": ["My birthday party is today", "My friends come to my house", "They play and sing", "They give me gifts"],
+        "correctOrder": [1, 2, 3, 4],
         "reason": "ترتيب الأحداث في حفلة الميلاد",
         "id": 1,
         "level": "primary",
@@ -300,11 +164,7 @@
     "situations": [
       {
         "question": "your friend asks you about reading .. what would you say",
-        "options": [
-          "that's time to eat",
-          "it's my cup of tea",
-          "what about reading"
-        ],
+        "options": ["that's time to eat", "it's my cup of tea", "what about reading"],
         "correctAnswer": "it's my cup of tea",
         "reason": "'It's my cup of tea' is an idiom meaning something you enjoy",
         "id": 1,
@@ -318,33 +178,12 @@
       {
         "title": "Sort verbs by tense",
         "categories": [
-          {
-            "id": "category1",
-            "name": "Present"
-          },
-          {
-            "id": "category2",
-            "name": "Past"
-          },
-          {
-            "id": "category3",
-            "name": "Future"
-          },
-          {
-            "id": "category4",
-            "name": "Continuous"
-          }
+          {"id": "category1", "name": "Present"},
+          {"id": "category2", "name": "Past"},
+          {"id": "category3", "name": "Future"},
+          {"id": "category4", "name": "Continuous"}
         ],
-        "wordList": [
-          "go",
-          "went",
-          "will go",
-          "going",
-          "eat",
-          "ate",
-          "will eat",
-          "eating"
-        ],
+        "wordList": ["go", "went", "will go", "going", "eat", "ate", "will eat", "eating"],
         "answerKey": {
           "go": "category1",
           "went": "category2",
@@ -364,21 +203,10 @@
       {
         "title": "Sort the words: Animals or Fruits?",
         "categories": [
-          {
-            "id": "animals",
-            "name": "🐾 Animals"
-          },
-          {
-            "id": "fruits",
-            "name": "🍎 Fruits"
-          }
+          {"id": "animals", "name": " Animals"},
+          {"id": "fruits", "name": "🍎 Fruits"}
         ],
-        "wordList": [
-          "cat",
-          "apple",
-          "dog",
-          "banana"
-        ],
+        "wordList": ["cat", "apple", "dog", "banana"],
         "answerKey": {
           "cat": "animals",
           "dog": "animals",
@@ -393,104 +221,23 @@
       }
     ],
     "spilling": [
-      {
-        "word": "cat",
-        "audioFile": null,
-        "level": "primary",
-        "grade": "3",
-        "curriculum": "AL",
-        "unit": "4",
-        "id": 1
-      },
-      {
-        "word": "win",
-        "id": 2,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "book",
-        "id": 3,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "go",
-        "id": 4,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "get",
-        "id": 5,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "yet",
-        "id": 6,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "you",
-        "id": 7,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "dog",
-        "id": 8,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "food",
-        "id": 9,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "win",
-        "id": 10,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "word": "horse",
-        "id": 11,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "1"
-      }
+      {"word": "cat", "audioFile": null, "level": "primary", "grade": "3", "curriculum": "AL", "unit": "4", "id": 1},
+      {"word": "win", "id": 2, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "book", "id": 3, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "go", "id": 4, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "get", "id": 5, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "yet", "id": 6, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "you", "id": 7, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "dog", "id": 8, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "food", "id": 9, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "win", "id": 10, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"},
+      {"word": "horse", "id": 11, "level": "primary", "grade": "1", "curriculum": "OL", "unit": "1"}
     ],
     "Underline": [
       {
         "sentence": "The big cat is sleeping on the soft mat.",
         "instruction": "Underline the adjectives:",
-        "correctWords": [
-          "big",
-          "soft"
-        ],
+        "correctWords": ["big", "soft"],
         "id": 1,
         "level": "primary",
         "grade": "3",
@@ -500,10 +247,7 @@
       {
         "sentence": "my big cat is sleeping on the soft mat.",
         "instruction": "Underline the the words with e:",
-        "correctWords": [
-          "sleeping",
-          "the"
-        ],
+        "correctWords": ["sleeping", "the"],
         "id": 1,
         "level": "primary",
         "grade": "1",
@@ -513,10 +257,7 @@
       {
         "sentence": "the cat is in the garden",
         "instruction": "Underline the the words with a:",
-        "correctWords": [
-          "cat",
-          "garden"
-        ],
+        "correctWords": ["cat", "garden"],
         "id": 2,
         "level": "primary",
         "grade": "1",
@@ -526,10 +267,7 @@
       {
         "sentence": "I love banana and orange",
         "instruction": "Underline the the words with n:",
-        "correctWords": [
-          "banana",
-          "orange"
-        ],
+        "correctWords": ["banana", "orange"],
         "id": 3,
         "level": "primary",
         "grade": "1",
@@ -539,9 +277,7 @@
       {
         "sentence": "you are a friend",
         "instruction": "Underline the the words with y:",
-        "correctWords": [
-          "you"
-        ],
+        "correctWords": ["you"],
         "id": 4,
         "level": "primary",
         "grade": "1",
@@ -551,9 +287,7 @@
       {
         "sentence": "he is old",
         "instruction": "Underline the the words with d:",
-        "correctWords": [
-          "old"
-        ],
+        "correctWords": ["old"],
         "id": 5,
         "level": "primary",
         "grade": "1",
@@ -563,9 +297,7 @@
       {
         "sentence": "it is a dog",
         "instruction": "Underline the the words with g:",
-        "correctWords": [
-          "dog"
-        ],
+        "correctWords": ["dog"],
         "id": 6,
         "level": "primary",
         "grade": "1",
@@ -575,9 +307,7 @@
       {
         "sentence": "we are a family",
         "instruction": "Underline the the words with w:",
-        "correctWords": [
-          "we"
-        ],
+        "correctWords": ["we"],
         "id": 7,
         "level": "primary",
         "grade": "1",
@@ -587,10 +317,7 @@
       {
         "sentence": "you eat fruits",
         "instruction": "Underline the the words with u:",
-        "correctWords": [
-          "you",
-          "fruits"
-        ],
+        "correctWords": ["you", "fruits"],
         "id": 8,
         "level": "primary",
         "grade": "1",
@@ -602,12 +329,7 @@
       {
         "word": "complaint",
         "meaning": "شكوى",
-        "options": [
-          "شكوى",
-          "طلب",
-          "رفض",
-          "مديح"
-        ],
+        "options": ["شكوى", "طلب", "رفض", "مديح"],
         "arabicReason": "الكلمة تعني 'شكوى' وهي تُستخدم للتعبير عن عدم الرضا.",
         "englishReason": "The word means 'complaint' used to express dissatisfaction.",
         "id": 1,
@@ -621,12 +343,7 @@
       {
         "word": "apple",
         "meaning": "تفاحة",
-        "options": [
-          "تفاحة",
-          "موزة",
-          "برتقالة",
-          "خوخ"
-        ],
+        "options": ["تفاحة", "موزة", "برتقالة", "خوخ"],
         "arabicReason": "الكلمة تعني 'تفاحة' وهي فاكهة حمراء وحلوة.",
         "englishReason": "The word means 'apple' - a red and sweet fruit.",
         "id": 1,
@@ -653,12 +370,7 @@
       },
       {
         "sentence": "win",
-        "options": [
-          "win",
-          "war",
-          "will",
-          "week"
-        ],
+        "options": ["win", "war", "will", "week"],
         "id": 2,
         "level": "primary",
         "grade": "1",
@@ -667,12 +379,7 @@
       },
       {
         "sentence": "book",
-        "options": [
-          "bar",
-          "bear",
-          "cook",
-          "book"
-        ],
+        "options": ["bar", "bear", "cook", "book"],
         "id": 3,
         "level": "primary",
         "grade": "1",
@@ -681,12 +388,7 @@
       },
       {
         "sentence": "horse",
-        "options": [
-          "course",
-          "north",
-          "worth",
-          "horse"
-        ],
+        "options": ["course", "north", "worth", "horse"],
         "id": 4,
         "level": "primary",
         "grade": "1",
@@ -695,12 +397,7 @@
       },
       {
         "sentence": "go",
-        "options": [
-          "get",
-          "so",
-          "go",
-          "we"
-        ],
+        "options": ["get", "so", "go", "we"],
         "id": 5,
         "level": "primary",
         "grade": "1",
@@ -709,12 +406,7 @@
       },
       {
         "sentence": "yet",
-        "options": [
-          "yet",
-          "year",
-          "you",
-          "yes"
-        ],
+        "options": ["yet", "year", "you", "yes"],
         "id": 6,
         "level": "primary",
         "grade": "1",
@@ -723,12 +415,7 @@
       },
       {
         "sentence": "we",
-        "options": [
-          "when",
-          "we",
-          "you",
-          "yet"
-        ],
+        "options": ["when", "we", "you", "yet"],
         "id": 7,
         "level": "primary",
         "grade": "1",
@@ -737,12 +424,7 @@
       },
       {
         "sentence": "worth",
-        "options": [
-          "worth",
-          "war",
-          "will",
-          "week"
-        ],
+        "options": ["worth", "war", "will", "week"],
         "id": 8,
         "level": "primary",
         "grade": "1",
@@ -751,12 +433,7 @@
       },
       {
         "sentence": "dog",
-        "options": [
-          "door",
-          "old",
-          "big",
-          "dog"
-        ],
+        "options": ["door", "old", "big", "dog"],
         "id": 9,
         "level": "primary",
         "grade": "1",
@@ -765,12 +442,7 @@
       },
       {
         "sentence": "me",
-        "options": [
-          "we",
-          "he",
-          "me",
-          "she"
-        ],
+        "options": ["we", "he", "me", "she"],
         "id": 10,
         "level": "primary",
         "grade": "1",
@@ -779,12 +451,7 @@
       },
       {
         "sentence": "get",
-        "options": [
-          "let",
-          "met",
-          "get",
-          "set"
-        ],
+        "options": ["let", "met", "get", "set"],
         "id": 11,
         "level": "primary",
         "grade": "1",
@@ -798,12 +465,7 @@
         "correctAnswer": "glad",
         "arabicReason": "كلمة 'happy' تعني 'سعيد' أو 'مبسوط'.",
         "englishReason": "The word 'happy' means 'glad' or 'joyful'.",
-        "options": [
-          "sad",
-          "glad",
-          "angry",
-          "tired"
-        ],
+        "options": ["sad", "glad", "angry", "tired"],
         "id": 1,
         "level": "primary",
         "grade": "3",
