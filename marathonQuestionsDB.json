@@ -1,0 +1,37 @@
+{
+  "activityDatabase": {
+    "explanation": [],
+    "exam": [],
+    "complete": [],
+    "correct": [
+      {
+        "sentence": "She go to school every day.",
+        "errorWord": "go",
+        "correctWord": "goes",
+        "arabicReason": "نستخدم 'goes' مع الضمائر المفردة في زمن المضارع البسيط.",
+        "englishReason": "We use 'goes' with singular pronouns in simple present tense.",
+        "id": 1,
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "AL",
+        "unit": "1"
+      }
+    ],
+    "find_the_vowel": [],
+    "grammer": [],
+    "justtalk": [],
+    "Matching": [],
+    "re_arrange": [],
+    "rewrite": [],
+    "Scramble": [],
+    "sequence": [],
+    "situations": [],
+    "sorting": [],
+    "spilling": [],
+    "Underline": [],
+    "vocab_listening_quiz": [],
+    "vocab_quiz": [],
+    "what_do_you_hear": [],
+    "vocab_choose": []
+  }
+}
