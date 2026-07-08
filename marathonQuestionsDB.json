@@ -382,6 +382,43 @@
         "grade": "3",
         "curriculum": "AL",
         "unit": "2"
+      },
+      {
+        "pairs": [
+          {
+            "definition": "السبت",
+            "word": "Saturday"
+          },
+          {
+            "definition": "الأحد",
+            "word": "Sunday"
+          },
+          {
+            "definition": "الاثنين",
+            "word": "Monday"
+          },
+          {
+            "definition": "الثلاثاء",
+            "word": "Tuesday"
+          },
+          {
+            "definition": "الأربعاء",
+            "word": "Wednesday"
+          },
+          {
+            "definition": "الخميس",
+            "word": "Thursday"
+          },
+          {
+            "definition": "الجمعة",
+            "word": "Friday"
+          }
+        ],
+        "id": 2,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
       }
     ],
     "re_arrange": [
