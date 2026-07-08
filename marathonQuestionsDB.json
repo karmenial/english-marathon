@@ -148,108 +148,7 @@
         "grade": "3",
         "curriculum": "AL",
         "unit": "3"
-      },
-      {
-        "sentence": "This is my pen.",
-        "arabicReason": "نستخدم 'this' لأن القلم مفرد وقريب من المتحدث.",
-        "englishReason": "We use 'this' because the pen is singular and near the speaker.",
-        "id": 3,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "That is a big tree.",
-        "arabicReason": "نستخدم 'that' لأن الشجرة مفردة وبعيدة عن المتحدث.",
-        "englishReason": "We use 'that' because the tree is singular and far from the speaker.",
-        "id": 4,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "These are my shoes.",
-        "arabicReason": "نستخدم 'these' لأن الحذاء جمع وقريب من المتحدث.",
-        "englishReason": "We use 'these' because the shoes are plural and near the speaker.",
-        "id": 5,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "This is an apple.",
-        "arabicReason": "نستخدم 'this' لأن التفاحة مفردة وقريبة من المتحدث.",
-        "englishReason": "We use 'this' because the apple is singular and near the speaker.",
-        "id": 6,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "That is a beautiful car.",
-        "arabicReason": "نستخدم 'that' لأن السيارة مفردة وبعيدة عن المتحدث.",
-        "englishReason": "We use 'that' because the car is singular and far from the speaker.",
-        "id": 7,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "These are red flowers.",
-        "arabicReason": "نستخدم 'these' لأن الزهور جمع وقريبة من المتحدث.",
-        "englishReason": "We use 'these' because the flowers are plural and near the speaker.",
-        "id": 8,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "This is my school bag.",
-        "arabicReason": "نستخدم 'this' لأن الحقيبة مفردة وقريبة من المتحدث.",
-        "englishReason": "We use 'this' because the bag is singular and near the speaker.",
-        "id": 9,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "That is a plane in the sky.",
-        "arabicReason": "نستخدم 'that' لأن الطائرة مفردة وبعيدة عن المتحدث.",
-        "englishReason": "We use 'that' because the plane is singular and far from the speaker.",
-        "id": 10,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "These are my friends.",
-        "arabicReason": "نستخدم 'these' لأن الأصدقاء جمع وقريبون من المتحدث.",
-        "englishReason": "We use 'these' because the friends are plural and near the speaker.",
-        "id": 11,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "This is a cute cat.",
-        "arabicReason": "نستخدم 'this' لأن القطة مفردة وقريبة من المتحدث.",
-        "englishReason": "We use 'this' because the cat is singular and near the speaker.",
-        "id": 12,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      
+      }
     ],
     "justtalk": [
       {
@@ -304,7 +203,7 @@
         "curriculum": "AL",
         "unit": "2"
       },
-       {
+      {
         "pairs": [
           {
             "definition": "السبت",
@@ -2989,6 +2888,108 @@
         "unit": "2"
       }
     ],
-    "sentence": []
+    "sentence": [],
+    "correcr": [
+      {
+        "sentence": "This is my pen.",
+        "arabicReason": "نستخدم 'this' لأن القلم مفرد وقريب من المتحدث.",
+        "englishReason": "We use 'this' because the pen is singular and near the speaker.",
+        "id": 3,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "That is a big tree.",
+        "arabicReason": "نستخدم 'that' لأن الشجرة مفردة وبعيدة عن المتحدث.",
+        "englishReason": "We use 'that' because the tree is singular and far from the speaker.",
+        "id": 4,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "These are my shoes.",
+        "arabicReason": "نستخدم 'these' لأن الحذاء جمع وقريب من المتحدث.",
+        "englishReason": "We use 'these' because the shoes are plural and near the speaker.",
+        "id": 5,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "This is an apple.",
+        "arabicReason": "نستخدم 'this' لأن التفاحة مفردة وقريبة من المتحدث.",
+        "englishReason": "We use 'this' because the apple is singular and near the speaker.",
+        "id": 6,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "That is a beautiful car.",
+        "arabicReason": "نستخدم 'that' لأن السيارة مفردة وبعيدة عن المتحدث.",
+        "englishReason": "We use 'that' because the car is singular and far from the speaker.",
+        "id": 7,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "These are red flowers.",
+        "arabicReason": "نستخدم 'these' لأن الزهور جمع وقريبة من المتحدث.",
+        "englishReason": "We use 'these' because the flowers are plural and near the speaker.",
+        "id": 8,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "This is my school bag.",
+        "arabicReason": "نستخدم 'this' لأن الحقيبة مفردة وقريبة من المتحدث.",
+        "englishReason": "We use 'this' because the bag is singular and near the speaker.",
+        "id": 9,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "That is a plane in the sky.",
+        "arabicReason": "نستخدم 'that' لأن الطائرة مفردة وبعيدة عن المتحدث.",
+        "englishReason": "We use 'that' because the plane is singular and far from the speaker.",
+        "id": 10,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "These are my friends.",
+        "arabicReason": "نستخدم 'these' لأن الأصدقاء جمع وقريبون من المتحدث.",
+        "englishReason": "We use 'these' because the friends are plural and near the speaker.",
+        "id": 11,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "This is a cute cat.",
+        "arabicReason": "نستخدم 'this' لأن القطة مفردة وقريبة من المتحدث.",
+        "englishReason": "We use 'this' because the cat is singular and near the speaker.",
+        "id": 12,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
+      }
+    ]
   }
 }
