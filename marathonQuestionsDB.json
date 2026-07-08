@@ -97,6 +97,186 @@
         "grade": "3",
         "curriculum": "AL",
         "unit": "2"
+      },
+      {
+        "sentence": "They goes to school every day.",
+        "errorWord": "goes",
+        "correctWord": "go",
+        "arabicReason": "نستخدم الفعل في مصدره 'go' مع الفاعل الجمع 'they' ولا نضيف s أو es.",
+        "englishReason": "We use the base form 'go' with plural subjects like 'they' and do not add s or es.",
+        "id": 3,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "sentence": "He eat an apple every morning.",
+        "errorWord": "eat",
+        "correctWord": "eats",
+        "arabicReason": "نضيف 's' للفعل 'eat' لأن الفاعل 'He' مفرد غائب في زمن المضارع.",
+        "englishReason": "We add 's' to the verb 'eat' because the subject 'He' is singular third-person in the present tense.",
+        "id": 4,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "sentence": "We drinks milk after lunch.",
+        "errorWord": "drinks",
+        "correctWord": "drink",
+        "arabicReason": "نستخدم الفعل في مصدره 'drink' مع الفاعل الجمع 'we' ولا نضيف s.",
+        "englishReason": "We use the base form 'drink' with plural subjects like 'we' and do not add s.",
+        "id": 5,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "sentence": "The girl read a book in the library.",
+        "errorWord": "read",
+        "correctWord": "reads",
+        "arabicReason": "نضيف 's' للفعل 'read' لأن الفاعل 'The girl' مفرد غائب.",
+        "englishReason": "We add 's' to the verb 'read' because 'The girl' is a singular third-person subject.",
+        "id": 6,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "sentence": "The students writes a letter to their teacher.",
+        "errorWord": "writes",
+        "correctWord": "write",
+        "arabicReason": "نستخدم الفعل في مصدره 'write' مع الفاعل الجمع 'The students'.",
+        "englishReason": "We use the base form 'write' with plural subjects like 'The students'.",
+        "id": 7,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "sentence": "She wake up early every day.",
+        "errorWord": "wake",
+        "correctWord": "wakes",
+        "arabicReason": "نضيف 's' للفعل 'wake' لأن الفاعل 'She' مفرد غائب.",
+        "englishReason": "We add 's' to the verb 'wake' because the subject 'She' is singular third-person.",
+        "id": 8,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "sentence": "The children sits down when the bell rings.",
+        "errorWord": "sits",
+        "correctWord": "sit",
+        "arabicReason": "نستخدم الفعل في مصدره 'sit' مع الفاعل الجمع 'The children'.",
+        "englishReason": "We use the base form 'sit' with plural subjects like 'The children'.",
+        "id": 9,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "sentence": "The teacher close the window because it is cold.",
+        "errorWord": "close",
+        "correctWord": "closes",
+        "arabicReason": "نضيف 's' للفعل 'close' لأن الفاعل 'The teacher' مفرد غائب.",
+        "englishReason": "We add 's' to the verb 'close' because 'The teacher' is a singular third-person subject.",
+        "id": 10,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "sentence": "The boys opens the door for the teacher.",
+        "errorWord": "opens",
+        "correctWord": "open",
+        "arabicReason": "نستخدم الفعل في مصدره 'open' مع الفاعل الجمع 'The boys'.",
+        "englishReason": "We use the base form 'open' with plural subjects like 'The boys'.",
+        "id": 11,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "sentence": "He wash his hands before eating.",
+        "errorWord": "wash",
+        "correctWord": "washes",
+        "arabicReason": "نضيف 'es' للفعل 'wash' لأنه ينتهي بـ 'sh' والفاعل 'He' مفرد.",
+        "englishReason": "We add 'es' to the verb 'wash' because it ends in 'sh' and the subject 'He' is singular.",
+        "id": 12,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "sentence": "My mother watch TV in the evening.",
+        "errorWord": "watch",
+        "correctWord": "watches",
+        "arabicReason": "نضيف 'es' للفعل 'watch' لأنه ينتهي بـ 'ch' والفاعل 'My mother' مفرد.",
+        "englishReason": "We add 'es' to the verb 'watch' because it ends in 'ch' and the subject 'My mother' is singular.",
+        "id": 13,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "sentence": "The boy study English on Fridays.",
+        "errorWord": "study",
+        "correctWord": "studies",
+        "arabicReason": "نحذف حرف 'y' ونضيف 'ies' لأن الفاعل 'The boy' مفرد والفعل ينتهي بحرف ساكن + y.",
+        "englishReason": "We change 'y' to 'i' and add 'es' because 'The boy' is singular and the verb ends in a consonant + y.",
+        "id": 14,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "sentence": "The cats sleeps on the soft bed.",
+        "errorWord": "sleeps",
+        "correctWord": "sleep",
+        "arabicReason": "نستخدم الفعل في مصدره 'sleep' مع الفاعل الجمع 'The cats'.",
+        "englishReason": "We use the base form 'sleep' with plural subjects like 'The cats'.",
+        "id": 15,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "sentence": "You wants a new pen for the exam.",
+        "errorWord": "wants",
+        "correctWord": "want",
+        "arabicReason": "نستخدم الفعل في مصدره 'want' مع الفاعل 'You' ولا نضيف s.",
+        "englishReason": "We use the base form 'want' with the subject 'You' and do not add s.",
+        "id": 16,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "sentence": "My friend come to school at 8 AM.",
+        "errorWord": "come",
+        "correctWord": "comes",
+        "arabicReason": "نضيف 's' للفعل 'come' لأن الفاعل 'My friend' مفرد (يعامل معاملة he/she).",
+        "englishReason": "We add 's' to the verb 'come' because 'My friend' is a singular third-person subject.",
+        "id": 17,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
       }
     ],
     "find_the_vowel": [
@@ -202,43 +382,6 @@
         "grade": "3",
         "curriculum": "AL",
         "unit": "2"
-      },
-      {
-        "pairs": [
-          {
-            "definition": "السبت",
-            "word": "Saturday"
-          },
-          {
-            "definition": "الأحد",
-            "word": "Sunday"
-          },
-          {
-            "definition": "الاثنين",
-            "word": "Monday"
-          },
-          {
-            "definition": "الثلاثاء",
-            "word": "Tuesday"
-          },
-          {
-            "definition": "الأربعاء",
-            "word": "Wednesday"
-          },
-          {
-            "definition": "الخميس",
-            "word": "Thursday"
-          },
-          {
-            "definition": "الجمعة",
-            "word": "Friday"
-          }
-        ],
-        "id": 2,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "2"
       }
     ],
     "re_arrange": [
@@ -251,76 +394,6 @@
         "grade": "3",
         "curriculum": "AL",
         "unit": "2"
-      },
-      {
-        "sentence": "you study English",
-        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به.",
-        "englishReason": "The correct order is subject + verb + object.",
-        "id": 2,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "it drinks milk",
-        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به.",
-        "englishReason": "The correct order is subject + verb + object.",
-        "id": 3,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "I eat dinner",
-        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به.",
-        "englishReason": "The correct order is subject + verb + object.",
-        "id": 4,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "He reads a book",
-        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به.",
-        "englishReason": "The correct order is subject + verb + object.",
-        "id": 5,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "she goes to the garden",
-        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به.",
-        "englishReason": "The correct order is subject + verb + object.",
-        "id": 6,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "they write a letter",
-        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به.",
-        "englishReason": "The correct order is subject + verb + object.",
-        "id": 7,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "we play a game",
-        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به.",
-        "englishReason": "The correct order is subject + verb + object.",
-        "id": 8,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
       },
       {
         "sentence": "What's your name?",
@@ -571,6 +644,76 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "2"
+      },
+      {
+        "sentence": "you study English",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is subject + verb + object.",
+        "id": 2,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "it drinks milk",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is subject + verb + object.",
+        "id": 3,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "I eat dinner",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is subject + verb + object.",
+        "id": 4,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "He reads a book",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is subject + verb + object.",
+        "id": 5,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "she goes to the garden",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is subject + verb + object.",
+        "id": 6,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "they write a letter",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is subject + verb + object.",
+        "id": 7,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "we play a game",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is subject + verb + object.",
+        "id": 8,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "1"
       }
     ],
     "rewrite": [
@@ -2889,107 +3032,6 @@
       }
     ],
     "sentence": [],
-    "correcr": [
-      {
-        "sentence": "This is my pen.",
-        "arabicReason": "نستخدم 'this' لأن القلم مفرد وقريب من المتحدث.",
-        "englishReason": "We use 'this' because the pen is singular and near the speaker.",
-        "id": 3,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "That is a big tree.",
-        "arabicReason": "نستخدم 'that' لأن الشجرة مفردة وبعيدة عن المتحدث.",
-        "englishReason": "We use 'that' because the tree is singular and far from the speaker.",
-        "id": 4,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "These are my shoes.",
-        "arabicReason": "نستخدم 'these' لأن الحذاء جمع وقريب من المتحدث.",
-        "englishReason": "We use 'these' because the shoes are plural and near the speaker.",
-        "id": 5,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "This is an apple.",
-        "arabicReason": "نستخدم 'this' لأن التفاحة مفردة وقريبة من المتحدث.",
-        "englishReason": "We use 'this' because the apple is singular and near the speaker.",
-        "id": 6,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "That is a beautiful car.",
-        "arabicReason": "نستخدم 'that' لأن السيارة مفردة وبعيدة عن المتحدث.",
-        "englishReason": "We use 'that' because the car is singular and far from the speaker.",
-        "id": 7,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "These are red flowers.",
-        "arabicReason": "نستخدم 'these' لأن الزهور جمع وقريبة من المتحدث.",
-        "englishReason": "We use 'these' because the flowers are plural and near the speaker.",
-        "id": 8,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "This is my school bag.",
-        "arabicReason": "نستخدم 'this' لأن الحقيبة مفردة وقريبة من المتحدث.",
-        "englishReason": "We use 'this' because the bag is singular and near the speaker.",
-        "id": 9,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "That is a plane in the sky.",
-        "arabicReason": "نستخدم 'that' لأن الطائرة مفردة وبعيدة عن المتحدث.",
-        "englishReason": "We use 'that' because the plane is singular and far from the speaker.",
-        "id": 10,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "These are my friends.",
-        "arabicReason": "نستخدم 'these' لأن الأصدقاء جمع وقريبون من المتحدث.",
-        "englishReason": "We use 'these' because the friends are plural and near the speaker.",
-        "id": 11,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      },
-      {
-        "sentence": "This is a cute cat.",
-        "arabicReason": "نستخدم 'this' لأن القطة مفردة وقريبة من المتحدث.",
-        "englishReason": "We use 'this' because the cat is singular and near the speaker.",
-        "id": 12,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "1"
-      }
-    ]
+    "correcr": []
   }
 }
