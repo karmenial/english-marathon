@@ -11,11 +11,11 @@
       "permissions": [
         "all"
       ],
-      "lastLogin": "2026-07-06T10:26:34.966Z"
+      "lastLogin": "2026-07-11T16:45:41.794Z"
     },
     {
       "id": "u2",
-      "role": "student",
+      "role": "teacher",
       "name": "أحمد محمد علي",
       "email": "ahmed@email.com",
       "pass": "123",
@@ -23,15 +23,13 @@
       "isPaid": true,
       "joinDate": "2026-06-01",
       "duration": "41",
-      "level": "primary",
-      "grade": "3",
-      "type": "AL",
       "status": "joined",
-      "teacherId": "u1782935108737",
       "customMessage": "",
       "broadcastMessage": "",
       "lastLogin": "2026-07-05T22:17:31.541Z",
-      "subscriptionPrice": 100
+      "subscriptionPrice": 100,
+      "commission": 15,
+      "phone": ""
     },
     {
       "id": "u1782935108737",
@@ -67,7 +65,7 @@
     },
     {
       "id": "u1783055469169",
-      "role": "student",
+      "role": "teacher",
       "name": "اكرام محمدي",
       "email": "ekram@email.com",
       "pass": "123",
@@ -76,14 +74,12 @@
       "lastLogin": "2026-07-03T18:40:43.208Z",
       "isPaid": true,
       "duration": 30,
-      "level": "primary",
-      "grade": "3",
-      "type": "AL",
       "status": "joined",
-      "teacherId": "u1782935108737",
-      "subscriptionPrice": 100,
+      "subscriptionPrice": 0,
       "customMessage": "",
-      "broadcastMessage": ""
+      "broadcastMessage": "",
+      "commission": 15,
+      "phone": ""
     },
     {
       "id": "u1783333259637",
@@ -93,7 +89,7 @@
       "pass": "95967b",
       "isActive": true,
       "joinDate": "2026-07-06",
-      "lastLogin": "2026-07-06T10:22:15.848Z",
+      "lastLogin": "2026-07-09T20:37:44.584Z",
       "isPaid": true,
       "duration": 90,
       "level": "primary",
@@ -133,7 +129,7 @@
       "pass": "97968a",
       "isActive": true,
       "joinDate": "2026-07-06",
-      "lastLogin": "2026-07-06T10:26:15.449Z",
+      "lastLogin": "2026-07-09T21:49:47.160Z",
       "isPaid": true,
       "duration": 90,
       "level": "primary",
@@ -204,6 +200,46 @@
       "subscriptionPrice": 0,
       "customMessage": "",
       "broadcastMessage": ""
+    },
+    {
+      "id": "u1783788161638",
+      "role": "student",
+      "name": "reem",
+      "email": "reem@marathon.com",
+      "pass": "79315b",
+      "isActive": true,
+      "joinDate": "2026-07-11",
+      "lastLogin": "2026-07-11T16:44:53.314Z",
+      "isPaid": true,
+      "duration": 30,
+      "level": "primary",
+      "grade": "2",
+      "type": "OL",
+      "status": "free",
+      "teacherId": null,
+      "subscriptionPrice": 0,
+      "customMessage": "",
+      "broadcastMessage": ""
+    },
+    {
+      "id": "u1783788230433",
+      "role": "student",
+      "name": "nour",
+      "email": "nour@marathon.com",
+      "pass": "57931",
+      "isActive": true,
+      "joinDate": "2026-07-11",
+      "lastLogin": null,
+      "isPaid": true,
+      "duration": 30,
+      "level": "primary",
+      "grade": "2",
+      "type": "OL",
+      "status": "free",
+      "teacherId": null,
+      "subscriptionPrice": 0,
+      "customMessage": "",
+      "broadcastMessage": ""
     }
   ],
   "settings": {
@@ -228,5 +264,24 @@
     "manage_exams": "إدارة امتحانات الشركاء"
   },
   "teacherExams": [],
-  "groups": []
+  "groups": [],
+  "exams": [
+    {
+      "id": "exam_1783626724974",
+      "title": "مم",
+      "level": "preparatory",
+      "grade": "1",
+      "curriculum": "OL",
+      "unit": "1",
+      "visibility": "public",
+      "teacherId": null,
+      "activities": [
+        "find_the_vowel"
+      ],
+      "questions": {},
+      "isActive": true,
+      "addedDate": "2026-07-09",
+      "addedBy": "مستر إنجليزي"
+    }
+  ]
 }
