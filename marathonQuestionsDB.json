@@ -809,176 +809,6 @@
         "grade": "3",
         "curriculum": "AL",
         "unit": "3"
-      },
-      {
-        "question": "Ahmed and Ali are friends. _____ play football together.",
-        "correctAnswer": "They",
-        "arabicReason": "نستخدم (They) للإشارة إلى أكثر من شخص.",
-        "englishReason": "We use 'They' to refer to more than one person.",
-        "options": [
-          "They",
-          "He",
-          "She",
-          "It"
-        ],
-        "id": 3,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "4"
-      },
-      {
-        "question": "We like _____ house.",
-        "correctAnswer": "our",
-        "arabicReason": "نستخدم (our) قبل الاسم للدلالة على الملكية.",
-        "englishReason": "We use 'our' before a noun to show possession.",
-        "options": [
-          "our",
-          "us",
-          "we",
-          "ours"
-        ],
-        "id": 4,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "4"
-      },
-      {
-        "question": "My parents love ____ very much.",
-        "correctAnswer": "me",
-        "arabicReason": "بعد الفعل نستخدم ضمير المفعول به (me).",
-        "englishReason": "After a verb, we use the object pronoun 'me'.",
-        "options": [
-          "me",
-          "my",
-          "I",
-          "mine"
-        ],
-        "id": 5,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "4"
-      },
-      {
-        "question": "The cat is small. _____ likes to sleep on the bed.",
-        "correctAnswer": "It",
-        "arabicReason": "نستخدم (It) مع الحيوانات أو الأشياء المفردة.",
-        "englishReason": "We use 'It' for singular animals or things.",
-        "options": [
-          "It",
-          "He",
-          "She",
-          "They"
-        ],
-        "id": 6,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "4"
-      },
-      {
-        "question": "This is _____ bookshelf.",
-        "correctAnswer": "our",
-        "arabicReason": "نستخدم (our) قبل الاسم للدلالة على الملكية.",
-        "englishReason": "We use 'our' before a noun to show possession.",
-        "options": [
-          "our",
-          "us",
-          "we",
-          "ours"
-        ],
-        "id": 7,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "4"
-      },
-      {
-        "question": "They _____ their bedroom every Saturday.",
-        "correctAnswer": "clean",
-        "arabicReason": "مع (They) نستخدم الفعل في صورته الأساسية.",
-        "englishReason": "With 'They', we use the base form of the verb.",
-        "options": [
-          "clean",
-          "cleans",
-          "cleaning",
-          "cleaned"
-        ],
-        "id": 8,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "4"
-      },
-      {
-        "question": "She _____ a book before bed.",
-        "correctAnswer": "reads",
-        "arabicReason": "مع (She) نضيف (s) إلى الفعل في المضارع البسيط.",
-        "englishReason": "With 'She', the verb takes 's' in the simple present.",
-        "options": [
-          "reads",
-          "read",
-          "reading",
-          "is read"
-        ],
-        "id": 9,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "4"
-      },
-      {
-        "question": "My teacher helps ____ every day.",
-        "correctAnswer": "me",
-        "arabicReason": "بعد الفعل نستخدم ضمير المفعول به (me).",
-        "englishReason": "After a verb, we use the object pronoun 'me'.",
-        "options": [
-          "me",
-          "my",
-          "I",
-          "mine"
-        ],
-        "id": 10,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "4"
-      },
-      {
-        "question": "Mona loves _____ bedroom.",
-        "correctAnswer": "her",
-        "arabicReason": "نستخدم (her) للدلالة على الملكية للمؤنث.",
-        "englishReason": "We use 'her' to show possession for a female.",
-        "options": [
-          "her",
-          "his",
-          "my",
-          "their"
-        ],
-        "id": 11,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "4"
-      },
-      {
-        "question": "Ali is my friend. _____ is very kind.",
-        "correctAnswer": "He",
-        "arabicReason": "نستخدم (He) للإشارة إلى شخص مذكر.",
-        "englishReason": "We use 'He' to refer to a male person.",
-        "options": [
-          "He",
-          "She",
-          "It",
-          "They"
-        ],
-        "id": 12,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "4"
       }
     ],
     "justtalk": [
@@ -6424,6 +6254,23 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "4"
+      },
+      {
+        "word": "tall",
+        "meaning": "طويل",
+        "options": [
+          "طويل",
+          "قصير",
+          "كبير",
+          "سريع"
+        ],
+        "arabicReason": "الكلمة تعني 'طويل' وتُستخدم لوصف الأشخاص أو الأشياء ذات الارتفاع الكبير.",
+        "englishReason": "The word means 'tall' and is used to describe someone or something with great height.",
+        "id": 77,
+        "level": "primary",
+        "grade": "6",
+        "curriculum": "OL",
+        "unit": "6"
       }
     ],
     "what_do_you_hear": [
@@ -8033,6 +7880,176 @@
           "wall"
         ],
         "id": 39,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "Ahmed and Ali are friends. _____ play football together.",
+        "correctAnswer": "They",
+        "arabicReason": "نستخدم (They) للإشارة إلى أكثر من شخص.",
+        "englishReason": "We use 'They' to refer to more than one person.",
+        "options": [
+          "They",
+          "He",
+          "She",
+          "It"
+        ],
+        "id": 40,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "We like _____ house.",
+        "correctAnswer": "our",
+        "arabicReason": "نستخدم (our) قبل الاسم للدلالة على الملكية.",
+        "englishReason": "We use 'our' before a noun to show possession.",
+        "options": [
+          "our",
+          "us",
+          "we",
+          "ours"
+        ],
+        "id": 41,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "My parents love ____ very much.",
+        "correctAnswer": "me",
+        "arabicReason": "بعد الفعل نستخدم ضمير المفعول به (me).",
+        "englishReason": "After a verb, we use the object pronoun 'me'.",
+        "options": [
+          "me",
+          "my",
+          "I",
+          "mine"
+        ],
+        "id": 42,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "The cat is small. _____ likes to sleep on the bed.",
+        "correctAnswer": "It",
+        "arabicReason": "نستخدم (It) مع الحيوانات أو الأشياء المفردة.",
+        "englishReason": "We use 'It' for singular animals or things.",
+        "options": [
+          "It",
+          "He",
+          "She",
+          "They"
+        ],
+        "id": 43,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "This is _____ bookshelf.",
+        "correctAnswer": "our",
+        "arabicReason": "نستخدم (our) قبل الاسم للدلالة على الملكية.",
+        "englishReason": "We use 'our' before a noun to show possession.",
+        "options": [
+          "our",
+          "us",
+          "we",
+          "ours"
+        ],
+        "id": 44,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "They _____ their bedroom every Saturday.",
+        "correctAnswer": "clean",
+        "arabicReason": "مع (They) نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With 'They', we use the base form of the verb.",
+        "options": [
+          "clean",
+          "cleans",
+          "cleaning",
+          "cleaned"
+        ],
+        "id": 45,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "She _____ a book before bed.",
+        "correctAnswer": "reads",
+        "arabicReason": "مع (She) نضيف (s) إلى الفعل في المضارع البسيط.",
+        "englishReason": "With 'She', the verb takes 's' in the simple present.",
+        "options": [
+          "reads",
+          "read",
+          "reading",
+          "is read"
+        ],
+        "id": 46,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "My teacher helps ____ every day.",
+        "correctAnswer": "me",
+        "arabicReason": "بعد الفعل نستخدم ضمير المفعول به (me).",
+        "englishReason": "After a verb, we use the object pronoun 'me'.",
+        "options": [
+          "me",
+          "my",
+          "I",
+          "mine"
+        ],
+        "id": 47,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "Mona loves _____ bedroom.",
+        "correctAnswer": "her",
+        "arabicReason": "نستخدم (her) للدلالة على الملكية للمؤنث.",
+        "englishReason": "We use 'her' to show possession for a female.",
+        "options": [
+          "her",
+          "his",
+          "my",
+          "their"
+        ],
+        "id": 48,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "Ali is my friend. _____ is very kind.",
+        "correctAnswer": "He",
+        "arabicReason": "نستخدم (He) للإشارة إلى شخص مذكر.",
+        "englishReason": "We use 'He' to refer to a male person.",
+        "options": [
+          "He",
+          "She",
+          "It",
+          "They"
+        ],
+        "id": 49,
         "level": "primary",
         "grade": "2",
         "curriculum": "OL",
