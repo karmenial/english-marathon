@@ -105,6 +105,35 @@
         "curriculum": "OL",
         "unit": "3",
         "lessonTitle": "My typical day"
+      },
+      {
+        "passage": "My bedroom is my favourite room in my house. My bed is {blank1}. There is a {blank2} with green curtains. There is a green {blank3} on the floor. The curtains and the carpet are {blank4}. There is a book shelf on the {blank5}, beside the bed. I like to {blank6} before I go to bed. I clean my bedroom every day. My bed is always {blank7}. I like my {blank8}.",
+        "options": [
+          "comfortable",
+          "window",
+          "carpet",
+          "matching",
+          "wall",
+          "read",
+          "tidy",
+          "bedroom"
+        ],
+        "correctAnswer": [
+          "comfortable",
+          "window",
+          "carpet",
+          "matching",
+          "wall",
+          "read",
+          "tidy",
+          "bedroom"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "id": 5,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
       }
     ],
     "correct": [
@@ -443,6 +472,186 @@
         "lessonTitle": "ادوات الاستفهام"
       },
       {
+        "sentence": "Its am my favourite room.",
+        "errorWord": "Its",
+        "correctWord": "It",
+        "arabicReason": "نستخدم (It) كضمير فاعل، أما (Its) فهي للملكية.",
+        "englishReason": "'It' is a subject pronoun, while 'its' is a possessive adjective.",
+        "id": 37,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "My friends cleans their classroom.",
+        "errorWord": "cleans",
+        "correctWord": "clean",
+        "arabicReason": "لأن الفاعل جمع، نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "Because the subject is plural, we use the base form of the verb.",
+        "id": 38,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "Our teacher help us every day.",
+        "errorWord": "help",
+        "correctWord": "helps",
+        "arabicReason": "لأن الفاعل (teacher) مفرد، نضيف (s) إلى الفعل.",
+        "englishReason": "Because 'teacher' is singular, the verb takes 's'.",
+        "id": 39,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "This room belongs to my.",
+        "errorWord": "my",
+        "correctWord": "me",
+        "arabicReason": "بعد (belongs to) نستخدم ضمير المفعول به (me).",
+        "englishReason": "After 'belongs to', we use the object pronoun 'me'.",
+        "id": 40,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "He reads to we.",
+        "errorWord": "we",
+        "correctWord": "us",
+        "arabicReason": "بعد حرف الجر نستخدم ضمير المفعول به.",
+        "englishReason": "After a preposition, we use the object pronoun.",
+        "id": 41,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "She helps they every day.",
+        "errorWord": "they",
+        "correctWord": "them",
+        "arabicReason": "بعد الفعل نستخدم ضمير المفعول به (them).",
+        "englishReason": "After a verb, we use the object pronoun 'them'.",
+        "id": 42,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "I help he every day.",
+        "errorWord": "he",
+        "correctWord": "him",
+        "arabicReason": "بعد الفعل نستخدم ضمير المفعول به (him).",
+        "englishReason": "After a verb, we use the object pronoun 'him'.",
+        "id": 43,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "The teacher helps we.",
+        "errorWord": "we",
+        "correctWord": "us",
+        "arabicReason": "بعد الفعل نستخدم ضمير المفعول به (us).",
+        "englishReason": "After a verb, we use the object pronoun 'us'.",
+        "id": 44,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "This is she bag.",
+        "errorWord": "she",
+        "correctWord": "her",
+        "arabicReason": "نستخدم (her) قبل الاسم للدلالة على الملكية.",
+        "englishReason": "We use 'her' before a noun to show possession.",
+        "id": 45,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "This is him book.",
+        "errorWord": "him",
+        "correctWord": "his",
+        "arabicReason": "نستخدم (his) قبل الاسم للدلالة على الملكية.",
+        "englishReason": "We use 'his' before a noun to show possession.",
+        "id": 46,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "This is me bedroom.",
+        "errorWord": "me",
+        "correctWord": "my",
+        "arabicReason": "نستخدم (my) قبل الاسم للدلالة على الملكية.",
+        "englishReason": "We use 'my' before a noun to show possession.",
+        "id": 47,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "She like her bedroom.",
+        "errorWord": "like",
+        "correctWord": "likes",
+        "arabicReason": "مع (she) نضيف (s) إلى الفعل.",
+        "englishReason": "With 'she', the verb takes 's'.",
+        "id": 48,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "I likes my bedroom.",
+        "errorWord": "likes",
+        "correctWord": "like",
+        "arabicReason": "مع (I) نستخدم الفعل بدون (s).",
+        "englishReason": "With 'I', we use the base form of the verb.",
+        "id": 49,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "They gives me a gift every year.",
+        "errorWord": "gives",
+        "correctWord": "give",
+        "arabicReason": "مع (they) نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With 'they', we use the base form of the verb.",
+        "id": 50,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "He give me a gift every year.",
+        "errorWord": "give",
+        "correctWord": "gives",
+        "arabicReason": "مع (he) في المضارع البسيط نضيف (s) إلى الفعل.",
+        "englishReason": "With 'he' in the simple present, the verb takes 's'.",
+        "id": 51,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
         "sentence": "I have a apple.",
         "errorWord": "a apple",
         "correctWord": "an",
@@ -457,7 +666,7 @@
       {
         "sentence": "Mona ate a egg for breakfast.",
         "errorWord": "a egg",
-        "correctWord": "an",
+        "correctWord": "a",
         "arabicReason": "لأن كلمة egg تبدأ بحرف متحرك، لذلك نستخدم an.",
         "englishReason": "Because 'egg' begins with a vowel sound, we use 'an'.",
         "id": 19,
@@ -515,7 +724,7 @@
         "unit": "3"
       },
       {
-        "sentence": "This is a elephant.",
+        "sentence": "Ali reads about a elephant.",
         "errorWord": "a elephant",
         "correctWord": "an",
         "arabicReason": "لأن كلمة umbrella تبدأ بحرف متحرك، لذلك نستخدم an.",
@@ -600,6 +809,176 @@
         "grade": "3",
         "curriculum": "AL",
         "unit": "3"
+      },
+      {
+        "question": "Ahmed and Ali are friends. _____ play football together.",
+        "correctAnswer": "They",
+        "arabicReason": "نستخدم (They) للإشارة إلى أكثر من شخص.",
+        "englishReason": "We use 'They' to refer to more than one person.",
+        "options": [
+          "They",
+          "He",
+          "She",
+          "It"
+        ],
+        "id": 3,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "We like _____ house.",
+        "correctAnswer": "our",
+        "arabicReason": "نستخدم (our) قبل الاسم للدلالة على الملكية.",
+        "englishReason": "We use 'our' before a noun to show possession.",
+        "options": [
+          "our",
+          "us",
+          "we",
+          "ours"
+        ],
+        "id": 4,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "My parents love ____ very much.",
+        "correctAnswer": "me",
+        "arabicReason": "بعد الفعل نستخدم ضمير المفعول به (me).",
+        "englishReason": "After a verb, we use the object pronoun 'me'.",
+        "options": [
+          "me",
+          "my",
+          "I",
+          "mine"
+        ],
+        "id": 5,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "The cat is small. _____ likes to sleep on the bed.",
+        "correctAnswer": "It",
+        "arabicReason": "نستخدم (It) مع الحيوانات أو الأشياء المفردة.",
+        "englishReason": "We use 'It' for singular animals or things.",
+        "options": [
+          "It",
+          "He",
+          "She",
+          "They"
+        ],
+        "id": 6,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "This is _____ bookshelf.",
+        "correctAnswer": "our",
+        "arabicReason": "نستخدم (our) قبل الاسم للدلالة على الملكية.",
+        "englishReason": "We use 'our' before a noun to show possession.",
+        "options": [
+          "our",
+          "us",
+          "we",
+          "ours"
+        ],
+        "id": 7,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "They _____ their bedroom every Saturday.",
+        "correctAnswer": "clean",
+        "arabicReason": "مع (They) نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With 'They', we use the base form of the verb.",
+        "options": [
+          "clean",
+          "cleans",
+          "cleaning",
+          "cleaned"
+        ],
+        "id": 8,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "She _____ a book before bed.",
+        "correctAnswer": "reads",
+        "arabicReason": "مع (She) نضيف (s) إلى الفعل في المضارع البسيط.",
+        "englishReason": "With 'She', the verb takes 's' in the simple present.",
+        "options": [
+          "reads",
+          "read",
+          "reading",
+          "is read"
+        ],
+        "id": 9,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "My teacher helps ____ every day.",
+        "correctAnswer": "me",
+        "arabicReason": "بعد الفعل نستخدم ضمير المفعول به (me).",
+        "englishReason": "After a verb, we use the object pronoun 'me'.",
+        "options": [
+          "me",
+          "my",
+          "I",
+          "mine"
+        ],
+        "id": 10,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "Mona loves _____ bedroom.",
+        "correctAnswer": "her",
+        "arabicReason": "نستخدم (her) للدلالة على الملكية للمؤنث.",
+        "englishReason": "We use 'her' to show possession for a female.",
+        "options": [
+          "her",
+          "his",
+          "my",
+          "their"
+        ],
+        "id": 11,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "Ali is my friend. _____ is very kind.",
+        "correctAnswer": "He",
+        "arabicReason": "نستخدم (He) للإشارة إلى شخص مذكر.",
+        "englishReason": "We use 'He' to refer to a male person.",
+        "options": [
+          "He",
+          "She",
+          "It",
+          "They"
+        ],
+        "id": 12,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
       }
     ],
     "justtalk": [
@@ -1529,6 +1908,186 @@
         "curriculum": "OL",
         "unit": "3",
         "lessonTitle": "hادوات الاستفهام"
+      },
+      {
+        "sentence": "He helps me every day.",
+        "targetWord": "I",
+        "correctAnswer": "I help him every day.",
+        "arabicReason": "مع (I) نستخدم الفعل الأساسي ويتغير المفعول إلى (him).",
+        "englishReason": "With 'I', we use the base verb and change the object to 'him'.",
+        "id": 13,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "She gives him a green book.",
+        "targetWord": "they",
+        "correctAnswer": "They give him a green book.",
+        "arabicReason": "مع (they) نحذف s من الفعل.",
+        "englishReason": "With 'they', the verb returns to its base form.",
+        "id": 14,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "We clean our bedroom every Saturday.",
+        "targetWord": "he",
+        "correctAnswer": "He cleans his bedroom every Saturday.",
+        "arabicReason": "مع (he) نضيف s للفعل ونستخدم (his).",
+        "englishReason": "With 'he', the verb takes 's' and we use 'his'.",
+        "id": 15,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "I like my comfortable bed.",
+        "targetWord": "she",
+        "correctAnswer": "She likes her comfortable bed.",
+        "arabicReason": "مع (she) نضيف s للفعل ونستخدم (her).",
+        "englishReason": "With 'she', the verb takes 's' and we use 'her'.",
+        "id": 16,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "He cleans his room every day.",
+        "targetWord": "they",
+        "correctAnswer": "They clean their room every day.",
+        "arabicReason": "مع (they) نحذف s من الفعل ونستخدم (their).",
+        "englishReason": "With 'they', the verb loses 's' and we use 'their'.",
+        "id": 17,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "They read before they sleep.",
+        "targetWord": "he",
+        "correctAnswer": "He reads before he sleeps.",
+        "arabicReason": "مع (he) نضيف s إلى الفعلين.",
+        "englishReason": "With 'he', both verbs take 's'.",
+        "id": 18,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "This house belongs to them.",
+        "targetWord": "their",
+        "correctAnswer": "This is their house.",
+        "arabicReason": "نستخدم (their) للدلالة على ملكية الجمع.",
+        "englishReason": "We use 'their' to show possession for 'they'.",
+        "id": 19,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "This room belongs to us.",
+        "targetWord": "our",
+        "correctAnswer": "This is our room.",
+        "arabicReason": "نستخدم (our) للدلالة على ملكية المتكلمين.",
+        "englishReason": "We use 'our' to show possession for 'we'.",
+        "id": 20,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "This carpet belongs to her.",
+        "targetWord": "her",
+        "correctAnswer": "This is her carpet.",
+        "arabicReason": "نستخدم (her) للدلالة على الملكية.",
+        "englishReason": "We use 'her' to show possession.",
+        "id": 21,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "This bedroom belongs to him.",
+        "targetWord": "his",
+        "correctAnswer": "This is his bedroom.",
+        "arabicReason": "نستخدم (his) للدلالة على الملكية.",
+        "englishReason": "We use 'his' to show possession.",
+        "id": 22,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "This book belongs to me.",
+        "targetWord": "my",
+        "correctAnswer": "This is my book.",
+        "arabicReason": "نستخدم (my) للدلالة على الملكية بدلاً من (belongs to me).",
+        "englishReason": "We use 'my' to show possession instead of 'belongs to me'.",
+        "id": 23,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "She likes her bedroom.",
+        "targetWord": "I",
+        "correctAnswer": "I like my bedroom.",
+        "arabicReason": "مع (I) يعود الفعل إلى صورته الأساسية ونستخدم (my).",
+        "englishReason": "With 'I', the verb returns to its base form and we use 'my'.",
+        "id": 24,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "I read a book before bed.",
+        "targetWord": "she",
+        "correctAnswer": "She reads a book before bed.",
+        "arabicReason": "مع (she) نضيف s للفعل في المضارع البسيط.",
+        "englishReason": "With 'she', the verb takes 's' in the simple present.",
+        "id": 25,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "They clean their bedroom every day.",
+        "targetWord": "he",
+        "correctAnswer": "He cleans his bedroom every day.",
+        "arabicReason": "مع (he) نضيف s للفعل ونستخدم (his) للملكية.",
+        "englishReason": "With 'he', the verb takes 's' and we use 'his' for possession.",
+        "id": 26,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "He gives me a gift every year.",
+        "targetWord": "they",
+        "correctAnswer": "They give me a gift every year.",
+        "arabicReason": "عند تحويل الفاعل من مفرد إلى جمع نحذف s من الفعل.",
+        "englishReason": "When the subject changes from singular to plural, the verb loses the 's'.",
+        "id": 27,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
       }
     ],
     "Scramble": [
@@ -1953,6 +2512,134 @@
         "id": 53,
         "level": "primary",
         "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "bedroom",
+        "id": 54,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "room",
+        "id": 55,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "house",
+        "id": 56,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "bed",
+        "id": 57,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "comfortable",
+        "id": 58,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "window",
+        "id": 59,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "curtains",
+        "id": 60,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "carpet",
+        "id": 61,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "floor",
+        "id": 62,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "matching",
+        "id": 63,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "bookshelf",
+        "id": 64,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "wall",
+        "id": 65,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "read",
+        "id": 66,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "clean",
+        "id": 67,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "tidy",
+        "id": 68,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "favourite",
+        "id": 69,
+        "level": "primary",
+        "grade": "2",
         "curriculum": "OL",
         "unit": "4"
       }
@@ -2500,6 +3187,134 @@
         "grade": "1",
         "curriculum": "OL",
         "unit": "4"
+      },
+      {
+        "word": "bedroom",
+        "id": 54,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "room",
+        "id": 55,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "house",
+        "id": 56,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "bed",
+        "id": 57,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "comfortable",
+        "id": 58,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "window",
+        "id": 59,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "curtains",
+        "id": 60,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "carpet",
+        "id": 61,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "floor",
+        "id": 62,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "matching",
+        "id": 63,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "bookshelf",
+        "id": 64,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "wall",
+        "id": 65,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "read",
+        "id": 66,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "clean",
+        "id": 67,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "tidy",
+        "id": 68,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "favourite",
+        "id": 69,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
       }
     ],
     "Underline": [
@@ -2819,6 +3634,207 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "2"
+      },
+      {
+        "sentence": "You give them your books and they thank you.",
+        "instruction": "Underline all the pronouns:",
+        "correctWords": [
+          "You",
+          "them",
+          "your",
+          "they",
+          "you"
+        ],
+        "id": 27,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "We visit him every Friday because his house is near our school.",
+        "instruction": "Underline all the pronouns:",
+        "correctWords": [
+          "We",
+          "him",
+          "his",
+          "our"
+        ],
+        "id": 28,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "They show me their bedroom and I like it.",
+        "instruction": "Underline all the pronouns:",
+        "correctWords": [
+          "They",
+          "me",
+          "their",
+          "I",
+          "it"
+        ],
+        "id": 29,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "She helps us with our homework because she is kind.",
+        "instruction": "Underline all the pronouns:",
+        "correctWords": [
+          "She",
+          "us",
+          "our",
+          "she"
+        ],
+        "id": 30,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "I give her my favourite book every week.",
+        "instruction": "Underline all the pronouns:",
+        "correctWords": [
+          "I",
+          "her",
+          "my"
+        ],
+        "id": 31,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "They show me their new bedroom and I like it.",
+        "instruction": "Underline the object pronouns:",
+        "correctWords": [
+          "me",
+          "it"
+        ],
+        "id": 32,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "She gives him her favourite book.",
+        "instruction": "Underline the pronouns:",
+        "correctWords": [
+          "She",
+          "him",
+          "her"
+        ],
+        "id": 33,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "It likes its bed because it is comfortable.",
+        "instruction": "Underline the possessive adjective:",
+        "correctWords": [
+          "its"
+        ],
+        "id": 34,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "The teacher helps us with our homework.",
+        "instruction": "Underline the pronouns:",
+        "correctWords": [
+          "us",
+          "our"
+        ],
+        "id": 35,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "You read your favourite book before you sleep.",
+        "instruction": "Underline the subject pronouns:",
+        "correctWords": [
+          "You",
+          "you"
+        ],
+        "id": 36,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "We help him after school.",
+        "instruction": "Underline the object pronoun:",
+        "correctWords": [
+          "him"
+        ],
+        "id": 37,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "They clean their room every Saturday.",
+        "instruction": "Underline the possessive adjective:",
+        "correctWords": [
+          "their"
+        ],
+        "id": 38,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "She likes her comfortable bedroom.",
+        "instruction": "Underline the subject pronoun:",
+        "correctWords": [
+          "She"
+        ],
+        "id": 39,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "He gives me a new book.",
+        "instruction": "Underline the object pronoun:",
+        "correctWords": [
+          "me"
+        ],
+        "id": 40,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "I clean my bedroom every day.",
+        "instruction": "Underline the possessive adjective:",
+        "correctWords": [
+          "my"
+        ],
+        "id": 41,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
       }
     ],
     "vocab_listening_quiz": [
@@ -3840,6 +4856,278 @@
         "id": 60,
         "level": "primary",
         "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "favourite",
+        "meaning": "المفضل",
+        "options": [
+          "المفضل",
+          "الجديد",
+          "القديم",
+          "الصغير"
+        ],
+        "arabicReason": "الكلمة تعني 'المفضل' أي الشيء الذي تحبه أكثر من غيره.",
+        "englishReason": "The word means 'favourite' - the one you like the most.",
+        "id": 61,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "tidy",
+        "meaning": "مرتب",
+        "options": [
+          "مرتب",
+          "متسخ",
+          "كبير",
+          "مزدحم"
+        ],
+        "arabicReason": "الكلمة تعني 'مرتب' أي منظم ونظيف.",
+        "englishReason": "The word means 'tidy' - neat and well organized.",
+        "id": 62,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "clean",
+        "meaning": "ينظف",
+        "options": [
+          "ينظف",
+          "يرسم",
+          "يجري",
+          "يغلق"
+        ],
+        "arabicReason": "الكلمة تعني 'ينظف' أي يجعل المكان نظيفًا.",
+        "englishReason": "The word means 'clean' - to make something free from dirt.",
+        "id": 63,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "read",
+        "meaning": "يقرأ",
+        "options": [
+          "يقرأ",
+          "يكتب",
+          "ينام",
+          "يلعب"
+        ],
+        "arabicReason": "الكلمة تعني 'يقرأ' أي يطالع كتابًا أو قصة.",
+        "englishReason": "The word means 'read' - to look at and understand written words.",
+        "id": 64,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "wall",
+        "meaning": "حائط",
+        "options": [
+          "حائط",
+          "أرضية",
+          "نافذة",
+          "باب"
+        ],
+        "arabicReason": "الكلمة تعني 'حائط' وهو أحد جوانب الغرفة.",
+        "englishReason": "The word means 'wall' - one side of a room.",
+        "id": 65,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "bookshelf",
+        "meaning": "رف الكتب",
+        "options": [
+          "رف الكتب",
+          "المكتب",
+          "الخزانة",
+          "السرير"
+        ],
+        "arabicReason": "الكلمة تعني 'رف الكتب' وهو مكان توضع عليه الكتب.",
+        "englishReason": "The word means 'bookshelf' - a shelf used for books.",
+        "id": 66,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "matching",
+        "meaning": "متناسق",
+        "options": [
+          "متناسق",
+          "متسخ",
+          "قديم",
+          "ضيق"
+        ],
+        "arabicReason": "الكلمة تعني 'متناسق' أي أن الأشياء تتناسب مع بعضها.",
+        "englishReason": "The word means 'matching' - things that go well together.",
+        "id": 67,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "floor",
+        "meaning": "أرضية",
+        "options": [
+          "أرضية",
+          "سقف",
+          "نافذة",
+          "باب"
+        ],
+        "arabicReason": "الكلمة تعني 'أرضية' وهي الجزء الذي نمشي عليه.",
+        "englishReason": "The word means 'floor' - the surface you walk on.",
+        "id": 68,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "carpet",
+        "meaning": "سجادة",
+        "options": [
+          "سجادة",
+          "حائط",
+          "كرسي",
+          "باب"
+        ],
+        "arabicReason": "الكلمة تعني 'سجادة' وتوضع على الأرض.",
+        "englishReason": "The word means 'carpet' - a floor covering.",
+        "id": 69,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "curtains",
+        "meaning": "ستائر",
+        "options": [
+          "ستائر",
+          "وسائد",
+          "بطاطين",
+          "مكاتب"
+        ],
+        "arabicReason": "الكلمة تعني 'ستائر' وتُستخدم لتغطية النوافذ.",
+        "englishReason": "The word means 'curtains' - cloth used to cover windows.",
+        "id": 70,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "window",
+        "meaning": "نافذة",
+        "options": [
+          "نافذة",
+          "باب",
+          "سقف",
+          "حائط"
+        ],
+        "arabicReason": "الكلمة تعني 'نافذة' وهي تسمح بدخول الضوء والهواء.",
+        "englishReason": "The word means 'window' - an opening that lets in light and air.",
+        "id": 71,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "comfortable",
+        "meaning": "مريح",
+        "options": [
+          "مريح",
+          "صغير",
+          "طويل",
+          "متسخ"
+        ],
+        "arabicReason": "الكلمة تعني 'مريح' وتصف شيئًا يوفر الراحة.",
+        "englishReason": "The word means 'comfortable' - something that makes you feel relaxed.",
+        "id": 72,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "bed",
+        "meaning": "سرير",
+        "options": [
+          "سرير",
+          "كرسي",
+          "طاولة",
+          "نافذة"
+        ],
+        "arabicReason": "الكلمة تعني 'سرير' وهو المكان الذي ننام عليه.",
+        "englishReason": "The word means 'bed' - the furniture we sleep on.",
+        "id": 73,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "house",
+        "meaning": "منزل",
+        "options": [
+          "منزل",
+          "مدرسة",
+          "حديقة",
+          "مستشفى"
+        ],
+        "arabicReason": "الكلمة تعني 'منزل' وهو المكان الذي تعيش فيه الأسرة.",
+        "englishReason": "The word means 'house' - the place where people live.",
+        "id": 74,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "room",
+        "meaning": "غرفة",
+        "options": [
+          "غرفة",
+          "باب",
+          "نافذة",
+          "حديقة"
+        ],
+        "arabicReason": "الكلمة تعني 'غرفة' وهي جزء من المنزل.",
+        "englishReason": "The word means 'room' - a part of a house.",
+        "id": 75,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "bedroom",
+        "meaning": "غرفة النوم",
+        "options": [
+          "غرفة النوم",
+          "المطبخ",
+          "الحمام",
+          "الفصل"
+        ],
+        "arabicReason": "الكلمة تعني 'غرفة النوم' وهي المكان الذي ننام فيه.",
+        "englishReason": "The word means 'bedroom' - the room where we sleep.",
+        "id": 76,
+        "level": "primary",
+        "grade": "2",
         "curriculum": "OL",
         "unit": "4"
       }
@@ -4864,6 +6152,278 @@
         "grade": "1",
         "curriculum": "OL",
         "unit": "4"
+      },
+      {
+        "word": "favourite",
+        "meaning": "المفضل",
+        "options": [
+          "المفضل",
+          "الجديد",
+          "القديم",
+          "الصغير"
+        ],
+        "arabicReason": "الكلمة تعني 'المفضل' أي الشيء الذي تحبه أكثر من غيره.",
+        "englishReason": "The word means 'favourite' - the one you like the most.",
+        "id": 61,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "tidy",
+        "meaning": "مرتب",
+        "options": [
+          "مرتب",
+          "متسخ",
+          "كبير",
+          "مزدحم"
+        ],
+        "arabicReason": "الكلمة تعني 'مرتب' أي منظم ونظيف.",
+        "englishReason": "The word means 'tidy' - neat and well organized.",
+        "id": 62,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "clean",
+        "meaning": "ينظف",
+        "options": [
+          "ينظف",
+          "يرسم",
+          "يجري",
+          "يغلق"
+        ],
+        "arabicReason": "الكلمة تعني 'ينظف' أي يجعل المكان نظيفًا.",
+        "englishReason": "The word means 'clean' - to make something free from dirt.",
+        "id": 63,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "read",
+        "meaning": "يقرأ",
+        "options": [
+          "يقرأ",
+          "يكتب",
+          "ينام",
+          "يلعب"
+        ],
+        "arabicReason": "الكلمة تعني 'يقرأ' أي يطالع كتابًا أو قصة.",
+        "englishReason": "The word means 'read' - to look at and understand written words.",
+        "id": 64,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "wall",
+        "meaning": "حائط",
+        "options": [
+          "حائط",
+          "أرضية",
+          "نافذة",
+          "باب"
+        ],
+        "arabicReason": "الكلمة تعني 'حائط' وهو أحد جوانب الغرفة.",
+        "englishReason": "The word means 'wall' - one side of a room.",
+        "id": 65,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "bookshelf",
+        "meaning": "رف الكتب",
+        "options": [
+          "رف الكتب",
+          "المكتب",
+          "الخزانة",
+          "السرير"
+        ],
+        "arabicReason": "الكلمة تعني 'رف الكتب' وهو مكان توضع عليه الكتب.",
+        "englishReason": "The word means 'bookshelf' - a shelf used for books.",
+        "id": 66,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "matching",
+        "meaning": "متناسق",
+        "options": [
+          "متناسق",
+          "متسخ",
+          "قديم",
+          "ضيق"
+        ],
+        "arabicReason": "الكلمة تعني 'متناسق' أي أن الأشياء تتناسب مع بعضها.",
+        "englishReason": "The word means 'matching' - things that go well together.",
+        "id": 67,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "floor",
+        "meaning": "أرضية",
+        "options": [
+          "أرضية",
+          "سقف",
+          "نافذة",
+          "باب"
+        ],
+        "arabicReason": "الكلمة تعني 'أرضية' وهي الجزء الذي نمشي عليه.",
+        "englishReason": "The word means 'floor' - the surface you walk on.",
+        "id": 68,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "carpet",
+        "meaning": "سجادة",
+        "options": [
+          "سجادة",
+          "حائط",
+          "كرسي",
+          "باب"
+        ],
+        "arabicReason": "الكلمة تعني 'سجادة' وتوضع على الأرض.",
+        "englishReason": "The word means 'carpet' - a floor covering.",
+        "id": 69,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "curtains",
+        "meaning": "ستائر",
+        "options": [
+          "ستائر",
+          "وسائد",
+          "بطاطين",
+          "مكاتب"
+        ],
+        "arabicReason": "الكلمة تعني 'ستائر' وتُستخدم لتغطية النوافذ.",
+        "englishReason": "The word means 'curtains' - cloth used to cover windows.",
+        "id": 70,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "window",
+        "meaning": "نافذة",
+        "options": [
+          "نافذة",
+          "باب",
+          "سقف",
+          "حائط"
+        ],
+        "arabicReason": "الكلمة تعني 'نافذة' وهي تسمح بدخول الضوء والهواء.",
+        "englishReason": "The word means 'window' - an opening that lets in light and air.",
+        "id": 71,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "comfortable",
+        "meaning": "مريح",
+        "options": [
+          "مريح",
+          "صغير",
+          "طويل",
+          "متسخ"
+        ],
+        "arabicReason": "الكلمة تعني 'مريح' وتصف شيئًا يوفر الراحة.",
+        "englishReason": "The word means 'comfortable' - something that makes you feel relaxed.",
+        "id": 72,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "bed",
+        "meaning": "سرير",
+        "options": [
+          "سرير",
+          "كرسي",
+          "طاولة",
+          "نافذة"
+        ],
+        "arabicReason": "الكلمة تعني 'سرير' وهو المكان الذي ننام عليه.",
+        "englishReason": "The word means 'bed' - the furniture we sleep on.",
+        "id": 73,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "house",
+        "meaning": "منزل",
+        "options": [
+          "منزل",
+          "مدرسة",
+          "حديقة",
+          "مستشفى"
+        ],
+        "arabicReason": "الكلمة تعني 'منزل' وهو المكان الذي تعيش فيه الأسرة.",
+        "englishReason": "The word means 'house' - the place where people live.",
+        "id": 74,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "room",
+        "meaning": "غرفة",
+        "options": [
+          "غرفة",
+          "باب",
+          "نافذة",
+          "حديقة"
+        ],
+        "arabicReason": "الكلمة تعني 'غرفة' وهي جزء من المنزل.",
+        "englishReason": "The word means 'room' - a part of a house.",
+        "id": 75,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "bedroom",
+        "meaning": "غرفة النوم",
+        "options": [
+          "غرفة النوم",
+          "المطبخ",
+          "الحمام",
+          "الفصل"
+        ],
+        "arabicReason": "الكلمة تعني 'غرفة النوم' وهي المكان الذي ننام فيه.",
+        "englishReason": "The word means 'bedroom' - the room where we sleep.",
+        "id": 76,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
       }
     ],
     "what_do_you_hear": [
@@ -5672,6 +7232,146 @@
         "grade": "1",
         "curriculum": "OL",
         "unit": "4"
+      },
+      {
+        "sentence": "I like my bedroom.",
+        "options": [
+          "I like my bedroom.",
+          "I like my house.",
+          "I love my bedroom.",
+          "I like my room."
+        ],
+        "id": 58,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "My bed is always tidy.",
+        "options": [
+          "My bed is always tidy.",
+          "My bed is always clean.",
+          "My room is always tidy.",
+          "My bed is always comfortable."
+        ],
+        "id": 59,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "I clean my bedroom every day.",
+        "options": [
+          "I clean my bedroom every day.",
+          "I clean my bedroom every week.",
+          "I clean my house every day.",
+          "I tidy my bedroom every day."
+        ],
+        "id": 60,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "I like to read before I go to bed.",
+        "options": [
+          "I like to read before I go to bed.",
+          "I like to watch TV before I go to bed.",
+          "I like to read after I go to bed.",
+          "I like to write before I go to bed."
+        ],
+        "id": 61,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "There is a bookshelf on the wall.",
+        "options": [
+          "There is a bookshelf on the wall.",
+          "There is a bookshelf beside the bed.",
+          "There is a picture on the wall.",
+          "There is a bookshelf near the window."
+        ],
+        "id": 62,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "The curtains and the carpet are matching.",
+        "options": [
+          "The curtains and the carpet are matching.",
+          "The curtains and the carpet are clean.",
+          "The curtains and the wall are matching.",
+          "The carpet and the bed are matching."
+        ],
+        "id": 63,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "There is a green carpet on the floor.",
+        "options": [
+          "There is a green carpet on the floor.",
+          "There is a red carpet on the floor.",
+          "There is a green carpet on the wall.",
+          "There is a green mat on the floor."
+        ],
+        "id": 64,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "There is a window with green curtains.",
+        "options": [
+          "There is a window with green curtains.",
+          "There is a door with green curtains.",
+          "There is a window with blue curtains.",
+          "There is a window with white curtains."
+        ],
+        "id": 65,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "My bed is very comfortable.",
+        "options": [
+          "My bed is very comfortable.",
+          "My bed is very tidy.",
+          "My chair is very comfortable.",
+          "My bed is very small."
+        ],
+        "id": 66,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "My bedroom is my favourite room in my house.",
+        "options": [
+          "My bedroom is my favourite room in my house.",
+          "My bedroom is my favourite room at school.",
+          "My bedroom is my big room in my house.",
+          "My bedroom is my favourite place in my house."
+        ],
+        "id": 67,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
       }
     ],
     "vocab_choose": [
@@ -6165,6 +7865,176 @@
         "id": 29,
         "level": "primary",
         "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "My bedroom is my ________ room.",
+        "correctAnswer": "favourite",
+        "arabicReason": "لأنها الغرفة المفضلة.",
+        "englishReason": "Because it is the favourite room.",
+        "options": [
+          "favourite",
+          "comfortable",
+          "green",
+          "tidy"
+        ],
+        "id": 30,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "My bed is always ________.",
+        "correctAnswer": "tidy",
+        "arabicReason": "لأن السرير مرتب دائمًا.",
+        "englishReason": "Because the bed is always neat.",
+        "options": [
+          "tidy",
+          "comfortable",
+          "green",
+          "matching"
+        ],
+        "id": 31,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "I ________ my bedroom every day.",
+        "correctAnswer": "clean",
+        "arabicReason": "لأننا ننظف غرفة النوم كل يوم.",
+        "englishReason": "Because we clean the bedroom every day.",
+        "options": [
+          "clean",
+          "read",
+          "open",
+          "close"
+        ],
+        "id": 32,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "I like to ________ before I go to bed.",
+        "correctAnswer": "read",
+        "arabicReason": "لأن الجملة تتحدث عن القراءة قبل النوم.",
+        "englishReason": "Because the sentence is about reading before going to bed.",
+        "options": [
+          "read",
+          "clean",
+          "sleep",
+          "watch"
+        ],
+        "id": 33,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "There is a ________ on the wall.",
+        "correctAnswer": "bookshelf",
+        "arabicReason": "لأن رف الكتب يكون على الحائط.",
+        "englishReason": "Because a bookshelf is on the wall.",
+        "options": [
+          "bookshelf",
+          "carpet",
+          "bed",
+          "window"
+        ],
+        "id": 34,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "The curtains and the carpet are ________.",
+        "correctAnswer": "matching",
+        "arabicReason": "لأن الستائر والسجادة لهما نفس اللون أو الشكل.",
+        "englishReason": "Because the curtains and the carpet go well together.",
+        "options": [
+          "matching",
+          "comfortable",
+          "tidy",
+          "green"
+        ],
+        "id": 35,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "There is a green ________ on the floor.",
+        "correctAnswer": "carpet",
+        "arabicReason": "لأن السجادة توضع على الأرض.",
+        "englishReason": "Because a carpet is placed on the floor.",
+        "options": [
+          "carpet",
+          "bookshelf",
+          "bed",
+          "window"
+        ],
+        "id": 36,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "There is a ________ with green curtains.",
+        "correctAnswer": "window",
+        "arabicReason": "لأن الستائر تكون على النافذة.",
+        "englishReason": "Because curtains are on a window.",
+        "options": [
+          "window",
+          "wall",
+          "bed",
+          "floor"
+        ],
+        "id": 37,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "My bed is very ________.",
+        "correctAnswer": "comfortable",
+        "arabicReason": "لأن السرير يوصف بأنه مريح.",
+        "englishReason": "Because a bed can be described as comfortable.",
+        "options": [
+          "comfortable",
+          "green",
+          "matching",
+          "favourite"
+        ],
+        "id": 38,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "My ________ is my favourite room in my house.",
+        "correctAnswer": "bedroom",
+        "arabicReason": "لأن غرفة النوم هي الغرفة المفضلة في المنزل.",
+        "englishReason": "Because 'bedroom' is the room mentioned as the favourite room.",
+        "options": [
+          "bedroom",
+          "window",
+          "carpet",
+          "wall"
+        ],
+        "id": 39,
+        "level": "primary",
+        "grade": "2",
         "curriculum": "OL",
         "unit": "4"
       }
