@@ -313,114 +313,6 @@
         "unit": "2"
       },
       {
-        "sentence": "I have a apple.",
-        "errorWord": "a",
-        "correctWord": "an",
-        "arabicReason": "لأن كلمة apple تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'apple' begins with a vowel sound, we use 'an'.",
-        "id": 18,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "sentence": "Mona ate a egg for breakfast.",
-        "errorWord": "a",
-        "correctWord": "an",
-        "arabicReason": "لأن كلمة egg تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'egg' begins with a vowel sound, we use 'an'.",
-        "id": 19,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "sentence": "I have an pen in my bag.",
-        "errorWord": "an",
-        "correctWord": "a",
-        "arabicReason": "لأن كلمة pen تبدأ بحرف ساكن، لذلك نستخدم a.",
-        "englishReason": "Because 'pen' begins with a consonant sound, we use 'a'.",
-        "id": 20,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "sentence": "Sara wants to be a engineer.",
-        "errorWord": "a",
-        "correctWord": "an",
-        "arabicReason": "لأن كلمة engineer تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'engineer' begins with a vowel sound, we use 'an'.",
-        "id": 21,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "sentence": "My father drives an car.",
-        "errorWord": "an",
-        "correctWord": "a",
-        "arabicReason": "لأن كلمة car تبدأ بحرف ساكن، لذلك نستخدم a.",
-        "englishReason": "Because 'car' begins with a consonant sound, we use 'a'.",
-        "id": 22,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "sentence": "We saw a elephant at the zoo.",
-        "errorWord": "a",
-        "correctWord": "an",
-        "arabicReason": "لأن كلمة elephant تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'elephant' begins with a vowel sound, we use 'an'.",
-        "id": 23,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "sentence": "Ali has a umbrella.",
-        "errorWord": "a",
-        "correctWord": "an",
-        "arabicReason": "لأن كلمة umbrella تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'umbrella' begins with a vowel sound, we use 'an'.",
-        "id": 24,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "sentence": "This is an book.",
-        "errorWord": "an",
-        "correctWord": "a",
-        "arabicReason": "لأن كلمة book تبدأ بحرف ساكن، لذلك نستخدم a.",
-        "englishReason": "Because 'book' begins with a consonant sound, we use 'a'.",
-        "id": 25,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "sentence": "He is eating a orange.",
-        "errorWord": "a",
-        "correctWord": "an",
-        "arabicReason": "لأن كلمة orange تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'orange' begins with a vowel sound, we use 'an'.",
-        "id": 26,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
         "sentence": "Where is your favourite hobby?",
         "errorWord": "Where",
         "correctWord": "What",
@@ -549,6 +441,114 @@
         "curriculum": "OL",
         "unit": "3",
         "lessonTitle": "ادوات الاستفهام"
+      },
+      {
+        "sentence": "I have a apple.",
+        "errorWord": "a apple",
+        "correctWord": "an",
+        "arabicReason": "لأن كلمة apple تبدأ بحرف متحرك، لذلك نستخدم an.",
+        "englishReason": "Because 'apple' begins with a vowel sound, we use 'an'.",
+        "id": 18,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "sentence": "Mona ate a egg for breakfast.",
+        "errorWord": "a",
+        "correctWord": "a egg",
+        "arabicReason": "لأن كلمة egg تبدأ بحرف متحرك، لذلك نستخدم an.",
+        "englishReason": "Because 'egg' begins with a vowel sound, we use 'an'.",
+        "id": 19,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "sentence": "I have an pen in my bag.",
+        "errorWord": "an pen",
+        "correctWord": "a",
+        "arabicReason": "لأن كلمة pen تبدأ بحرف ساكن، لذلك نستخدم a.",
+        "englishReason": "Because 'pen' begins with a consonant sound, we use 'a'.",
+        "id": 20,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "sentence": "Sara wants to be a engineer.",
+        "errorWord": "a engineer",
+        "correctWord": "an",
+        "arabicReason": "لأن كلمة engineer تبدأ بحرف متحرك، لذلك نستخدم an.",
+        "englishReason": "Because 'engineer' begins with a vowel sound, we use 'an'.",
+        "id": 21,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "sentence": "My father drives an car.",
+        "errorWord": "an",
+        "correctWord": "an car",
+        "arabicReason": "لأن كلمة car تبدأ بحرف ساكن، لذلك نستخدم a.",
+        "englishReason": "Because 'car' begins with a consonant sound, we use 'a'.",
+        "id": 22,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "sentence": "We saw a elephant at the zoo.",
+        "errorWord": "a elephant",
+        "correctWord": "an",
+        "arabicReason": "لأن كلمة elephant تبدأ بحرف متحرك، لذلك نستخدم an.",
+        "englishReason": "Because 'elephant' begins with a vowel sound, we use 'an'.",
+        "id": 23,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "sentence": "Ali has a elephant.",
+        "errorWord": "a elephant",
+        "correctWord": "an",
+        "arabicReason": "لأن كلمة umbrella تبدأ بحرف متحرك، لذلك نستخدم an.",
+        "englishReason": "Because 'umbrella' begins with a vowel sound, we use 'an'.",
+        "id": 24,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "sentence": "This is an book.",
+        "errorWord": "an book",
+        "correctWord": "a",
+        "arabicReason": "لأن كلمة book تبدأ بحرف ساكن، لذلك نستخدم a.",
+        "englishReason": "Because 'book' begins with a consonant sound, we use 'a'.",
+        "id": 25,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "sentence": "He is eating a orange.",
+        "errorWord": "a orange",
+        "correctWord": "an",
+        "arabicReason": "لأن كلمة orange تبدأ بحرف متحرك، لذلك نستخدم an.",
+        "englishReason": "Because 'orange' begins with a vowel sound, we use 'an'.",
+        "id": 26,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
       }
     ],
     "find_the_vowel": [
@@ -599,176 +599,6 @@
         "level": "primary",
         "grade": "3",
         "curriculum": "AL",
-        "unit": "3"
-      },
-      {
-        "question": "Mona ate ........ egg for breakfast.",
-        "correctAnswer": "an",
-        "arabicReason": "لأن كلمة egg تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'egg' begins with a vowel sound, we use 'an'.",
-        "options": [
-          "a",
-          "the",
-          "an",
-          "no article"
-        ],
-        "id": 3,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "question": "I have ........ pen in my bag.",
-        "correctAnswer": "a",
-        "arabicReason": "لأن كلمة pen تبدأ بحرف ساكن، لذلك نستخدم a.",
-        "englishReason": "Because 'pen' begins with a consonant sound, we use 'a'.",
-        "options": [
-          "an",
-          "a",
-          "the",
-          "no article"
-        ],
-        "id": 4,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "question": "Sara wants to be ........ engineer.",
-        "correctAnswer": "an",
-        "arabicReason": "لأن كلمة engineer تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'engineer' begins with a vowel sound, we use 'an'.",
-        "options": [
-          "a",
-          "the",
-          "an",
-          "no article"
-        ],
-        "id": 5,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "question": "My father drives ........ car.",
-        "correctAnswer": "a",
-        "arabicReason": "لأن كلمة car تبدأ بحرف ساكن، لذلك نستخدم a.",
-        "englishReason": "Because 'car' begins with a consonant sound, we use 'a'.",
-        "options": [
-          "an",
-          "the",
-          "a",
-          "no article"
-        ],
-        "id": 6,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "question": "We saw ........ elephant at the zoo.",
-        "correctAnswer": "an",
-        "arabicReason": "لأن كلمة elephant تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'elephant' begins with a vowel sound, we use 'an'.",
-        "options": [
-          "a",
-          "the",
-          "an",
-          "no article"
-        ],
-        "id": 7,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "question": "Ali has ........ umbrella.",
-        "correctAnswer": "an",
-        "arabicReason": "لأن كلمة umbrella تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'umbrella' begins with a vowel sound, we use 'an'.",
-        "options": [
-          "a",
-          "an",
-          "the",
-          "no article"
-        ],
-        "id": 8,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "question": "This is ........ book.",
-        "correctAnswer": "a",
-        "arabicReason": "لأن كلمة book تبدأ بحرف ساكن، لذلك نستخدم a.",
-        "englishReason": "Because 'book' begins with a consonant sound, we use 'a'.",
-        "options": [
-          "an",
-          "a",
-          "the",
-          "no article"
-        ],
-        "id": 9,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "question": "He is eating ........ orange.",
-        "correctAnswer": "an",
-        "arabicReason": "لأن كلمة orange تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'orange' begins with a vowel sound, we use 'an'.",
-        "options": [
-          "a",
-          "the",
-          "an",
-          "no article"
-        ],
-        "id": 10,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "question": "She has ........ cat.",
-        "correctAnswer": "a",
-        "arabicReason": "لأن كلمة cat تبدأ بحرف ساكن، لذلك نستخدم a.",
-        "englishReason": "Because 'cat' begins with a consonant sound, we use 'a'.",
-        "options": [
-          "an",
-          "a",
-          "the",
-          "no article"
-        ],
-        "id": 11,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "question": "I have ........ apple.",
-        "correctAnswer": "an",
-        "arabicReason": "لأن كلمة apple تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'apple' begins with a vowel sound, we use 'an'.",
-        "options": [
-          "a",
-          "an",
-          "the",
-          "no article"
-        ],
-        "id": 12,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
         "unit": "3"
       }
     ],
@@ -835,6 +665,82 @@
         "curriculum": "OL",
         "unit": "3",
         "lessonTitle": "my typical day"
+      },
+      {
+        "sentences": [
+          {
+            "text": "These boys are strong because they play football every weekend.",
+            "target": "These boys are strong because they play football every weekend."
+          }
+        ],
+        "id": 3,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentences": [
+          {
+            "text": "This tree is tall and it has many green leaves.",
+            "target": "This tree is tall and it has many green leaves."
+          },
+          {
+            "text": "The buses are late because the road is busy.",
+            "target": "The buses are late because the road is busy."
+          },
+          {
+            "text": "Our school is near so we walk every morning.",
+            "target": "Our school is near so we walk every morning."
+          }
+        ],
+        "id": 4,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentences": [
+          {
+            "text": "My cat is small and it sleeps on the sofa.",
+            "target": "My cat is small and it sleeps on the sofa."
+          },
+          {
+            "text": "These dogs are strong and they can carry heavy bags.",
+            "target": "These dogs are strong and they can carry heavy bags."
+          },
+          {
+            "text": "My friends are happy because we have a holiday today.",
+            "target": "My friends are happy because we have a holiday today."
+          }
+        ],
+        "id": 5,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentences": [
+          {
+            "text": "I am happy because I play with my friends every day.",
+            "target": "I am happy because I play with my friends every day."
+          },
+          {
+            "text": "She is tall and she plays basketball at school.",
+            "target": "She is tall and she plays basketball at school."
+          },
+          {
+            "text": "They are fast because they run every morning.",
+            "target": "They are fast because they run every morning."
+          }
+        ],
+        "id": 6,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
       }
     ],
     "Matching": [
@@ -1316,6 +1222,156 @@
         "curriculum": "OL",
         "unit": "3",
         "lessonTitle": "ادوات الاستفهام"
+      },
+      {
+        "sentence": "This bag is heavy.",
+        "arabicReason": "نرتب الجملة: اسم الإشارة ثم الاسم المفرد ثم (is) ثم الصفة.",
+        "englishReason": "The correct order is this + singular noun + is + adjective.",
+        "id": 44,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "The buses are late.",
+        "arabicReason": "نرتب الجملة: الفاعل الجمع ثم (are) ثم الصفة.",
+        "englishReason": "The correct order is plural subject + are + adjective.",
+        "id": 45,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "My school is near.",
+        "arabicReason": "نرتب الجملة: الفاعل المفرد ثم (is) ثم الصفة.",
+        "englishReason": "The correct order is singular subject + is + adjective.",
+        "id": 46,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "The rabbits are fast.",
+        "arabicReason": "نرتب الجملة: الفاعل الجمع ثم (are) ثم الصفة.",
+        "englishReason": "The correct order is plural subject + are + adjective.",
+        "id": 47,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "The elephant is big.",
+        "arabicReason": "نرتب الجملة: الفاعل المفرد ثم (is) ثم الصفة.",
+        "englishReason": "The correct order is singular subject + is + adjective.",
+        "id": 48,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "My friends are happy.",
+        "arabicReason": "نرتب الجملة: الفاعل الجمع ثم (are) ثم الصفة.",
+        "englishReason": "The correct order is plural subject + are + adjective.",
+        "id": 49,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "My friend is sad.",
+        "arabicReason": "نرتب الجملة: الفاعل المفرد ثم (is) ثم الصفة.",
+        "englishReason": "The correct order is singular subject + is + adjective.",
+        "id": 50,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "These cats are small.",
+        "arabicReason": "نرتب الجملة: اسم الإشارة ثم الاسم الجمع ثم (are) ثم الصفة.",
+        "englishReason": "The correct order is these + plural noun + are + adjective.",
+        "id": 51,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "This cat is small.",
+        "arabicReason": "نرتب الجملة: اسم الإشارة ثم الاسم المفرد ثم (is) ثم الصفة.",
+        "englishReason": "The correct order is this + singular noun + is + adjective.",
+        "id": 52,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "They are fast.",
+        "arabicReason": "نرتب الجملة: الفاعل ثم فعل (to be) المناسب ثم الصفة.",
+        "englishReason": "The correct order is subject + the correct form of 'to be' + adjective.",
+        "id": 53,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "We are happy.",
+        "arabicReason": "نرتب الجملة: الفاعل ثم فعل (to be) المناسب ثم الصفة.",
+        "englishReason": "The correct order is subject + the correct form of 'to be' + adjective.",
+        "id": 54,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "You are early.",
+        "arabicReason": "نرتب الجملة: الفاعل ثم فعل (to be) المناسب ثم الصفة.",
+        "englishReason": "The correct order is subject + the correct form of 'to be' + adjective.",
+        "id": 55,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "He is strong.",
+        "arabicReason": "نرتب الجملة: الفاعل ثم فعل (to be) المناسب ثم الصفة.",
+        "englishReason": "The correct order is subject + the correct form of 'to be' + adjective.",
+        "id": 56,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "She is tall.",
+        "arabicReason": "نرتب الجملة: الفاعل ثم فعل (to be) المناسب ثم الصفة.",
+        "englishReason": "The correct order is subject + the correct form of 'to be' + adjective.",
+        "id": 57,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "I am happy.",
+        "arabicReason": "نرتب الجملة: الفاعل ثم فعل (to be) المناسب ثم الصفة.",
+        "englishReason": "The correct order is subject + the correct form of 'to be' + adjective.",
+        "id": 58,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
       }
     ],
     "rewrite": [
@@ -1709,7 +1765,7 @@
         "unit": "3"
       },
       {
-        "word": "wake up",
+        "word": "wakeup",
         "id": 30,
         "level": "primary",
         "grade": "1",
@@ -1717,7 +1773,7 @@
         "unit": "3"
       },
       {
-        "word": "look at",
+        "word": "lookat",
         "id": 31,
         "level": "primary",
         "grade": "1",
@@ -1773,12 +1829,132 @@
         "unit": "3"
       },
       {
-        "word": "stand up",
+        "word": "standup",
         "id": 38,
         "level": "primary",
         "grade": "1",
         "curriculum": "OL",
         "unit": "3"
+      },
+      {
+        "word": "weak",
+        "id": 39,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "tall",
+        "id": 40,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "short",
+        "id": 41,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "long",
+        "id": 42,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "near",
+        "id": 43,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "far",
+        "id": 44,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "big",
+        "id": 45,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "small",
+        "id": 46,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "fast",
+        "id": 47,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "slow",
+        "id": 48,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "happy",
+        "id": 49,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "sad",
+        "id": 50,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "early",
+        "id": 51,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "late",
+        "id": 52,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "strong",
+        "id": 53,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
       }
     ],
     "sequence": [
@@ -2134,7 +2310,7 @@
         "unit": "3"
       },
       {
-        "word": "wake up",
+        "word": "wakeup",
         "id": 30,
         "level": "primary",
         "grade": "1",
@@ -2142,7 +2318,7 @@
         "unit": "3"
       },
       {
-        "word": "look at",
+        "word": "lookat",
         "id": 31,
         "level": "primary",
         "grade": "1",
@@ -2198,12 +2374,132 @@
         "unit": "3"
       },
       {
-        "word": "stand up",
+        "word": "standup",
         "id": 38,
         "level": "primary",
         "grade": "1",
         "curriculum": "OL",
         "unit": "3"
+      },
+      {
+        "word": "tall",
+        "id": 39,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "short",
+        "id": 40,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "long",
+        "id": 41,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "near",
+        "id": 42,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "far",
+        "id": 43,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "big",
+        "id": 44,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "small",
+        "id": 45,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "fast",
+        "id": 46,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "slow",
+        "id": 47,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "happy",
+        "id": 48,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "sad",
+        "id": 49,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "early",
+        "id": 50,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "late",
+        "id": 51,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "strong",
+        "id": 52,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "weak",
+        "id": 53,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
       }
     ],
     "Underline": [
@@ -3287,9 +3583,265 @@
         "englishReason": "The verb 'come' means to move toward a place or a person.",
         "id": 45,
         "level": "primary",
+        "difficulty": "سهل",
         "grade": "1",
         "curriculum": "OL",
         "unit": "3"
+      },
+      {
+        "word": "weak",
+        "meaning": "ضعيف",
+        "options": [
+          "ضعيف",
+          "قوي",
+          "سريع",
+          "كبير"
+        ],
+        "arabicReason": "الكلمة تعني 'ضعيف' وتصف قلة القوة.",
+        "englishReason": "The word means 'weak' and describes a lack of strength.",
+        "id": 46,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "strong",
+        "meaning": "قوي",
+        "options": [
+          "قوي",
+          "ضعيف",
+          "سعيد",
+          "بطيء"
+        ],
+        "arabicReason": "الكلمة تعني 'قوي' وتصف القوة البدنية أو المعنوية.",
+        "englishReason": "The word means 'strong' and describes physical or mental strength.",
+        "id": 47,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "late",
+        "meaning": "متأخر",
+        "options": [
+          "متأخر",
+          "مبكر",
+          "قريب",
+          "طويل"
+        ],
+        "arabicReason": "الكلمة تعني 'متأخر' وتُستخدم للوقت الذي يأتي بعد الموعد المعتاد.",
+        "englishReason": "The word means 'late' and refers to a time after the expected time.",
+        "id": 48,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "early",
+        "meaning": "مبكر",
+        "options": [
+          "مبكر",
+          "متأخر",
+          "بعيد",
+          "صغير"
+        ],
+        "arabicReason": "الكلمة تعني 'مبكر' وتُستخدم للوقت الذي يسبق الموعد المعتاد.",
+        "englishReason": "The word means 'early' and refers to a time before the usual or expected time.",
+        "id": 49,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "sad",
+        "meaning": "حزين",
+        "options": [
+          "حزين",
+          "سعيد",
+          "سريع",
+          "كبير"
+        ],
+        "arabicReason": "الكلمة تعني 'حزين' وتصف الشعور بالحزن.",
+        "englishReason": "The word means 'sad' and describes a feeling of unhappiness.",
+        "id": 50,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "happy",
+        "meaning": "سعيد",
+        "options": [
+          "سعيد",
+          "حزين",
+          "قوي",
+          "قصير"
+        ],
+        "arabicReason": "الكلمة تعني 'سعيد' وتصف الشعور بالفرح.",
+        "englishReason": "The word means 'happy' and describes a feeling of joy.",
+        "id": 51,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "slow",
+        "meaning": "بطيء",
+        "options": [
+          "بطيء",
+          "سريع",
+          "سعيد",
+          "قوي"
+        ],
+        "arabicReason": "الكلمة تعني 'بطيء' وتُستخدم لوصف الحركة البطيئة.",
+        "englishReason": "The word means 'slow' and is used to describe low speed.",
+        "id": 52,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "fast",
+        "meaning": "سريع",
+        "options": [
+          "سريع",
+          "بطيء",
+          "قريب",
+          "ضعيف"
+        ],
+        "arabicReason": "الكلمة تعني 'سريع' وتُستخدم لوصف السرعة العالية.",
+        "englishReason": "The word means 'fast' and is used to describe high speed.",
+        "id": 53,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "small",
+        "meaning": "صغير",
+        "options": [
+          "صغير",
+          "كبير",
+          "قوي",
+          "بعيد"
+        ],
+        "arabicReason": "الكلمة تعني 'صغير' وتُستخدم لوصف الحجم الصغير.",
+        "englishReason": "The word means 'small' and is used to describe something little in size.",
+        "id": 54,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "big",
+        "meaning": "كبير",
+        "options": [
+          "كبير",
+          "صغير",
+          "طويل",
+          "سريع"
+        ],
+        "arabicReason": "الكلمة تعني 'كبير' وتُستخدم لوصف الحجم الكبير.",
+        "englishReason": "The word means 'big' and is used to describe something large.",
+        "id": 55,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "far",
+        "meaning": "بعيد",
+        "options": [
+          "بعيد",
+          "قريب",
+          "صغير",
+          "بطيء"
+        ],
+        "arabicReason": "الكلمة تعني 'بعيد' وتُستخدم لوصف المسافة الطويلة.",
+        "englishReason": "The word means 'far' and is used to describe a long distance.",
+        "id": 56,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "near",
+        "meaning": "قريب",
+        "options": [
+          "قريب",
+          "بعيد",
+          "كبير",
+          "سعيد"
+        ],
+        "arabicReason": "الكلمة تعني 'قريب' وتُستخدم لوصف المسافة القصيرة.",
+        "englishReason": "The word means 'near' and is used to describe a short distance.",
+        "id": 57,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "long",
+        "meaning": "طويل",
+        "options": [
+          "طويل",
+          "قصير",
+          "سريع",
+          "ضعيف"
+        ],
+        "arabicReason": "الكلمة تعني 'طويل' وتُستخدم لوصف الأشياء ذات الامتداد الكبير.",
+        "englishReason": "The word means 'long' and is used to describe something with great length.",
+        "id": 58,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "short",
+        "meaning": "قصير",
+        "options": [
+          "قصير",
+          "طويل",
+          "بعيد",
+          "قوي"
+        ],
+        "arabicReason": "الكلمة تعني 'قصير' وتُستخدم لوصف الطول الصغير.",
+        "englishReason": "The word means 'short' and is used to describe someone or something with little height or length.",
+        "id": 59,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "tall",
+        "meaning": "طويل",
+        "options": [
+          "طويل",
+          "قصير",
+          "كبير",
+          "سريع"
+        ],
+        "arabicReason": "الكلمة تعني 'طويل' وتُستخدم لوصف الأشخاص أو الأشياء ذات الارتفاع الكبير.",
+        "englishReason": "The word means 'tall' and is used to describe someone or something with great height.",
+        "id": 60,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
       }
     ],
     "vocab_quiz": [
@@ -4057,6 +4609,261 @@
         "grade": "1",
         "curriculum": "OL",
         "unit": "3"
+      },
+      {
+        "word": "tall",
+        "meaning": "طويل",
+        "options": [
+          "طويل",
+          "قصير",
+          "كبير",
+          "سريع"
+        ],
+        "arabicReason": "الكلمة تعني 'طويل' وتُستخدم لوصف الأشخاص أو الأشياء ذات الارتفاع الكبير.",
+        "englishReason": "The word means 'tall' and is used to describe someone or something with great height.",
+        "id": 46,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "weak",
+        "meaning": "ضعيف",
+        "options": [
+          "ضعيف",
+          "قوي",
+          "سريع",
+          "كبير"
+        ],
+        "arabicReason": "الكلمة تعني 'ضعيف' وتصف قلة القوة.",
+        "englishReason": "The word means 'weak' and describes a lack of strength.",
+        "id": 47,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "strong",
+        "meaning": "قوي",
+        "options": [
+          "قوي",
+          "ضعيف",
+          "سعيد",
+          "بطيء"
+        ],
+        "arabicReason": "الكلمة تعني 'قوي' وتصف القوة البدنية أو المعنوية.",
+        "englishReason": "The word means 'strong' and describes physical or mental strength.",
+        "id": 48,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "late",
+        "meaning": "متأخر",
+        "options": [
+          "متأخر",
+          "مبكر",
+          "قريب",
+          "طويل"
+        ],
+        "arabicReason": "الكلمة تعني 'متأخر' وتُستخدم للوقت الذي يأتي بعد الموعد المعتاد.",
+        "englishReason": "The word means 'late' and refers to a time after the expected time.",
+        "id": 49,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "early",
+        "meaning": "مبكر",
+        "options": [
+          "مبكر",
+          "متأخر",
+          "بعيد",
+          "صغير"
+        ],
+        "arabicReason": "الكلمة تعني 'مبكر' وتُستخدم للوقت الذي يسبق الموعد المعتاد.",
+        "englishReason": "The word means 'early' and refers to a time before the usual or expected time.",
+        "id": 50,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "sad",
+        "meaning": "حزين",
+        "options": [
+          "حزين",
+          "سعيد",
+          "سريع",
+          "كبير"
+        ],
+        "arabicReason": "الكلمة تعني 'حزين' وتصف الشعور بالحزن.",
+        "englishReason": "The word means 'sad' and describes a feeling of unhappiness.",
+        "id": 51,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "happy",
+        "meaning": "سعيد",
+        "options": [
+          "سعيد",
+          "حزين",
+          "قوي",
+          "قصير"
+        ],
+        "arabicReason": "الكلمة تعني 'سعيد' وتصف الشعور بالفرح.",
+        "englishReason": "The word means 'happy' and describes a feeling of joy.",
+        "id": 52,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "slow",
+        "meaning": "بطيء",
+        "options": [
+          "بطيء",
+          "سريع",
+          "سعيد",
+          "قوي"
+        ],
+        "arabicReason": "الكلمة تعني 'بطيء' وتُستخدم لوصف الحركة البطيئة.",
+        "englishReason": "The word means 'slow' and is used to describe low speed.",
+        "id": 53,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "fast",
+        "meaning": "سريع",
+        "options": [
+          "سريع",
+          "بطيء",
+          "قريب",
+          "ضعيف"
+        ],
+        "arabicReason": "الكلمة تعني 'سريع' وتُستخدم لوصف السرعة العالية.",
+        "englishReason": "The word means 'fast' and is used to describe high speed.",
+        "id": 54,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "small",
+        "meaning": "صغير",
+        "options": [
+          "صغير",
+          "كبير",
+          "قوي",
+          "بعيد"
+        ],
+        "arabicReason": "الكلمة تعني 'صغير' وتُستخدم لوصف الحجم الصغير.",
+        "englishReason": "The word means 'small' and is used to describe something little in size.",
+        "id": 55,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "big",
+        "meaning": "كبير",
+        "options": [
+          "كبير",
+          "صغير",
+          "طويل",
+          "سريع"
+        ],
+        "arabicReason": "الكلمة تعني 'كبير' وتُستخدم لوصف الحجم الكبير.",
+        "englishReason": "The word means 'big' and is used to describe something large.",
+        "id": 56,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "far",
+        "meaning": "بعيد",
+        "options": [
+          "بعيد",
+          "قريب",
+          "صغير",
+          "بطيء"
+        ],
+        "arabicReason": "الكلمة تعني 'بعيد' وتُستخدم لوصف المسافة الطويلة.",
+        "englishReason": "The word means 'far' and is used to describe a long distance.",
+        "id": 57,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "near",
+        "meaning": "قريب",
+        "options": [
+          "قريب",
+          "بعيد",
+          "كبير",
+          "سعيد"
+        ],
+        "arabicReason": "الكلمة تعني 'قريب' وتُستخدم لوصف المسافة القصيرة.",
+        "englishReason": "The word means 'near' and is used to describe a short distance.",
+        "id": 58,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "long",
+        "meaning": "طويل",
+        "options": [
+          "طويل",
+          "قصير",
+          "سريع",
+          "ضعيف"
+        ],
+        "arabicReason": "الكلمة تعني 'طويل' وتُستخدم لوصف الأشياء ذات الامتداد الكبير.",
+        "englishReason": "The word means 'long' and is used to describe something with great length.",
+        "id": 59,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "word": "short",
+        "meaning": "قصير",
+        "options": [
+          "قصير",
+          "طويل",
+          "بعيد",
+          "قوي"
+        ],
+        "arabicReason": "الكلمة تعني 'قصير' وتُستخدم لوصف الطول الصغير.",
+        "englishReason": "The word means 'short' and is used to describe someone or something with little height or length.",
+        "id": 60,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
       }
     ],
     "what_do_you_hear": [
@@ -4089,7 +4896,7 @@
         "unit": "1"
       },
       {
-        "sentence": "book ",
+        "sentence": "book",
         "options": [
           "bar",
           "bear",
@@ -4725,6 +5532,146 @@
         "curriculum": "OL",
         "unit": "3",
         "lessonTitle": "My typical day"
+      },
+      {
+        "sentence": "These boys are strong because they play football every weekend.",
+        "options": [
+          "These boys are strong because they play football every weekend.",
+          "These boys are strong because they play basketball every weekend.",
+          "These girls are strong because they play football every weekend.",
+          "These boys are weak because they play football every weekend."
+        ],
+        "id": 48,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "Our school is near so we walk every morning.",
+        "options": [
+          "Our school is near so we walk every morning.",
+          "Our school is far so we walk every morning.",
+          "Our school is near so we drive every morning.",
+          "Our house is near so we walk every morning."
+        ],
+        "id": 49,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "The buses are late because the road is busy.",
+        "options": [
+          "The buses are late because the road is busy.",
+          "The buses are early because the road is busy.",
+          "The buses are late because the street is busy.",
+          "The cars are late because the road is busy."
+        ],
+        "id": 50,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "This tree is tall and it has many green leaves.",
+        "options": [
+          "This tree is tall and it has many green leaves.",
+          "This tree is tall and it has many yellow leaves.",
+          "This tree is short and it has many green leaves.",
+          "This flower is tall and it has many green leaves."
+        ],
+        "id": 51,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "My friends are happy because we have a holiday today.",
+        "options": [
+          "My friends are happy because we have a holiday today.",
+          "My friends are happy because we have a party today.",
+          "My family is happy because we have a holiday today.",
+          "My friends are sad because we have a holiday today."
+        ],
+        "id": 52,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "These dogs are strong and they can carry heavy bags.",
+        "options": [
+          "These dogs are strong and they can carry heavy bags.",
+          "These dogs are strong and they can carry big bags.",
+          "These cats are strong and they can carry heavy bags.",
+          "These dogs are weak and they can carry heavy bags."
+        ],
+        "id": 53,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "My cat is small and it sleeps on the sofa.",
+        "options": [
+          "My cat is small and it sleeps on the sofa.",
+          "My cat is small and it sleeps on the bed.",
+          "My dog is small and it sleeps on the sofa.",
+          "My cat is big and it sleeps on the sofa."
+        ],
+        "id": 54,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "They are fast because they run every morning.",
+        "options": [
+          "They are fast because they run every morning.",
+          "They are fast because they walk every morning.",
+          "They are slow because they run every morning.",
+          "They are fast because they run every evening."
+        ],
+        "id": 55,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "She is tall and she plays basketball at school.",
+        "options": [
+          "She is tall and she plays basketball at school.",
+          "She is tall and she plays football at school.",
+          "She is short and she plays basketball at school.",
+          "She is tall and she plays basketball at the club."
+        ],
+        "id": 56,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "sentence": "I am happy because I play with my friends every day.",
+        "options": [
+          "I am happy because I play with my friends every day.",
+          "I am happy because I play with my cousins every day.",
+          "I am happy because I study with my friends every day.",
+          "I am happy because I play with my friends every weekend."
+        ],
+        "id": 57,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
       }
     ],
     "vocab_choose": [
@@ -4982,6 +5929,244 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "3"
+      },
+      {
+        "question": "The old man isn't strong. He is .............:",
+        "correctAnswer": "weak",
+        "arabicReason": "كلمة 'weak' هي عكس كلمة 'strong'.",
+        "englishReason": "The word 'weak' is the opposite of 'strong'.",
+        "options": [
+          "weak",
+          "happy",
+          "big",
+          "fast"
+        ],
+        "id": 16,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "He isn't early. He is .............:",
+        "correctAnswer": "late",
+        "arabicReason": "كلمة 'late' هي عكس كلمة 'early'.",
+        "englishReason": "The word 'late' is the opposite of 'early'.",
+        "options": [
+          "late",
+          "strong",
+          "small",
+          "near"
+        ],
+        "id": 17,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "She isn't sad. She is .............:",
+        "correctAnswer": "happy",
+        "arabicReason": "كلمة 'happy' هي عكس كلمة 'sad'.",
+        "englishReason": "The word 'happy' is the opposite of 'sad'.",
+        "options": [
+          "happy",
+          "weak",
+          "far",
+          "late"
+        ],
+        "id": 18,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "The mouse isn't big. It is .............:",
+        "correctAnswer": "small",
+        "arabicReason": "كلمة 'small' هي عكس كلمة 'big'.",
+        "englishReason": "The word 'small' is the opposite of 'big'.",
+        "options": [
+          "small",
+          "long",
+          "fast",
+          "happy"
+        ],
+        "id": 19,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "My house isn't far. It is .............:",
+        "correctAnswer": "near",
+        "arabicReason": "كلمة 'near' هي عكس كلمة 'far'.",
+        "englishReason": "The word 'near' is the opposite of 'far'.",
+        "options": [
+          "near",
+          "late",
+          "big",
+          "strong"
+        ],
+        "id": 20,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "The rabbit isn't slow. It is .............:",
+        "correctAnswer": "fast",
+        "arabicReason": "كلمة 'fast' هي عكس كلمة 'slow'.",
+        "englishReason": "The word 'fast' is the opposite of 'slow'.",
+        "options": [
+          "fast",
+          "small",
+          "near",
+          "happy"
+        ],
+        "id": 21,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "The boy isn't weak. He is .............:",
+        "correctAnswer": "strong",
+        "arabicReason": "كلمة 'strong' هي عكس كلمة 'weak'.",
+        "englishReason": "The word 'strong' is the opposite of 'weak'.",
+        "options": [
+          "strong",
+          "sad",
+          "far",
+          "late"
+        ],
+        "id": 22,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "She isn't late. She is .............:",
+        "correctAnswer": "early",
+        "arabicReason": "كلمة 'early' هي عكس كلمة 'late'.",
+        "englishReason": "The word 'early' is the opposite of 'late'.",
+        "options": [
+          "early",
+          "slow",
+          "small",
+          "weak"
+        ],
+        "id": 23,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "He isn't happy. He is .............:",
+        "correctAnswer": "sad",
+        "arabicReason": "كلمة 'sad' هي عكس كلمة 'happy'.",
+        "englishReason": "The word 'sad' is the opposite of 'happy'.",
+        "options": [
+          "sad",
+          "glad",
+          "angry",
+          "tired"
+        ],
+        "id": 24,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "The turtle isn't fast. It is .............:",
+        "correctAnswer": "slow",
+        "arabicReason": "كلمة 'slow' هي عكس كلمة 'fast'.",
+        "englishReason": "The word 'slow' is the opposite of 'fast'.",
+        "options": [
+          "slow",
+          "strong",
+          "happy",
+          "near"
+        ],
+        "id": 25,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "The elephant isn't small. It is .............:",
+        "correctAnswer": "big",
+        "arabicReason": "كلمة 'big' هي عكس كلمة 'small'.",
+        "englishReason": "The word 'big' is the opposite of 'small'.",
+        "options": [
+          "big",
+          "short",
+          "weak",
+          "late"
+        ],
+        "id": 26,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "The school isn't near. It is .............:",
+        "correctAnswer": "far",
+        "arabicReason": "كلمة 'far' هي عكس كلمة 'near'.",
+        "englishReason": "The word 'far' is the opposite of 'near'.",
+        "options": [
+          "far",
+          "big",
+          "happy",
+          "early"
+        ],
+        "id": 27,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "The rope isn't short. It is .............:",
+        "correctAnswer": "long",
+        "arabicReason": "كلمة 'long' هي عكس كلمة 'short'.",
+        "englishReason": "The word 'long' is the opposite of 'short'.",
+        "options": [
+          "long",
+          "small",
+          "slow",
+          "weak"
+        ],
+        "id": 28,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
+      },
+      {
+        "question": "He isn't tall. He is .............:",
+        "correctAnswer": "short",
+        "arabicReason": "كلمة 'short' هي عكس كلمة 'tall'.",
+        "englishReason": "The word 'short' is the opposite of 'tall'.",
+        "options": [
+          "short",
+          "long",
+          "big",
+          "fast"
+        ],
+        "id": 29,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "4"
       }
     ],
     "sentence": [],
