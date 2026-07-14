@@ -80,14 +80,28 @@
     .quiz-box:hover { transform: translateY(-5px); }
     
     .score-board {
-      display: flex; justify-content: space-around; align-items: center;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
       background: linear-gradient(to right, #001524, #002a3f);
-      border: 2px solid #00ffe0; border-radius: 10px;
-      padding: 12px 15px; margin-bottom: 20px;
+      border: 2px solid #00ffe0;
+      border-radius: 10px;
+      padding: 12px 15px;
+      margin-bottom: 20px;
       box-shadow: 0 0 15px rgba(0, 255, 224, 0.4);
-      font-weight: bold; flex-wrap: wrap; gap: 10px;
+      font-weight: bold;
+      flex-wrap: wrap;
+      gap: 10px;
     }
-    .score-item { display: flex; flex-direction: column; align-items: center; color: #00ffe0; font-size: 0.9rem; flex: 1; min-width: 80px; }
+    .score-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      color: #00ffe0;
+      font-size: 0.9rem;
+      flex: 1;
+      min-width: 80px;
+    }
     .score-item .label { font-size: 0.75rem; color: #888; margin-bottom: 3px; text-transform: uppercase; }
     .score-item .value { font-size: 1.4rem; color: #00ffe0; text-shadow: 0 0 8px #00ffe0; }
     .score-item.correct .value { color: #4caf50; text-shadow: 0 0 8px #4caf50; }
@@ -96,32 +110,6 @@
 
     .progress-bar-container { width: 100%; height: 8px; background: #2a2a2a; border-radius: 4px; overflow: hidden; margin-bottom: 15px; border: 1px solid #00ffe0; }
     .progress-bar { height: 100%; background: linear-gradient(to right, #00ffe0, #4caf50); width: 0%; transition: width 0.4s ease; box-shadow: 0 0 10px #00ffe0; }
-    
-    #homeBtnContainer { position: absolute; top: 15px; left: 15px; z-index: 20; }
-    #homeBtn {
-      width: 45px; height: 45px; border-radius: 50%;
-      background: linear-gradient(to right, #ff5722, #e64a19);
-      color: white; border: 2px solid #ffccbc;
-      font-size: 20px; cursor: pointer;
-      box-shadow: 0 0 12px rgba(255, 87, 34, 0.7);
-      transition: all 0.3s ease;
-      display: flex; align-items: center; justify-content: center; font-weight: bold;
-    }
-    #homeBtn:hover { transform: scale(1.1); box-shadow: 0 0 20px rgba(255, 87, 34, 0.9); }
-    #homeBtn:active { transform: scale(0.95); }
-    
-    #howItWorksBtnContainer { position: absolute; top: 15px; right: 15px; z-index: 20; }
-    #howItWorksBtn {
-      width: 45px; height: 45px; border-radius: 50%;
-      background: linear-gradient(to right, #9c27b0, #673ab7);
-      color: white; border: 2px solid #e1bee7;
-      font-size: 20px; cursor: pointer;
-      box-shadow: 0 0 12px rgba(156, 39, 176, 0.7);
-      transition: all 0.3s ease;
-      display: flex; align-items: center; justify-content: center; font-weight: bold;
-    }
-    #howItWorksBtn:hover { transform: scale(1.1); box-shadow: 0 0 20px rgba(156, 39, 176, 0.9); }
-    #howItWorksBtn:active { transform: scale(0.95); }
     
     #listenBtnContainer { position: absolute; top: 70px; left: 15px; z-index: 20; }
     #listenBtn {
@@ -155,7 +143,6 @@
       margin-bottom: 20px;
       color: #fa0404;
       line-height: 1.4;
-      margin-top: 60px;
     }
     .options button {
       display: block; width: 100%;
@@ -170,12 +157,25 @@
     .options button.correct { background-color: limegreen; color: #000; animation: popIn 0.3s ease-in-out; }
     .options button.wrong { background-color: red; color: white; animation: shake 0.5s; }
     @keyframes popIn { from { opacity: 0; transform: scale(0.8); } to { opacity: 1; transform: scale(1); } }
-    @keyframes shake { 0% { transform: translateX(0); } 25% { transform: translateX(-10px); } 50% { transform: translateX(10px); } 75% { transform: translateX(-10px); } 100% { transform: translateX(0); } }
+    @keyframes shake {
+      0% { transform: translateX(0); }
+      25% { transform: translateX(-10px); }
+      50% { transform: translateX(10px); }
+      75% { transform: translateX(-10px); }
+      100% { transform: translateX(0); }
+    }
     
-    .voice-input-container { margin: 15px 0; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; }
+    .voice-input-container {
+      margin: 15px 0;
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
     .voice-btn {
       padding: 12px 25px; font-size: 16px;
-      border: none; border-radius: 8px; cursor: pointer;
+      border: none; border-radius: 8px;
+      cursor: pointer;
       background: linear-gradient(to right, #ff4081, #e91e63);
       color: white;
       box-shadow: 0 0 15px rgba(255, 64, 129, 0.5);
@@ -186,7 +186,10 @@
     .voice-btn:active { transform: scale(0.98); }
     .voice-btn.recording { background: linear-gradient(to right, #f44336, #c62828); animation: pulse 1.5s infinite; }
     .voice-btn:disabled { background-color: #666; cursor: not-allowed; transform: none; opacity: 0.6; }
-    @keyframes pulse { 0%, 100% { box-shadow: 0 0 15px rgba(244, 67, 54, 0.7); } 50% { box-shadow: 0 0 25px rgba(255, 0, 0, 0.9); } }
+    @keyframes pulse {
+      0%, 100% { box-shadow: 0 0 15px rgba(244, 67, 54, 0.7); }
+      50% { box-shadow: 0 0 25px rgba(255, 0, 0, 0.9); }
+    }
     #voiceStatus { color: #00ffe0; font-size: 14px; margin-top: 8px; min-height: 20px; font-weight: bold; }
 
     #nextBtn {
@@ -215,40 +218,117 @@
       position: fixed; top: 0; left: 0;
       width: 100%; height: 100%;
       background-color: rgba(0, 0, 0, 0.7);
-      z-index: 10000; display: none;
+      z-index: 10000;
+      display: none;
       -webkit-backdrop-filter: blur(5px);
       backdrop-filter: blur(5px);
     }
     .correct-answer-popup {
-      position: fixed; top: 50%; left: 50%;
+      position: fixed;
+      top: 50%; left: 50%;
       transform: translate(-50%, -50%);
       background-color: rgba(30, 30, 30, 0.95);
-      padding: 25px; border-radius: 15px;
+      padding: 25px;
+      border-radius: 15px;
       box-shadow: 0 0 30px #ff0000;
-      z-index: 10001; display: none;
-      flex-direction: column; align-items: center; justify-content: center; text-align: center;
+      z-index: 10001;
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
       border: 2px solid #ff0000;
-      max-width: 90%; width: 500px;
+      max-width: 90%;
+      width: 500px;
       -webkit-backdrop-filter: blur(10px);
       backdrop-filter: blur(10px);
     }
     .correct-answer-popup h3 { color: #ff0000; margin-top: 0; font-size: 1.6rem; }
     .correct-answer-list { list-style-type: none; padding: 0; margin: 15px 0; width: 100%; }
-    .correct-answer-list li { background-color: #444; margin: 8px 0; padding: 12px; border-radius: 8px; text-align: center; font-size: 1.2rem; color: #00ffe0; box-shadow: 0 0 8px #00ffe0; direction: ltr; }
-    #correctAnswerReason { color: #00ffe0; font-size: 1.1rem; margin-top: 15px; text-align: center; line-height: 1.6; padding: 10px; background-color: #2a2a2a; border-radius: 8px; width: 100%; min-height: 60px; }
-    .popup-buttons { display: flex; gap: 10px; margin-top: 15px; width: 100%; justify-content: center; flex-wrap: wrap; }
-    .popup-buttons button { margin: 5px; padding: 10px 15px; font-size: 14px; cursor: pointer; border: none; border-radius: 6px; box-shadow: 0 0 12px #00ffe0; transition: all 0.3s; flex: 1; min-width: 100px; }
+    .correct-answer-list li {
+      background-color: #444; margin: 8px 0;
+      padding: 12px; border-radius: 8px;
+      text-align: center; font-size: 1.2rem;
+      color: #00ffe0; box-shadow: 0 0 8px #00ffe0;
+      direction: ltr;
+    }
+    #correctAnswerReason {
+      color: #00ffe0; font-size: 1.1rem;
+      margin-top: 15px; text-align: center;
+      line-height: 1.6; padding: 10px;
+      background-color: #2a2a2a;
+      border-radius: 8px; width: 100%; min-height: 60px;
+    }
+    .popup-buttons {
+      display: flex; gap: 10px;
+      margin-top: 15px; width: 100%;
+      justify-content: center; flex-wrap: wrap;
+    }
+    .popup-buttons button {
+      margin: 5px; padding: 10px 15px;
+      font-size: 14px; cursor: pointer;
+      border: none; border-radius: 6px;
+      box-shadow: 0 0 12px #00ffe0;
+      transition: all 0.3s; flex: 1; min-width: 100px;
+      -webkit-tap-highlight-color: transparent;
+      touch-action: manipulation;
+    }
     .popup-buttons button:hover { transform: scale(1.03); }
     .popup-buttons button:active { transform: scale(0.98); }
     #readArabicBtn { background-color: #ff9800; color: #000; }
+    #readArabicBtn:hover { background-color: #ff7043; transform: scale(1.03); }
+    #readArabicBtn:focus { outline: 2px solid #ff9800; outline-offset: 2px; }
     #gotItBtn { background-color: #00ffe0; color: #000; flex: 1.5; min-width: 120px; }
+    #gotItBtn:hover { background-color: #00ccbb; transform: scale(1.03); }
+    #gotItBtn:focus { outline: 2px solid #00ffe0; outline-offset: 2px; }
     #readEnglishBtn { background-color: #4caf50; color: #fff; }
+    #readEnglishBtn:hover { background-color: #45a049; transform: scale(1.03); }
+    #readEnglishBtn:focus { outline: 2px solid #4caf50; outline-offset: 2px; }
 
-    #footer { margin-top: 20px; font-size: 0.9rem; color: #666; text-align: center; padding: 10px; border-top: 1px solid rgba(0, 255, 224, 0.3); }
+    #footer {
+      margin-top: 20px; font-size: 0.9rem;
+      color: #666; text-align: center;
+      padding: 10px;
+      border-top: 1px solid rgba(0, 255, 224, 0.3);
+    }
     #footer .powered-by { font-size: 1rem; font-weight: bold; color: #00ffe0; margin-bottom: 3px; display: block; }
     #footer .developer { font-size: 0.85rem; color: #999; display: block; }
 
-    .no-questions-message { background: linear-gradient(135deg, #1a1a1a, #2c2c2c); border: 2px solid #ff5722; border-radius: 15px; padding: 40px 20px; margin: 20px 0; box-shadow: 0 0 30px rgba(255, 87, 34, 0.5); text-align: center; }
+    #homeBtnContainer { position: absolute; top: 15px; left: 15px; z-index: 20; }
+    #homeBtn {
+      width: 45px; height: 45px; border-radius: 50%;
+      background: linear-gradient(to right, #ff5722, #e64a19);
+      color: white; border: 2px solid #ffccbc;
+      font-size: 20px; cursor: pointer;
+      box-shadow: 0 0 12px rgba(255, 87, 34, 0.7);
+      transition: all 0.3s ease;
+      display: flex; align-items: center; justify-content: center; font-weight: bold;
+    }
+    #homeBtn:hover { transform: scale(1.1); box-shadow: 0 0 20px rgba(255, 87, 34, 0.9); }
+    #homeBtn:active { transform: scale(0.95); }
+
+    #howItWorksBtnContainer { position: absolute; top: 15px; right: 15px; z-index: 20; }
+    #howItWorksBtn {
+      width: 45px; height: 45px; border-radius: 50%;
+      background: linear-gradient(to right, #9c27b0, #673ab7);
+      color: white; border: 2px solid #e1bee7;
+      font-size: 20px; cursor: pointer;
+      box-shadow: 0 0 12px rgba(156, 39, 176, 0.7);
+      transition: all 0.3s ease;
+      display: flex; align-items: center; justify-content: center; font-weight: bold;
+    }
+    #howItWorksBtn:hover { transform: scale(1.1); box-shadow: 0 0 20px rgba(156, 39, 176, 0.9); }
+    #howItWorksBtn:active { transform: scale(0.95); }
+
+    .no-questions-message { 
+      background: linear-gradient(135deg, #1a1a1a, #2c2c2c); 
+      border: 2px solid #ff5722; 
+      border-radius: 15px; 
+      padding: 40px 20px; 
+      margin: 20px 0; 
+      box-shadow: 0 0 30px rgba(255, 87, 34, 0.5); 
+      text-align: center; 
+    }
     .no-questions-message .icon { font-size: 4rem; margin-bottom: 15px; }
     .no-questions-message h2 { color: #ff5722; font-size: 1.5rem; margin-bottom: 10px; }
     .no-questions-message p { color: #00ffe0; font-size: 1.1rem; line-height: 1.6; margin-bottom: 20px; }
@@ -532,10 +612,11 @@
     }
 
     .signature-block .sig-name {
-      font-family: 'Brush Script MT', cursive;
-      font-size: 1.8rem;
+      font-family: 'Orbitron', sans-serif;
+      font-size: 1.5rem;
       color: #ffd700;
       margin-bottom: 5px;
+      font-weight: bold;
       text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
     }
 
@@ -651,9 +732,7 @@
       font-size: 1.3rem;
       font-weight: bold;
     }
-
     .loading-overlay.show { display: flex; }
-
     .spinner {
       width: 60px;
       height: 60px;
@@ -663,7 +742,6 @@
       animation: spin 1s linear infinite;
       margin-bottom: 20px;
     }
-
     @keyframes spin {
       0% { transform: rotate(0deg); }
       100% { transform: rotate(360deg); }
@@ -696,7 +774,7 @@
       .learning-path-bar h2 { font-size: 1.1rem; }
       .main-container { padding: 0 10px; }
       .quiz-box { width: 95%; padding: 15px; }
-      #speedBtn, #listenBtn, #homeBtn, #howItWorksBtn { width: 35px; height: 35px; font-size: 16px; }
+      #speedBtn, #listenBtn { width: 35px; height: 35px; font-size: 16px; }
       #question { font-size: 1.3rem; }
       .options button { font-size: 15px; padding: 14px; margin: 6px 0; }
       .voice-btn { font-size: 14px; padding: 10px 20px; }
@@ -706,6 +784,7 @@
       .popup-buttons button { width: 100%; font-size: 13px; padding: 8px 12px; }
       .score-item .value { font-size: 1.1rem; }
       .score-item .label { font-size: 0.65rem; }
+      #homeBtn, #howItWorksBtn { width: 35px; height: 35px; font-size: 16px; }
     }
     
     @media screen and (min-width: 321px) and (max-width: 480px) {
@@ -713,7 +792,7 @@
       .learning-path-bar h1 { font-size: 1.6rem; }
       .learning-path-bar h2 { font-size: 1.3rem; }
       .quiz-box { width: 95%; max-width: 95%; margin: 10px auto; }
-      #speedBtn, #listenBtn, #homeBtn, #howItWorksBtn { width: 40px; height: 40px; font-size: 18px; }
+      #speedBtn, #listenBtn { width: 40px; height: 40px; font-size: 18px; }
       #question { font-size: 1.5rem; }
       .options button { font-size: 16px; padding: 15px; margin: 7px 0; }
       .voice-btn { font-size: 15px; padding: 11px 22px; }
@@ -721,6 +800,7 @@
       .correct-answer-popup { padding: 20px; width: 90%; }
       .popup-buttons { flex-direction: column; }
       .popup-buttons button { width: 100%; }
+      #homeBtn, #howItWorksBtn { width: 40px; height: 40px; font-size: 18px; }
     }
     
     @media screen and (min-width: 481px) {
@@ -732,6 +812,11 @@
     @media (prefers-reduced-motion: reduce) {
       * { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; }
     }
+    
+    @media (prefers-contrast: high) {
+      body { background: #000; color: #fff; }
+      .quiz-box { background-color: #222; }
+    }
   </style>
 </head>
 <body>
@@ -739,10 +824,18 @@
 <div class="main-container">
   <div class="learning-path-bar" aria-label="Learning Path">
     <h1>Wise Learning</h1>
-    <h2>Grammer</h2>
+    <h2>Grammar Choose</h2>
   </div>
   
   <div class="quiz-box" id="quizBox">
+    <div id="homeBtnContainer">
+      <button id="homeBtn" onclick="goToHomePage()" title="العودة للرئيسية">🏠</button>
+    </div>
+    
+    <div id="howItWorksBtnContainer">
+      <button id="howItWorksBtn" onclick="openHowItWorksPopup()" title="كيف يعمل">❓</button>
+    </div>
+    
     <div class="score-board">
       <div class="score-item progress">
         <span class="label">السؤال</span>
@@ -764,14 +857,6 @@
     
     <div class="progress-bar-container">
       <div class="progress-bar" id="progressBar"></div>
-    </div>
-    
-    <div id="homeBtnContainer">
-      <button id="homeBtn" onclick="goToHomePage()" aria-label="العودة للرئيسية" title="العودة للرئيسية">🏠</button>
-    </div>
-    
-    <div id="howItWorksBtnContainer">
-      <button id="howItWorksBtn" onclick="openHowItWorksPopup()" aria-label="كيف يعمل" title="كيف يعمل">❓</button>
     </div>
     
     <div id="listenBtnContainer">
@@ -816,7 +901,7 @@
         <div class="student-name" id="certName">[Student Name]</div>
         <div class="activity-name">
           for successfully completing the activity
-          <strong id="certActivity">Grammar Choose (جرامر اختياري)</strong>
+          <strong id="certActivity">Grammar Choose (اختيار القواعد])</strong>
         </div>
         <div class="grade-badge" id="certGradeBadge">🌟 Excellent</div>
         <div class="score-section">
@@ -857,7 +942,10 @@
   </div>
 </div>
 
-<div class="loading-overlay" id="loadingOverlay"><div class="spinner"></div><div id="loadingText">جاري تجهيز الشهادة...</div></div>
+<div class="loading-overlay" id="loadingOverlay">
+  <div class="spinner"></div>
+  <div id="loadingText">جاري تجهيز الشهادة...</div>
+</div>
 
 <div class="popup-overlay" id="correctAnswerOverlay" onclick="closeCorrectAnswerPopup()" aria-hidden="true"></div>
 <div class="correct-answer-popup" id="correctAnswerPopup" role="dialog" aria-modal="true" aria-labelledby="popupTitle" aria-hidden="true">
@@ -885,26 +973,33 @@
 <div class="correct-answer-popup" id="howItWorksPopup" role="dialog" aria-modal="true" aria-labelledby="howItWorksTitle" aria-hidden="true" style="max-width: 600px; border-color: #9c27b0; box-shadow: 0 0 30px #9c27b0;">
   <h3 id="howItWorksTitle" style="color: #9c27b0; font-size: 1.8rem;">❓ كيف يعمل هذا النشاط؟</h3>
   <div style="text-align: right; color: #00ffe0; font-size: 1.05rem; line-height: 1.8; padding: 15px; background: #2a2a2a; border-radius: 8px; margin: 15px 0;">
-    <p style="margin-bottom: 12px;">🎯 <strong>الهدف:</strong> اختبار معرفتك بالقواعد الإنجليزية (Grammar).</p>
+    <p style="margin-bottom: 12px;">🎯 <strong>الهدف:</strong> اختيار الاجابة المناسبة من بين الخيارات المتاحة.</p>
     <p style="margin-bottom: 12px;">📝 <strong>طريقة العمل:</strong></p>
     <ol style="padding-right: 20px; line-height: 2;">
-      <li>سيظهر لك سؤال مع 4 خيارات</li>
-      <li>اختر الإجابة الصحيحة بالضغط عليها</li>
-      <li>إذا كانت الإجابة صحيحة ✅ ستظهر رسالة تشجيعية</li>
-      <li>إذا كانت الإجابة خاطئة ❌ ستظهر الإجابة الصحيحة مع الشرح</li>
-      <li>يمكنك الاستماع للسؤال بالضغط على 🔊</li>
-      <li>يمكنك الإجابة بالصوت بالضغط على 🎤</li>
+      <li>اقرأ السؤال أو اضغط على زر 🔊 لسماعه</li>
+      <li>اضغط على زر ⚡ للتحكم في سرعة النطق</li>
+      <li>اختر الإجابة الصحيحة من الخيارات المتاحة</li>
+      <li>أو اضغط على زر 🎤 للإجابة صوتياً</li>
+      <li>إذا كانت الإجابة صحيحة ✅ ستنتقل للسؤال التالي</li>
+      <li>إذا كانت خاطئة ❌ ستظهر لك الإجابة الصحيحة مع السبب</li>
       <li>في النهاية ستحصل على شهادة إنجاز</li>
     </ol>
-    <p style="margin-top: 12px;">💡 <strong>نصيحة:</strong> استمع جيداً للسؤال قبل الإجابة، ولا تتردد في استخدام زر التسجيل الصوتي!</p>
+    <p style="margin-top: 12px;">💡 <strong>نصيحة:</strong> اقرأ السؤال جيداً وفكر في الاجابة الصحيحة قبل الاختيار!</p>
   </div>
   <div class="popup-buttons">
-    <button id="gotItHowBtn" onclick="closeHowItWorksPopup()" style="background-color: #9c27b0; color: white; flex: 1; min-width: 150px;">✅ فهمت، لنبدأ!</button>
+    <button onclick="closeHowItWorksPopup()" style="background-color: #9c27b0; color: white; flex: 1; min-width: 150px;">✅ فهمت، لنبدأ!</button>
   </div>
 </div>
 
 <script>
   const INSTRUCTOR_WHATSAPP = "201149955726";
+  
+  const urlParams = new URLSearchParams(window.location.search);
+  const currentLevel = urlParams.get('level');
+  const currentGrade = urlParams.get('grade');
+  const currentType = urlParams.get('type');
+  const currentUnit = urlParams.get('unit');
+  const studentNameFromURL = urlParams.get('studentName') || '';
   
   let speechRate = parseFloat(localStorage.getItem("speechRate")) || 1.0;
   let currentQuestionIndex = 0;
@@ -921,12 +1016,7 @@
   let studentName = "";
   let certificateBlob = null;
   
-  const urlParams = new URLSearchParams(window.location.search);
-  const currentLevel = urlParams.get('level');
-  const currentGrade = urlParams.get('grade');
-  const currentType = urlParams.get('type');
-  const currentUnit = urlParams.get('unit');
-  const studentNameFromURL = urlParams.get('studentName') || '';
+  let questions = [];
   
   const encouragingMessages = [
     "Excellent!", "Great job!", "Perfect!", "Well done!",
@@ -945,11 +1035,9 @@
     return { en: 'Needs Improvement', emoji: '💪', motivation: 'لا تستسلم! كل تحدٍ هو فرصة للتعلم. راجع المادة، وتدرب أكثر، وستلاحظ تحسناً مذهلاً!' };
   }
 
-  function loadQuestionsFromDatabase() {
-    console.log("🔄 محاولة تحميل الأسئلة من قاعدة البيانات...");
-    console.log(`📍 المسار: ${currentLevel} - Grade ${currentGrade} - ${currentType} - Unit ${currentUnit}`);
-    
-    let questions = [];
+  async function loadQuestionsFromDatabase() {
+    console.log("🔄 محاولة تحميل الأسئلة...");
+    let dbQuestions = [];
     
     try {
       const localData = localStorage.getItem('marathon_questions_db');
@@ -957,47 +1045,37 @@
         const db = JSON.parse(localData);
         if (db && db.activityDatabase && db.activityDatabase.grammer) {
           const filtered = db.activityDatabase.grammer.filter(q => 
-            q.level === currentLevel && 
-            q.grade === currentGrade && 
-            q.curriculum === currentType && 
-            q.unit === currentUnit
+            q.level === currentLevel && q.grade === currentGrade && 
+            q.curriculum === currentType && q.unit === currentUnit
           );
           if (filtered.length > 0) {
-            questions = filtered;
-            console.log(`✅ تم تحميل ${questions.length} سؤال من localStorage`);
-            return questions;
+            dbQuestions = filtered;
+            console.log(`✅ تم تحميل ${dbQuestions.length} سؤال من localStorage`);
+            return dbQuestions;
           }
         }
       }
-    } catch (e) {
-      console.warn("⚠️ خطأ في قراءة localStorage:", e);
-    }
+    } catch (e) { console.warn("⚠️ خطأ في localStorage:", e); }
     
-    fetch('../../marathonQuestionsDB.json')
-      .then(response => response.json())
-      .then(db => {
+    try {
+      const response = await fetch('../../marathonQuestionsDB.json');
+      if (response.ok) {
+        const db = await response.json();
         if (db && db.activityDatabase && db.activityDatabase.grammer) {
           const filtered = db.activityDatabase.grammer.filter(q => 
-            q.level === currentLevel && 
-            q.grade === currentGrade && 
-            q.curriculum === currentType && 
-            q.unit === currentUnit
+            q.level === currentLevel && q.grade === currentGrade && 
+            q.curriculum === currentType && q.unit === currentUnit
           );
           if (filtered.length > 0) {
-            questions = filtered;
-            console.log(`✅ تم تحميل ${questions.length} سؤال من JSON`);
-            return questions;
+            dbQuestions = filtered;
+            console.log(`✅ تم تحميل ${dbQuestions.length} سؤال من JSON`);
+            return dbQuestions;
           }
         }
-        console.warn("⚠️ لا توجد أسئلة في ملف JSON لهذا المسار");
-        return [];
-      })
-      .catch(error => {
-        console.warn("⚠️ خطأ في جلب ملف JSON:", error);
-        return [];
-      });
+      }
+    } catch (error) { console.warn("⚠️ خطأ في JSON:", error); }
     
-    return questions;
+    return dbQuestions;
   }
 
   function showNoQuestionsMessage() {
@@ -1006,36 +1084,27 @@
       <div class="no-questions-message">
         <div class="icon">📭</div>
         <h2>لا توجد أسئلة متاحة حالياً</h2>
-        <p>
-          عذراً، لم يتم إضافة أسئلة لهذا المسار الدراسي بعد.<br>
-          <strong>المسار:</strong> ${currentLevel} - Grade ${currentGrade} - ${currentType} - Unit ${currentUnit}
-        </p>
-        <p>يرجى التواصل مع المستر لإضافة الأسئلة، أو العودة للصفحة الرئيسية واختيار مسار آخر.</p>
-        <button class="generate-btn" onclick="goToHomePage()" style="margin-top: 15px;">
-          🏠 العودة للرئيسية
-        </button>
-      </div>
-    `;
+        <p>عذراً، لم يتم إضافة أسئلة لهذا المسار بعد.<br><strong>المسار:</strong> ${currentLevel} - Grade ${currentGrade} - ${currentType} - Unit ${currentUnit}</p>
+        <button class="generate-btn" onclick="goToHomePage()" style="margin-top: 15px;">🏠 العودة للرئيسية</button>
+      </div>`;
   }
 
   function goToHomePage() {
-    if (document.referrer && document.referrer.includes('index.html')) {
-      window.history.back();
-    } else {
-      window.location.href = '../../index.html';
+    if (document.referrer && document.referrer.includes('index.html')) { 
+      window.history.back(); 
+    } else { 
+      window.location.href = '../../index.html'; 
     }
   }
 
   function openHowItWorksPopup() {
     document.getElementById("howItWorksOverlay").style.display = "block";
     document.getElementById("howItWorksPopup").style.display = "flex";
-    document.getElementById("howItWorksPopup").setAttribute('aria-hidden', 'false');
   }
-  
+
   function closeHowItWorksPopup() {
     document.getElementById("howItWorksOverlay").style.display = "none";
     document.getElementById("howItWorksPopup").style.display = "none";
-    document.getElementById("howItWorksPopup").setAttribute('aria-hidden', 'true');
   }
 
   function checkSpeechRecognitionSupport() {
@@ -1082,9 +1151,7 @@
       document.getElementById("voiceStatus").style.color = "#00ffe0";
       
       const q = shuffledQuestions[currentQuestionIndex];
-      if (q) {
-        checkAnswer(transcript, q.correctAnswer, q.arabicReason, q.englishReason, null);
-      }
+      checkAnswer(transcript, q.correctAnswer, q.arabicReason, q.englishReason, null);
     };
     
     recognition.onerror = function(event) {
@@ -1157,15 +1224,13 @@
     document.getElementById("progressBar").style.width = progressPercent + "%";
   }
 
-  function loadQuestion() {
+  async function loadQuestion() {
     if (shuffledQuestions.length === 0) {
-      const dbQuestions = loadQuestionsFromDatabase();
-      
-      if (dbQuestions.length === 0) {
-        showNoQuestionsMessage();
-        return;
+      const dbQuestions = await loadQuestionsFromDatabase();
+      if (dbQuestions.length === 0) { 
+        showNoQuestionsMessage(); 
+        return; 
       }
-      
       shuffledQuestions = [...dbQuestions];
       shuffleArray(shuffledQuestions);
       totalQuestions = shuffledQuestions.length;
@@ -1331,9 +1396,24 @@
 
   async function generateCertificateBlob() {
     try {
-      const canvas = await html2canvas(document.getElementById("certificateCard"), { scale: 2, backgroundColor: null, useCORS: true, logging: false });
-      return new Promise((resolve) => { canvas.toBlob((blob) => { certificateBlob = blob; resolve(blob); }, 'image/png', 1.0); });
-    } catch (error) { console.error(error); return null; }
+      const certElement = document.getElementById("certificateCard");
+      const canvas = await html2canvas(certElement, {
+        scale: 2,
+        backgroundColor: null,
+        useCORS: true,
+        logging: false
+      });
+      
+      return new Promise((resolve) => {
+        canvas.toBlob((blob) => {
+          certificateBlob = blob;
+          resolve(blob);
+        }, 'image/png', 1.0);
+      });
+    } catch (error) {
+      console.error("Error generating certificate image:", error);
+      return null;
+    }
   }
 
   async function saveCertificateAsImage() {
@@ -1345,7 +1425,7 @@
       if (!blob) { alert("⚠️ حدث خطأ."); return; }
       const url = URL.createObjectURL(blob);
       const a = document.createElement('a');
-      a.href = url; a.download = `Certificate_${(studentName || studentNameFromURL || 'Student').replace(/[^a-zA-Z0-9\u0600-\u06FF ]/g, '').trim()}_Grammar.png`;
+      a.href = url; a.download = `Certificate_${(studentName || studentNameFromURL || 'Student').replace(/[^a-zA-Z0-9\u0600-\u06FF ]/g, '').trim()}_Vocab_Choose.png`;
       document.body.appendChild(a); a.click(); document.body.removeChild(a);
       URL.revokeObjectURL(url);
       loading.classList.remove("show");
@@ -1361,7 +1441,7 @@
       let blob = certificateBlob; if (!blob) blob = await generateCertificateBlob();
       const percent = totalQuestions > 0 ? Math.round((currentScore / totalQuestions) * 100) : 0;
       const grade = getGrade(percent);
-      const messageText = `🎉 *Certificate of Completion* 🎉\n\n👤 *Student:* ${studentName || studentNameFromURL || 'Student'}\n📚 *Activity:* Grammar Choose (جرامر اختياري)\n📊 *Score:* ${currentScore} / ${totalQuestions} (${percent}%)\n🏆 *Grade:* ${grade.emoji} ${grade.en}\n\n📎 Please find my certificate attached!\n\n🏆 English Marathon Platform 🚀`;
+      const messageText = `🎉 *Certificate of Completion* 🎉\n\n👤 *Student:* ${studentName || studentNameFromURL || 'Student'}\n📚 *Activity:* Vocab Choose (اختيار المفردات)\n📊 *Score:* ${currentScore} / ${totalQuestions} (${percent}%)\n🏆 *Grade:* ${grade.emoji} ${grade.en}\n\n📎 Please find my certificate attached!\n\n🏆 English Marathon Platform 🚀`;
       const whatsappUrl = `https://wa.me/${INSTRUCTOR_WHATSAPP}?text=${encodeURIComponent(messageText)}`;
       
       if (blob && navigator.canShare && navigator.canShare({ files: [new File([blob], 'certificate.png', { type: 'image/png' })] })) {
@@ -1385,7 +1465,7 @@
       const grade = getGrade(percent);
       const shareData = {
         title: '🏆 English Marathon Certificate',
-        text: `I just completed Grammar Choose (جرامر اختياري) on English Marathon! 🎉\n\n📊 Score: ${currentScore}/${totalQuestions} (${percent}%)\n🏆 Grade: ${grade.emoji} ${grade.en}`,
+        text: `I just completed Vocab Choose (اختيار المفردات) on English Marathon! 🎉\n\n📊 Score: ${currentScore}/${totalQuestions} (${percent}%)\n🏆 Grade: ${grade.emoji} ${grade.en}`,
         files: [new File([blob], `Certificate_${studentName || studentNameFromURL || 'Student'}.png`, { type: 'image/png' })]
       };
       
@@ -1467,9 +1547,9 @@
 
   document.addEventListener('keydown', handleGlobalEnter);
 
-  window.onload = function() {
+  window.onload = async function() {
     initSpeechRecognition();
-    loadQuestion();
+    await loadQuestion();
     
     const listenBtn = document.getElementById("listenBtn");
     if (!('speechSynthesis' in window)) {
