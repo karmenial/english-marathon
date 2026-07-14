@@ -809,6 +809,23 @@
         "grade": "3",
         "curriculum": "AL",
         "unit": "3"
+      },
+      {
+        "question": "Ali is my friend. _____ is very kind.",
+        "correctAnswer": "He",
+        "arabicReason": "نستخدم (He) للإشارة إلى شخص مذكر.",
+        "englishReason": "We use 'He' to refer to a male person.",
+        "options": [
+          "He",
+          "She",
+          "It",
+          "They"
+        ],
+        "id": 3,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "4"
       }
     ],
     "justtalk": [
