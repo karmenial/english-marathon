@@ -456,8 +456,8 @@
       },
       {
         "sentence": "Mona ate a egg for breakfast.",
-        "errorWord": "a",
-        "correctWord": "a egg",
+        "errorWord": "a egg",
+        "correctWord": "an",
         "arabicReason": "لأن كلمة egg تبدأ بحرف متحرك، لذلك نستخدم an.",
         "englishReason": "Because 'egg' begins with a vowel sound, we use 'an'.",
         "id": 19,
@@ -492,8 +492,8 @@
       },
       {
         "sentence": "My father drives an car.",
-        "errorWord": "an",
-        "correctWord": "an car",
+        "errorWord": "an car",
+        "correctWord": "an",
         "arabicReason": "لأن كلمة car تبدأ بحرف ساكن، لذلك نستخدم a.",
         "englishReason": "Because 'car' begins with a consonant sound, we use 'a'.",
         "id": 22,
@@ -515,7 +515,7 @@
         "unit": "3"
       },
       {
-        "sentence": "Ali has a elephant.",
+        "sentence": "This is a elephant.",
         "errorWord": "a elephant",
         "correctWord": "an",
         "arabicReason": "لأن كلمة umbrella تبدأ بحرف متحرك، لذلك نستخدم an.",
