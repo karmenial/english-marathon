@@ -134,6 +134,64 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "4"
+      },
+      {
+        "passage": "This is my pet dog. Its name is {blank1}. Max is {blank2} and {blank3}. It has {blank4} fur. It likes to {blank5} and {blank6}. I {blank7} my {blank8}.",
+        "options": [
+          "Max",
+          "friendly",
+          "cute",
+          "soft",
+          "run",
+          "play",
+          "love",
+          "dog"
+        ],
+        "correctAnswer": [
+          "Max",
+          "friendly",
+          "cute",
+          "soft",
+          "run",
+          "play",
+          "love",
+          "dog"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "id": 6,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "passage": "This is my {blank1}. There is a blue {blank2} on the floor. There are two comfortable {blank3} beside the sofa. My cat is {blank4} the table. There is a vase {blank5} the table. A tall plant is in the {blank6}. There is a large TV on a {blank7}. I like sitting on the sofa and watching {blank8}.",
+        "options": [
+          "living room",
+          "carpet",
+          "armchairs",
+          "under",
+          "on",
+          "corner",
+          "stand",
+          "TV"
+        ],
+        "correctAnswer": [
+          "living room",
+          "carpet",
+          "armchairs",
+          "under",
+          "on",
+          "corner",
+          "stand",
+          "TV"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "id": 7,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
       }
     ],
     "correct": [
@@ -758,6 +816,126 @@
         "grade": "1",
         "curriculum": "OL",
         "unit": "3"
+      },
+      {
+        "sentence": "I aren't happy in my living room.",
+        "errorWord": "aren't",
+        "correctWord": "am not",
+        "arabicReason": "مع I نستخدم am not.",
+        "englishReason": "Use 'am not' with 'I'.",
+        "id": 52,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The armchairs isn't comfortable.",
+        "errorWord": "isn't",
+        "correctWord": "aren't",
+        "arabicReason": "Armchairs جمع، لذا نستخدم aren't.",
+        "englishReason": "'Armchairs' is plural, so use 'aren't'.",
+        "id": 53,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "They doesn't play in the living room.",
+        "errorWord": "doesn't",
+        "correctWord": "don't",
+        "arabicReason": "مع الجمع نستخدم don't.",
+        "englishReason": "Use 'don't' with plural subjects.",
+        "id": 54,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "My cat don't like milk.",
+        "errorWord": "don't",
+        "correctWord": "doesn't",
+        "arabicReason": "مع الفاعل المفرد نستخدم doesn't.",
+        "englishReason": "Use 'doesn't' with a singular subject.",
+        "id": 55,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "They watches TV every evening.",
+        "errorWord": "watches",
+        "correctWord": "watch",
+        "arabicReason": "مع They نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With 'They', use the base form of the verb.",
+        "id": 56,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "He watch TV every evening.",
+        "errorWord": "watch",
+        "correctWord": "watches",
+        "arabicReason": "مع He نضيف s إلى الفعل في المضارع البسيط.",
+        "englishReason": "With 'He', add 's' to the verb in the simple present.",
+        "id": 57,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The TV is behind the wall.",
+        "errorWord": "behind",
+        "correctWord": "in front of",
+        "arabicReason": " التلفاز لا يمكن ان يكون وراء, بل امامها الحائط",
+        "englishReason": " the TV can't be behind the wall , but in front of it.",
+        "id": 58,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The plant is beside the corner.",
+        "errorWord": "beside",
+        "correctWord": "in",
+        "arabicReason": "نقول: in the corner.",
+        "englishReason": "We say: in the corner.",
+        "id": 59,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The vase is under the table.",
+        "errorWord": "under",
+        "correctWord": "on",
+        "arabicReason": "المزهرية فوق الطاولة.",
+        "englishReason": "The vase is on the table.",
+        "id": 60,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The cat between  the table.",
+        "errorWord": "between",
+        "correctWord": "under",
+        "arabicReason": "حسب القطعة، القطة تحت الطاولة.",
+        "englishReason": "According to the passage, the cat is under the table.",
+        "id": 61,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
       }
     ],
     "find_the_vowel": [
@@ -826,6 +1004,601 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "4"
+      },
+      {
+        "question": "You ______ alone.",
+        "correctAnswer": "aren't",
+        "arabicReason": "مع You نستخدم aren't.",
+        "englishReason": "We use 'aren't' with 'you'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "doesn't"
+        ],
+        "id": 4,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "The rabbit ______ fast.",
+        "correctAnswer": "isn't",
+        "arabicReason": "The rabbit مفرد، لذا نستخدم isn't.",
+        "englishReason": "'The rabbit' is singular, so we use 'isn't'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "don't"
+        ],
+        "id": 5,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "My friends ______ at home.",
+        "correctAnswer": "aren't",
+        "arabicReason": "My friends جمع، لذا نستخدم aren't.",
+        "englishReason": "'My friends' is plural, so we use 'aren't'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "doesn't"
+        ],
+        "id": 6,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "I ______ late today.",
+        "correctAnswer": "am not",
+        "arabicReason": "مع I نستخدم am not.",
+        "englishReason": "We use 'am not' with 'I'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "don't"
+        ],
+        "id": 7,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "The cats ______ hungry.",
+        "correctAnswer": "aren't",
+        "arabicReason": "The cats جمع، لذا نستخدم aren't.",
+        "englishReason": "'The cats' is plural, so we use 'aren't'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "don't"
+        ],
+        "id": 8,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "Max ______ angry.",
+        "correctAnswer": "isn't",
+        "arabicReason": "Max اسم مفرد، لذا نستخدم isn't.",
+        "englishReason": "'Max' is singular, so we use 'isn't'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "don't"
+        ],
+        "id": 9,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "My dogs ______ small.",
+        "correctAnswer": "aren't",
+        "arabicReason": "My dogs جمع، لذا نستخدم aren't.",
+        "englishReason": "'My dogs' is plural, so we use 'aren't'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "doesn't"
+        ],
+        "id": 10,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "My dog ______ big.",
+        "correctAnswer": "isn't",
+        "arabicReason": "My dog مفرد، لذا نستخدم isn't.",
+        "englishReason": "'My dog' is singular, so we use 'isn't'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "don't"
+        ],
+        "id": 11,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "You ______ my teacher.",
+        "correctAnswer": "aren't",
+        "arabicReason": "مع You نستخدم aren't.",
+        "englishReason": "We use 'aren't' with 'you'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "not"
+        ],
+        "id": 12,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "They ______ at school.",
+        "correctAnswer": "aren't",
+        "arabicReason": "مع They نستخدم aren't.",
+        "englishReason": "We use 'aren't' with 'they'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "doesn't"
+        ],
+        "id": 13,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "We ______ late.",
+        "correctAnswer": "aren't",
+        "arabicReason": "مع We نستخدم aren't.",
+        "englishReason": "We use 'aren't' with 'we'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "doesn't"
+        ],
+        "id": 14,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "It ______ hungry.",
+        "correctAnswer": "isn't",
+        "arabicReason": "مع It نستخدم isn't.",
+        "englishReason": "We use 'isn't' with 'it'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "don't"
+        ],
+        "id": 15,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "She ______ tired.",
+        "correctAnswer": "isn't",
+        "arabicReason": "مع She نستخدم isn't.",
+        "englishReason": "We use 'isn't' with 'she'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "don't"
+        ],
+        "id": 16,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "He ______ sad.",
+        "correctAnswer": "isn't",
+        "arabicReason": "مع He نستخدم isn't.",
+        "englishReason": "We use 'isn't' with 'he'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "don't"
+        ],
+        "id": 17,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "I ______ a doctor.",
+        "correctAnswer": "am not",
+        "arabicReason": "مع الضمير I نستخدم am not في النفي.",
+        "englishReason": "We use 'am not' with the pronoun 'I'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "not"
+        ],
+        "id": 18,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "The flowers ______ beautiful.",
+        "correctAnswer": "aren't",
+        "arabicReason": "Flowers جمع لذلك نستخدم aren't.",
+        "englishReason": "Flowers is plural, so we use aren't.",
+        "options": [
+          "aren't",
+          "isn't",
+          "am not",
+          "doesn't"
+        ],
+        "id": 19,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "My friends ______ clean the room.",
+        "correctAnswer": "don't",
+        "arabicReason": "My friends جمع لذلك نستخدم don't.",
+        "englishReason": "My friends is plural, so we use don't.",
+        "options": [
+          "don't",
+          "doesn't",
+          "aren't",
+          "am not"
+        ],
+        "id": 20,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "The TV ______ small.",
+        "correctAnswer": "isn't",
+        "arabicReason": "The TV مفرد لذلك نستخدم isn't.",
+        "englishReason": "The TV is singular, so we use isn't.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "don't"
+        ],
+        "id": 21,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "We ______ watch TV at school.",
+        "correctAnswer": "don't",
+        "arabicReason": "مع We نستخدم don't.",
+        "englishReason": "We use don't with We.",
+        "options": [
+          "don't",
+          "doesn't",
+          "aren't",
+          "isn't"
+        ],
+        "id": 22,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "My cat ______ sleep on the sofa.",
+        "correctAnswer": "doesn't",
+        "arabicReason": "My cat مفرد لذلك نستخدم doesn't.",
+        "englishReason": "My cat is singular, so we use doesn't.",
+        "options": [
+          "doesn't",
+          "don't",
+          "aren't",
+          "am not"
+        ],
+        "id": 23,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "They ______ play in the living room.",
+        "correctAnswer": "don't",
+        "arabicReason": "مع They نستخدم don't.",
+        "englishReason": "We use don't with They.",
+        "options": [
+          "don't",
+          "doesn't",
+          "aren't",
+          "isn't"
+        ],
+        "id": 24,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "He ______ watch TV every morning.",
+        "correctAnswer": "doesn't",
+        "arabicReason": "مع He في المضارع نستخدم doesn't.",
+        "englishReason": "We use doesn't with He in the simple present.",
+        "options": [
+          "doesn't",
+          "don't",
+          "isn't",
+          "aren't"
+        ],
+        "id": 25,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "I ______ tired.",
+        "correctAnswer": "am not",
+        "arabicReason": "مع I نستخدم am not.",
+        "englishReason": "We use am not with I.",
+        "options": [
+          "am not",
+          "aren't",
+          "isn't",
+          "don't"
+        ],
+        "id": 26,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "The armchairs ______ old.",
+        "correctAnswer": "aren't",
+        "arabicReason": "Armchairs جمع لذلك نستخدم aren't.",
+        "englishReason": "Armchairs is plural, so we use aren't.",
+        "options": [
+          "aren't",
+          "isn't",
+          "am not",
+          "doesn't"
+        ],
+        "id": 27,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "The cat ______ under the table.",
+        "correctAnswer": "isn't",
+        "arabicReason": "The cat مفرد لذلك نستخدم isn't.",
+        "englishReason": "The cat is singular, so we use isn't.",
+        "options": [
+          "isn't",
+          "aren't",
+          "am not",
+          "don't"
+        ],
+        "id": 28,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "The cat is ______ the sofa and the table.",
+        "correctAnswer": "between",
+        "arabicReason": "القطة بين الأريكة والطاولة.",
+        "englishReason": "The cat is between the sofa and the table.",
+        "options": [
+          "between",
+          "behind",
+          "under",
+          "on"
+        ],
+        "id": 29,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "The shoes are ______ the bed.",
+        "correctAnswer": "under",
+        "arabicReason": "الحذاء أسفل السرير.",
+        "englishReason": "The shoes are under the bed.",
+        "options": [
+          "under",
+          "on",
+          "above",
+          "between"
+        ],
+        "id": 30,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "The lamp is ______ the table.",
+        "correctAnswer": "above",
+        "arabicReason": "المصباح أعلى الطاولة.",
+        "englishReason": "The lamp is above the table.",
+        "options": [
+          "above",
+          "under",
+          "between",
+          "behind"
+        ],
+        "id": 31,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "The table is ______ the two armchairs.",
+        "correctAnswer": "between",
+        "arabicReason": "الطاولة بين الكرسيين.",
+        "englishReason": "The table is between the two armchairs.",
+        "options": [
+          "between",
+          "behind",
+          "under",
+          "above"
+        ],
+        "id": 32,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "The dog is ______ the sofa.",
+        "correctAnswer": "behind",
+        "arabicReason": "الكلب خلف الأريكة.",
+        "englishReason": "The dog is behind the sofa.",
+        "options": [
+          "behind",
+          "on",
+          "under",
+          "above"
+        ],
+        "id": 33,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "The picture is ______ the TV.",
+        "correctAnswer": "above",
+        "arabicReason": "الصورة أعلى التلفاز.",
+        "englishReason": "The picture is above the TV.",
+        "options": [
+          "above",
+          "under",
+          "between",
+          "behind"
+        ],
+        "id": 34,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "The plant is ______ the corner.",
+        "correctAnswer": "in",
+        "arabicReason": "نستخدم in مع corner.",
+        "englishReason": "We use 'in' with 'corner'.",
+        "options": [
+          "in",
+          "on",
+          "under",
+          "behind"
+        ],
+        "id": 35,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "The TV is ______ the sofa.",
+        "correctAnswer": "in front of",
+        "arabicReason": "التلفاز أمام الأريكة.",
+        "englishReason": "The TV is in front of the sofa.",
+        "options": [
+          "behind",
+          "under",
+          "in front of",
+          "between"
+        ],
+        "id": 36,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "There is a vase ______ the table.",
+        "correctAnswer": "on",
+        "arabicReason": "المزهرية فوق الطاولة.",
+        "englishReason": "The vase is on the table.",
+        "options": [
+          "on",
+          "under",
+          "behind",
+          "between"
+        ],
+        "id": 37,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "question": "The cat is ______ the table.",
+        "correctAnswer": "under",
+        "arabicReason": "لأن القطة أسفل الطاولة.",
+        "englishReason": "Because the cat is below the table.",
+        "options": [
+          "under",
+          "on",
+          "behind",
+          "between"
+        ],
+        "id": 38,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
       }
     ],
     "justtalk": [
@@ -967,6 +1740,118 @@
         "grade": "1",
         "curriculum": "OL",
         "unit": "4"
+      },
+      {
+        "sentence": "I love my dog because it is my best friend.",
+        "id": 7,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "It likes to run and play every day.",
+        "id": 8,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "Max is friendly and cute. It has soft fur.",
+        "id": 9,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "This is my pet dog. Its name is Max.",
+        "id": 10,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "I love my living room because it is beautiful.",
+        "id": 11,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "I like sitting on the sofa and watching TV.",
+        "id": 12,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "This is my living room.",
+        "id": 13,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "There is a large TV on a stand.",
+        "id": 14,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The tall plant is in the corner.",
+        "id": 15,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "There is a vase on the table.",
+        "id": 16,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "My cat is under the table.",
+        "id": 17,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The sofa is very comfortable.",
+        "id": 18,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "There are two comfortable armchairs beside the sofa.",
+        "id": 19,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "There is a blue carpet on the floor.",
+        "id": 20,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
       }
     ],
     "Matching": [
@@ -1598,6 +2483,206 @@
         "grade": "1",
         "curriculum": "OL",
         "unit": "4"
+      },
+      {
+        "sentence": "This is my pet dog.",
+        "arabicReason": "نبدأ باسم الإشارة ثم الفعل ثم الملكية ثم الاسم.",
+        "englishReason": "The correct order is demonstrative + verb + possessive adjective + noun.",
+        "id": 59,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "It runs very fast.",
+        "arabicReason": "يأتي الفاعل ثم الفعل ثم الحال.",
+        "englishReason": "The correct order is subject + verb + adverb.",
+        "id": 60,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "My pet likes to play outside.",
+        "arabicReason": "يأتي الفاعل ثم الفعل ثم المصدر ثم الظرف.",
+        "englishReason": "The correct order is subject + verb + infinitive + adverb.",
+        "id": 61,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "My dog is very friendly.",
+        "arabicReason": "يأتي الفاعل ثم فعل to be ثم الصفة.",
+        "englishReason": "The correct order is subject + verb to be + adjective.",
+        "id": 62,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "I love my dog.",
+        "arabicReason": "يأتي الفاعل ثم الفعل ثم الملكية ثم الاسم.",
+        "englishReason": "The correct order is subject + verb + possessive adjective + noun.",
+        "id": 63,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "It likes to play.",
+        "arabicReason": "يأتي الفاعل ثم الفعل ثم المصدر.",
+        "englishReason": "The correct order is subject + verb + infinitive.",
+        "id": 64,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "It likes to run.",
+        "arabicReason": "يأتي الفاعل ثم الفعل ثم المصدر.",
+        "englishReason": "The correct order is subject + verb + infinitive.",
+        "id": 65,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "It has soft fur.",
+        "arabicReason": "يأتي الفاعل ثم الفعل ثم الصفة ثم الاسم.",
+        "englishReason": "The correct order is subject + verb + adjective + noun.",
+        "id": 66,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "Max is friendly and cute.",
+        "arabicReason": "يأتي الفاعل ثم فعل to be ثم الصفات.",
+        "englishReason": "The correct order is subject + verb to be + adjectives.",
+        "id": 67,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "Its name is Max.",
+        "arabicReason": "يأتي ضمير الملكية ثم الاسم ثم الفعل.",
+        "englishReason": "The correct order is possessive adjective + noun + verb.",
+        "id": 68,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "I love my living room.",
+        "arabicReason": "نبدأ بالفاعل ثم الفعل ثم صفة الملكية ثم الاسم.",
+        "englishReason": "The correct order is subject + verb + possessive adjective + noun.",
+        "id": 69,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "I watch TV every evening.",
+        "arabicReason": "يأتي الفاعل ثم الفعل ثم المفعول ثم ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb + object + time expression.",
+        "id": 70,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "I like sitting on the sofa.",
+        "arabicReason": "نبدأ بالفاعل ثم الفعل ثم المصدر ثم المكان.",
+        "englishReason": "The correct order is subject + verb + gerund + place.",
+        "id": 71,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "There is a large TV on a stand.",
+        "arabicReason": "الصفة تسبق الاسم ثم يأتي حرف الجر والمكان.",
+        "englishReason": "The adjective comes before the noun followed by the preposition and place.",
+        "id": 72,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The tall plant is in the corner.",
+        "arabicReason": "تأتي الصفة قبل الاسم ثم فعل to be ثم المكان.",
+        "englishReason": "The adjective comes before the noun, then verb to be and the place.",
+        "id": 73,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "There is a vase on the table.",
+        "arabicReason": "بعد There is يأتي الاسم ثم حرف الجر ثم المكان.",
+        "englishReason": "The correct order is There is + noun + preposition + place.",
+        "id": 74,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "My cat is under the table.",
+        "arabicReason": "نبدأ بالفاعل ثم فعل to be ثم حرف الجر ثم المكان.",
+        "englishReason": "The correct order is subject + verb to be + preposition + place.",
+        "id": 75,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "There are two comfortable armchairs beside the sofa.",
+        "arabicReason": "نستخدم There are مع الجمع ثم العدد ثم الصفة ثم الاسم ثم حرف الجر.",
+        "englishReason": "The correct order is There are + number + adjective + plural noun + prepositional phrase.",
+        "id": 76,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "There is a blue carpet on the floor.",
+        "arabicReason": "نبدأ بـ There is ثم الاسم ثم الصفة ثم شبه الجملة.",
+        "englishReason": "The correct order is There is + noun phrase + prepositional phrase.",
+        "id": 77,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "This is my living room.",
+        "arabicReason": "نبدأ باسم الإشارة ثم فعل to be ثم صفة الملكية ثم الاسم.",
+        "englishReason": "The correct order is demonstrative + verb to be + possessive adjective + noun.",
+        "id": 78,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
       }
     ],
     "rewrite": [
@@ -1935,6 +3020,126 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "4"
+      },
+      {
+        "sentence": "My cat likes the sofa.",
+        "targetWord": "doesn't",
+        "correctAnswer": "My cat doesn't like the sofa.",
+        "arabicReason": "مع الفاعل المفرد نستخدم doesn't ويعود الفعل إلى صورته الأساسية.",
+        "englishReason": "Use 'doesn't' with a singular subject and return the verb to its base form.",
+        "id": 28,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "They play in the living room.",
+        "targetWord": "don't",
+        "correctAnswer": "They don't play in the living room.",
+        "arabicReason": "مع They نستخدم don't في النفي.",
+        "englishReason": "Use 'don't' with 'They' in the negative.",
+        "id": 29,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The cat is on the sofa.",
+        "targetWord": "isn't",
+        "correctAnswer": "The cat isn't on the sofa.",
+        "arabicReason": "حوّل الجملة إلى النفي باستخدام isn't.",
+        "englishReason": "Change the sentence into the negative using 'isn't'.",
+        "id": 30,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "She likes the living room.",
+        "targetWord": "We",
+        "correctAnswer": "We like the living room.",
+        "arabicReason": "مع We نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With 'We', use the base form of the verb.",
+        "id": 31,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "He watches TV every evening.",
+        "targetWord": "They",
+        "correctAnswer": "They watch TV every evening.",
+        "arabicReason": "عند تغيير الفاعل إلى الجمع نحذف s من الفعل.",
+        "englishReason": "With a plural subject, remove the 's' from the verb.",
+        "id": 32,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The picture is above the TV.",
+        "targetWord": "under",
+        "correctAnswer": "The picture is under the TV.",
+        "arabicReason": "استبدلنا حرف الجر فقط.",
+        "englishReason": "Only the preposition changes.",
+        "id": 33,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The plant is in the corner.",
+        "targetWord": "behind",
+        "correctAnswer": "The plant is behind the sofa.",
+        "arabicReason": "استخدم الكلمة الجديدة في جملة صحيحة.",
+        "englishReason": "Use the new word to make a correct sentence.",
+        "id": 34,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The TV is in front of the sofa.",
+        "targetWord": "behind",
+        "correctAnswer": "The TV is behind the sofa.",
+        "arabicReason": "استبدلنا حرف الجر مع الحفاظ على ترتيب الجملة.",
+        "englishReason": "Replace the preposition while keeping the sentence structure.",
+        "id": 35,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The vase is on the table.",
+        "targetWord": "under",
+        "correctAnswer": "The vase is under the table.",
+        "arabicReason": "غيّرنا حرف الجر فقط.",
+        "englishReason": "Only the preposition changes.",
+        "id": 36,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The cat is under the table.",
+        "targetWord": "behind",
+        "correctAnswer": "The cat is behind the table.",
+        "arabicReason": "استبدلنا حرف الجر (under) بـ (behind) مع بقاء باقي الجملة كما هو.",
+        "englishReason": "Replace the preposition 'under' with 'behind' and keep the rest of the sentence the same.",
+        "id": 37,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
       }
     ],
     "Scramble": [
@@ -2489,6 +3694,166 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "4"
+      },
+      {
+        "word": "pet",
+        "id": 70,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "dog",
+        "id": 71,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "name",
+        "id": 72,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "friendly",
+        "id": 73,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "cute",
+        "id": 74,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "soft",
+        "id": 75,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "fur",
+        "id": 76,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "run",
+        "id": 77,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "play",
+        "id": 78,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "love",
+        "id": 79,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "living room",
+        "id": 80,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "carpet",
+        "id": 81,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "armchair",
+        "id": 82,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "comfortable",
+        "id": 83,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "vase",
+        "id": 84,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "plant",
+        "id": 85,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "corner",
+        "id": 86,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "stand",
+        "id": 87,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "behind",
+        "id": 88,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "between",
+        "id": 89,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
       }
     ],
     "sequence": [
@@ -2607,6 +3972,48 @@
         "grade": "3",
         "curriculum": "AL",
         "unit": "1"
+      },
+      {
+        "title": "Sort the words: Verbs or Adjectives?",
+        "categories": [
+          {
+            "id": "verbs",
+            "name": "🔵 Verbs"
+          },
+          {
+            "id": "adjectives",
+            "name": "🟢 Adjectives"
+          }
+        ],
+        "wordList": [
+          "watch",
+          "sit",
+          "play",
+          "love",
+          "clean",
+          "comfortable",
+          "large",
+          "blue",
+          "beautiful",
+          "tall"
+        ],
+        "answerKey": {
+          "watch": "verbs",
+          "sit": "verbs",
+          "play": "verbs",
+          "love": "verbs",
+          "clean": "verbs",
+          "comfortable": "adjectives",
+          "large": "adjectives",
+          "blue": "adjectives",
+          "beautiful": "adjectives",
+          "tall": "adjectives"
+        },
+        "id": 3,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
       }
     ],
     "spilling": [
@@ -3162,6 +4569,166 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "4"
+      },
+      {
+        "word": "love",
+        "id": 70,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "pet",
+        "id": 71,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "dog",
+        "id": 72,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "name",
+        "id": 73,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "friendly",
+        "id": 74,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "cute",
+        "id": 75,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "soft",
+        "id": 76,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "fur",
+        "id": 77,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "run",
+        "id": 78,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "play",
+        "id": 79,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "living room",
+        "id": 80,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "carpet",
+        "id": 81,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "armchair",
+        "id": 82,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "comfortable",
+        "id": 83,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "vase",
+        "id": 84,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "plant",
+        "id": 85,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "corner",
+        "id": 86,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "stand",
+        "id": 87,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "behind",
+        "id": 88,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "between",
+        "id": 89,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
       }
     ],
     "Underline": [
@@ -3682,6 +5249,128 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "4"
+      },
+      {
+        "sentence": "The plant is behind the sofa and above the cat.",
+        "instruction": "Underline all the prepositions.",
+        "correctWords": [
+          "behind",
+          "above"
+        ],
+        "id": 42,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The cat is under the table beside the sofa.",
+        "instruction": "Underline all the prepositions.",
+        "correctWords": [
+          "under",
+          "beside"
+        ],
+        "id": 43,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The TV is in front of the sofa.",
+        "instruction": "Underline the preposition.",
+        "correctWords": [
+          "in front of"
+        ],
+        "id": 44,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The table is between the chairs.",
+        "instruction": "Underline the preposition.",
+        "correctWords": [
+          "between"
+        ],
+        "id": 45,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The dog is behind the sofa.",
+        "instruction": "Underline the preposition.",
+        "correctWords": [
+          "behind"
+        ],
+        "id": 46,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The picture is above the TV.",
+        "instruction": "Underline the preposition.",
+        "correctWords": [
+          "above"
+        ],
+        "id": 47,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "There are two armchairs beside the sofa.",
+        "instruction": "Underline the preposition.",
+        "correctWords": [
+          "beside"
+        ],
+        "id": 48,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The tall plant is in the corner.",
+        "instruction": "Underline the preposition.",
+        "correctWords": [
+          "in"
+        ],
+        "id": 49,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "My cat is under the table.",
+        "instruction": "Underline the preposition.",
+        "correctWords": [
+          "under"
+        ],
+        "id": 50,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "There is a blue carpet on the floor.",
+        "instruction": "Underline the preposition.",
+        "correctWords": [
+          "on"
+        ],
+        "id": 51,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
       }
     ],
     "vocab_listening_quiz": [
@@ -4977,6 +6666,346 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "4"
+      },
+      {
+        "word": "love",
+        "meaning": "يحب",
+        "options": [
+          "يحب",
+          "يكره",
+          "يسمع",
+          "يرى"
+        ],
+        "arabicReason": "الكلمة تعني 'يحب'.",
+        "englishReason": "The word means 'love'.",
+        "id": 77,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "play",
+        "meaning": "يلعب",
+        "options": [
+          "يلعب",
+          "يقرأ",
+          "يشرب",
+          "ينام"
+        ],
+        "arabicReason": "الكلمة تعني 'يلعب'.",
+        "englishReason": "The word means 'play'.",
+        "id": 78,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "run",
+        "meaning": "يجري",
+        "options": [
+          "يجري",
+          "يمشي",
+          "ينام",
+          "يأكل"
+        ],
+        "arabicReason": "الكلمة تعني 'يجري'.",
+        "englishReason": "The word means 'run'.",
+        "id": 79,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "fur",
+        "meaning": "فرو",
+        "options": [
+          "فرو",
+          "ذيل",
+          "رأس",
+          "قدم"
+        ],
+        "arabicReason": "الكلمة تعني 'فرو'.",
+        "englishReason": "The word means 'fur'.",
+        "id": 80,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "soft",
+        "meaning": "ناعم",
+        "options": [
+          "ناعم",
+          "خشن",
+          "طويل",
+          "قصير"
+        ],
+        "arabicReason": "الكلمة تعني 'ناعم'.",
+        "englishReason": "The word means 'soft'.",
+        "id": 81,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "pet",
+        "meaning": "حيوان أليف",
+        "options": [
+          "حيوان أليف",
+          "حيوان مفترس",
+          "طائر",
+          "سمكة"
+        ],
+        "arabicReason": "الكلمة تعني 'حيوان أليف'.",
+        "englishReason": "The word means 'pet'.",
+        "id": 82,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "dog",
+        "meaning": "كلب",
+        "options": [
+          "كلب",
+          "قطة",
+          "أرنب",
+          "حصان"
+        ],
+        "arabicReason": "الكلمة تعني 'كلب'.",
+        "englishReason": "The word means 'dog'.",
+        "id": 83,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "name",
+        "meaning": "اسم",
+        "options": [
+          "اسم",
+          "عمر",
+          "لون",
+          "منزل"
+        ],
+        "arabicReason": "الكلمة تعني 'اسم'.",
+        "englishReason": "The word means 'name'.",
+        "id": 84,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "friendly",
+        "meaning": "ودود",
+        "options": [
+          "ودود",
+          "شرس",
+          "حزين",
+          "غاضب"
+        ],
+        "arabicReason": "الكلمة تعني 'ودود'.",
+        "englishReason": "The word means 'friendly'.",
+        "id": 85,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "cute",
+        "meaning": "لطيف",
+        "options": [
+          "لطيف",
+          "قبيح",
+          "كبير",
+          "صغير"
+        ],
+        "arabicReason": "الكلمة تعني 'لطيف'.",
+        "englishReason": "The word means 'cute'.",
+        "id": 86,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "in front of",
+        "meaning": "أمام",
+        "options": [
+          "أمام",
+          "خلف",
+          "بين",
+          "فوق"
+        ],
+        "arabicReason": "تعني في الجهة الأمامية.",
+        "englishReason": "In front of means before something.",
+        "id": 87,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "behind",
+        "meaning": "خلف",
+        "options": [
+          "خلف",
+          "أمام",
+          "فوق",
+          "تحت"
+        ],
+        "arabicReason": "تعني في الجهة الخلفية.",
+        "englishReason": "Behind means at the back of something.",
+        "id": 88,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "stand",
+        "meaning": "حامل",
+        "options": [
+          "حامل",
+          "كرسي",
+          "طاولة",
+          "رف"
+        ],
+        "arabicReason": "يوضع عليه التلفاز.",
+        "englishReason": "A stand is used to hold the TV.",
+        "id": 89,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "corner",
+        "meaning": "ركن",
+        "options": [
+          "ركن",
+          "باب",
+          "سقف",
+          "نافذة"
+        ],
+        "arabicReason": "هو مكان التقاء الجدارين.",
+        "englishReason": "A corner is where two walls meet.",
+        "id": 90,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "plant",
+        "meaning": "نبات",
+        "options": [
+          "نبات",
+          "زهرة",
+          "شجرة",
+          "ورقة"
+        ],
+        "arabicReason": "النبات ينمو في التربة.",
+        "englishReason": "A plant grows in the soil.",
+        "id": 91,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "vase",
+        "meaning": "مزهرية",
+        "options": [
+          "مزهرية",
+          "نبات",
+          "كرسي",
+          "نافذة"
+        ],
+        "arabicReason": "تستخدم لوضع الزهور.",
+        "englishReason": "A vase is used for flowers.",
+        "id": 92,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "comfortable",
+        "meaning": "مريح",
+        "options": [
+          "مريح",
+          "صلب",
+          "قديم",
+          "ضيق"
+        ],
+        "arabicReason": "تعني مريحًا عند الجلوس أو الاستخدام.",
+        "englishReason": "Comfortable means pleasant to sit or relax on.",
+        "id": 93,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "armchair",
+        "meaning": "كرسي بذراعين",
+        "options": [
+          "كرسي بذراعين",
+          "أريكة",
+          "سرير",
+          "مكتب"
+        ],
+        "arabicReason": "هو كرسي مريح له ذراعان.",
+        "englishReason": "An armchair is a comfortable chair with arms.",
+        "id": 94,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "carpet",
+        "meaning": "سجادة",
+        "options": [
+          "سجادة",
+          "ستارة",
+          "طاولة",
+          "باب"
+        ],
+        "arabicReason": "توضع السجادة على الأرض.",
+        "englishReason": "A carpet is placed on the floor.",
+        "id": 95,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "living room",
+        "meaning": "غرفة المعيشة",
+        "options": [
+          "غرفة المعيشة",
+          "غرفة النوم",
+          "المطبخ",
+          "الحمام"
+        ],
+        "arabicReason": "تعني الغرفة التي تجلس فيها الأسرة.",
+        "englishReason": "The room where the family sits together.",
+        "id": 96,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
       }
     ],
     "vocab_quiz": [
@@ -6288,6 +8317,346 @@
         "grade": "6",
         "curriculum": "OL",
         "unit": "6"
+      },
+      {
+        "word": "love",
+        "meaning": "يحب",
+        "options": [
+          "يحب",
+          "يكره",
+          "يسمع",
+          "يرى"
+        ],
+        "arabicReason": "الكلمة تعني 'يحب'.",
+        "englishReason": "The word means 'love'.",
+        "id": 78,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "play",
+        "meaning": "يلعب",
+        "options": [
+          "يلعب",
+          "يقرأ",
+          "يشرب",
+          "ينام"
+        ],
+        "arabicReason": "الكلمة تعني 'يلعب'.",
+        "englishReason": "The word means 'play'.",
+        "id": 79,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "run",
+        "meaning": "يجري",
+        "options": [
+          "يجري",
+          "يمشي",
+          "ينام",
+          "يأكل"
+        ],
+        "arabicReason": "الكلمة تعني 'يجري'.",
+        "englishReason": "The word means 'run'.",
+        "id": 80,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "fur",
+        "meaning": "فرو",
+        "options": [
+          "فرو",
+          "ذيل",
+          "رأس",
+          "قدم"
+        ],
+        "arabicReason": "الكلمة تعني 'فرو'.",
+        "englishReason": "The word means 'fur'.",
+        "id": 81,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "soft",
+        "meaning": "ناعم",
+        "options": [
+          "ناعم",
+          "خشن",
+          "طويل",
+          "قصير"
+        ],
+        "arabicReason": "الكلمة تعني 'ناعم'.",
+        "englishReason": "The word means 'soft'.",
+        "id": 82,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "cute",
+        "meaning": "لطيف",
+        "options": [
+          "لطيف",
+          "قبيح",
+          "كبير",
+          "صغير"
+        ],
+        "arabicReason": "الكلمة تعني 'لطيف'.",
+        "englishReason": "The word means 'cute'.",
+        "id": 83,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "friendly",
+        "meaning": "ودود",
+        "options": [
+          "ودود",
+          "شرس",
+          "حزين",
+          "غاضب"
+        ],
+        "arabicReason": "الكلمة تعني 'ودود'.",
+        "englishReason": "The word means 'friendly'.",
+        "id": 84,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "name",
+        "meaning": "اسم",
+        "options": [
+          "اسم",
+          "عمر",
+          "لون",
+          "منزل"
+        ],
+        "arabicReason": "الكلمة تعني 'اسم'.",
+        "englishReason": "The word means 'name'.",
+        "id": 85,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "dog",
+        "meaning": "كلب",
+        "options": [
+          "كلب",
+          "قطة",
+          "أرنب",
+          "حصان"
+        ],
+        "arabicReason": "الكلمة تعني 'كلب'.",
+        "englishReason": "The word means 'dog'.",
+        "id": 86,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "pet",
+        "meaning": "حيوان أليف",
+        "options": [
+          "حيوان أليف",
+          "حيوان مفترس",
+          "طائر",
+          "سمكة"
+        ],
+        "arabicReason": "الكلمة تعني 'حيوان أليف'.",
+        "englishReason": "The word means 'pet'.",
+        "id": 87,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "in front of",
+        "meaning": "أمام",
+        "options": [
+          "أمام",
+          "خلف",
+          "بين",
+          "فوق"
+        ],
+        "arabicReason": "تعني في الجهة الأمامية.",
+        "englishReason": "In front of means before something.",
+        "id": 88,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "behind",
+        "meaning": "خلف",
+        "options": [
+          "خلف",
+          "أمام",
+          "فوق",
+          "تحت"
+        ],
+        "arabicReason": "تعني في الجهة الخلفية.",
+        "englishReason": "Behind means at the back of something.",
+        "id": 89,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "stand",
+        "meaning": "حامل",
+        "options": [
+          "حامل",
+          "كرسي",
+          "طاولة",
+          "رف"
+        ],
+        "arabicReason": "يوضع عليه التلفاز.",
+        "englishReason": "A stand is used to hold the TV.",
+        "id": 90,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "corner",
+        "meaning": "ركن",
+        "options": [
+          "ركن",
+          "باب",
+          "سقف",
+          "نافذة"
+        ],
+        "arabicReason": "هو مكان التقاء الجدارين.",
+        "englishReason": "A corner is where two walls meet.",
+        "id": 91,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "plant",
+        "meaning": "نبات",
+        "options": [
+          "نبات",
+          "زهرة",
+          "شجرة",
+          "ورقة"
+        ],
+        "arabicReason": "النبات ينمو في التربة.",
+        "englishReason": "A plant grows in the soil.",
+        "id": 92,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "vase",
+        "meaning": "مزهرية",
+        "options": [
+          "مزهرية",
+          "نبات",
+          "كرسي",
+          "نافذة"
+        ],
+        "arabicReason": "تستخدم لوضع الزهور.",
+        "englishReason": "A vase is used for flowers.",
+        "id": 93,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "comfortable",
+        "meaning": "مريح",
+        "options": [
+          "مريح",
+          "صلب",
+          "قديم",
+          "ضيق"
+        ],
+        "arabicReason": "تعني مريحًا عند الجلوس أو الاستخدام.",
+        "englishReason": "Comfortable means pleasant to sit or relax on.",
+        "id": 94,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "armchair",
+        "meaning": "كرسي بذراعين",
+        "options": [
+          "كرسي بذراعين",
+          "أريكة",
+          "سرير",
+          "مكتب"
+        ],
+        "arabicReason": "هو كرسي مريح له ذراعان.",
+        "englishReason": "An armchair is a comfortable chair with arms.",
+        "id": 95,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "carpet",
+        "meaning": "سجادة",
+        "options": [
+          "سجادة",
+          "ستارة",
+          "طاولة",
+          "باب"
+        ],
+        "arabicReason": "توضع السجادة على الأرض.",
+        "englishReason": "A carpet is placed on the floor.",
+        "id": 96,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "living room",
+        "meaning": "غرفة المعيشة",
+        "options": [
+          "غرفة المعيشة",
+          "غرفة النوم",
+          "المطبخ",
+          "الحمام"
+        ],
+        "arabicReason": "تعني الغرفة التي تجلس فيها الأسرة.",
+        "englishReason": "The room where the family sits together.",
+        "id": 97,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
       }
     ],
     "what_do_you_hear": [
@@ -7236,6 +9605,286 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "4"
+      },
+      {
+        "sentence": "Max has soft fur.",
+        "options": [
+          "Max has soft fur.",
+          "Max has long fur.",
+          "Max has white fur.",
+          "Max has black fur."
+        ],
+        "id": 68,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "My dog likes to run and play.",
+        "options": [
+          "My dog likes to run and play.",
+          "My dog likes to sleep and eat.",
+          "My dog likes to jump and run.",
+          "My dog likes to walk and swim."
+        ],
+        "id": 69,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "My pet is very cute.",
+        "options": [
+          "My pet is very cute.",
+          "My pet is very big.",
+          "My pet is very fast.",
+          "My pet is very small."
+        ],
+        "id": 70,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "I love my dog.",
+        "options": [
+          "I love my dog.",
+          "I love my cat.",
+          "I love my pet.",
+          "I love my rabbit."
+        ],
+        "id": 71,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "It likes to play.",
+        "options": [
+          "It likes to play.",
+          "It likes to read.",
+          "It likes to eat.",
+          "It likes to walk."
+        ],
+        "id": 72,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "It likes to run.",
+        "options": [
+          "It likes to run.",
+          "It likes to jump.",
+          "It likes to sleep.",
+          "It likes to swim."
+        ],
+        "id": 73,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "It has soft fur.",
+        "options": [
+          "It has soft fur.",
+          "It has long fur.",
+          "It has brown fur.",
+          "It has white fur."
+        ],
+        "id": 74,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "Max is friendly and cute.",
+        "options": [
+          "Max is friendly and cute.",
+          "Max is friendly and strong.",
+          "Max is small and cute.",
+          "Max is happy and cute."
+        ],
+        "id": 75,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "Its name is Max.",
+        "options": [
+          "Its name is Max.",
+          "Its name is Tom.",
+          "Its name is Sam.",
+          "Its name is Ben."
+        ],
+        "id": 76,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "This is my pet dog.",
+        "options": [
+          "This is my pet dog.",
+          "This is my pet cat.",
+          "This is my small dog.",
+          "This is my black dog."
+        ],
+        "id": 77,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "I love my living room.",
+        "options": [
+          "I love my living room.",
+          "I clean my living room.",
+          "I visit my living room.",
+          "I paint my living room."
+        ],
+        "id": 78,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "I watch TV every evening.",
+        "options": [
+          "I watch TV every evening.",
+          "I watch cartoons every evening.",
+          "I read books every evening.",
+          "I play football every evening."
+        ],
+        "id": 79,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "I like sitting on the sofa.",
+        "options": [
+          "I like sitting on the sofa.",
+          "I like sleeping on the sofa.",
+          "I like standing on the sofa.",
+          "I like jumping on the sofa."
+        ],
+        "id": 80,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "There is a large TV on a stand.",
+        "options": [
+          "There is a large TV on a stand.",
+          "There is a small TV on a stand.",
+          "There is a large TV under the stand.",
+          "There is a large TV behind the stand."
+        ],
+        "id": 81,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "The tall plant is in the corner.",
+        "options": [
+          "The tall plant is in the corner.",
+          "The tall plant is beside the sofa.",
+          "The tall plant is behind the sofa.",
+          "The tall plant is in front of the TV."
+        ],
+        "id": 82,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "There is a vase on the table.",
+        "options": [
+          "There is a vase on the table.",
+          "There is a vase under the table.",
+          "There is a vase behind the table.",
+          "There is a vase above the table."
+        ],
+        "id": 83,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "My cat is under the table.",
+        "options": [
+          "My cat is under the table.",
+          "My cat is on the table.",
+          "My cat is behind the table.",
+          "My cat is beside the table."
+        ],
+        "id": 84,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "This is my living room.",
+        "options": [
+          "This is my living room.",
+          "This is my bedroom.",
+          "This is my kitchen.",
+          "This is my classroom."
+        ],
+        "id": 85,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "There is a blue carpet on the floor.",
+        "options": [
+          "There is a blue carpet on the floor.",
+          "There is a red carpet on the floor.",
+          "There is a blue sofa on the floor.",
+          "There is a blue carpet under the table."
+        ],
+        "id": 86,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentence": "There are two comfortable armchairs beside the sofa.",
+        "options": [
+          "There are two comfortable armchairs beside the sofa.",
+          "There are two comfortable chairs behind the sofa.",
+          "There are two comfortable armchairs in front of the sofa.",
+          "There are three comfortable armchairs beside the sofa."
+        ],
+        "id": 87,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
       }
     ],
     "vocab_choose": [
