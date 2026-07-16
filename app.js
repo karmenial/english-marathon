@@ -32,7 +32,7 @@ let usersDB = {
 
 let marathonQuestionsDB = {
   activityDatabase: {
-    explanation: [], exam: [], complete: [], correct: [],
+    explanation: [], exam: [], complete: [], correct: [], translate: [],
     find_the_vowel: [], grammer: [], justtalk: [], Matching: [],
     re_arrange: [], rewrite: [], Scramble: [], sequence: [],
     situations: [], sorting: [], spilling: [], Underline: [],
@@ -61,7 +61,9 @@ const allActivitiesDict = {
   vocab_listening_quiz: "Vocab Listening Quiz (استمع واختر المعنى الصحيح)",
   vocab_quiz: "Vocab Quiz (اختر المعنى الصحيح)",
   what_do_you_hear: "What Do You Hear (استمع واختر ما سمعته)",
-  vocab_choose: "Vocab Choose (اختر الكلمة المناسبة)"
+  vocab_choose: "Vocab Choose (اختر الكلمة المناسبة)",
+ translate: "translate (اسمع و ترجم)"
+
 };
 
 let sessionUser = null;
