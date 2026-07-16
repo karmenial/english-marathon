@@ -124,7 +124,13 @@
     #howItWorksBtn:hover { transform: scale(1.1); box-shadow: 0 0 20px rgba(156, 39, 176, 0.9); }
     #howItWorksBtn:active { transform: scale(0.95); }
     
-    #recordBtnContainer { position: absolute; bottom: 15px; right: 15px; z-index: 20; }
+    /* ✅ تم تعديل هذا الجزء - الميكروفون الآن بجانب حقل الإدخال */
+    #recordBtnContainer { 
+      position: static;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
     #recordBtn {
       width: 50px; height: 50px; border-radius: 50%;
       background: linear-gradient(to right, #f44336, #d32f2f);
@@ -133,6 +139,7 @@
       box-shadow: 0 0 15px rgba(244, 67, 54, 0.8);
       transition: all 0.3s ease;
       display: flex; align-items: center; justify-content: center; font-weight: bold;
+      margin: 0;
     }
     #recordBtn:hover { transform: scale(1.1); box-shadow: 0 0 25px rgba(244, 67, 54, 1); }
     #recordBtn:active { transform: scale(0.95); }
@@ -207,9 +214,19 @@
       pointer-events: none;
     }
 
-    .answer-input {
-      width: 85%; padding: 15px;
+    /* ✅ حاوية جديدة تجمع حقل الإدخال والميكروفون */
+    .input-with-mic-container {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      justify-content: center;
       margin: 15px auto 20px;
+      width: 85%;
+    }
+
+    .answer-input {
+      flex: 1;
+      padding: 15px;
       background: #000;
       border: 2px solid #00ffe0;
       border-radius: 8px;
@@ -220,6 +237,7 @@
       transition: border-color 0.3s;
       font-family: inherit;
       box-shadow: 0 0 10px rgba(0, 255, 224, 0.3);
+      margin: 0;
     }
     .answer-input:focus { border-color: #00ccff; box-shadow: 0 0 15px #00ffe0; }
     .answer-input::placeholder { color: #555; opacity: 0.7; }
@@ -493,6 +511,9 @@
       .score-value { font-size: 1.5rem; }
       .cert-actions { gap: 10px; }
       .cert-action-btn { padding: 10px 20px; font-size: 0.9rem; }
+      
+      .input-with-mic-container { flex-direction: column; gap: 10px; }
+      .input-with-mic-container .answer-input { width: 100%; }
     }
     @media screen and (max-width: 480px) {
       .cert-content { padding: 20px 15px; }
@@ -501,6 +522,8 @@
       .score-section { flex-direction: column; }
       .score-item-cert { width: 100%; }
       .cert-action-btn { width: 100%; justify-content: center; }
+      
+      .input-with-mic-container { width: 95%; }
     }
     @media screen and (max-width: 320px) {
       .learning-path-bar { width: 90%; font-size: 0.9rem; padding: 6px 10px; border-radius: 6px; }
@@ -513,7 +536,7 @@
       .options { gap: 4px; padding: 5px; }
       .option-container { min-width: 60px; }
       .option-button { font-size: 14px; padding: 10px 8px; }
-      .answer-input { width: 95%; padding: 12px; font-size: 1.1rem; }
+      .answer-input { padding: 12px; font-size: 1.1rem; }
       #submitBtn { font-size: 15px; padding: 10px 25px; width: 90%; }
     }
     @media screen and (min-width: 321px) and (max-width: 480px) {
@@ -526,7 +549,7 @@
       .options { gap: 6px; padding: 8px; }
       .option-container { min-width: 70px; }
       .option-button { font-size: 16px; padding: 12px 10px; }
-      .answer-input { width: 90%; padding: 14px; font-size: 1.2rem; }
+      .answer-input { padding: 14px; font-size: 1.2rem; }
       #submitBtn { font-size: 16px; padding: 12px 30px; width: 80%; }
     }
     @media screen and (min-width: 481px) { .learning-path-bar { width: 61%; } }
@@ -558,11 +581,6 @@
       <button id="howItWorksBtn" onclick="openHowItWorksPopup()" title="كيف يعمل">❓</button>
     </div>
     
-    <div id="recordBtnContainer">
-      <button id="recordBtn" onclick="toggleRecording()" aria-label="Record your answer">🎤</button>
-    </div>
-    <div class="recording-indicator" id="recordingIndicator">Recording...</div>
-    
     <p id="question"></p>
     
     <!-- ✅ تم التعديل هنا: فصل صندوق الكلمات عن منطقة الإجابة -->
@@ -572,10 +590,16 @@
     <div class="section-label answer-label">إجابتك (اضغط على الكلمة لنقلها):</div>
     <div id="answerZone" class="options"></div>
     
-    <input type="text" id="answerInput" class="answer-input" placeholder="Or speak/type here..." />
+    <!-- ✅ تم نقل الميكروفون هنا بجانب حقل الإدخال -->
+    <div class="input-with-mic-container">
+      <input type="text" id="answerInput" class="answer-input" placeholder="Or speak/type here..." />
+      <div id="recordBtnContainer">
+        <button id="recordBtn" onclick="toggleRecording()" aria-label="Record your answer">🎤</button>
+      </div>
+    </div>
     
     <div class="clear-btn-container">
-      <button class="clear-btn" onclick="clearAnswerInput()">🗑️ مسح النص</button>
+      <button class="clear-btn" onclick="clearAnswerInput()">️ مسح النص</button>
     </div>
     
     <button id="submitBtn" onclick="submitAnswer()">Submit</button>
@@ -587,13 +611,15 @@
   </div>
 </div>
 
+<div class="recording-indicator" id="recordingIndicator">Recording...</div>
+
 <!-- ✅ شاشة الشهادة العائمة العصرية -->
 <div class="certificate-overlay" id="certificateOverlay">
   <div class="certificate-modal">
     <button class="cert-close-btn" onclick="closeCertificateModal()" title="إغلاق">×</button>
     <div class="cert-content" id="certificateCard">
       <div class="cert-header">
-        <h1>🏆 ENGLISH MARATHON 🏆</h1>
+        <h1> ENGLISH MARATHON 🏆</h1>
         <div class="subtitle">Certificate of Completion</div>
       </div>
       <div class="cert-body">
@@ -634,7 +660,7 @@
     </div>
     <div class="cert-actions">
       <button class="cert-action-btn cert-save-btn" onclick="saveCertificateAsImage()" id="saveImgBtn">📥 Download</button>
-      <button class="cert-action-btn cert-whatsapp-btn" onclick="sendToWhatsApp()" id="whatsappBtn">📱 WhatsApp</button>
+      <button class="cert-action-btn cert-whatsapp-btn" onclick="sendToWhatsApp()" id="whatsappBtn"> WhatsApp</button>
       <button class="cert-action-btn cert-restart-btn" onclick="restartQuiz()">🔄 Retake</button>
       <button class="cert-action-btn cert-share-btn" onclick="shareCertificate()" id="shareBtn">🔗 Share</button>
     </div>
@@ -650,9 +676,9 @@
   <ul class="correct-answer-list" id="correctAnswerList"></ul>
   <p id="correctAnswerReason"></p>
   <div class="popup-buttons">
-    <button id="readArabicBtn" onclick="readArabicReason()" aria-label="Read in Arabic">🔊 عربي</button>
+    <button id="readArabicBtn" onclick="readArabicReason()" aria-label="Read in Arabic"> عربي</button>
     <button id="gotItBtn" onclick="closeCorrectAnswerPopup()" aria-label="Got it">Got it</button>
-    <button id="readEnglishBtn" onclick="readEnglishReason()" aria-label="Read in English">🔊 English</button>
+    <button id="readEnglishBtn" onclick="readEnglishReason()" aria-label="Read in English"> English</button>
   </div>
 </div>
 
@@ -661,12 +687,12 @@
   <h3 id="howItWorksTitle" style="color: #9c27b0; font-size: 1.8rem;">❓ كيف يعمل هذا النشاط؟</h3>
   <div style="text-align: right; color: #00ffe0; font-size: 1.05rem; line-height: 1.8; padding: 15px; background: #2a2a2a; border-radius: 8px; margin: 15px 0;">
     <p style="margin-bottom: 12px;">🎯 <strong>الهدف:</strong> إعادة ترتيب الكلمات لتكوين جملة صحيحة.</p>
-    <p style="margin-bottom: 12px;">📝 <strong>طريقة العمل الجديدة:</strong></p>
+    <p style="margin-bottom: 12px;"> <strong>طريقة العمل الجديدة:</strong></p>
     <ol style="padding-right: 20px; line-height: 2;">
       <li>ستظهر لك مجموعة من الكلمات في الأعلى</li>
       <li><strong>اضغط على الكلمات بالترتيب الصحيح</strong> لتنزل إلى خانة "إجابتك"</li>
       <li>إذا أخطأت، اضغط على الكلمة في خانة "إجابتك" لإرجاعها للأعلى</li>
-      <li>أو اضغط على زر 🎤 لتسجيل الجملة بالصوت، أو اكتبها يدوياً</li>
+      <li>أو اضغط على زر  لتسجيل الجملة بالصوت، أو اكتبها يدوياً</li>
       <li>اضغط Submit للتحقق من إجابتك</li>
       <li>إذا كانت إجابتك صحيحة ✅ ستنتقل للسؤال التالي</li>
       <li>إذا كانت خاطئة ❌ ستظهر الإجابة الصحيحة مع الشرح</li>
@@ -712,14 +738,14 @@
   function getGrade(percent) {
     if (percent >= 90) return { en: 'Excellent', emoji: '🌟', motivation: 'إنجاز رائع! تفانيك في تعلم اللغة الإنجليزية ملهم حقاً. استمر في التألق وواصل هذه الرحلة المميزة نحو التميز!' };
     if (percent >= 80) return { en: 'Very Good', emoji: '👏', motivation: 'عمل ممتاز! لقد أظهرت التزاماً وتقدماً كبيراً. استمر في المضي قدماً، فجهودك تؤتي ثمارها بشكل رائع!' };
-    if (percent >= 70) return { en: 'Good', emoji: '👍', motivation: 'عمل رائع! أنت على الطريق الصحيح نحو الاحتراف. حافظ على تركيزك، وتدرب يومياً، وشاهد مهاراتك تتطور بقوة كل يوم!' };
+    if (percent >= 70) return { en: 'Good', emoji: '', motivation: 'عمل رائع! أنت على الطريق الصحيح نحو الاحتراف. حافظ على تركيزك، وتدرب يومياً، وشاهد مهاراتك تتطور بقوة كل يوم!' };
     if (percent >= 60) return { en: 'Pass', emoji: '✅', motivation: 'جهد جيد! كل خبير كان مبتدئاً في يوم من الأيام. استمر في التدريب، وحافظ على حماسك، وتذكر: التقدم تقدم، مهما كان صغيراً!' };
     return { en: 'Needs Improvement', emoji: '💪', motivation: 'لا تستسلم! كل تحدٍ هو فرصة للتعلم. راجع المادة، وتدرب أكثر، وستلاحظ تحسناً مذهلاً!' };
   }
 
   // ✅ تم الحفاظ على هذه الدالة بالضبط كما طلبت لضمان سحب الأسئلة من مستودع GitHub
   async function loadQuestionsFromDatabase() {
-    console.log("🔄 محاولة تحميل الأسئلة...");
+    console.log(" محاولة تحميل الأسئلة...");
     let questions = [];
     
     try {
@@ -765,7 +791,7 @@
     const quizBox = document.getElementById("quizBox");
     quizBox.innerHTML = `
       <div class="no-questions-message">
-        <div class="icon">📭</div>
+        <div class="icon"></div>
         <h2>لا توجد أسئلة متاحة حالياً</h2>
         <p>عذراً، لم يتم إضافة أسئلة لهذا المسار بعد.<br><strong>المسار:</strong> ${currentLevel} - Grade ${currentGrade} - ${currentType} - Unit ${currentUnit}</p>
         <button class="generate-btn" onclick="goToHomePage()" style="margin-top: 15px; padding: 10px 20px; background: #ff5722; color: white; border: none; border-radius: 8px; cursor: pointer;">🏠 العودة للرئيسية</button>
@@ -1125,7 +1151,7 @@
       let blob = certificateBlob; if (!blob) blob = await generateCertificateBlob();
       const percent = totalQuestions > 0 ? Math.round((currentScore / totalQuestions) * 100) : 0;
       const grade = getGrade(percent);
-      const messageText = `🎉 *Certificate of Completion* 🎉\n\n👤 *Student:* ${studentName || studentNameFromURL || 'Student'}\n📚 *Activity:* Re-arrange (رتب الكلمات)\n📊 *Score:* ${currentScore} / ${totalQuestions} (${percent}%)\n🏆 *Grade:* ${grade.emoji} ${grade.en}\n\n📎 Please find my certificate attached!\n\n🏆 English Marathon Platform 🚀`;
+      const messageText = `🎉 *Certificate of Completion* 🎉\n\n👤 *Student:* ${studentName || studentNameFromURL || 'Student'}\n📚 *Activity:* Re-arrange (رتب الكلمات)\n📊 *Score:* ${currentScore} / ${totalQuestions} (${percent}%)\n🏆 *Grade:* ${grade.emoji} ${grade.en}\n\n Please find my certificate attached!\n\n English Marathon Platform 🚀`;
       const whatsappUrl = `https://wa.me/${INSTRUCTOR_WHATSAPP}?text=${encodeURIComponent(messageText)}`;
       if (blob && navigator.canShare && navigator.canShare({ files: [new File([blob], 'certificate.png', { type: 'image/png' })] })) {
         try { await navigator.share({ title: '🏆 English Marathon Certificate', text: messageText, files: [new File([blob], `Certificate_${studentName || studentNameFromURL || 'Student'}.png`, { type: 'image/png' })] }); loading.classList.remove("show"); btn.disabled = false; return; } catch (e) { if (e.name === 'AbortError') { loading.classList.remove("show"); btn.disabled = false; return; } }
@@ -1143,12 +1169,12 @@
     btn.disabled = true; loading.classList.add("show");
     try {
       let blob = certificateBlob; if (!blob) blob = await generateCertificateBlob();
-      if (!blob) { alert("⚠️ حدث خطأ."); return; }
+      if (!blob) { alert("️ حدث خطأ."); return; }
       const percent = totalQuestions > 0 ? Math.round((currentScore / totalQuestions) * 100) : 0;
       const grade = getGrade(percent);
       const shareData = {
         title: '🏆 English Marathon Certificate',
-        text: `I just completed Re-arrange (رتب الكلمات) on English Marathon! 🎉\n\n📊 Score: ${currentScore}/${totalQuestions} (${percent}%)\n🏆 Grade: ${grade.emoji} ${grade.en}`,
+        text: `I just completed Re-arrange (رتب الكلمات) on English Marathon! \n\n📊 Score: ${currentScore}/${totalQuestions} (${percent}%)\n🏆 Grade: ${grade.emoji} ${grade.en}`,
         files: [new File([blob], `Certificate_${studentName || studentNameFromURL || 'Student'}.png`, { type: 'image/png' })]
       };
       if (navigator.canShare && navigator.canShare({ files: [new File([blob], 'certificate.png', { type: 'image/png' })] })) {
