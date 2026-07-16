@@ -1740,6 +1740,107 @@
         "grade": "1",
         "curriculum": "OL",
         "unit": "4"
+      },
+      {
+        "sentences": [
+          {
+            "text": "This is my pet dog. Its name is Max.",
+            "target": "This is my pet dog. Its name is Max."
+          },
+          {
+            "text": "Max is friendly and cute. It has soft fur.",
+            "target": "Max is friendly and cute. It has soft fur."
+          },
+          {
+            "text": "It likes to run and play every day.",
+            "target": "It likes to run and play every day."
+          },
+          {
+            "text": "I love my dog because it is my best friend.",
+            "target": "I love my dog because it is my best friend."
+          }
+        ],
+        "id": 7,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentences": [
+          {
+            "text": "I love my living room because it is beautiful.",
+            "target": "I love my living room because it is beautiful."
+          }
+        ],
+        "id": 8,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentences": [
+          {
+            "text": "The tall plant is in the corner.",
+            "target": "The tall plant is in the corner."
+          },
+          {
+            "text": "There is a large TV on a stand.",
+            "target": "There is a large TV on a stand."
+          },
+          {
+            "text": "I like sitting on the sofa and watching TV.",
+            "target": "I like sitting on the sofa and watching TV."
+          }
+        ],
+        "id": 9,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentences": [
+          {
+            "text": "The sofa is very comfortable.",
+            "target": "The sofa is very comfortable."
+          },
+          {
+            "text": "My cat is under the table.",
+            "target": "My cat is under the table."
+          },
+          {
+            "text": "There is a vase on the table.",
+            "target": "There is a vase on the table."
+          }
+        ],
+        "id": 10,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "sentences": [
+          {
+            "text": "This is my living room.",
+            "target": "This is my living room."
+          },
+          {
+            "text": "There is a blue carpet on the floor.",
+            "target": "There is a blue carpet on the floor."
+          },
+          {
+            "text": "There are two comfortable armchairs beside the sofa.",
+            "target": "There are two comfortable armchairs beside the sofa."
+          }
+        ],
+        "id": 11,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
       }
     ],
     "Matching": [
