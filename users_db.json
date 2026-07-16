@@ -11,7 +11,7 @@
       "permissions": [
         "all"
       ],
-      "lastLogin": "2026-07-13T17:43:55.665Z"
+      "lastLogin": "2026-07-16T15:05:19.388Z"
     },
     {
       "id": "u2",
@@ -178,7 +178,7 @@
       "status": "free",
       "teacherId": null,
       "subscriptionPrice": 0,
-      "customMessage": "",
+      "customMessage": "السلام عليكم , يمكن للاولاد الاستمرار في استخدام خدمات المنصة , بالتوفيق بمشيئة الله تعالي",
       "broadcastMessage": ""
     },
     {
@@ -198,7 +198,7 @@
       "status": "free",
       "teacherId": null,
       "subscriptionPrice": 0,
-      "customMessage": "",
+      "customMessage": "السلام عليكم , يمكن للاولاد الاستمرار في استخدام خدمات المنصة , بالتوفيق بمشيئة الله تعالي",
       "broadcastMessage": ""
     },
     {
@@ -308,6 +308,80 @@
       "duration": "90",
       "level": "primary",
       "grade": "2",
+      "type": "OL",
+      "status": "free",
+      "teacherId": null,
+      "subscriptionPrice": 0,
+      "customMessage": "",
+      "broadcastMessage": ""
+    },
+    {
+      "id": "u1784052680992",
+      "role": "teacher",
+      "name": "medoتت",
+      "email": "hghk@marathon.com",
+      "pass": "1234",
+      "isActive": true,
+      "joinDate": "2026-07-14",
+      "lastLogin": null,
+      "commission": 15,
+      "phone": "11234",
+      "totalStudents": 0,
+      "totalEarnings": 0
+    },
+    {
+      "id": "u1784213611782",
+      "role": "student",
+      "name": "مريم صلاح",
+      "email": "mariem@marathon.com",
+      "pass": "35629c",
+      "isActive": true,
+      "joinDate": "2026-07-16",
+      "lastLogin": null,
+      "isPaid": true,
+      "duration": 30,
+      "level": "preparatory",
+      "grade": "3",
+      "type": "OL",
+      "status": "free",
+      "teacherId": null,
+      "subscriptionPrice": 0,
+      "customMessage": "",
+      "broadcastMessage": ""
+    },
+    {
+      "id": "u1784213679325",
+      "role": "student",
+      "name": "منة صلاح",
+      "email": "menna@marathon.com",
+      "pass": "47281c",
+      "isActive": true,
+      "joinDate": "2026-07-16",
+      "lastLogin": null,
+      "isPaid": true,
+      "duration": 30,
+      "level": "preparatory",
+      "grade": "3",
+      "type": "OL",
+      "status": "free",
+      "teacherId": null,
+      "subscriptionPrice": 0,
+      "customMessage": "",
+      "broadcastMessage": ""
+    },
+    {
+      "id": "u1784213765054",
+      "role": "student",
+      "name": "امل",
+      "email": "aml@marathon.com",
+      "pass": "51934c",
+      "isActive": true,
+      "joinDate": "2026-07-16",
+      "lastLogin": null,
+      "isPaid": true,
+      "duration": 30,
+      "level": "preparatory",
+      "grade": "3",
       "type": "OL",
       "status": "free",
       "teacherId": null,
