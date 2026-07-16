@@ -192,6 +192,35 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "5"
+      },
+      {
+        "passage": "My bedroom is my favourite room in my house. My bed is {blank1}. There is a {blank2} with green curtains. There is a green {blank3} on the floor. The curtains and the carpet are {blank4}. There is a book shelf on the {blank5}, beside the bed. I like to {blank6} before I go to bed. I clean my bedroom every day. My bed is always {blank7}. I like my {blank8}.",
+        "options": [
+          "comfortable",
+          "window",
+          "carpet",
+          "matching",
+          "wall",
+          "read",
+          "tidy",
+          "bedroom"
+        ],
+        "correctAnswer": [
+          "comfortable",
+          "window",
+          "carpet",
+          "matching",
+          "wall",
+          "read",
+          "tidy",
+          "bedroom"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "id": 8,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
       }
     ],
     "correct": [
@@ -936,6 +965,126 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "5"
+      },
+      {
+        "sentence": "It sleep on the bed every night.",
+        "errorWord": "sleep",
+        "correctWord": "sleeps",
+        "arabicReason": "مع الضمير It نضيف s للفعل.",
+        "englishReason": "With 'It', we add 's' to the verb.",
+        "id": 62,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "My bed aren't very comfortable.",
+        "errorWord": "aren't",
+        "correctWord": "isn't",
+        "arabicReason": "Bed اسم مفرد، لذلك نستخدم isn't.",
+        "englishReason": "The subject 'bed' is singular, so we use 'isn't'.",
+        "id": 63,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "The curtains isn't green.",
+        "errorWord": "isn't",
+        "correctWord": "aren't",
+        "arabicReason": "Curtains اسم جمع، لذلك نستخدم aren't.",
+        "englishReason": "The subject 'curtains' is plural, so we use 'aren't'.",
+        "id": 64,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "They doesn't clean their room every day.",
+        "errorWord": "doesn't",
+        "correctWord": "don't",
+        "arabicReason": "مع They نستخدم don't في النفي.",
+        "englishReason": "With 'They', we use 'don't' in negative sentences.",
+        "id": 65,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "He don't like a messy bedroom.",
+        "errorWord": "don't",
+        "correctWord": "doesn't",
+        "arabicReason": "مع He نستخدم doesn't في النفي.",
+        "englishReason": "With 'He', we use 'doesn't' in negative sentences.",
+        "id": 66,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "They cleans their bedroom every weekend.",
+        "errorWord": "cleans",
+        "correctWord": "clean",
+        "arabicReason": "مع الضمير They نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With 'They', we use the base form of the verb.",
+        "id": 67,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "My sister tidy her bedroom every Saturday.",
+        "errorWord": "tidy",
+        "correctWord": "tidies",
+        "arabicReason": "الفعل المنتهي بحرف ساكن + y يتحول إلى ies مع المفرد.",
+        "englishReason": "A verb ending with consonant + y changes to ies with a singular subject.",
+        "id": 68,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "My father go to work every morning.",
+        "errorWord": "go",
+        "correctWord": "goes",
+        "arabicReason": "الفعل go يصبح goes مع المفرد.",
+        "englishReason": "The verb 'go' becomes 'goes' with a singular subject.",
+        "id": 69,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "She read a book before bed.",
+        "errorWord": "read",
+        "correctWord": "reads",
+        "arabicReason": "مع الضمير She نضيف s للفعل.",
+        "englishReason": "With 'She', we add 's' to the verb.",
+        "id": 70,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "He clean his bedroom every day.",
+        "errorWord": "clean",
+        "correctWord": "cleans",
+        "arabicReason": "مع الضمير He نضيف s للفعل في المضارع البسيط.",
+        "englishReason": "With 'He', we add 's' to the verb in the simple present.",
+        "id": 71,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
       }
     ],
     "find_the_vowel": [
@@ -1599,6 +1748,346 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "5"
+      },
+      {
+        "question": "The carpet ______ old. It is new.",
+        "correctAnswer": "isn't",
+        "arabicReason": "لأن 'carpet' مفرد، فنستخدم isn't.",
+        "englishReason": "The subject 'carpet' is singular, so we use 'isn't'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "don't",
+          "doesn't"
+        ],
+        "id": 39,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "The books ______ on the floor. They are on the bookshelf.",
+        "correctAnswer": "aren't",
+        "arabicReason": "لأن 'books' جمع، فنستخدم aren't.",
+        "englishReason": "The subject 'books' is plural, so we use 'aren't'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "don't",
+          "doesn't"
+        ],
+        "id": 40,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "My bed ______ dirty. It is tidy.",
+        "correctAnswer": "isn't",
+        "arabicReason": "لأن 'bed' مفرد، فنستخدم isn't.",
+        "englishReason": "The subject 'bed' is singular, so we use 'isn't'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "don't",
+          "doesn't"
+        ],
+        "id": 41,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "The curtains ______ blue. They are green.",
+        "correctAnswer": "aren't",
+        "arabicReason": "لأن 'curtains' جمع، فنستخدم aren't.",
+        "englishReason": "The subject 'curtains' is plural, so we use 'aren't'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "don't",
+          "doesn't"
+        ],
+        "id": 42,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "My bedroom ______ very small.",
+        "correctAnswer": "isn't",
+        "arabicReason": "لأن 'bedroom' اسم مفرد، فنستخدم isn't في النفي.",
+        "englishReason": "The subject 'bedroom' is singular, so we use 'isn't'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "don't",
+          "doesn't"
+        ],
+        "id": 43,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "The children ______ their bedroom every weekend.",
+        "correctAnswer": "clean",
+        "arabicReason": "Children اسم جمع لذلك نستخدم الفعل بدون s.",
+        "englishReason": "Children is plural, so we use the base verb.",
+        "options": [
+          "clean",
+          "cleans",
+          "cleaning",
+          "cleaned"
+        ],
+        "id": 44,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "The cat ______ on the bed every afternoon.",
+        "correctAnswer": "sleeps",
+        "arabicReason": "الاسم المفرد يعامل معاملة He/She/It.",
+        "englishReason": "A singular noun takes a singular verb.",
+        "options": [
+          "sleep",
+          "sleeps",
+          "sleeping",
+          "slept"
+        ],
+        "id": 45,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "It ______ in the bedroom.",
+        "correctAnswer": "sleeps",
+        "arabicReason": "مع It نضيف s للفعل.",
+        "englishReason": "With 'It', add 's' to the verb.",
+        "options": [
+          "sleep",
+          "sleeps",
+          "sleeping",
+          "slept"
+        ],
+        "id": 46,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "I ______ watch TV before I go to bed.",
+        "correctAnswer": "don't",
+        "arabicReason": "مع I نستخدم don't في النفي.",
+        "englishReason": "With 'I', use don't + base verb.",
+        "options": [
+          "don't",
+          "doesn't",
+          "isn't",
+          "aren't"
+        ],
+        "id": 47,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "She ______ read before she goes to bed.",
+        "correctAnswer": "doesn't",
+        "arabicReason": "مع She نستخدم doesn't في النفي.",
+        "englishReason": "With 'She', use doesn't + base verb.",
+        "options": [
+          "don't",
+          "doesn't",
+          "isn't",
+          "aren't"
+        ],
+        "id": 48,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "They ______ clean their room every day.",
+        "correctAnswer": "don't",
+        "arabicReason": "مع They في النفي نستخدم don't.",
+        "englishReason": "With 'They', use don't + base verb.",
+        "options": [
+          "don't",
+          "doesn't",
+          "isn't",
+          "aren't"
+        ],
+        "id": 49,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "He ______ like a messy bedroom.",
+        "correctAnswer": "doesn't",
+        "arabicReason": "مع He في النفي نستخدم doesn't ثم الفعل في المصدر.",
+        "englishReason": "With 'He', use doesn't + base verb.",
+        "options": [
+          "don't",
+          "doesn't",
+          "isn't",
+          "aren't"
+        ],
+        "id": 50,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "We ______ our house every weekend.",
+        "correctAnswer": "clean",
+        "arabicReason": "مع الضمير We لا نضيف s للفعل.",
+        "englishReason": "With 'We', we use the base form of the verb.",
+        "options": [
+          "clean",
+          "cleans",
+          "cleaning",
+          "cleaned"
+        ],
+        "id": 51,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "They ______ books before they go to bed.",
+        "correctAnswer": "read",
+        "arabicReason": "مع الضمير They لا نضيف s للفعل.",
+        "englishReason": "With 'They', we use the base form of the verb.",
+        "options": [
+          "read",
+          "reads",
+          "reading",
+          "readed"
+        ],
+        "id": 52,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "I ______ my bedroom every day.",
+        "correctAnswer": "clean",
+        "arabicReason": "مع الضمير I نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With 'I', we use the base form of the verb.",
+        "options": [
+          "clean",
+          "cleans",
+          "cleaning",
+          "cleaned"
+        ],
+        "id": 53,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "My sister ______ her bedroom every Saturday.",
+        "correctAnswer": "tidies",
+        "arabicReason": "الفعل المنتهي بحرف ساكن + y يتحول إلى ies.",
+        "englishReason": "A verb ending with consonant + y changes to ies.",
+        "options": [
+          "tidy",
+          "tidies",
+          "tidyed",
+          "tidying"
+        ],
+        "id": 54,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "My baby ______ with his toys every day.",
+        "correctAnswer": "plays",
+        "arabicReason": "الفعل play يصبح plays مع المفرد.",
+        "englishReason": "The verb 'play' becomes 'plays' with a singular subject.",
+        "options": [
+          "play",
+          "plays",
+          "playing",
+          "played"
+        ],
+        "id": 55,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "My father ______ to work every morning.",
+        "correctAnswer": "goes",
+        "arabicReason": "الفعل go يصبح goes مع المفرد.",
+        "englishReason": "The verb 'go' becomes 'goes' with a singular subject.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "gone"
+        ],
+        "id": 56,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "She ______ books before she goes to bed.",
+        "correctAnswer": "reads",
+        "arabicReason": "مع الضمير She نضيف s للفعل.",
+        "englishReason": "With 'She', we add 's' to the verb.",
+        "options": [
+          "read",
+          "reads",
+          "reading",
+          "readed"
+        ],
+        "id": 57,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "He ______ his bedroom every day.",
+        "correctAnswer": "cleans",
+        "arabicReason": "مع الضمير He نضيف s للفعل في المضارع البسيط.",
+        "englishReason": "With 'He', we add 's' to the verb in the simple present.",
+        "options": [
+          "clean",
+          "cleans",
+          "cleaning",
+          "cleaned"
+        ],
+        "id": 58,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
       }
     ],
     "justtalk": [
@@ -1841,6 +2330,48 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "5"
+      },
+      {
+        "sentences": [
+          {
+            "text": "My favourite room is my bedroom.",
+            "target": "My favourite room is my bedroom."
+          },
+          {
+            "text": "My bed is very comfortable.",
+            "target": "My bed is very comfortable."
+          },
+          {
+            "text": "There is a window with green curtains.",
+            "target": "There is a window with green curtains."
+          }
+        ],
+        "id": 12,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentences": [
+          {
+            "text": "There is a green carpet on the floor.",
+            "target": "There is a green carpet on the floor."
+          },
+          {
+            "text": "I like to read before I go to bed.",
+            "target": "I like to read before I go to bed."
+          },
+          {
+            "text": "I clean my bedroom every day.",
+            "target": "I clean my bedroom every day."
+          }
+        ],
+        "id": 13,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
       }
     ],
     "Matching": [
@@ -2672,6 +3203,66 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "5"
+      },
+      {
+        "sentence": "I clean my bedroom every day.",
+        "arabicReason": "رتب الكلمات لتكوين جملة صحيحة مع ظرف التكرار.",
+        "englishReason": "Arrange the words to make a correct sentence with a time expression.",
+        "id": 79,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "I like to read before I go to bed.",
+        "arabicReason": "رتب الكلمات لتكوين جملة صحيحة في المضارع البسيط.",
+        "englishReason": "Arrange the words to make a correct sentence in the simple present.",
+        "id": 80,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "There is a green carpet on the floor.",
+        "arabicReason": "رتب الكلمات لتكوين جملة صحيحة مع ظرف المكان.",
+        "englishReason": "Arrange the words to make a correct sentence with a place expression.",
+        "id": 81,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "There is a window with green curtains.",
+        "arabicReason": "رتب الكلمات لتكوين جملة صحيحة باستخدام (There is).",
+        "englishReason": "Arrange the words to make a correct sentence using 'There is'.",
+        "id": 82,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "My bed is very comfortable.",
+        "arabicReason": "رتب الكلمات لتكوين جملة صحيحة باستخدام الفعل (is).",
+        "englishReason": "Arrange the words to make a correct sentence using the verb 'is'.",
+        "id": 83,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "My favourite room is my bedroom.",
+        "arabicReason": "رتب الكلمات لتكوين جملة صحيحة تبدأ بالفاعل ثم الفعل ثم باقي الجملة.",
+        "englishReason": "Arrange the words to make a correct sentence.",
+        "id": 84,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
       }
     ],
     "rewrite": [
@@ -3129,6 +3720,126 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "5"
+      },
+      {
+        "sentence": "It sleeps on the bed every night.",
+        "targetWord": "The cats",
+        "correctAnswer": "The cats sleep on the bed every night.",
+        "arabicReason": "الفاعل الجمع يأخذ الفعل بدون s.",
+        "englishReason": "A plural subject takes the base form of the verb.",
+        "id": 38,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "My sister tidies her bedroom every Saturday.",
+        "targetWord": "We",
+        "correctAnswer": "We tidy our bedroom every Saturday.",
+        "arabicReason": "مع We نحذف ies ونستخدم الفعل الأساسي، ونغير her إلى our.",
+        "englishReason": "With 'We', use the base verb 'tidy' and change 'her' to 'our'.",
+        "id": 39,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "The curtains aren't blue.",
+        "targetWord": "The curtain",
+        "correctAnswer": "The curtain isn't blue.",
+        "arabicReason": "عند التحويل إلى المفرد نستخدم isn't.",
+        "englishReason": "With a singular subject, use 'isn't'.",
+        "id": 40,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "My bedroom isn't small.",
+        "targetWord": "The rooms",
+        "correctAnswer": "The rooms aren't small.",
+        "arabicReason": "عند التحويل إلى الجمع نستخدم aren't.",
+        "englishReason": "With a plural subject, use 'aren't'.",
+        "id": 41,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "They don't read before bed.",
+        "targetWord": "She",
+        "correctAnswer": "She doesn't read before bed.",
+        "arabicReason": "مع She نستخدم doesn't ويبقى الفعل في المصدر.",
+        "englishReason": "With 'She', use 'doesn't' and keep the verb in the base form.",
+        "id": 42,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "He doesn't like a messy bedroom.",
+        "targetWord": "They",
+        "correctAnswer": "They don't like a messy bedroom.",
+        "arabicReason": "مع الجمع نستخدم don't بدلاً من doesn't.",
+        "englishReason": "With a plural subject, use 'don't' instead of 'doesn't'.",
+        "id": 43,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "I like my bedroom.",
+        "targetWord": "She",
+        "correctAnswer": "She likes her bedroom.",
+        "arabicReason": "مع She نضيف s للفعل ونغير my إلى her.",
+        "englishReason": "With 'She', add 's' to the verb and change 'my' to 'her'.",
+        "id": 44,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "They clean their bedroom every day.",
+        "targetWord": "He",
+        "correctAnswer": "He cleans his bedroom every day.",
+        "arabicReason": "مع He نضيف s للفعل ونغير their إلى his.",
+        "englishReason": "With 'He', add 's' to the verb and change 'their' to 'his'.",
+        "id": 45,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "She reads before she goes to bed.",
+        "targetWord": "I",
+        "correctAnswer": "I read before I go to bed.",
+        "arabicReason": "مع I نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With 'I', we use the base form of the verb.",
+        "id": 46,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "He cleans his bedroom every day.",
+        "targetWord": "They",
+        "correctAnswer": "They clean their bedroom every day.",
+        "arabicReason": "عند تحويل الفاعل إلى الجمع نحذف s من الفعل ونغير his إلى their.",
+        "englishReason": "With a plural subject, remove 's' from the verb and change 'his' to 'their'.",
+        "id": 47,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
       }
     ],
     "Scramble": [
@@ -3843,6 +4554,158 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "5"
+      },
+      {
+        "word": "bedroom",
+        "id": 90,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "bed",
+        "id": 91,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "house",
+        "id": 92,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "window",
+        "id": 93,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "curtains",
+        "id": 94,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "carpet",
+        "id": 95,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "bookshelf",
+        "id": 96,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "wall",
+        "id": 97,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "floor",
+        "id": 98,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "room",
+        "id": 99,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "comfortable",
+        "id": 100,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "green",
+        "id": 101,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "matching",
+        "id": 102,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "tidy",
+        "id": 103,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "favourite",
+        "id": 104,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "read",
+        "id": 105,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "clean",
+        "id": 106,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "go",
+        "id": 107,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "like",
+        "id": 108,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
       }
     ],
     "sequence": [
@@ -4718,6 +5581,158 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "5"
+      },
+      {
+        "word": "bedroom",
+        "id": 90,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "bed",
+        "id": 91,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "house",
+        "id": 92,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "window",
+        "id": 93,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "curtains",
+        "id": 94,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "carpet",
+        "id": 95,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "bookshelf",
+        "id": 96,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "wall",
+        "id": 97,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "floor",
+        "id": 98,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "room",
+        "id": 99,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "comfortable",
+        "id": 100,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "green",
+        "id": 101,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "matching",
+        "id": 102,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "tidy",
+        "id": 103,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "favourite",
+        "id": 104,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "read",
+        "id": 105,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "clean",
+        "id": 106,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "go",
+        "id": 107,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "like",
+        "id": 108,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
       }
     ],
     "Underline": [
@@ -6995,6 +8010,329 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "5"
+      },
+      {
+        "word": "like",
+        "meaning": "يحب",
+        "options": [
+          "يحب",
+          "يكره",
+          "يشاهد",
+          "يسمع"
+        ],
+        "arabicReason": "الكلمة تعني 'يحب'.",
+        "englishReason": "The word means 'like'.",
+        "id": 97,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "go",
+        "meaning": "يذهب",
+        "options": [
+          "يذهب",
+          "يأتي",
+          "يجلس",
+          "يقف"
+        ],
+        "arabicReason": "الكلمة تعني 'يذهب'.",
+        "englishReason": "The word means 'go'.",
+        "id": 98,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "clean",
+        "meaning": "ينظف",
+        "options": [
+          "ينظف",
+          "يغسل",
+          "يرتب",
+          "يفتح"
+        ],
+        "arabicReason": "الكلمة تعني 'ينظف'.",
+        "englishReason": "The word means 'clean'.",
+        "id": 99,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "read",
+        "meaning": "يقرأ",
+        "options": [
+          "يقرأ",
+          "يكتب",
+          "يلعب",
+          "ينام"
+        ],
+        "arabicReason": "الكلمة تعني 'يقرأ'.",
+        "englishReason": "The word means 'read'.",
+        "id": 100,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "favourite",
+        "meaning": "المفضل",
+        "options": [
+          "المفضل",
+          "الجديد",
+          "القديم",
+          "الصغير"
+        ],
+        "arabicReason": "الكلمة تعني 'المفضل'.",
+        "englishReason": "The word means 'favourite'.",
+        "id": 101,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "tidy",
+        "meaning": "مرتب",
+        "options": [
+          "مرتب",
+          "متسخ",
+          "فوضوي",
+          "مزدحم"
+        ],
+        "arabicReason": "الكلمة تعني 'مرتب'.",
+        "englishReason": "The word means 'tidy'.",
+        "id": 102,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "matching",
+        "meaning": "متناسق",
+        "options": [
+          "متناسق",
+          "قديم",
+          "متسخ",
+          "ضيق"
+        ],
+        "arabicReason": "الكلمة تعني 'متناسق'.",
+        "englishReason": "The word means 'matching'.",
+        "id": 103,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "green",
+        "meaning": "أخضر",
+        "options": [
+          "أخضر",
+          "أحمر",
+          "أزرق",
+          "أصفر"
+        ],
+        "arabicReason": "الكلمة تعني 'أخضر'.",
+        "englishReason": "The word means 'green'.",
+        "id": 104,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "comfortable",
+        "meaning": "مريح",
+        "options": [
+          "مريح",
+          "قديم",
+          "صغير",
+          "سريع"
+        ],
+        "arabicReason": "الكلمة تعني 'مريح'.",
+        "englishReason": "The word means 'comfortable'.",
+        "id": 105,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "room",
+        "meaning": "غرفة",
+        "options": [
+          "غرفة",
+          "حديقة",
+          "شارع",
+          "منزل"
+        ],
+        "arabicReason": "الكلمة تعني 'غرفة'.",
+        "englishReason": "The word means 'room'.",
+        "id": 106,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "floor",
+        "meaning": "أرضية",
+        "options": [
+          "أرضية",
+          "سقف",
+          "نافذة",
+          "باب"
+        ],
+        "arabicReason": "الكلمة تعني 'أرضية'.",
+        "englishReason": "The word means 'floor'.",
+        "id": 107,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "wall",
+        "meaning": "حائط",
+        "options": [
+          "حائط",
+          "أرضية",
+          "سقف",
+          "باب"
+        ],
+        "arabicReason": "الكلمة تعني 'حائط'.",
+        "englishReason": "The word means 'wall'.",
+        "id": 108,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "bookshelf",
+        "meaning": "رف الكتب",
+        "options": [
+          "رف الكتب",
+          "مكتب",
+          "خزانة",
+          "سرير"
+        ],
+        "arabicReason": "الكلمة تعني 'رف الكتب'.",
+        "englishReason": "The word means 'bookshelf'.",
+        "id": 109,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "carpet",
+        "meaning": "سجادة",
+        "options": [
+          "سجادة",
+          "ستارة",
+          "كرسي",
+          "طاولة"
+        ],
+        "arabicReason": "الكلمة تعني 'سجادة'.",
+        "englishReason": "The word means 'carpet'.",
+        "id": 110,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "curtains",
+        "meaning": "ستائر",
+        "options": [
+          "ستائر",
+          "وسائد",
+          "بطاطين",
+          "سجاد"
+        ],
+        "arabicReason": "الكلمة تعني 'ستائر'.",
+        "englishReason": "The word means 'curtains'.",
+        "id": 111,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "window",
+        "meaning": "نافذة",
+        "options": [
+          "نافذة",
+          "باب",
+          "سقف",
+          "حائط"
+        ],
+        "arabicReason": "الكلمة تعني 'نافذة'.",
+        "englishReason": "The word means 'window'.",
+        "id": 112,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "house",
+        "meaning": "منزل",
+        "options": [
+          "منزل",
+          "مدرسة",
+          "حديقة",
+          "مستشفى"
+        ],
+        "arabicReason": "الكلمة تعني 'منزل'.",
+        "englishReason": "The word means 'house'.",
+        "id": 113,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "bed",
+        "meaning": "سرير",
+        "options": [
+          "سرير",
+          "كرسي",
+          "طاولة",
+          "خزانة"
+        ],
+        "arabicReason": "الكلمة تعني 'سرير'.",
+        "englishReason": "The word means 'bed'.",
+        "id": 114,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "bedroom",
+        "meaning": "غرفة النوم",
+        "options": [
+          "غرفة النوم",
+          "المطبخ",
+          "الحمام",
+          "غرفة المعيشة"
+        ],
+        "arabicReason": "الكلمة تعني 'غرفة النوم' وهي المكان الذي ننام فيه.",
+        "englishReason": "The word means 'bedroom' - the room where we sleep.",
+        "id": 115,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
       }
     ],
     "vocab_quiz": [
@@ -8646,6 +9984,329 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "5"
+      },
+      {
+        "word": "like",
+        "meaning": "يحب",
+        "options": [
+          "يحب",
+          "يكره",
+          "يشاهد",
+          "يسمع"
+        ],
+        "arabicReason": "الكلمة تعني 'يحب'.",
+        "englishReason": "The word means 'like'.",
+        "id": 98,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "go",
+        "meaning": "يذهب",
+        "options": [
+          "يذهب",
+          "يأتي",
+          "يجلس",
+          "يقف"
+        ],
+        "arabicReason": "الكلمة تعني 'يذهب'.",
+        "englishReason": "The word means 'go'.",
+        "id": 99,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "clean",
+        "meaning": "ينظف",
+        "options": [
+          "ينظف",
+          "يغسل",
+          "يرتب",
+          "يفتح"
+        ],
+        "arabicReason": "الكلمة تعني 'ينظف'.",
+        "englishReason": "The word means 'clean'.",
+        "id": 100,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "read",
+        "meaning": "يقرأ",
+        "options": [
+          "يقرأ",
+          "يكتب",
+          "يلعب",
+          "ينام"
+        ],
+        "arabicReason": "الكلمة تعني 'يقرأ'.",
+        "englishReason": "The word means 'read'.",
+        "id": 101,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "favourite",
+        "meaning": "المفضل",
+        "options": [
+          "المفضل",
+          "الجديد",
+          "القديم",
+          "الصغير"
+        ],
+        "arabicReason": "الكلمة تعني 'المفضل'.",
+        "englishReason": "The word means 'favourite'.",
+        "id": 102,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "tidy",
+        "meaning": "مرتب",
+        "options": [
+          "مرتب",
+          "متسخ",
+          "فوضوي",
+          "مزدحم"
+        ],
+        "arabicReason": "الكلمة تعني 'مرتب'.",
+        "englishReason": "The word means 'tidy'.",
+        "id": 103,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "matching",
+        "meaning": "متناسق",
+        "options": [
+          "متناسق",
+          "قديم",
+          "متسخ",
+          "ضيق"
+        ],
+        "arabicReason": "الكلمة تعني 'متناسق'.",
+        "englishReason": "The word means 'matching'.",
+        "id": 104,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "green",
+        "meaning": "أخضر",
+        "options": [
+          "أخضر",
+          "أحمر",
+          "أزرق",
+          "أصفر"
+        ],
+        "arabicReason": "الكلمة تعني 'أخضر'.",
+        "englishReason": "The word means 'green'.",
+        "id": 105,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "comfortable",
+        "meaning": "مريح",
+        "options": [
+          "مريح",
+          "قديم",
+          "صغير",
+          "سريع"
+        ],
+        "arabicReason": "الكلمة تعني 'مريح'.",
+        "englishReason": "The word means 'comfortable'.",
+        "id": 106,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "room",
+        "meaning": "غرفة",
+        "options": [
+          "غرفة",
+          "حديقة",
+          "شارع",
+          "منزل"
+        ],
+        "arabicReason": "الكلمة تعني 'غرفة'.",
+        "englishReason": "The word means 'room'.",
+        "id": 107,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "floor",
+        "meaning": "أرضية",
+        "options": [
+          "أرضية",
+          "سقف",
+          "نافذة",
+          "باب"
+        ],
+        "arabicReason": "الكلمة تعني 'أرضية'.",
+        "englishReason": "The word means 'floor'.",
+        "id": 108,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "wall",
+        "meaning": "حائط",
+        "options": [
+          "حائط",
+          "أرضية",
+          "سقف",
+          "باب"
+        ],
+        "arabicReason": "الكلمة تعني 'حائط'.",
+        "englishReason": "The word means 'wall'.",
+        "id": 109,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "bookshelf",
+        "meaning": "رف الكتب",
+        "options": [
+          "رف الكتب",
+          "مكتب",
+          "خزانة",
+          "سرير"
+        ],
+        "arabicReason": "الكلمة تعني 'رف الكتب'.",
+        "englishReason": "The word means 'bookshelf'.",
+        "id": 110,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "carpet",
+        "meaning": "سجادة",
+        "options": [
+          "سجادة",
+          "ستارة",
+          "كرسي",
+          "طاولة"
+        ],
+        "arabicReason": "الكلمة تعني 'سجادة'.",
+        "englishReason": "The word means 'carpet'.",
+        "id": 111,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "curtains",
+        "meaning": "ستائر",
+        "options": [
+          "ستائر",
+          "وسائد",
+          "بطاطين",
+          "سجاد"
+        ],
+        "arabicReason": "الكلمة تعني 'ستائر'.",
+        "englishReason": "The word means 'curtains'.",
+        "id": 112,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "window",
+        "meaning": "نافذة",
+        "options": [
+          "نافذة",
+          "باب",
+          "سقف",
+          "حائط"
+        ],
+        "arabicReason": "الكلمة تعني 'نافذة'.",
+        "englishReason": "The word means 'window'.",
+        "id": 113,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "house",
+        "meaning": "منزل",
+        "options": [
+          "منزل",
+          "مدرسة",
+          "حديقة",
+          "مستشفى"
+        ],
+        "arabicReason": "الكلمة تعني 'منزل'.",
+        "englishReason": "The word means 'house'.",
+        "id": 114,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "bed",
+        "meaning": "سرير",
+        "options": [
+          "سرير",
+          "كرسي",
+          "طاولة",
+          "خزانة"
+        ],
+        "arabicReason": "الكلمة تعني 'سرير'.",
+        "englishReason": "The word means 'bed'.",
+        "id": 115,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "word": "bedroom",
+        "meaning": "غرفة النوم",
+        "options": [
+          "غرفة النوم",
+          "المطبخ",
+          "الحمام",
+          "غرفة المعيشة"
+        ],
+        "arabicReason": "الكلمة تعني 'غرفة النوم' وهي المكان الذي ننام فيه.",
+        "englishReason": "The word means 'bedroom' - the room where we sleep.",
+        "id": 116,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
       }
     ],
     "what_do_you_hear": [
@@ -9874,6 +11535,216 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "5"
+      },
+      {
+        "sentence": "The curtains are green.",
+        "options": [
+          "The curtains are green.",
+          "The curtains are blue.",
+          "The carpet is green.",
+          "The wall is green."
+        ],
+        "id": 88,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "My house has many rooms.",
+        "options": [
+          "My house has many rooms.",
+          "My house has many windows.",
+          "My bedroom has many houses.",
+          "My school has many rooms."
+        ],
+        "id": 89,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "I go to bed at night.",
+        "options": [
+          "I go to bed at night.",
+          "I go to school at night.",
+          "I go to bed in the morning.",
+          "I go to the park at night."
+        ],
+        "id": 90,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "I like my bedroom very much.",
+        "options": [
+          "I like my bedroom very much.",
+          "I like my house very much.",
+          "I like my classroom very much.",
+          "I like my garden very much."
+        ],
+        "id": 91,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "Green is my favourite colour.",
+        "options": [
+          "Green is my favourite colour.",
+          "Blue is my favourite colour.",
+          "Green is my favourite room.",
+          "Green is my favourite book."
+        ],
+        "id": 92,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "My bedroom is always tidy.",
+        "options": [
+          "My bedroom is always tidy.",
+          "My bedroom is always dirty.",
+          "My bedroom is always noisy.",
+          "My bedroom is always empty."
+        ],
+        "id": 93,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "I clean my bedroom every day.",
+        "options": [
+          "I clean my bedroom every day.",
+          "I clean my house every day.",
+          "I read in my bedroom every day.",
+          "I clean my bedroom every week."
+        ],
+        "id": 94,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "I like to read before I go to bed.",
+        "options": [
+          "I like to read before I go to bed.",
+          "I like to play before I go to bed.",
+          "I like to watch TV before I go to bed.",
+          "I like to eat before I go to bed."
+        ],
+        "id": 95,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "The carpet is on the floor.",
+        "options": [
+          "The carpet is on the floor.",
+          "The carpet is on the bed.",
+          "The carpet is on the wall.",
+          "The carpet is on the window."
+        ],
+        "id": 96,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "There is a bookshelf on the wall.",
+        "options": [
+          "There is a bookshelf on the wall.",
+          "There is a bed on the wall.",
+          "There is a bookshelf on the floor.",
+          "There is a window on the wall."
+        ],
+        "id": 97,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "The curtains and the carpet are matching.",
+        "options": [
+          "The curtains and the carpet are matching.",
+          "The curtains and the carpet are dirty.",
+          "The curtains and the carpet are green.",
+          "The curtains and the carpet are small."
+        ],
+        "id": 98,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "There is a green carpet on the floor.",
+        "options": [
+          "There is a green carpet on the floor.",
+          "There is a green chair on the floor.",
+          "There is a blue carpet on the floor.",
+          "There is a green carpet on the wall."
+        ],
+        "id": 99,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "There is a window with green curtains.",
+        "options": [
+          "There is a window with green curtains.",
+          "There is a door with green curtains.",
+          "There is a window with blue curtains.",
+          "There is a bookshelf with green curtains."
+        ],
+        "id": 100,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "My bed is very comfortable.",
+        "options": [
+          "My bed is very comfortable.",
+          "My bed is very small.",
+          "My bed is very old.",
+          "My bed is very hard."
+        ],
+        "id": 101,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "sentence": "My favourite room is my bedroom.",
+        "options": [
+          "My favourite room is my bedroom.",
+          "My favourite room is my kitchen.",
+          "My favourite room is my bathroom.",
+          "My favourite room is my living room."
+        ],
+        "id": 102,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
       }
     ],
     "vocab_choose": [
@@ -10709,6 +12580,329 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "4"
+      },
+      {
+        "question": "The ______ are green.",
+        "correctAnswer": "curtains",
+        "arabicReason": "الكلمة المناسبة هي curtains لأنها تعني الستائر.",
+        "englishReason": "The correct word is 'curtains'.",
+        "options": [
+          "curtains",
+          "wall",
+          "floor",
+          "bed"
+        ],
+        "id": 50,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "My ______ has many rooms.",
+        "correctAnswer": "house",
+        "arabicReason": "الكلمة المناسبة هي house لأنها تعني منزل.",
+        "englishReason": "The correct word is 'house'.",
+        "options": [
+          "house",
+          "wall",
+          "bookshelf",
+          "bed"
+        ],
+        "id": 51,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "My ______ is my favourite room.",
+        "correctAnswer": "bedroom",
+        "arabicReason": "الكلمة المناسبة هي bedroom لأنها تعني غرفة النوم.",
+        "englishReason": "The correct word is 'bedroom'.",
+        "options": [
+          "bedroom",
+          "house",
+          "window",
+          "carpet"
+        ],
+        "id": 52,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "I ______ to bed at night.",
+        "correctAnswer": "go",
+        "arabicReason": "الكلمة المناسبة هي go لأنها تعني يذهب.",
+        "englishReason": "The correct word is 'go'.",
+        "options": [
+          "go",
+          "read",
+          "clean",
+          "like"
+        ],
+        "id": 53,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "I ______ my bedroom very much.",
+        "correctAnswer": "like",
+        "arabicReason": "الكلمة المناسبة هي like لأنها تعني يحب.",
+        "englishReason": "The correct word is 'like'.",
+        "options": [
+          "like",
+          "go",
+          "read",
+          "clean"
+        ],
+        "id": 54,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "My bedroom is my ______ room.",
+        "correctAnswer": "favourite",
+        "arabicReason": "الكلمة المناسبة هي favourite لأنها تعني المفضل.",
+        "englishReason": "The correct word is 'favourite'.",
+        "options": [
+          "favourite",
+          "comfortable",
+          "matching",
+          "tidy"
+        ],
+        "id": 55,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "Green is a ______.",
+        "correctAnswer": "colour",
+        "arabicReason": "الأخضر هو لون.",
+        "englishReason": "Green is a colour.",
+        "options": [
+          "colour",
+          "room",
+          "book",
+          "house"
+        ],
+        "id": 56,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "My bed is very ______.",
+        "correctAnswer": "comfortable",
+        "arabicReason": "الكلمة المناسبة هي comfortable لأنها تعني مريح.",
+        "englishReason": "The correct word is 'comfortable'.",
+        "options": [
+          "comfortable",
+          "tidy",
+          "green",
+          "matching"
+        ],
+        "id": 57,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "My bedroom is always ______.",
+        "correctAnswer": "tidy",
+        "arabicReason": "الكلمة المناسبة هي tidy لأنها تعني مرتب.",
+        "englishReason": "The correct word is 'tidy'.",
+        "options": [
+          "tidy",
+          "green",
+          "matching",
+          "comfortable"
+        ],
+        "id": 58,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "I ______ my bedroom every day.",
+        "correctAnswer": "clean",
+        "arabicReason": "الكلمة المناسبة هي clean لأنها تعني ينظف.",
+        "englishReason": "The correct word is 'clean'.",
+        "options": [
+          "clean",
+          "read",
+          "go",
+          "like"
+        ],
+        "id": 59,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "I like to ______ before I go to bed.",
+        "correctAnswer": "read",
+        "arabicReason": "الكلمة المناسبة هي read لأنها تعني يقرأ.",
+        "englishReason": "The correct word is 'read'.",
+        "options": [
+          "read",
+          "clean",
+          "like",
+          "go"
+        ],
+        "id": 60,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "The carpet is on the ______.",
+        "correctAnswer": "floor",
+        "arabicReason": "الكلمة المناسبة هي floor لأنها تعني الأرضية.",
+        "englishReason": "The correct word is 'floor'.",
+        "options": [
+          "floor",
+          "wall",
+          "house",
+          "bookshelf"
+        ],
+        "id": 61,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "The bookshelf is on the ______.",
+        "correctAnswer": "wall",
+        "arabicReason": "الكلمة المناسبة هي wall لأنها تعني الحائط.",
+        "englishReason": "The correct word is 'wall'.",
+        "options": [
+          "wall",
+          "floor",
+          "bed",
+          "window"
+        ],
+        "id": 62,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "There is a ______ on the wall.",
+        "correctAnswer": "bookshelf",
+        "arabicReason": "الكلمة المناسبة هي bookshelf لأنها تعني رف الكتب.",
+        "englishReason": "The correct word is 'bookshelf'.",
+        "options": [
+          "bookshelf",
+          "carpet",
+          "house",
+          "room"
+        ],
+        "id": 63,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "The curtains and the carpet are ______.",
+        "correctAnswer": "matching",
+        "arabicReason": "الكلمة المناسبة هي matching لأنها تعني متناسقة.",
+        "englishReason": "The correct word is 'matching'.",
+        "options": [
+          "matching",
+          "green",
+          "comfortable",
+          "tidy"
+        ],
+        "id": 64,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "There is a green ______ on the floor.",
+        "correctAnswer": "carpet",
+        "arabicReason": "الكلمة المناسبة هي carpet لأنها تعني سجادة.",
+        "englishReason": "The correct word is 'carpet'.",
+        "options": [
+          "carpet",
+          "wall",
+          "window",
+          "bedroom"
+        ],
+        "id": 65,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "There is a ______ with green curtains.",
+        "correctAnswer": "window",
+        "arabicReason": "الكلمة المناسبة هي window لأنها تعني نافذة.",
+        "englishReason": "The correct word is 'window'.",
+        "options": [
+          "window",
+          "carpet",
+          "bed",
+          "bookshelf"
+        ],
+        "id": 66,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "My ______ is very comfortable.",
+        "correctAnswer": "bed",
+        "arabicReason": "الكلمة المناسبة هي bed لأنها تعني سرير.",
+        "englishReason": "The correct word is 'bed'.",
+        "options": [
+          "bed",
+          "window",
+          "floor",
+          "wall"
+        ],
+        "id": 67,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
+      },
+      {
+        "question": "My favourite ______ is my bedroom.",
+        "correctAnswer": "room",
+        "arabicReason": "الكلمة المناسبة هي room لأنها تعني غرفة.",
+        "englishReason": "The correct word is 'room'.",
+        "options": [
+          "room",
+          "window",
+          "wall",
+          "carpet"
+        ],
+        "id": 68,
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1"
       }
     ],
     "sentence": [],
