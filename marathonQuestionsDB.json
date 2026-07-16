@@ -12906,6 +12906,25 @@
       }
     ],
     "sentence": [],
-    "correcr": []
+    "correcr": [],
+    "translate": [
+      {
+        "word": "My bedroom is my favourite room in my house.",
+        "meaning": "غرفة نومي هي غرفتي المفضلة في منزلي.",
+        "options": [
+          "غرفة نومي هي غرفتي المفضلة في منزلي.",
+          "غرفة الجلوس هي غرفتي الكبيرة في المدرسة.",
+          "غرفتي صغيرة ولا أحبها في منزلي.",
+          "غرفة الطعام هي غرفتي المفضلة في المنزل."
+        ],
+        "arabicReason": "الجملة تعني أن غرفة النوم هي الغرفة المفضلة في المنزل.",
+        "englishReason": "The sentence means that the bedroom is the favourite room in the house.",
+        "id": 1,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "6"
+      }
+    ]
   }
 }
