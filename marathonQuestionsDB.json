@@ -12924,6 +12924,414 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "6"
+      },
+      {
+        "word": "My bedroom is always tidy.",
+        "meaning": "غرفة نومي دائمًا مرتبة.",
+        "options": [
+          "غرفة نومي دائمًا مرتبة.",
+          "غرفة نومي دائمًا صغيرة.",
+          "غرفة نومي دائمًا متسخة.",
+          "غرفة نومي دائمًا مزدحمة."
+        ],
+        "arabicReason": "الجملة تعني أن غرفة النوم مرتبة دائمًا.",
+        "englishReason": "The sentence means that the bedroom is always tidy.",
+        "id": 2,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "He doesn't clean his room every day.",
+        "meaning": "هو لا ينظف غرفته كل يوم.",
+        "options": [
+          "هو لا ينظف غرفته كل يوم.",
+          "هو ينظف غرفته كل يوم.",
+          "هم لا ينظفون غرفتهم.",
+          "هو يقرأ في غرفته كل يوم."
+        ],
+        "arabicReason": "استخدمت doesn't للدلالة على النفي مع He.",
+        "englishReason": "The sentence uses 'doesn't' to make a negative sentence with 'He'.",
+        "id": 3,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "هناك نافذة بستائر خضراء.",
+        "meaning": "There is a window with green curtains.",
+        "options": [
+          "There is a window with green curtains.",
+          "There is a door with green curtains.",
+          "There are green curtains on the bed.",
+          "There is a bookshelf with green curtains."
+        ],
+        "arabicReason": "الجملة تصف نافذة بها ستائر خضراء.",
+        "englishReason": "The sentence describes a window with green curtains.",
+        "id": 4,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "الستائر ليست زرقاء.",
+        "meaning": "The curtains aren't blue.",
+        "options": [
+          "The curtains aren't blue.",
+          "The curtains are blue.",
+          "The curtain isn't blue.",
+          "The curtains aren't green."
+        ],
+        "arabicReason": "Curtains جمع، لذلك نستخدم aren't.",
+        "englishReason": "Curtains is plural, so we use 'aren't'.",
+        "id": 5,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "أنا أحب قراءة الكتب قبل النوم.",
+        "meaning": "I like to read books before bed.",
+        "options": [
+          "I like to read books before bed.",
+          "I like to watch TV before bed.",
+          "I don't like to read books.",
+          "She likes to read books before bed."
+        ],
+        "arabicReason": "الجملة تعبر عن عادة باستخدام I.",
+        "englishReason": "The sentence describes a habit using 'I'.",
+        "id": 6,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "الكتب على رف الكتب.",
+        "meaning": "The books are on the bookshelf.",
+        "options": [
+          "The books are on the bookshelf.",
+          "The books are under the table.",
+          "The books are in the bedroom.",
+          "The books are behind the door."
+        ],
+        "arabicReason": "Bookshelf تعني رف الكتب.",
+        "englishReason": "Bookshelf is the place where books are kept.",
+        "id": 7,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "هو لا يحب الغرفة الفوضوية.",
+        "meaning": "He doesn't like the messy room.",
+        "options": [
+          "He doesn't like the messy room.",
+          "He likes the messy room.",
+          "They don't like the messy room.",
+          "He doesn't clean the messy room."
+        ],
+        "arabicReason": "المعنى يدل على النفي مع الضمير He.",
+        "englishReason": "The sentence is negative with the subject 'He'.",
+        "id": 8,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "There is a green carpet on the floor.",
+        "meaning": "توجد سجادة خضراء على الأرض.",
+        "options": [
+          "توجد سجادة خضراء على الأرض.",
+          "توجد ستارة خضراء على الحائط.",
+          "يوجد سرير أخضر في الغرفة.",
+          "توجد سجادة زرقاء على الأرض."
+        ],
+        "arabicReason": "Carpet تعني سجادة و floor تعني الأرض.",
+        "englishReason": "Carpet means carpet and floor means the ground of the room.",
+        "id": 9,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "They like to read before they go to bed.",
+        "meaning": "هم يحبون القراءة قبل أن يذهبوا إلى النوم.",
+        "options": [
+          "هم يحبون القراءة قبل أن يذهبوا إلى النوم.",
+          "هم ينامون قبل قراءة الكتب.",
+          "هي تحب القراءة قبل النوم.",
+          "هم يذهبون إلى المدرسة كل صباح."
+        ],
+        "arabicReason": "الجملة تتحدث عن عادة يومية.",
+        "englishReason": "The sentence describes a daily habit.",
+        "id": 10,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "The cat is under the table.",
+        "meaning": "القطة تحت الطاولة.",
+        "options": [
+          "القطة تحت الطاولة.",
+          "القطة فوق الطاولة.",
+          "القطة أمام الطاولة.",
+          "القطة بين الكراسي."
+        ],
+        "arabicReason": "Under تعني تحت.",
+        "englishReason": "The preposition 'under' means below something.",
+        "id": 11,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "Lions are strong.",
+        "meaning": "الأسود قوية.",
+        "options": [
+          "الأسود قوية.",
+          "الأسود ضعيفة.",
+          "الأسود سريعة.",
+          "الأسود صغيرة."
+        ],
+        "arabicReason": "Strong تعني قوي.",
+        "englishReason": "Strong means powerful.",
+        "id": 12,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "You are early.",
+        "meaning": "أنت مبكر.",
+        "options": [
+          "أنت مبكر.",
+          "أنت متأخر.",
+          "أنت قوي.",
+          "أنت طويل."
+        ],
+        "arabicReason": "Early تعني مبكر.",
+        "englishReason": "Early means before the expected time.",
+        "id": 13,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "I am late today.",
+        "meaning": "أنا متأخر اليوم.",
+        "options": [
+          "أنا متأخر اليوم.",
+          "أنا مبكر اليوم.",
+          "أنا سعيد اليوم.",
+          "أنا في المدرسة اليوم."
+        ],
+        "arabicReason": "Late تعني متأخر.",
+        "englishReason": "Late means not on time.",
+        "id": 14,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "My friend is sad.",
+        "meaning": "صديقي حزين.",
+        "options": [
+          "صديقي حزين.",
+          "صديقي سعيد.",
+          "صديقي قوي.",
+          "صديقي سريع."
+        ],
+        "arabicReason": "Sad تعني حزين.",
+        "englishReason": "Sad means unhappy.",
+        "id": 15,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "We are happy.",
+        "meaning": "نحن سعداء.",
+        "options": [
+          "نحن سعداء.",
+          "نحن حزينون.",
+          "نحن أقوياء.",
+          "نحن متأخرون."
+        ],
+        "arabicReason": "Happy تعني سعيد.",
+        "englishReason": "Happy means glad.",
+        "id": 16,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "The bike is slow.",
+        "meaning": "الدراجة بطيئة.",
+        "options": [
+          "الدراجة بطيئة.",
+          "الدراجة سريعة.",
+          "الدراجة جديدة.",
+          "الدراجة كبيرة."
+        ],
+        "arabicReason": "Slow تعني بطيء.",
+        "englishReason": "Slow means not fast.",
+        "id": 17,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "The plane is fast.",
+        "meaning": "الطائرة سريعة.",
+        "options": [
+          "الطائرة سريعة.",
+          "الطائرة بطيئة.",
+          "الطائرة كبيرة.",
+          "الطائرة صغيرة."
+        ],
+        "arabicReason": "Fast تعني سريع.",
+        "englishReason": "Fast means moving quickly.",
+        "id": 18,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "The cat is small and friendly.",
+        "meaning": "القطة صغيرة وودودة.",
+        "options": [
+          "القطة صغيرة وودودة.",
+          "القطة كبيرة وودودة.",
+          "القطة صغيرة وسريعة.",
+          "القطة حزينة."
+        ],
+        "arabicReason": "Small تعني صغير وFriendly تعني ودود.",
+        "englishReason": "Small means little and friendly means kind.",
+        "id": 19,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "The cow is big and kind.",
+        "meaning": "البقرة كبيرة ولطيفة.",
+        "options": [
+          "البقرة كبيرة ولطيفة.",
+          "البقرة صغيرة ولطيفة.",
+          "البقرة كبيرة وسريعة.",
+          "البقرة حزينة."
+        ],
+        "arabicReason": "Big تعني كبير وKind تعني لطيف.",
+        "englishReason": "Big means large and kind means friendly.",
+        "id": 20,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "The club is far from my house.",
+        "meaning": "النادي بعيد عن منزلي.",
+        "options": [
+          "النادي بعيد عن منزلي.",
+          "النادي قريب من منزلي.",
+          "النادي داخل منزلي.",
+          "النادي خلف منزلي."
+        ],
+        "arabicReason": "Far تعني بعيد.",
+        "englishReason": "Far means a long distance away.",
+        "id": 21,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "My school is near from my house.",
+        "meaning": "مدرستي قريبة من منزلي.",
+        "options": [
+          "مدرستي قريبة من منزلي.",
+          "مدرستي بعيدة عن منزلي.",
+          "منزلي قريب من المدرسة.",
+          "مدرستي كبيرة."
+        ],
+        "arabicReason": "Near تعني قريب.",
+        "englishReason": "Near means not far.",
+        "id": 22,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "The street is long.",
+        "meaning": "الشارع طويل.",
+        "options": [
+          "الشارع طويل.",
+          "الشارع قصير.",
+          "الشارع واسع.",
+          "الشارع ضيق."
+        ],
+        "arabicReason": "Long تعني طويل.",
+        "englishReason": "Long means having a great length.",
+        "id": 23,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "She is short.",
+        "meaning": "هي قصيرة.",
+        "options": [
+          "هي قصيرة.",
+          "هي طويلة.",
+          "هي حزينة.",
+          "هي قوية."
+        ],
+        "arabicReason": "Short تعني قصير.",
+        "englishReason": "Short means not tall.",
+        "id": 24,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
+      },
+      {
+        "word": "He is tall.",
+        "meaning": "هو طويل.",
+        "options": [
+          "هو طويل.",
+          "هو قصير.",
+          "هو قوي.",
+          "هو سعيد."
+        ],
+        "arabicReason": "Tall تعني طويل.",
+        "englishReason": "Tall means high in height.",
+        "id": 25,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "5"
       }
     ]
   }
