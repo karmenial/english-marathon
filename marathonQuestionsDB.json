@@ -1454,7 +1454,7 @@
         "englishReason": "The shoes are under the bed.",
         "options": [
           "under",
-          "on",
+          "in",
           "above",
           "between"
         ],
@@ -1466,14 +1466,14 @@
       },
       {
         "question": "The lamp is ______ the table.",
-        "correctAnswer": "above",
+        "correctAnswer": "on",
         "arabicReason": "المصباح أعلى الطاولة.",
         "englishReason": "The lamp is above the table.",
         "options": [
-          "above",
+          "on",
           "under",
           "between",
-          "behind"
+          "in"
         ],
         "id": 31,
         "level": "primary",
@@ -1506,7 +1506,7 @@
         "options": [
           "behind",
           "on",
-          "under",
+          "in",
           "above"
         ],
         "id": 33,
@@ -1517,14 +1517,14 @@
       },
       {
         "question": "The picture is ______ the TV.",
-        "correctAnswer": "above",
+        "correctAnswer": "next to",
         "arabicReason": "الصورة أعلى التلفاز.",
         "englishReason": "The picture is above the TV.",
         "options": [
-          "above",
+          "next to",
           "under",
           "between",
-          "behind"
+          "on"
         ],
         "id": 34,
         "level": "primary",
