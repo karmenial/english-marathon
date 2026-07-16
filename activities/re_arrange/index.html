@@ -158,30 +158,54 @@
     
     #question { display: none; }
 
+    .section-label {
+      color: #888;
+      font-size: 0.85rem;
+      margin-bottom: 5px;
+      text-align: right;
+      padding-right: 10px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    .section-label.answer-label {
+      color: #ffd700;
+    }
+
     .options {
       display: flex; flex-direction: row; flex-wrap: wrap; gap: 8px;
       justify-content: center; margin-bottom: 15px;
-      min-height: 80px; padding: 10px;
+      min-height: 60px; padding: 10px;
       background-color: #3d3d3d; border-radius: 10px;
       box-shadow: 0 0 15px #00ffe0;
+      transition: all 0.3s ease;
     }
+    /* تمييز منطقة الإجابة بلون ذهبي خفيف للحفاظ على الهوية مع توضيح الوظيفة */
+    #answerZone {
+      border: 2px dashed #ffd700;
+      box-shadow: 0 0 15px rgba(255, 215, 0, 0.3);
+      background-color: rgba(255, 215, 0, 0.05);
+    }
+
     .option-container {
       display: flex; align-items: center; margin: 0 4px;
       min-width: 80px; background-color: #3d3d3d;
       color: #00ffe0; box-shadow: 0 0 15px #00ffe0;
       border-radius: 8px; overflow: hidden;
-      transition: all 0.3s ease; cursor: grab;
+      transition: all 0.2s ease; cursor: pointer;
       -webkit-tap-highlight-color: transparent;
       touch-action: manipulation;
+      user-select: none;
     }
-    .option-container:active { cursor: grabbing; transform: scale(1.05); }
+    .option-container:hover { transform: translateY(-3px); box-shadow: 0 0 20px #00ffe0; }
+    .option-container:active { transform: scale(0.95); }
+    
     .option-button {
       flex-grow: 1; padding: 14px 12px;
       border: none; background: none; color: inherit;
       font-size: 18px; cursor: pointer; text-align: center;
       transition: background-color 0.2s;
+      pointer-events: none;
     }
-    .option-button:hover { background-color: rgba(255, 255, 255, 0.1); }
 
     .answer-input {
       width: 85%; padding: 15px;
@@ -309,414 +333,155 @@
     /* 🎯 شاشة الشهادة العائمة العصرية */
     /* ============================================ */
     .certificate-overlay {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: rgba(0, 0, 0, 0.9);
-      z-index: 10000;
-      display: none;
-      align-items: center;
-      justify-content: center;
-      padding: 20px;
-      -webkit-backdrop-filter: blur(10px);
-      backdrop-filter: blur(10px);
+      position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+      background: rgba(0, 0, 0, 0.9); z-index: 10000; display: none;
+      align-items: center; justify-content: center; padding: 20px;
+      -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px);
     }
-
-    .certificate-overlay.show {
-      display: flex;
-    }
-
+    .certificate-overlay.show { display: flex; }
     .certificate-modal {
-      position: relative;
-      width: 100%;
-      max-width: 1000px;
-      max-height: 95vh;
-      overflow-y: auto;
+      position: relative; width: 100%; max-width: 1000px; max-height: 95vh; overflow-y: auto;
       background: linear-gradient(135deg, #001524 0%, #000d17 100%);
-      border: 3px solid #00ffe0;
-      border-radius: 20px;
-      padding: 30px;
+      border: 3px solid #00ffe0; border-radius: 20px; padding: 30px;
       box-shadow: 0 0 50px rgba(0, 255, 224, 0.4), 0 0 100px rgba(0, 255, 224, 0.2);
       animation: modalSlideIn 0.5s ease;
     }
-
     @keyframes modalSlideIn {
       from { opacity: 0; transform: scale(0.9) translateY(-30px); }
       to { opacity: 1; transform: scale(1) translateY(0); }
     }
-
     .cert-close-btn {
-      position: absolute;
-      top: 15px;
-      right: 15px;
-      width: 40px;
-      height: 40px;
-      background: linear-gradient(135deg, #ef4444, #dc2626);
-      color: white;
-      border: none;
-      border-radius: 50%;
-      font-size: 24px;
-      cursor: pointer;
-      z-index: 10001;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      transition: all 0.3s ease;
-      box-shadow: 0 4px 15px rgba(239, 68, 68, 0.4);
+      position: absolute; top: 15px; right: 15px; width: 40px; height: 40px;
+      background: linear-gradient(135deg, #ef4444, #dc2626); color: white; border: none;
+      border-radius: 50%; font-size: 24px; cursor: pointer; z-index: 10001;
+      display: flex; align-items: center; justify-content: center;
+      transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(239, 68, 68, 0.4);
     }
-
-    .cert-close-btn:hover {
-      transform: scale(1.1) rotate(90deg);
-      box-shadow: 0 6px 20px rgba(239, 68, 68, 0.6);
-    }
-
-    /* محتوى الشهادة العصرية */
+    .cert-close-btn:hover { transform: scale(1.1) rotate(90deg); box-shadow: 0 6px 20px rgba(239, 68, 68, 0.6); }
     .cert-content {
       background: linear-gradient(135deg, #001524 0%, #000d17 100%);
-      border: 3px solid #00ffe0;
-      border-radius: 20px;
-      padding: 40px;
-      color: #ffffff;
-      font-family: 'Poppins', 'Cairo', sans-serif;
-      position: relative;
-      overflow: hidden;
+      border: 3px solid #00ffe0; border-radius: 20px; padding: 40px; color: #ffffff;
+      font-family: 'Poppins', 'Cairo', sans-serif; position: relative; overflow: hidden;
       box-shadow: 0 0 30px rgba(0, 255, 224, 0.5), 0 0 60px rgba(0, 255, 224, 0.2);
     }
-
     .cert-content::before {
-      content: '';
-      position: absolute;
-      top: -50%;
-      left: -50%;
-      width: 200%;
-      height: 200%;
+      content: ''; position: absolute; top: -50%; left: -50%; width: 200%; height: 200%;
       background: radial-gradient(circle, rgba(0, 255, 224, 0.1) 0%, transparent 70%);
-      animation: rotateGlow 10s linear infinite;
-      pointer-events: none;
+      animation: rotateGlow 10s linear infinite; pointer-events: none;
     }
-
-    @keyframes rotateGlow {
-      from { transform: rotate(0deg); }
-      to { transform: rotate(360deg); }
-    }
-
-    .cert-header {
-      text-align: center;
-      margin-bottom: 30px;
-      position: relative;
-      z-index: 1;
-    }
-
+    @keyframes rotateGlow { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    .cert-header { text-align: center; margin-bottom: 30px; position: relative; z-index: 1; }
     .cert-header h1 {
-      font-family: 'Orbitron', sans-serif;
-      font-size: 2.5rem;
-      color: #ffd700;
-      margin: 0 0 10px 0;
-      letter-spacing: 4px;
-      text-transform: uppercase;
-      text-shadow: 0 0 10px rgba(255, 215, 0, 0.5), 0 0 20px rgba(255, 215, 0, 0.3);
-      font-weight: 900;
+      font-family: 'Orbitron', sans-serif; font-size: 2.5rem; color: #ffd700;
+      margin: 0 0 10px 0; letter-spacing: 4px; text-transform: uppercase;
+      text-shadow: 0 0 10px rgba(255, 215, 0, 0.5), 0 0 20px rgba(255, 215, 0, 0.3); font-weight: 900;
     }
-
     .cert-header .subtitle {
-      font-family: 'Orbitron', sans-serif;
-      color: #00ffe0;
-      font-size: 1rem;
-      letter-spacing: 6px;
-      text-transform: uppercase;
-      text-shadow: 0 0 10px rgba(0, 255, 224, 0.5);
+      font-family: 'Orbitron', sans-serif; color: #00ffe0; font-size: 1rem;
+      letter-spacing: 6px; text-transform: uppercase; text-shadow: 0 0 10px rgba(0, 255, 224, 0.5);
     }
-
-    .cert-body {
-      padding: 20px;
-      text-align: center;
-      position: relative;
-      z-index: 1;
-    }
-
-    .cert-body .certify-text {
-      font-size: 1.2rem;
-      color: #00ffe0;
-      margin-bottom: 15px;
-      font-style: italic;
-      text-shadow: 0 0 10px rgba(0, 255, 224, 0.5);
-    }
-
+    .cert-body { padding: 20px; text-align: center; position: relative; z-index: 1; }
+    .cert-body .certify-text { font-size: 1.2rem; color: #00ffe0; margin-bottom: 15px; font-style: italic; text-shadow: 0 0 10px rgba(0, 255, 224, 0.5); }
     .cert-body .student-name {
-      font-family: 'Orbitron', sans-serif;
-      font-size: 2.5rem;
-      color: #ffd700;
-      margin: 15px 0;
-      padding: 12px 30px;
-      border: 2px solid #00ffe0;
-      border-radius: 15px;
-      display: inline-block;
-      background: rgba(0, 255, 224, 0.05);
-      box-shadow: 0 0 20px rgba(0, 255, 224, 0.5);
-      text-shadow: 0 0 15px rgba(255, 215, 0, 0.5);
-      animation: glowName 2s ease-in-out infinite;
+      font-family: 'Orbitron', sans-serif; font-size: 2.5rem; color: #ffd700; margin: 15px 0;
+      padding: 12px 30px; border: 2px solid #00ffe0; border-radius: 15px; display: inline-block;
+      background: rgba(0, 255, 224, 0.05); box-shadow: 0 0 20px rgba(0, 255, 224, 0.5);
+      text-shadow: 0 0 15px rgba(255, 215, 0, 0.5); animation: glowName 2s ease-in-out infinite;
     }
-
     @keyframes glowName {
       0%, 100% { box-shadow: 0 0 20px rgba(0, 255, 224, 0.5); }
       50% { box-shadow: 0 0 30px rgba(0, 255, 224, 0.5), 0 0 40px rgba(255, 215, 0, 0.3); }
     }
-
-    .cert-body .activity-name {
-      font-size: 1.3rem;
-      color: #ffffff;
-      margin: 15px 0;
-    }
-
-    .cert-body .activity-name strong {
-      color: #00ffe0;
-      font-size: 1.5rem;
-      display: block;
-      margin-top: 8px;
-      text-shadow: 0 0 10px rgba(0, 255, 224, 0.5);
-    }
-
+    .cert-body .activity-name { font-size: 1.3rem; color: #ffffff; margin: 15px 0; }
+    .cert-body .activity-name strong { color: #00ffe0; font-size: 1.5rem; display: block; margin-top: 8px; text-shadow: 0 0 10px rgba(0, 255, 224, 0.5); }
     .grade-badge {
-      display: inline-block;
-      padding: 12px 30px;
-      background: linear-gradient(135deg, #ffd700, #d4af37);
-      color: #001524;
-      font-size: 1.5rem;
-      font-weight: bold;
-      border-radius: 25px;
-      margin: 15px 0;
-      box-shadow: 0 0 30px rgba(255, 215, 0, 0.5);
-      letter-spacing: 3px;
-      font-family: 'Orbitron', sans-serif;
-      animation: bounceIn 0.8s ease;
+      display: inline-block; padding: 12px 30px; background: linear-gradient(135deg, #ffd700, #d4af37);
+      color: #001524; font-size: 1.5rem; font-weight: bold; border-radius: 25px; margin: 15px 0;
+      box-shadow: 0 0 30px rgba(255, 215, 0, 0.5); letter-spacing: 3px;
+      font-family: 'Orbitron', sans-serif; animation: bounceIn 0.8s ease;
     }
-
     @keyframes bounceIn {
       0% { opacity: 0; transform: scale(0.3); }
       50% { opacity: 1; transform: scale(1.05); }
       70% { transform: scale(0.9); }
       100% { transform: scale(1); }
     }
-
-    .score-section {
-      display: flex;
-      justify-content: center;
-      gap: 30px;
-      margin: 25px 0;
-      flex-wrap: wrap;
-    }
-
+    .score-section { display: flex; justify-content: center; gap: 30px; margin: 25px 0; flex-wrap: wrap; }
     .score-item-cert {
-      text-align: center;
-      padding: 15px 25px;
-      background: rgba(0, 255, 224, 0.05);
-      border-radius: 15px;
-      border: 2px solid #00ffe0;
-      box-shadow: 0 0 20px rgba(0, 255, 224, 0.5);
-      min-width: 120px;
+      text-align: center; padding: 15px 25px; background: rgba(0, 255, 224, 0.05);
+      border-radius: 15px; border: 2px solid #00ffe0; box-shadow: 0 0 20px rgba(0, 255, 224, 0.5); min-width: 120px;
     }
-
-    .score-label {
-      font-size: 0.9rem;
-      color: #00ffe0;
-      text-transform: uppercase;
-      margin-bottom: 8px;
-      letter-spacing: 2px;
-    }
-
-    .score-value {
-      font-size: 1.8rem;
-      color: #ffd700;
-      font-weight: bold;
-      font-family: 'Orbitron', sans-serif;
-      text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
-    }
-
+    .score-label { font-size: 0.9rem; color: #00ffe0; text-transform: uppercase; margin-bottom: 8px; letter-spacing: 2px; }
+    .score-value { font-size: 1.8rem; color: #ffd700; font-weight: bold; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px rgba(255, 215, 0, 0.5); }
     .motivation-text {
-      font-family: 'Cairo', sans-serif;
-      font-size: 1.1rem;
-      color: #ffffff;
-      line-height: 1.8;
-      margin: 25px auto;
-      max-width: 600px;
-      padding: 20px;
-      background: rgba(0, 255, 224, 0.05);
-      border-radius: 15px;
-      border-right: 4px solid #ffd700;
-      border-left: 4px solid #ffd700;
-      box-shadow: 0 0 20px rgba(255, 215, 0, 0.2);
-      position: relative;
+      font-family: 'Cairo', sans-serif; font-size: 1.1rem; color: #ffffff; line-height: 1.8;
+      margin: 25px auto; max-width: 600px; padding: 20px; background: rgba(0, 255, 224, 0.05);
+      border-radius: 15px; border-right: 4px solid #ffd700; border-left: 4px solid #ffd700;
+      box-shadow: 0 0 20px rgba(255, 215, 0, 0.2); position: relative;
     }
-
     .motivation-text::before {
-      content: "💫";
-      position: absolute;
-      top: -15px;
-      left: 50%;
-      transform: translateX(-50%);
-      font-size: 1.8rem;
-      animation: float 2s ease-in-out infinite;
+      content: "💫"; position: absolute; top: -15px; left: 50%; transform: translateX(-50%);
+      font-size: 1.8rem; animation: float 2s ease-in-out infinite;
     }
-
     @keyframes float {
       0%, 100% { transform: translateX(-50%) translateY(0); }
       50% { transform: translateX(-50%) translateY(-10px); }
     }
-
     .cert-footer {
-      display: flex;
-      justify-content: space-around;
-      align-items: flex-end;
-      margin-top: 40px;
-      padding-top: 25px;
-      border-top: 2px solid #00ffe0;
-      flex-wrap: wrap;
-      gap: 20px;
-      position: relative;
-      z-index: 1;
+      display: flex; justify-content: space-around; align-items: flex-end; margin-top: 40px;
+      padding-top: 25px; border-top: 2px solid #00ffe0; flex-wrap: wrap; gap: 20px; position: relative; z-index: 1;
     }
-
-    .signature-block {
-      text-align: center;
-      min-width: 150px;
-    }
-
+    .signature-block { text-align: center; min-width: 150px; }
     .signature-block .sig-name {
-      font-family: 'Brush Script MT', cursive;
-      font-size: 1.8rem;
-      color: #ffd700;
-      margin-bottom: 5px;
-      text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+      font-family: 'Brush Script MT', cursive; font-size: 1.8rem; color: #ffd700;
+      margin-bottom: 5px; text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
     }
-
     .signature-block .sig-line {
-      border-top: 2px solid #00ffe0;
-      padding-top: 6px;
-      font-size: 0.9rem;
-      color: #00ffe0;
-      margin-top: 6px;
-      letter-spacing: 2px;
-      text-transform: uppercase;
+      border-top: 2px solid #00ffe0; padding-top: 6px; font-size: 0.9rem; color: #00ffe0;
+      margin-top: 6px; letter-spacing: 2px; text-transform: uppercase;
     }
-
     .seal {
-      width: 100px;
-      height: 100px;
-      border: 4px solid #ffd700;
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      background: radial-gradient(circle, #ffd700, #d4af37);
-      color: #001524;
-      font-weight: bold;
-      font-size: 0.8rem;
-      text-align: center;
-      box-shadow: 0 0 30px rgba(255, 215, 0, 0.6);
-      transform: rotate(-15deg);
-      line-height: 1.3;
-      padding: 8px;
-      font-family: 'Orbitron', sans-serif;
-      animation: rotateSeal 1s ease-out;
-      position: relative;
+      width: 100px; height: 100px; border: 4px solid #ffd700; border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      background: radial-gradient(circle, #ffd700, #d4af37); color: #001524;
+      font-weight: bold; font-size: 0.8rem; text-align: center;
+      box-shadow: 0 0 30px rgba(255, 215, 0, 0.6); transform: rotate(-15deg);
+      line-height: 1.3; padding: 8px; font-family: 'Orbitron', sans-serif;
+      animation: rotateSeal 1s ease-out; position: relative;
     }
-
     @keyframes rotateSeal {
       from { transform: rotate(-360deg) scale(0.5); opacity: 0; }
       to { transform: rotate(-15deg) scale(1); opacity: 1; }
     }
-
     .seal::before {
-      content: "";
-      position: absolute;
-      top: 5px;
-      left: 5px;
-      right: 5px;
-      bottom: 5px;
-      border: 2px dashed #001524;
-      border-radius: 50%;
+      content: ""; position: absolute; top: 5px; left: 5px; right: 5px; bottom: 5px;
+      border: 2px dashed #001524; border-radius: 50%;
     }
-
-    /* أزرار الشهادة */
-    .cert-actions {
-      display: flex;
-      justify-content: center;
-      gap: 15px;
-      margin-top: 30px;
-      flex-wrap: wrap;
-      position: relative;
-      z-index: 1;
-    }
-
+    .cert-actions { display: flex; justify-content: center; gap: 15px; margin-top: 30px; flex-wrap: wrap; position: relative; z-index: 1; }
     .cert-action-btn {
-      padding: 12px 25px;
-      font-size: 1rem;
-      font-weight: bold;
-      border: none;
-      border-radius: 25px;
-      cursor: pointer;
-      transition: all 0.3s;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      color: white;
-      font-family: 'Poppins', sans-serif;
+      padding: 12px 25px; font-size: 1rem; font-weight: bold; border: none; border-radius: 25px;
+      cursor: pointer; transition: all 0.3s; display: flex; align-items: center; gap: 8px;
+      color: white; font-family: 'Poppins', sans-serif;
     }
-
     .cert-action-btn:hover { transform: scale(1.05); }
-
-    .cert-save-btn {
-      background: linear-gradient(to right, #00b4db, #0083b0);
-      box-shadow: 0 0 20px rgba(0, 180, 219, 0.5);
-    }
-
-    .cert-whatsapp-btn {
-      background: linear-gradient(to right, #25D366, #128C7E);
-      box-shadow: 0 0 20px rgba(37, 211, 102, 0.5);
-    }
-
-    .cert-restart-btn {
-      background: linear-gradient(to right, #8a2be2, #4b0082);
-      box-shadow: 0 0 20px rgba(138, 43, 226, 0.6);
-    }
-
-    .cert-share-btn {
-      background: linear-gradient(to right, #ff6b6b, #ee5a6f);
-      box-shadow: 0 0 20px rgba(255, 107, 107, 0.5);
-    }
+    .cert-save-btn { background: linear-gradient(to right, #00b4db, #0083b0); box-shadow: 0 0 20px rgba(0, 180, 219, 0.5); }
+    .cert-whatsapp-btn { background: linear-gradient(to right, #25D366, #128C7E); box-shadow: 0 0 20px rgba(37, 211, 102, 0.5); }
+    .cert-restart-btn { background: linear-gradient(to right, #8a2be2, #4b0082); box-shadow: 0 0 20px rgba(138, 43, 226, 0.6); }
+    .cert-share-btn { background: linear-gradient(to right, #ff6b6b, #ee5a6f); box-shadow: 0 0 20px rgba(255, 107, 107, 0.5); }
 
     .loading-overlay {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: rgba(0, 0, 0, 0.85);
-      display: none;
-      align-items: center;
-      justify-content: center;
-      flex-direction: column;
-      z-index: 99999;
-      color: #00ffe0;
-      font-size: 1.3rem;
-      font-weight: bold;
+      position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+      background: rgba(0, 0, 0, 0.85); display: none; align-items: center;
+      justify-content: center; flex-direction: column; z-index: 99999;
+      color: #00ffe0; font-size: 1.3rem; font-weight: bold;
     }
     .loading-overlay.show { display: flex; }
     .spinner {
-      width: 60px;
-      height: 60px;
-      border: 5px solid rgba(0, 255, 224, 0.2);
-      border-top: 5px solid #00ffe0;
-      border-radius: 50%;
-      animation: spin 1s linear infinite;
-      margin-bottom: 20px;
+      width: 60px; height: 60px; border: 5px solid rgba(0, 255, 224, 0.2);
+      border-top: 5px solid #00ffe0; border-radius: 50%;
+      animation: spin 1s linear infinite; margin-bottom: 20px;
     }
-    @keyframes spin {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }
+    @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
 
     @media screen and (max-width: 768px) {
       .cert-content { padding: 25px 20px; }
@@ -729,7 +494,6 @@
       .cert-actions { gap: 10px; }
       .cert-action-btn { padding: 10px 20px; font-size: 0.9rem; }
     }
-
     @media screen and (max-width: 480px) {
       .cert-content { padding: 20px 15px; }
       .cert-header h1 { font-size: 1.5rem; }
@@ -738,7 +502,6 @@
       .score-item-cert { width: 100%; }
       .cert-action-btn { width: 100%; justify-content: center; }
     }
-
     @media screen and (max-width: 320px) {
       .learning-path-bar { width: 90%; font-size: 0.9rem; padding: 6px 10px; border-radius: 6px; }
       .learning-path-bar h1 { font-size: 1.4rem; }
@@ -753,7 +516,6 @@
       .answer-input { width: 95%; padding: 12px; font-size: 1.1rem; }
       #submitBtn { font-size: 15px; padding: 10px 25px; width: 90%; }
     }
-    
     @media screen and (min-width: 321px) and (max-width: 480px) {
       .learning-path-bar { width: 80%; font-size: 1rem; padding: 6px 15px; border-radius: 6px; }
       .learning-path-bar h1 { font-size: 1.6rem; }
@@ -767,7 +529,6 @@
       .answer-input { width: 90%; padding: 14px; font-size: 1.2rem; }
       #submitBtn { font-size: 16px; padding: 12px 30px; width: 80%; }
     }
-    
     @media screen and (min-width: 481px) { .learning-path-bar { width: 61%; } }
   </style>
 </head>
@@ -804,9 +565,14 @@
     
     <p id="question"></p>
     
+    <!-- ✅ تم التعديل هنا: فصل صندوق الكلمات عن منطقة الإجابة -->
+    <div class="section-label">الكلمات المتاحة:</div>
     <div id="options" class="options"></div>
     
-    <input type="text" id="answerInput" class="answer-input" placeholder="Speak or type the correct sentence here..." />
+    <div class="section-label answer-label">إجابتك (اضغط على الكلمة لنقلها):</div>
+    <div id="answerZone" class="options"></div>
+    
+    <input type="text" id="answerInput" class="answer-input" placeholder="Or speak/type here..." />
     
     <div class="clear-btn-container">
       <button class="clear-btn" onclick="clearAnswerInput()">🗑️ مسح النص</button>
@@ -825,7 +591,6 @@
 <div class="certificate-overlay" id="certificateOverlay">
   <div class="certificate-modal">
     <button class="cert-close-btn" onclick="closeCertificateModal()" title="إغلاق">×</button>
-    
     <div class="cert-content" id="certificateCard">
       <div class="cert-header">
         <h1>🏆 ENGLISH MARATHON 🏆</h1>
@@ -867,7 +632,6 @@
         </div>
       </div>
     </div>
-    
     <div class="cert-actions">
       <button class="cert-action-btn cert-save-btn" onclick="saveCertificateAsImage()" id="saveImgBtn">📥 Download</button>
       <button class="cert-action-btn cert-whatsapp-btn" onclick="sendToWhatsApp()" id="whatsappBtn">📱 WhatsApp</button>
@@ -878,7 +642,6 @@
 </div>
 
 <div class="loading-overlay" id="loadingOverlay"><div class="spinner"></div><div id="loadingText">جاري تجهيز الشهادة...</div></div>
-
 <div class="success-message" id="successMessage" role="alert" aria-live="assertive">🎉 Excellent! Correct Answer! 🎉</div>
 
 <div class="popup-overlay" id="correctAnswerOverlay" onclick="closeCorrectAnswerPopup()" aria-hidden="true"></div>
@@ -898,18 +661,17 @@
   <h3 id="howItWorksTitle" style="color: #9c27b0; font-size: 1.8rem;">❓ كيف يعمل هذا النشاط؟</h3>
   <div style="text-align: right; color: #00ffe0; font-size: 1.05rem; line-height: 1.8; padding: 15px; background: #2a2a2a; border-radius: 8px; margin: 15px 0;">
     <p style="margin-bottom: 12px;">🎯 <strong>الهدف:</strong> إعادة ترتيب الكلمات لتكوين جملة صحيحة.</p>
-    <p style="margin-bottom: 12px;">📝 <strong>طريقة العمل:</strong></p>
+    <p style="margin-bottom: 12px;">📝 <strong>طريقة العمل الجديدة:</strong></p>
     <ol style="padding-right: 20px; line-height: 2;">
-      <li>ستظهر لك مجموعة من الكلمات في مربعات</li>
-      <li>اسحب الكلمات وأعد ترتيبها لتكوين الجملة الصحيحة</li>
-      <li>أو اضغط على زر 🎤 لتسجيل الجملة بالصوت</li>
-      <li>أو اكتب الجملة في الحقل المخصص</li>
+      <li>ستظهر لك مجموعة من الكلمات في الأعلى</li>
+      <li><strong>اضغط على الكلمات بالترتيب الصحيح</strong> لتنزل إلى خانة "إجابتك"</li>
+      <li>إذا أخطأت، اضغط على الكلمة في خانة "إجابتك" لإرجاعها للأعلى</li>
+      <li>أو اضغط على زر 🎤 لتسجيل الجملة بالصوت، أو اكتبها يدوياً</li>
       <li>اضغط Submit للتحقق من إجابتك</li>
       <li>إذا كانت إجابتك صحيحة ✅ ستنتقل للسؤال التالي</li>
       <li>إذا كانت خاطئة ❌ ستظهر الإجابة الصحيحة مع الشرح</li>
-      <li>في النهاية ستحصل على شهادة إنجاز</li>
     </ol>
-    <p style="margin-top: 12px;">💡 <strong>نصيحة:</strong> يمكنك استخدام السحب والإفلات أو التسجيل الصوتي أو الكتابة!</p>
+    <p style="margin-top: 12px;">💡 <strong>نصيحة:</strong> النقر على الكلمة ينقلها فوراً ويُنطقها صوتياً!</p>
   </div>
   <div class="popup-buttons">
     <button onclick="closeHowItWorksPopup()" style="background-color: #9c27b0; color: white; flex: 1; min-width: 150px;">✅ فهمت، لنبدأ!</button>
@@ -921,7 +683,6 @@
   
   let speechRate = 1.0;
   let currentQuestionIndex = 0;
-  let draggedItem = null;
   let currentArabicReason = "";
   let currentEnglishReason = "";
   let shuffledQuestions = [];
@@ -948,9 +709,6 @@
     "Amazing!", "Outstanding!"
   ];
 
-  // ==========================================
-  // ✅ دوال الشهادة العصرية
-  // ==========================================
   function getGrade(percent) {
     if (percent >= 90) return { en: 'Excellent', emoji: '🌟', motivation: 'إنجاز رائع! تفانيك في تعلم اللغة الإنجليزية ملهم حقاً. استمر في التألق وواصل هذه الرحلة المميزة نحو التميز!' };
     if (percent >= 80) return { en: 'Very Good', emoji: '👏', motivation: 'عمل ممتاز! لقد أظهرت التزاماً وتقدماً كبيراً. استمر في المضي قدماً، فجهودك تؤتي ثمارها بشكل رائع!' };
@@ -959,6 +717,7 @@
     return { en: 'Needs Improvement', emoji: '💪', motivation: 'لا تستسلم! كل تحدٍ هو فرصة للتعلم. راجع المادة، وتدرب أكثر، وستلاحظ تحسناً مذهلاً!' };
   }
 
+  // ✅ تم الحفاظ على هذه الدالة بالضبط كما طلبت لضمان سحب الأسئلة من مستودع GitHub
   async function loadQuestionsFromDatabase() {
     console.log("🔄 محاولة تحميل الأسئلة...");
     let questions = [];
@@ -1009,7 +768,7 @@
         <div class="icon">📭</div>
         <h2>لا توجد أسئلة متاحة حالياً</h2>
         <p>عذراً، لم يتم إضافة أسئلة لهذا المسار بعد.<br><strong>المسار:</strong> ${currentLevel} - Grade ${currentGrade} - ${currentType} - Unit ${currentUnit}</p>
-        <button class="generate-btn" onclick="goToHomePage()" style="margin-top: 15px;">🏠 العودة للرئيسية</button>
+        <button class="generate-btn" onclick="goToHomePage()" style="margin-top: 15px; padding: 10px 20px; background: #ff5722; color: white; border: none; border-radius: 8px; cursor: pointer;">🏠 العودة للرئيسية</button>
       </div>`;
   }
 
@@ -1070,54 +829,44 @@
 
   function startRecording() {
     const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
-    
     if (!SpeechRecognition) {
       alert('Your browser does not support speech recognition. Please use Chrome or Edge.');
       return;
     }
-    
     if (!recognition) {
       recognition = new SpeechRecognition();
       recognition.continuous = true;
       recognition.interimResults = true;
       recognition.lang = 'en-US';
-      
       recognition.onresult = function(event) {
         let transcript = '';
         for (let i = event.resultIndex; i < event.results.length; ++i) {
           transcript += event.results[i][0].transcript;
         }
-        
         const inputField = document.getElementById('answerInput');
         const existingText = inputField.dataset.baseText || '';
-        
         if (existingText && !existingText.endsWith(' ') && transcript) {
           inputField.value = existingText + ' ' + transcript;
         } else {
           inputField.value = existingText + transcript;
         }
       };
-      
       recognition.onerror = function(event) {
         console.error('Speech recognition error:', event.error);
         if (event.error === 'no-speech' || event.error === 'audio-capture') {
           stopRecording();
         }
       };
-      
       recognition.onend = function() {
         const inputField = document.getElementById('answerInput');
         inputField.dataset.baseText = inputField.value;
       };
     }
-    
     const inputField = document.getElementById('answerInput');
     inputField.dataset.baseText = inputField.value;
-    
     isRecording = true;
     document.getElementById('recordBtn').classList.add('recording');
     document.getElementById('recordingIndicator').style.display = 'block';
-    
     recognition.start();
   }
 
@@ -1126,7 +875,6 @@
     isRecording = false;
     document.getElementById('recordBtn').classList.remove('recording');
     document.getElementById('recordingIndicator').style.display = 'none';
-    
     const inputField = document.getElementById('answerInput');
     inputField.dataset.baseText = inputField.value;
   }
@@ -1142,11 +890,9 @@
     document.getElementById("totalQNum").textContent = totalQuestions;
     document.getElementById("correctCount").textContent = currentScore;
     document.getElementById("wrongCount").textContent = wrongAnswers;
-    
     const answered = currentScore + wrongAnswers;
     const percent = answered > 0 ? Math.round((currentScore / answered) * 100) : 0;
     document.getElementById("percentage").textContent = percent + "%";
-    
     const progressPercent = ((currentQuestionIndex) / totalQuestions) * 100;
     document.getElementById("progressBar").style.width = progressPercent + "%";
   }
@@ -1158,7 +904,6 @@
         showNoQuestionsMessage(); 
         return; 
       }
-      
       shuffledQuestions = [...dbQuestions];
       shuffleArray(shuffledQuestions);
       totalQuestions = shuffledQuestions.length;
@@ -1179,29 +924,30 @@
     document.getElementById("question").textContent = q.sentence;
     
     const optionsDiv = document.getElementById("options");
+    const answerZone = document.getElementById("answerZone");
     optionsDiv.innerHTML = "";
+    answerZone.innerHTML = ""; // تفريغ منطقة الإجابة للسؤال الجديد
     
     const shuffledWords = [...q.words];
     shuffleArray(shuffledWords);
     
-    shuffledWords.forEach((word, i) => {
+    shuffledWords.forEach((word) => {
       const container = document.createElement("div");
       container.className = "option-container";
-      container.draggable = true;
       const btn = document.createElement("button");
       btn.className = "option-button";
       btn.textContent = word;
-      btn.onclick = () => speakText(word, 'en-US');
       container.appendChild(btn);
       optionsDiv.appendChild(container);
     });
 
-    addDragListeners();
+    // ✅ استبدال السحب بالنقر
+    setupClickToMove();
     
     const inputField = document.getElementById('answerInput');
     inputField.value = '';
     inputField.dataset.baseText = '';
-    inputField.placeholder = "Speak or type the correct sentence here...";
+    inputField.placeholder = "Or speak/type here...";
     
     const submitBtn = document.getElementById("submitBtn");
     submitBtn.textContent = "Submit";
@@ -1210,41 +956,49 @@
     submitBtn.disabled = false;
     
     document.getElementById("successMessage").style.display = "none";
-    
     if (isRecording) stopRecording();
-    
     updateScoreBoard();
   }
 
-  function addDragListeners() {
-    const items = document.querySelectorAll('.option-container');
-    items.forEach(item => {
-      item.addEventListener('dragstart', () => { draggedItem = item; });
-      item.addEventListener('dragover', e => e.preventDefault());
-      item.addEventListener('drop', function() {
-        if (!draggedItem || this === draggedItem) return;
-        const parent = this.parentNode;
-        const cloneDragged = draggedItem.cloneNode(true);
-        const cloneThis = this.cloneNode(true);
-        parent.replaceChild(cloneDragged, this);
-        parent.replaceChild(cloneThis, draggedItem);
-        addDragListeners();
-      });
+  // ✅ دالة النقر الجديدة (بديلة للسحب والإفلات)
+  function setupClickToMove() {
+    const wordBank = document.getElementById("options");
+    const answerZone = document.getElementById("answerZone");
+
+    // عند النقر في صندوق الكلمات: انقل العنصر إلى منطقة الإجابة
+    wordBank.addEventListener("click", function(e) {
+      const container = e.target.closest(".option-container");
+      if (container) {
+        answerZone.appendChild(container); // appendChild ينقل العنصر فعلياً ويحافظ على ترتيب النقر
+        const word = container.querySelector(".option-button").textContent;
+        speakText(word, 'en-US'); // الحفاظ على ميزة النطق
+      }
+    });
+
+    // عند النقر في منطقة الإجابة: أعد العنصر إلى صندوق الكلمات
+    answerZone.addEventListener("click", function(e) {
+      const container = e.target.closest(".option-container");
+      if (container) {
+        wordBank.appendChild(container);
+        const word = container.querySelector(".option-button").textContent;
+        speakText(word, 'en-US');
+      }
     });
   }
 
   function submitAnswer() {
     const q = shuffledQuestions[currentQuestionIndex];
     
-    const currentOrder = Array.from(document.querySelectorAll('.option-container'))
+    // ✅ التعديل: قراءة الترتيب من منطقة الإجابة فقط بدلاً من كل الصفحة
+    const currentOrder = Array.from(document.querySelectorAll('#answerZone .option-container'))
       .map(el => el.querySelector('.option-button').textContent);
     
-    const isCorrectByDrag = JSON.stringify(currentOrder) === JSON.stringify(q.words);
+    const isCorrectByClick = JSON.stringify(currentOrder) === JSON.stringify(q.words);
     
     const userInput = document.getElementById('answerInput').value.trim();
     const isCorrectByVoice = userInput && checkVoiceAnswer(userInput);
     
-    const isCorrect = isCorrectByDrag || isCorrectByVoice;
+    const isCorrect = isCorrectByClick || isCorrectByVoice;
     document.getElementById("submitBtn").disabled = true;
 
     if (isCorrect) {
@@ -1254,16 +1008,13 @@
       wrongAnswers++;
       handleIncorrectAnswer();
     }
-    
     updateScoreBoard();
   }
 
   function handleCorrectAnswer() {
     const randomIndex = Math.floor(Math.random() * encouragingMessages.length);
     speakText(encouragingMessages[randomIndex], 'en-US');
-    
     document.getElementById("successMessage").style.display = "block";
-    
     setTimeout(() => {
       document.getElementById("successMessage").style.display = "none";
       const submitBtn = document.getElementById("submitBtn");
@@ -1276,20 +1027,15 @@
 
   function handleIncorrectAnswer() {
     const q = shuffledQuestions[currentQuestionIndex];
-    
     currentArabicReason = q.arabicReason;
     currentEnglishReason = q.englishReason;
-    
     document.getElementById("correctAnswerList").innerHTML = '';
     const li = document.createElement('li');
     li.textContent = q.sentence;
     document.getElementById("correctAnswerList").appendChild(li);
-    
     document.getElementById("correctAnswerReason").textContent = q.arabicReason;
-    
     document.getElementById("correctAnswerPopup").style.display = "flex";
     document.getElementById("correctAnswerOverlay").style.display = "block";
-    
     speakText(`The correct answer is: ${q.sentence}`, 'en-US');
   }
 
@@ -1297,12 +1043,10 @@
     document.getElementById("correctAnswerPopup").style.display = "none";
     document.getElementById("correctAnswerOverlay").style.display = "none";
     currentQuestionIndex++;
-    
     if (currentQuestionIndex >= shuffledQuestions.length) {
       showEndScreen();
       return;
     }
-    
     loadQuestion();
   }
 
@@ -1317,12 +1061,10 @@
   function nextQuestion() {
     document.getElementById("successMessage").style.display = "none";
     currentQuestionIndex++;
-    
     if (currentQuestionIndex >= shuffledQuestions.length) {
       showEndScreen();
       return;
     }
-    
     loadQuestion();
   }
 
@@ -1331,13 +1073,11 @@
     showCertificate();
   }
 
-  // ✅ دالة عرض الشهادة العصرية كشاشة عائمة
   function showCertificate() {
     const percent = totalQuestions > 0 ? Math.round((currentScore / totalQuestions) * 100) : 0;
     const grade = getGrade(percent);
     const today = new Date();
     const dateStr = today.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
-    
     document.getElementById('certName').textContent = studentName || studentNameFromURL || 'Student';
     document.getElementById('certScore').textContent = `${currentScore} / ${totalQuestions}`;
     document.getElementById('certPercentage').textContent = `${percent}%`;
@@ -1345,13 +1085,10 @@
     document.getElementById('certDate').textContent = dateStr;
     document.getElementById('certYear').textContent = today.getFullYear();
     document.getElementById('certMotivation').textContent = grade.motivation;
-    
     document.getElementById('certificateOverlay').classList.add('show');
-    
     setTimeout(() => { speakText(`Congratulations ${studentName || studentNameFromURL || 'Student'}!`, 'en-US'); }, 600);
   }
 
-  // ✅ دالة إغلاق الشاشة العائمة
   function closeCertificateModal() {
     document.getElementById('certificateOverlay').classList.remove('show');
   }
@@ -1390,7 +1127,6 @@
       const grade = getGrade(percent);
       const messageText = `🎉 *Certificate of Completion* 🎉\n\n👤 *Student:* ${studentName || studentNameFromURL || 'Student'}\n📚 *Activity:* Re-arrange (رتب الكلمات)\n📊 *Score:* ${currentScore} / ${totalQuestions} (${percent}%)\n🏆 *Grade:* ${grade.emoji} ${grade.en}\n\n📎 Please find my certificate attached!\n\n🏆 English Marathon Platform 🚀`;
       const whatsappUrl = `https://wa.me/${INSTRUCTOR_WHATSAPP}?text=${encodeURIComponent(messageText)}`;
-      
       if (blob && navigator.canShare && navigator.canShare({ files: [new File([blob], 'certificate.png', { type: 'image/png' })] })) {
         try { await navigator.share({ title: '🏆 English Marathon Certificate', text: messageText, files: [new File([blob], `Certificate_${studentName || studentNameFromURL || 'Student'}.png`, { type: 'image/png' })] }); loading.classList.remove("show"); btn.disabled = false; return; } catch (e) { if (e.name === 'AbortError') { loading.classList.remove("show"); btn.disabled = false; return; } }
       }
@@ -1415,7 +1151,6 @@
         text: `I just completed Re-arrange (رتب الكلمات) on English Marathon! 🎉\n\n📊 Score: ${currentScore}/${totalQuestions} (${percent}%)\n🏆 Grade: ${grade.emoji} ${grade.en}`,
         files: [new File([blob], `Certificate_${studentName || studentNameFromURL || 'Student'}.png`, { type: 'image/png' })]
       };
-      
       if (navigator.canShare && navigator.canShare({ files: [new File([blob], 'certificate.png', { type: 'image/png' })] })) {
         try { await navigator.share(shareData); loading.classList.remove("show"); btn.disabled = false; return; } catch (err) { if (err.name !== 'AbortError') { await saveCertificateAsImage(); loading.classList.remove("show"); btn.disabled = false; alert("📥 تم تنزيل الشهادة\n\nالرجاء مشاركتها يدوياً من معرض الصور"); return; } }
       } else {
@@ -1435,7 +1170,6 @@
     shuffledQuestions = [];
     studentName = "";
     certificateBlob = null;
-    
     closeCertificateModal();
     updateScoreBoard();
     loadQuestion();
@@ -1451,7 +1185,6 @@
       if (document.getElementById('successMessage').style.display === 'block') { nextQuestion(); return; }
       if (document.getElementById('correctAnswerPopup').style.display === 'flex') { closeCorrectAnswerPopup(); return; }
       if (document.getElementById('howItWorksPopup').style.display === 'flex') { closeHowItWorksPopup(); return; }
-      
       const submitBtn = document.getElementById('submitBtn');
       if (submitBtn.classList.contains('next-mode')) { nextQuestion(); return; }
       if (!submitBtn.disabled) submitAnswer();
@@ -1462,7 +1195,6 @@
 
   window.onload = async function() {
     await loadQuestion();
-    
     const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
     if (!SpeechRecognition) {
       document.getElementById('recordBtn').disabled = true;
@@ -1470,6 +1202,5 @@
     }
   };
 </script>
-
 </body>
 </html>
