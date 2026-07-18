@@ -1228,13 +1228,17 @@
     return false;
   }
 
-  function speakCurrentWord() {
+   function speakCurrentWord() {
     if (shuffledQuestions.length === 0) return;
     const currentQ = shuffledQuestions[currentQuestionIndex];
     if (currentQ) {
       const listenBtn = document.getElementById("listenBtn");
       listenBtn.disabled = true;
-      speakText(currentQ.word, 'en-US');
+      
+      // ✅ السطر السحري: الكشف التلقائي عن اللغة (عربي أم إنجليزي)
+      const detectedLang = /[\u0600-\u06FF]/.test(currentQ.word) ? 'ar-SA' : 'en-US';
+      
+      speakText(currentQ.word, detectedLang);
       setTimeout(() => { listenBtn.disabled = false; }, 1000);
     }
   }
