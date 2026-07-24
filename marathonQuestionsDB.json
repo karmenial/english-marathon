@@ -337,6 +337,54 @@
         "curriculum": "OL",
         "unit": "6",
         "id": 12
+      },
+      {
+        "passage": "On the garden day, I go to the {blank1} with my friend. The sun is {blank2} and the air is fresh. We slide on the slide and play on the {blank3}. At lunchtime, we have {blank4} and take a rest. Then we see the birds singing and the butterflies flying around the colourful {blank5}. I always {blank6} the garden day.",
+        "options": [
+          "garden",
+          "shining",
+          "swing",
+          "lunch",
+          "flowers",
+          "enjoy"
+        ],
+        "correctAnswer": [
+          "garden",
+          "shining",
+          "swing",
+          "lunch",
+          "flowers",
+          "enjoy"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 14
+      },
+      {
+        "passage": "This is my {blank1}. I sleep in the {blank2}. I sit with my {blank3} and watch TV in the living room. We eat in the {blank4}. My house is always clean and {blank5}.",
+        "options": [
+          "house",
+          "bedroom",
+          "family",
+          "dining room",
+          "tidy"
+        ],
+        "correctAnswer": [
+          "house",
+          "bedroom",
+          "family",
+          "dining room",
+          "tidy"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 15
       }
     ],
     "correct": [
@@ -1441,6 +1489,126 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 91
+      },
+      {
+        "sentence": "She go to the garden every Friday.",
+        "errorWord": "go",
+        "correctWord": "goes",
+        "arabicReason": "نستخدم (goes) مع الفاعل المفرد (She) في المضارع البسيط.",
+        "englishReason": "We use 'goes' with the singular subject 'She' in the simple present.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 92
+      },
+      {
+        "sentence": "The birds is singing.",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "نستخدم (are) لأن (birds) جمع.",
+        "englishReason": "We use 'are' because 'birds' is plural.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 93
+      },
+      {
+        "sentence": "Do Ahmed like colourful flowers?",
+        "errorWord": "Do",
+        "correctWord": "Does",
+        "arabicReason": "نستخدم (Does) مع الفاعل المفرد (Ahmed).",
+        "englishReason": "We use 'Does' with the singular subject 'Ahmed'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 94
+      },
+      {
+        "sentence": "They enjoys the garden day.",
+        "errorWord": "enjoys",
+        "correctWord": "enjoy",
+        "arabicReason": "مع (They) نستخدم الفعل بدون (s).",
+        "englishReason": "With 'They', we use the base form of the verb.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 95
+      },
+      {
+        "sentence": "The butterfly are flying around the flowers.",
+        "errorWord": "are",
+        "correctWord": "is",
+        "arabicReason": "نستخدم (is) لأن (butterfly) مفرد.",
+        "englishReason": "We use 'is' because 'butterfly' is singular.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 96
+      },
+      {
+        "sentence": "Does they play hide-and-seek?",
+        "errorWord": "Does",
+        "correctWord": "Do",
+        "arabicReason": "نستخدم (Do) مع (they).",
+        "englishReason": "We use 'Do' with 'they'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 97
+      },
+      {
+        "sentence": "He don't like dirty parks.",
+        "errorWord": "don't",
+        "correctWord": "doesn't",
+        "arabicReason": "نستخدم (doesn't) مع (he).",
+        "englishReason": "We use 'doesn't' with 'he'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 98
+      },
+      {
+        "sentence": "The children is playing on the swing.",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "كلمة (children) جمع لذلك نستخدم (are).",
+        "englishReason": "The word 'children' is plural, so we use 'are'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 99
+      },
+      {
+        "sentence": "My friend play on the slide every week.",
+        "errorWord": "play",
+        "correctWord": "plays",
+        "arabicReason": "نضيف (s) للفعل مع الفاعل المفرد.",
+        "englishReason": "We add 's' to the verb with a singular subject.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 100
+      },
+      {
+        "sentence": "Are your brother happy?",
+        "errorWord": "Are",
+        "correctWord": "Is",
+        "arabicReason": "نستخدم (Is) لأن (brother) مفرد.",
+        "englishReason": "We use 'Is' because 'brother' is singular.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 101
       }
     ],
     "translate": [
@@ -2718,6 +2886,346 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 75
+      },
+      {
+        "word": "On the garden day, I go to the garden with my friend.",
+        "meaning": "في يوم الحديقة، أذهب إلى الحديقة مع صديقي.",
+        "options": [
+          "في يوم الحديقة، أذهب إلى المدرسة مع صديقي.",
+          "في يوم الحديقة، أذهب إلى الحديقة مع صديقي.",
+          "في يوم الحديقة، أذهب إلى المستشفى مع صديقي.",
+          "في يوم الحديقة، أذهب إلى المدينة مع صديقي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 76
+      },
+      {
+        "word": "The sun is shining and the air is fresh.",
+        "meaning": "الشمس مشرقة والهواء منعش.",
+        "options": [
+          "الشمس مشرقة والهواء منعش.",
+          "الشمس حارة والهواء ملوث.",
+          "الشمس غائبة والهواء بارد.",
+          "الشمس تمطر والهواء رطب."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 77
+      },
+      {
+        "word": "We slide on the slide and play on the swing.",
+        "meaning": "ننزلق على الزحليقة ونلعب على الأرجوحة.",
+        "options": [
+          "نلعب كرة القدم في الحديقة.",
+          "ننزلق على الزحليقة ونلعب على الأرجوحة.",
+          "نركب الدراجات في الحديقة.",
+          "نجلس على المقاعد."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 78
+      },
+      {
+        "word": "We run around the garden and play hide-and-seek.",
+        "meaning": "نجري حول الحديقة ونلعب الاستغماية.",
+        "options": [
+          "نجري حول الحديقة ونلعب الاستغماية.",
+          "نمشي حول المدرسة.",
+          "نلعب كرة السلة.",
+          "نسبح في المسبح."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 79
+      },
+      {
+        "word": "At lunchtime, we have lunch and take a rest.",
+        "meaning": "في وقت الغداء، نتناول الغداء ونأخذ قسطًا من الراحة.",
+        "options": [
+          "في وقت الغداء، نلعب كرة القدم.",
+          "في وقت الغداء، نتناول الغداء ونأخذ قسطًا من الراحة.",
+          "في وقت الغداء، نذهب إلى المدرسة.",
+          "في وقت الغداء، ننام طوال اليوم."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 80
+      },
+      {
+        "word": "Then we walk around to see the birds singing.",
+        "meaning": "ثم نتجول لنرى الطيور تغني.",
+        "options": [
+          "ثم نتجول لنرى الطيور تغني.",
+          "ثم نعود إلى المنزل.",
+          "ثم نشاهد الأسماك تسبح.",
+          "ثم نلعب في الفصل."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 81
+      },
+      {
+        "word": "The butterflies are flying around the colourful flowers.",
+        "meaning": "الفراشات تطير حول الزهور الملونة.",
+        "options": [
+          "العصافير تطير فوق الأشجار.",
+          "الفراشات تطير حول الزهور الملونة.",
+          "الفراشات تجلس على الصخور.",
+          "النحل يطير حول الماء."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 82
+      },
+      {
+        "word": "The air is fresh in the garden.",
+        "meaning": "الهواء منعش في الحديقة.",
+        "options": [
+          "الهواء منعش في الحديقة.",
+          "الهواء ملوث في الحديقة.",
+          "الهواء ساخن في الحديقة.",
+          "الهواء جاف في الصحراء."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 83
+      },
+      {
+        "word": "I always enjoy the garden day.",
+        "meaning": "أنا دائمًا أستمتع بيوم الحديقة.",
+        "options": [
+          "أنا دائمًا أنسى يوم الحديقة.",
+          "أنا دائمًا أستمتع بيوم الحديقة.",
+          "أنا دائمًا أدرس في يوم الحديقة.",
+          "أنا دائمًا أنام في يوم الحديقة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 84
+      },
+      {
+        "word": "We go up high and down on the swing.",
+        "meaning": "نصعد عاليًا ونهبط على الأرجوحة.",
+        "options": [
+          "نركض حول الحديقة.",
+          "نصعد عاليًا ونهبط على الأرجوحة.",
+          "نسبح في البحر.",
+          "نقف بجانب الأشجار."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 85
+      },
+      {
+        "word": "This is my house.",
+        "meaning": "هذا هو منزلي.",
+        "options": [
+          "هذا هو منزلي.",
+          "هذه مدرستي.",
+          "هذا هو مطبخي.",
+          "هذه حديقتي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 86
+      },
+      {
+        "word": "I sleep in the bedroom.",
+        "meaning": "أنام في غرفة النوم.",
+        "options": [
+          "أنام في غرفة النوم.",
+          "أنام في المطبخ.",
+          "أنام في غرفة الطعام.",
+          "أنام في الشرفة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 87
+      },
+      {
+        "word": "I sit with my family.",
+        "meaning": "أجلس مع عائلتي.",
+        "options": [
+          "أجلس مع عائلتي.",
+          "ألعب مع أصدقائي.",
+          "أشاهد التلفاز وحدي.",
+          "آكل مع عائلتي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 88
+      },
+      {
+        "word": "We watch TV in the living room.",
+        "meaning": "نشاهد التلفاز في غرفة المعيشة.",
+        "options": [
+          "نشاهد التلفاز في غرفة المعيشة.",
+          "نشاهد التلفاز في المطبخ.",
+          "نشاهد التلفاز في غرفة النوم.",
+          "نشاهد التلفاز في الشرفة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 89
+      },
+      {
+        "word": "We eat in the dining room.",
+        "meaning": "نتناول الطعام في غرفة الطعام.",
+        "options": [
+          "نتناول الطعام في غرفة الطعام.",
+          "نتناول الطعام في المطبخ.",
+          "نتناول الطعام في غرفة النوم.",
+          "نتناول الطعام في الحديقة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 90
+      },
+      {
+        "word": "I sometimes help my mom in the kitchen.",
+        "meaning": "أساعد أمي أحيانًا في المطبخ.",
+        "options": [
+          "أساعد أمي أحيانًا في المطبخ.",
+          "ألعب مع أمي في المطبخ.",
+          "أنام مع أمي في المطبخ.",
+          "أشاهد التلفاز مع أمي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 91
+      },
+      {
+        "word": "There is a balcony with some plants.",
+        "meaning": "توجد شرفة بها بعض النباتات.",
+        "options": [
+          "توجد شرفة بها بعض النباتات.",
+          "توجد حديقة بها بعض النباتات.",
+          "توجد غرفة بها بعض النباتات.",
+          "يوجد مطبخ به بعض النباتات."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 92
+      },
+      {
+        "word": "My house is always clean and tidy.",
+        "meaning": "منزلي دائمًا نظيف ومرتب.",
+        "options": [
+          "منزلي دائمًا نظيف ومرتب.",
+          "منزلي دائمًا كبير وحديث.",
+          "منزلي دائمًا قديم ومتسخ.",
+          "منزلي دائمًا صغير وجميل."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 93
+      },
+      {
+        "word": "I watch TV with my family.",
+        "meaning": "أشاهد التلفاز مع عائلتي.",
+        "options": [
+          "أشاهد التلفاز مع عائلتي.",
+          "أقرأ الكتب مع عائلتي.",
+          "ألعب مع عائلتي.",
+          "آكل مع عائلتي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 94
+      },
+      {
+        "word": "I love my house.",
+        "meaning": "أنا أحب منزلي.",
+        "options": [
+          "أنا أحب منزلي.",
+          "أنا أحب مدرستي.",
+          "أنا أحب حديقتي.",
+          "أنا أحب غرفتي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 95
       }
     ],
     "find_the_vowel": [
@@ -4146,6 +4654,176 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 83
+      },
+      {
+        "question": "Choose the correct question.",
+        "correctAnswer": "Is the sun shining?",
+        "arabicReason": "نستخدم (Is) مع الفاعل المفرد في المضارع المستمر.",
+        "englishReason": "We use 'Is' with a singular subject in the present continuous.",
+        "options": [
+          "Is the sun shining?",
+          "Are the sun shining?",
+          "Does the sun shining?",
+          "Can the sun shining?"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 84
+      },
+      {
+        "question": "Choose the correct question.",
+        "correctAnswer": "Are the butterflies flying?",
+        "arabicReason": "نستخدم (Are) مع الفاعل الجمع.",
+        "englishReason": "We use 'Are' with plural subjects.",
+        "options": [
+          "Are the butterflies flying?",
+          "Is the butterflies flying?",
+          "Do the butterflies flying?",
+          "Will the butterflies flying?"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 85
+      },
+      {
+        "question": "Choose the correct question.",
+        "correctAnswer": "Do you like the garden?",
+        "arabicReason": "نستخدم (Do) مع الضمير (you) في المضارع البسيط.",
+        "englishReason": "We use 'Do' with 'you' in the simple present.",
+        "options": [
+          "Do you like the garden?",
+          "Does you like the garden?",
+          "Are you like the garden?",
+          "Will you like the garden?"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 86
+      },
+      {
+        "question": "Choose the correct question.",
+        "correctAnswer": "Does your friend play on the swing?",
+        "arabicReason": "نستخدم (Does) مع الفاعل المفرد.",
+        "englishReason": "We use 'Does' with a singular subject.",
+        "options": [
+          "Does your friend play on the swing?",
+          "Do your friend plays on the swing?",
+          "Is your friend play on the swing?",
+          "Can your friend plays on the swing?"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 87
+      },
+      {
+        "question": "Choose the correct question.",
+        "correctAnswer": "Can birds fly?",
+        "arabicReason": "بعد (Can) يأتي الفعل في المصدر.",
+        "englishReason": "After 'Can', we use the base form of the verb.",
+        "options": [
+          "Can birds fly?",
+          "Can birds flies?",
+          "Do birds can fly?",
+          "Are birds fly?"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 88
+      },
+      {
+        "question": "Choose the correct question.",
+        "correctAnswer": "Will we visit the garden tomorrow?",
+        "arabicReason": "بعد (Will) يأتي الفعل في المصدر.",
+        "englishReason": "After 'Will', we use the base form of the verb.",
+        "options": [
+          "Will we visit the garden tomorrow?",
+          "Will we visits the garden tomorrow?",
+          "Do we will visit the garden tomorrow?",
+          "Are we visit the garden tomorrow?"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 89
+      },
+      {
+        "question": "Choose the correct question.",
+        "correctAnswer": "Should we take a rest?",
+        "arabicReason": "بعد (Should) يأتي الفعل في المصدر.",
+        "englishReason": "After 'Should', we use the base form of the verb.",
+        "options": [
+          "Should we take a rest?",
+          "Should we takes a rest?",
+          "Do we should take a rest?",
+          "Are we take a rest?"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 90
+      },
+      {
+        "question": "Choose the correct question.",
+        "correctAnswer": "Is the air fresh?",
+        "arabicReason": "نستخدم (Is) مع الاسم المفرد.",
+        "englishReason": "We use 'Is' with a singular noun.",
+        "options": [
+          "Is the air fresh?",
+          "Are the air fresh?",
+          "Do the air fresh?",
+          "Can the air fresh?"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 91
+      },
+      {
+        "question": "Choose the correct question.",
+        "correctAnswer": "Are the children happy?",
+        "arabicReason": "نستخدم (Are) مع (children) لأنها جمع.",
+        "englishReason": "We use 'Are' because 'children' is plural.",
+        "options": [
+          "Are the children happy?",
+          "Is the children happy?",
+          "Does the children happy?",
+          "Will the children happy?"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 92
+      },
+      {
+        "question": "Choose the correct question.",
+        "correctAnswer": "Can you see the butterflies?",
+        "arabicReason": "بعد (Can) يأتي الفعل في المصدر.",
+        "englishReason": "After 'Can', we use the base form of the verb.",
+        "options": [
+          "Can you see the butterflies?",
+          "Can you sees the butterflies?",
+          "Do you can see the butterflies?",
+          "Is you see the butterflies?"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 93
       }
     ],
     "justtalk": [
@@ -4682,6 +5360,132 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 25
+      },
+      {
+        "sentences": [
+          {
+            "text": "On the garden day, I go to the garden with my friend.",
+            "target": "On the garden day, I go to the garden with my friend."
+          },
+          {
+            "text": "The sun is shining and the air is fresh.",
+            "target": "The sun is shining and the air is fresh."
+          },
+          {
+            "text": "We slide on the slide and play on the swing.",
+            "target": "We slide on the slide and play on the swing."
+          }
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 26
+      },
+      {
+        "sentences": [
+          {
+            "text": "We go up high and down.",
+            "target": "We go up high and down."
+          },
+          {
+            "text": "We run around the garden and play hide-and-seek.",
+            "target": "We run around the garden and play hide-and-seek."
+          },
+          {
+            "text": "At lunchtime, we have lunch and take a rest.",
+            "target": "At lunchtime, we have lunch and take a rest."
+          }
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 27
+      },
+      {
+        "sentences": [
+          {
+            "text": "Then we walk around to see the birds singing.",
+            "target": "Then we walk around to see the birds singing."
+          },
+          {
+            "text": "The butterflies are flying around the colourful flowers.",
+            "target": "The butterflies are flying around the colourful flowers."
+          },
+          {
+            "text": "I always enjoy the garden day.",
+            "target": "I always enjoy the garden day."
+          }
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 28
+      },
+      {
+        "sentences": [
+          {
+            "text": "This is my house.",
+            "target": "This is my house."
+          },
+          {
+            "text": "I sleep in the bedroom.",
+            "target": "I sleep in the bedroom."
+          },
+          {
+            "text": "I sit with my family.",
+            "target": "I sit with my family."
+          }
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 29
+      },
+      {
+        "sentences": [
+          {
+            "text": "We watch TV in the living room.",
+            "target": "We watch TV in the living room."
+          },
+          {
+            "text": "We eat in the dining room.",
+            "target": "We eat in the dining room."
+          },
+          {
+            "text": "I sometimes help my mom in the kitchen.",
+            "target": "I sometimes help my mom in the kitchen."
+          }
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 30
+      },
+      {
+        "sentences": [
+          {
+            "text": "There is a balcony with some plants.",
+            "target": "There is a balcony with some plants."
+          },
+          {
+            "text": "My house is always clean and tidy.",
+            "target": "My house is always clean and tidy."
+          },
+          {
+            "text": "I love my house.",
+            "target": "I love my house."
+          }
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 31
       }
     ],
     "Matching": [
@@ -5823,6 +6627,206 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 109
+      },
+      {
+        "sentence": "On the garden day, I go to the garden with my friend.",
+        "arabicReason": "الترتيب الصحيح هو: ظرف زمان + الفاعل + الفعل + المكان + المرافق.",
+        "englishReason": "The correct order is: time expression + subject + verb + place + companion.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 110
+      },
+      {
+        "sentence": "The sun is shining and the air is fresh.",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الخبر.",
+        "englishReason": "The correct order is: subject + verb to be + complement.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 111
+      },
+      {
+        "sentence": "We slide on the slide and play on the swing.",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المكان + and + الفعل + المكان.",
+        "englishReason": "The correct order is: subject + verb + place + and + verb + place.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 112
+      },
+      {
+        "sentence": "We run around the garden and play hide-and-seek.",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المكان + and + الفعل + المفعول.",
+        "englishReason": "The correct order is: subject + verb + place + and + verb + object.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 113
+      },
+      {
+        "sentence": "At lunchtime, we have lunch and take a rest.",
+        "arabicReason": "الترتيب الصحيح هو: ظرف زمان + الفاعل + الفعل + and + الفعل + المفعول.",
+        "englishReason": "The correct order is: time expression + subject + verb + and + verb + object.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 114
+      },
+      {
+        "sentence": "Then we walk around to see the birds singing.",
+        "arabicReason": "الترتيب الصحيح هو: ظرف + الفاعل + الفعل + الغرض + المفعول.",
+        "englishReason": "The correct order is: adverb + subject + verb + purpose + object.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 115
+      },
+      {
+        "sentence": "The butterflies are flying around the colourful flowers.",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الفعل + المكان.",
+        "englishReason": "The correct order is: subject + verb to be + verb + place.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 116
+      },
+      {
+        "sentence": "The air is fresh in the garden.",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الخبر + المكان.",
+        "englishReason": "The correct order is: subject + verb to be + complement + place.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 117
+      },
+      {
+        "sentence": "I always enjoy the garden day.",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + ظرف التكرار + الفعل + المفعول.",
+        "englishReason": "The correct order is: subject + adverb of frequency + verb + object.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 118
+      },
+      {
+        "sentence": "We go up high and down on the swing.",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + الاتجاه + المكان.",
+        "englishReason": "The correct order is: subject + verb + direction + place.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 119
+      },
+      {
+        "sentence": "i sleep in the bedroom",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + شبه الجملة.",
+        "englishReason": "The correct order is subject + verb + prepositional phrase.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 120
+      },
+      {
+        "sentence": "i sit with my family and watch tv in the living room",
+        "arabicReason": "ابدأ بالفاعل ثم الأفعال ثم بقية الجملة بالترتيب الصحيح.",
+        "englishReason": "Start with the subject, then the verbs, then complete the sentence in the correct order.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 121
+      },
+      {
+        "sentence": "we eat in the dining room",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المكان.",
+        "englishReason": "The correct order is subject + verb + place.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 122
+      },
+      {
+        "sentence": "i sometimes help my mom in the kitchen",
+        "arabicReason": "تأتي كلمة (sometimes) بعد الفاعل وقبل الفعل في هذه الجملة.",
+        "englishReason": "The adverb 'sometimes' comes after the subject and before the verb in this sentence.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 123
+      },
+      {
+        "sentence": "there is a balcony with some plants",
+        "arabicReason": "تبدأ الجملة بـ (There is) ثم يأتي الاسم وبقية الجملة.",
+        "englishReason": "The sentence starts with 'There is', followed by the noun and the rest of the sentence.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 124
+      },
+      {
+        "sentence": "my house is always clean and tidy",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الحال + الصفات.",
+        "englishReason": "The correct order is subject + verb to be + adverb + adjectives.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 125
+      },
+      {
+        "sentence": "this is my house",
+        "arabicReason": "الترتيب الصحيح هو: اسم الإشارة + فعل الكينونة + الملكية.",
+        "englishReason": "The correct order is demonstrative + verb to be + possessive noun.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 126
+      },
+      {
+        "sentence": "i watch tv with my family",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول به + المصاحب.",
+        "englishReason": "The correct order is subject + verb + object + companion phrase.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 127
+      },
+      {
+        "sentence": "we have a balcony with some plants",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول به + الوصف.",
+        "englishReason": "The correct order is subject + verb + object + description.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 128
+      },
+      {
+        "sentence": "i help my mom at home",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول به + المكان.",
+        "englishReason": "The correct order is subject + verb + object + place.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 129
       }
     ],
     "rewrite": [
@@ -6580,6 +7584,126 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 62
+      },
+      {
+        "sentence": "I enjoy the garden day.",
+        "targetWord": "DO",
+        "correctAnswer": "Do you enjoy the garden day?",
+        "arabicReason": "نستخدم (Do) مع (you) في المضارع البسيط لتكوين السؤال.",
+        "englishReason": "We use 'Do' with 'you' in the simple present to form a question.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 63
+      },
+      {
+        "sentence": "Your friend plays on the swing.",
+        "targetWord": "DOES",
+        "correctAnswer": "Does your friend play on the swing?",
+        "arabicReason": "مع (Does) يعود الفعل إلى صورته الأساسية (play).",
+        "englishReason": "After 'Does', the verb returns to its base form (play).",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 64
+      },
+      {
+        "sentence": "The birds sing beautifully.",
+        "targetWord": "DO",
+        "correctAnswer": "Do the birds sing beautifully?",
+        "arabicReason": "نستخدم (Do) مع الفاعل الجمع.",
+        "englishReason": "We use 'Do' with plural subjects.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 65
+      },
+      {
+        "sentence": "The butterfly flies around the flowers.",
+        "targetWord": "DOES",
+        "correctAnswer": "Does the butterfly fly around the flowers?",
+        "arabicReason": "بعد (Does) يصبح الفعل (fly) بدون (ies).",
+        "englishReason": "After 'Does', the verb changes back to its base form (fly).",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 66
+      },
+      {
+        "sentence": "We play hide-and-seek in the garden.",
+        "targetWord": "DO",
+        "correctAnswer": "Do we play hide-and-seek in the garden?",
+        "arabicReason": "نستخدم (Do) مع (we).",
+        "englishReason": "We use 'Do' with 'we'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 67
+      },
+      {
+        "sentence": "Ahmed likes colourful flowers.",
+        "targetWord": "DOES",
+        "correctAnswer": "Does Ahmed like colourful flowers?",
+        "arabicReason": "مع (Does) نحذف (s) من الفعل.",
+        "englishReason": "After 'Does', we remove the 's' from the verb.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 68
+      },
+      {
+        "sentence": "They walk around the garden.",
+        "targetWord": "DO",
+        "correctAnswer": "Do they walk around the garden?",
+        "arabicReason": "نستخدم (Do) مع (they).",
+        "englishReason": "We use 'Do' with 'they'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 69
+      },
+      {
+        "sentence": "My brother enjoys the garden day.",
+        "targetWord": "DOES",
+        "correctAnswer": "Does my brother enjoy the garden day?",
+        "arabicReason": "بعد (Does) يعود الفعل من (enjoys) إلى (enjoy).",
+        "englishReason": "After 'Does', the verb changes from 'enjoys' to 'enjoy'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 70
+      },
+      {
+        "sentence": "Children play on the slide.",
+        "targetWord": "DO",
+        "correctAnswer": "Do children play on the slide?",
+        "arabicReason": "نستخدم (Do) مع الفاعل الجمع (children).",
+        "englishReason": "We use 'Do' with the plural subject 'children'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 71
+      },
+      {
+        "sentence": "The teacher helps the students.",
+        "targetWord": "DOES",
+        "correctAnswer": "Does the teacher help the students?",
+        "arabicReason": "بعد (Does) يصبح الفعل (help) بدون (s).",
+        "englishReason": "After 'Does', the verb changes to its base form (help).",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 72
       }
     ],
     "Scramble": [
@@ -8167,6 +9291,166 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 198
+      },
+      {
+        "word": "garden",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 199
+      },
+      {
+        "word": "friend",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 200
+      },
+      {
+        "word": "shining",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 201
+      },
+      {
+        "word": "fresh",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 202
+      },
+      {
+        "word": "slide",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 203
+      },
+      {
+        "word": "swing",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 204
+      },
+      {
+        "word": "hide-and-seek",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 205
+      },
+      {
+        "word": "lunchtime",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 206
+      },
+      {
+        "word": "butterfly",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 207
+      },
+      {
+        "word": "colourful",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 208
+      },
+      {
+        "word": "house",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 209
+      },
+      {
+        "word": "bedroom",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 210
+      },
+      {
+        "word": "sleep",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 211
+      },
+      {
+        "word": "living room",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 212
+      },
+      {
+        "word": "family",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 213
+      },
+      {
+        "word": "watch TV",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 214
+      },
+      {
+        "word": "dining room",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 215
+      },
+      {
+        "word": "kitchen",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 216
+      },
+      {
+        "word": "balcony",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 217
+      },
+      {
+        "word": "tidy",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 218
       }
     ],
     "sequence": [
@@ -9898,6 +11182,166 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 196
+      },
+      {
+        "word": "garden",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 197
+      },
+      {
+        "word": "friend",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 198
+      },
+      {
+        "word": "shining",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 199
+      },
+      {
+        "word": "fresh",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 200
+      },
+      {
+        "word": "slide",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 201
+      },
+      {
+        "word": "swing",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 202
+      },
+      {
+        "word": "hide-and-seek",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 203
+      },
+      {
+        "word": "lunchtime",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 204
+      },
+      {
+        "word": "butterfly",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 205
+      },
+      {
+        "word": "colourful",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 206
+      },
+      {
+        "word": "house",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 207
+      },
+      {
+        "word": "bedroom",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 208
+      },
+      {
+        "word": "sleep",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 209
+      },
+      {
+        "word": "living room",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 210
+      },
+      {
+        "word": "family",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 211
+      },
+      {
+        "word": "watch TV",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 212
+      },
+      {
+        "word": "dining room",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 213
+      },
+      {
+        "word": "kitchen",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 214
+      },
+      {
+        "word": "balcony",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 215
+      },
+      {
+        "word": "tidy",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 216
       }
     ],
     "Underline": [
@@ -14045,6 +15489,567 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 206
+      },
+      {
+        "word": "garden",
+        "meaning": "حديقة",
+        "options": [
+          "حديقة",
+          "مدرسة",
+          "مستشفى",
+          "مدينة"
+        ],
+        "arabicReason": "الكلمة تعني 'حديقة'.",
+        "englishReason": "The word means 'garden'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 207
+      },
+      {
+        "word": "friend",
+        "meaning": "صديق",
+        "options": [
+          "صديق",
+          "معلم",
+          "طبيب",
+          "شرطي"
+        ],
+        "arabicReason": "الكلمة تعني 'صديق'.",
+        "englishReason": "The word means 'friend'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 208
+      },
+      {
+        "word": "fresh",
+        "meaning": "منعش",
+        "options": [
+          "منعش",
+          "ساخن",
+          "بارد",
+          "مظلم"
+        ],
+        "arabicReason": "الكلمة تعني 'منعش'.",
+        "englishReason": "The word means 'fresh'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 209
+      },
+      {
+        "word": "slide",
+        "meaning": "زحليقة",
+        "options": [
+          "زحليقة",
+          "أرجوحة",
+          "كرة",
+          "دراجة"
+        ],
+        "arabicReason": "الكلمة تعني 'زحليقة'.",
+        "englishReason": "The word means 'slide'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 210
+      },
+      {
+        "word": "swing",
+        "meaning": "أرجوحة",
+        "options": [
+          "أرجوحة",
+          "زحليقة",
+          "مقعد",
+          "باب"
+        ],
+        "arabicReason": "الكلمة تعني 'أرجوحة'.",
+        "englishReason": "The word means 'swing'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 211
+      },
+      {
+        "word": "hide-and-seek",
+        "meaning": "الاستغماية",
+        "options": [
+          "الاستغماية",
+          "كرة القدم",
+          "الجري",
+          "السباحة"
+        ],
+        "arabicReason": "الكلمة تعني 'الاستغماية'.",
+        "englishReason": "The word means 'hide-and-seek'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 212
+      },
+      {
+        "word": "lunchtime",
+        "meaning": "وقت الغداء",
+        "options": [
+          "وقت الغداء",
+          "وقت النوم",
+          "وقت الدراسة",
+          "وقت اللعب"
+        ],
+        "arabicReason": "الكلمة تعني 'وقت الغداء'.",
+        "englishReason": "The word means 'lunchtime'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 213
+      },
+      {
+        "word": "rest",
+        "meaning": "راحة",
+        "options": [
+          "راحة",
+          "لعب",
+          "عمل",
+          "دراسة"
+        ],
+        "arabicReason": "الكلمة تعني 'راحة'.",
+        "englishReason": "The word means 'rest'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 214
+      },
+      {
+        "word": "bird",
+        "meaning": "طائر",
+        "options": [
+          "طائر",
+          "سمكة",
+          "قطة",
+          "حصان"
+        ],
+        "arabicReason": "الكلمة تعني 'طائر'.",
+        "englishReason": "The word means 'bird'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 215
+      },
+      {
+        "word": "butterfly",
+        "meaning": "فراشة",
+        "options": [
+          "فراشة",
+          "نحلة",
+          "ذبابة",
+          "عصفور"
+        ],
+        "arabicReason": "الكلمة تعني 'فراشة'.",
+        "englishReason": "The word means 'butterfly'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 216
+      },
+      {
+        "word": "colourful",
+        "meaning": "ملون",
+        "options": [
+          "ملون",
+          "قديم",
+          "سريع",
+          "طويل"
+        ],
+        "arabicReason": "الكلمة تعني 'ملون'.",
+        "englishReason": "The word means 'colourful'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 217
+      },
+      {
+        "word": "flower",
+        "meaning": "زهرة",
+        "options": [
+          "زهرة",
+          "شجرة",
+          "ثمرة",
+          "ورقة"
+        ],
+        "arabicReason": "الكلمة تعني 'زهرة'.",
+        "englishReason": "The word means 'flower'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 218
+      },
+      {
+        "word": "enjoy",
+        "meaning": "يستمتع",
+        "options": [
+          "يستمتع",
+          "ينام",
+          "يكتب",
+          "يقف"
+        ],
+        "arabicReason": "الكلمة تعني 'يستمتع'.",
+        "englishReason": "The word means 'enjoy'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 219
+      },
+      {
+        "word": "air",
+        "meaning": "هواء",
+        "options": [
+          "هواء",
+          "ماء",
+          "تراب",
+          "نار"
+        ],
+        "arabicReason": "الكلمة تعني 'هواء'.",
+        "englishReason": "The word means 'air'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 220
+      },
+      {
+        "word": "shining",
+        "meaning": "مشرق",
+        "options": [
+          "مشرق",
+          "ممطر",
+          "غائم",
+          "مظلم"
+        ],
+        "arabicReason": "الكلمة تعني 'مشرق'.",
+        "englishReason": "The word means 'shining'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 221
+      },
+      {
+        "word": "house",
+        "meaning": "منزل",
+        "options": [
+          "منزل",
+          "حديقة",
+          "مدرسة",
+          "مطبخ"
+        ],
+        "arabicReason": "الكلمة تعني 'منزل' وهو المكان الذي نعيش فيه.",
+        "englishReason": "The word means 'house' - the place where we live.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 222
+      },
+      {
+        "word": "bedroom",
+        "meaning": "غرفة النوم",
+        "options": [
+          "غرفة النوم",
+          "غرفة الطعام",
+          "المطبخ",
+          "الشرفة"
+        ],
+        "arabicReason": "الكلمة تعني 'غرفة النوم' وهي المكان الذي ننام فيه.",
+        "englishReason": "The word means 'bedroom' - the room where we sleep.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 223
+      },
+      {
+        "word": "sleep",
+        "meaning": "ينام",
+        "options": [
+          "ينام",
+          "يأكل",
+          "يشاهد",
+          "يساعد"
+        ],
+        "arabicReason": "الكلمة تعني 'ينام'.",
+        "englishReason": "The word means 'sleep'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 224
+      },
+      {
+        "word": "living room",
+        "meaning": "غرفة المعيشة",
+        "options": [
+          "غرفة المعيشة",
+          "غرفة النوم",
+          "المطبخ",
+          "الحديقة"
+        ],
+        "arabicReason": "الكلمة تعني 'غرفة المعيشة' حيث تجلس العائلة.",
+        "englishReason": "The word means 'living room' where the family sits together.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 225
+      },
+      {
+        "word": "family",
+        "meaning": "عائلة",
+        "options": [
+          "عائلة",
+          "صديق",
+          "مدرسة",
+          "منزل"
+        ],
+        "arabicReason": "الكلمة تعني 'عائلة'.",
+        "englishReason": "The word means 'family'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 226
+      },
+      {
+        "word": "watch TV",
+        "meaning": "يشاهد التلفاز",
+        "options": [
+          "يشاهد التلفاز",
+          "يلعب",
+          "ينام",
+          "يقرأ"
+        ],
+        "arabicReason": "الكلمة تعني 'يشاهد التلفاز'.",
+        "englishReason": "The phrase means 'watch TV'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 227
+      },
+      {
+        "word": "dining room",
+        "meaning": "غرفة الطعام",
+        "options": [
+          "غرفة الطعام",
+          "غرفة النوم",
+          "الشرفة",
+          "المطبخ"
+        ],
+        "arabicReason": "الكلمة تعني 'غرفة الطعام' حيث نتناول الطعام.",
+        "englishReason": "The word means 'dining room' where we eat.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 228
+      },
+      {
+        "word": "eat",
+        "meaning": "يأكل",
+        "options": [
+          "يأكل",
+          "يشرب",
+          "ينام",
+          "يلعب"
+        ],
+        "arabicReason": "الكلمة تعني 'يأكل'.",
+        "englishReason": "The word means 'eat'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 229
+      },
+      {
+        "word": "kitchen",
+        "meaning": "المطبخ",
+        "options": [
+          "المطبخ",
+          "غرفة الطعام",
+          "غرفة النوم",
+          "الشرفة"
+        ],
+        "arabicReason": "الكلمة تعني 'المطبخ' حيث يُحضَّر الطعام.",
+        "englishReason": "The word means 'kitchen' where food is prepared.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 230
+      },
+      {
+        "word": "help",
+        "meaning": "يساعد",
+        "options": [
+          "يساعد",
+          "يشاهد",
+          "ينظف",
+          "يلعب"
+        ],
+        "arabicReason": "الكلمة تعني 'يساعد'.",
+        "englishReason": "The word means 'help'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 231
+      },
+      {
+        "word": "mom",
+        "meaning": "الأم",
+        "options": [
+          "الأم",
+          "الأب",
+          "الأخ",
+          "الأخت"
+        ],
+        "arabicReason": "الكلمة تعني 'الأم'.",
+        "englishReason": "The word means 'mom'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 232
+      },
+      {
+        "word": "balcony",
+        "meaning": "شرفة",
+        "options": [
+          "شرفة",
+          "حديقة",
+          "نافذة",
+          "باب"
+        ],
+        "arabicReason": "الكلمة تعني 'شرفة'.",
+        "englishReason": "The word means 'balcony'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 233
+      },
+      {
+        "word": "plant",
+        "meaning": "نبتة",
+        "options": [
+          "نبتة",
+          "زهرة",
+          "شجرة",
+          "ورقة"
+        ],
+        "arabicReason": "الكلمة تعني 'نبتة'.",
+        "englishReason": "The word means 'plant'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 234
+      },
+      {
+        "word": "clean",
+        "meaning": "نظيف",
+        "options": [
+          "نظيف",
+          "متسخ",
+          "كبير",
+          "صغير"
+        ],
+        "arabicReason": "الكلمة تعني 'نظيف'.",
+        "englishReason": "The word means 'clean'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 235
+      },
+      {
+        "word": "tidy",
+        "meaning": "مرتب",
+        "options": [
+          "مرتب",
+          "قديم",
+          "واسع",
+          "مظلم"
+        ],
+        "arabicReason": "الكلمة تعني 'مرتب'.",
+        "englishReason": "The word means 'tidy'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 236
+      },
+      {
+        "word": "sit",
+        "meaning": "يجلس",
+        "options": [
+          "يجلس",
+          "يقف",
+          "يجري",
+          "ينام"
+        ],
+        "arabicReason": "الكلمة تعني 'يجلس'.",
+        "englishReason": "The word means 'sit'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 237
+      },
+      {
+        "word": "sometimes",
+        "meaning": "أحيانًا",
+        "options": [
+          "أحيانًا",
+          "دائمًا",
+          "أبدًا",
+          "غدًا"
+        ],
+        "arabicReason": "الكلمة تعني 'أحيانًا'.",
+        "englishReason": "The word means 'sometimes'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 238
+      },
+      {
+        "word": "always",
+        "meaning": "دائمًا",
+        "options": [
+          "دائمًا",
+          "أحيانًا",
+          "أمس",
+          "غدًا"
+        ],
+        "arabicReason": "الكلمة تعني 'دائمًا'.",
+        "englishReason": "The word means 'always'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 239
       }
     ],
     "vocab_quiz": [
@@ -17617,6 +19622,567 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 229
+      },
+      {
+        "word": "garden",
+        "meaning": "حديقة",
+        "options": [
+          "حديقة",
+          "مدرسة",
+          "مستشفى",
+          "مدينة"
+        ],
+        "arabicReason": "الكلمة تعني 'حديقة' وهي مكان مليء بالأشجار والزهور.",
+        "englishReason": "The word means 'garden' - a place with trees and flowers.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 230
+      },
+      {
+        "word": "friend",
+        "meaning": "صديق",
+        "options": [
+          "صديق",
+          "معلم",
+          "طبيب",
+          "شرطي"
+        ],
+        "arabicReason": "الكلمة تعني 'صديق' وهو شخص نحبه ونلعب معه.",
+        "englishReason": "The word means 'friend' - someone you like and play with.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 231
+      },
+      {
+        "word": "fresh",
+        "meaning": "منعش",
+        "options": [
+          "منعش",
+          "ساخن",
+          "بارد",
+          "مظلم"
+        ],
+        "arabicReason": "الكلمة تعني 'منعش' وتستخدم لوصف الهواء النقي.",
+        "englishReason": "The word means 'fresh' and describes clean air.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 232
+      },
+      {
+        "word": "slide",
+        "meaning": "زحليقة",
+        "options": [
+          "زحليقة",
+          "أرجوحة",
+          "كرة",
+          "دراجة"
+        ],
+        "arabicReason": "الكلمة تعني 'زحليقة' وهي لعبة في الحديقة.",
+        "englishReason": "The word means 'slide' - playground equipment.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 233
+      },
+      {
+        "word": "swing",
+        "meaning": "أرجوحة",
+        "options": [
+          "أرجوحة",
+          "زحليقة",
+          "مقعد",
+          "باب"
+        ],
+        "arabicReason": "الكلمة تعني 'أرجوحة' وهي لعبة في الحديقة.",
+        "englishReason": "The word means 'swing' - playground equipment.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 234
+      },
+      {
+        "word": "hide-and-seek",
+        "meaning": "الاستغماية",
+        "options": [
+          "الاستغماية",
+          "كرة القدم",
+          "الجري",
+          "السباحة"
+        ],
+        "arabicReason": "الكلمة تعني 'الاستغماية' وهي لعبة للأطفال.",
+        "englishReason": "The word means 'hide-and-seek' - a children's game.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 235
+      },
+      {
+        "word": "lunchtime",
+        "meaning": "وقت الغداء",
+        "options": [
+          "وقت الغداء",
+          "وقت النوم",
+          "وقت الدراسة",
+          "وقت اللعب"
+        ],
+        "arabicReason": "الكلمة تعني 'وقت الغداء'.",
+        "englishReason": "The word means 'lunchtime' - the time to eat lunch.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 236
+      },
+      {
+        "word": "rest",
+        "meaning": "راحة",
+        "options": [
+          "راحة",
+          "لعب",
+          "عمل",
+          "دراسة"
+        ],
+        "arabicReason": "الكلمة تعني 'راحة' بعد اللعب أو العمل.",
+        "englishReason": "The word means 'rest' - taking a break.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 237
+      },
+      {
+        "word": "bird",
+        "meaning": "طائر",
+        "options": [
+          "طائر",
+          "سمكة",
+          "قطة",
+          "حصان"
+        ],
+        "arabicReason": "الكلمة تعني 'طائر' وهو حيوان يطير.",
+        "englishReason": "The word means 'bird' - an animal that can fly.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 238
+      },
+      {
+        "word": "butterfly",
+        "meaning": "فراشة",
+        "options": [
+          "فراشة",
+          "نحلة",
+          "ذبابة",
+          "عصفور"
+        ],
+        "arabicReason": "الكلمة تعني 'فراشة' وهي حشرة جميلة.",
+        "englishReason": "The word means 'butterfly' - a colorful insect.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 239
+      },
+      {
+        "word": "colourful",
+        "meaning": "ملون",
+        "options": [
+          "ملون",
+          "قديم",
+          "سريع",
+          "طويل"
+        ],
+        "arabicReason": "الكلمة تعني 'ملون' أي يحتوي على ألوان كثيرة.",
+        "englishReason": "The word means 'colourful' - having many colors.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 240
+      },
+      {
+        "word": "flower",
+        "meaning": "زهرة",
+        "options": [
+          "زهرة",
+          "شجرة",
+          "ثمرة",
+          "ورقة"
+        ],
+        "arabicReason": "الكلمة تعني 'زهرة' وهي جزء جميل من النبات.",
+        "englishReason": "The word means 'flower' - the colorful part of a plant.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 241
+      },
+      {
+        "word": "enjoy",
+        "meaning": "يستمتع",
+        "options": [
+          "يستمتع",
+          "ينام",
+          "يكتب",
+          "يقف"
+        ],
+        "arabicReason": "الكلمة تعني 'يستمتع' أي يشعر بالسعادة.",
+        "englishReason": "The word means 'enjoy' - to have fun.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 242
+      },
+      {
+        "word": "air",
+        "meaning": "هواء",
+        "options": [
+          "هواء",
+          "ماء",
+          "تراب",
+          "نار"
+        ],
+        "arabicReason": "الكلمة تعني 'هواء' الذي نتنفسه.",
+        "englishReason": "The word means 'air' - what we breathe.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 243
+      },
+      {
+        "word": "shining",
+        "meaning": "مشرق",
+        "options": [
+          "مشرق",
+          "ممطر",
+          "غائم",
+          "مظلم"
+        ],
+        "arabicReason": "الكلمة تعني 'مشرق' وتستخدم لوصف الشمس.",
+        "englishReason": "The word means 'shining' - giving bright light.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 244
+      },
+      {
+        "word": "house",
+        "meaning": "منزل",
+        "options": [
+          "منزل",
+          "حديقة",
+          "مدرسة",
+          "مطبخ"
+        ],
+        "arabicReason": "الكلمة تعني 'منزل' وهو المكان الذي نعيش فيه.",
+        "englishReason": "The word means 'house' - the place where we live.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 245
+      },
+      {
+        "word": "bedroom",
+        "meaning": "غرفة النوم",
+        "options": [
+          "غرفة النوم",
+          "غرفة الطعام",
+          "المطبخ",
+          "الشرفة"
+        ],
+        "arabicReason": "الكلمة تعني 'غرفة النوم' وهي المكان الذي ننام فيه.",
+        "englishReason": "The word means 'bedroom' - the room where we sleep.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 246
+      },
+      {
+        "word": "sleep",
+        "meaning": "ينام",
+        "options": [
+          "ينام",
+          "يأكل",
+          "يشاهد",
+          "يساعد"
+        ],
+        "arabicReason": "الكلمة تعني 'ينام'.",
+        "englishReason": "The word means 'sleep'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 247
+      },
+      {
+        "word": "living room",
+        "meaning": "غرفة المعيشة",
+        "options": [
+          "غرفة المعيشة",
+          "غرفة النوم",
+          "المطبخ",
+          "الحديقة"
+        ],
+        "arabicReason": "الكلمة تعني 'غرفة المعيشة' حيث تجلس العائلة.",
+        "englishReason": "The word means 'living room' where the family sits together.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 248
+      },
+      {
+        "word": "family",
+        "meaning": "عائلة",
+        "options": [
+          "عائلة",
+          "صديق",
+          "مدرسة",
+          "منزل"
+        ],
+        "arabicReason": "الكلمة تعني 'عائلة'.",
+        "englishReason": "The word means 'family'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 249
+      },
+      {
+        "word": "watch TV",
+        "meaning": "يشاهد التلفاز",
+        "options": [
+          "يشاهد التلفاز",
+          "يلعب",
+          "ينام",
+          "يقرأ"
+        ],
+        "arabicReason": "الكلمة تعني 'يشاهد التلفاز'.",
+        "englishReason": "The phrase means 'watch TV'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 250
+      },
+      {
+        "word": "dining room",
+        "meaning": "غرفة الطعام",
+        "options": [
+          "غرفة الطعام",
+          "غرفة النوم",
+          "الشرفة",
+          "المطبخ"
+        ],
+        "arabicReason": "الكلمة تعني 'غرفة الطعام' حيث نتناول الطعام.",
+        "englishReason": "The word means 'dining room' where we eat.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 251
+      },
+      {
+        "word": "eat",
+        "meaning": "يأكل",
+        "options": [
+          "يأكل",
+          "يشرب",
+          "ينام",
+          "يلعب"
+        ],
+        "arabicReason": "الكلمة تعني 'يأكل'.",
+        "englishReason": "The word means 'eat'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 252
+      },
+      {
+        "word": "kitchen",
+        "meaning": "المطبخ",
+        "options": [
+          "المطبخ",
+          "غرفة الطعام",
+          "غرفة النوم",
+          "الشرفة"
+        ],
+        "arabicReason": "الكلمة تعني 'المطبخ' حيث يُحضَّر الطعام.",
+        "englishReason": "The word means 'kitchen' where food is prepared.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 253
+      },
+      {
+        "word": "help",
+        "meaning": "يساعد",
+        "options": [
+          "يساعد",
+          "يشاهد",
+          "ينظف",
+          "يلعب"
+        ],
+        "arabicReason": "الكلمة تعني 'يساعد'.",
+        "englishReason": "The word means 'help'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 254
+      },
+      {
+        "word": "mom",
+        "meaning": "الأم",
+        "options": [
+          "الأم",
+          "الأب",
+          "الأخ",
+          "الأخت"
+        ],
+        "arabicReason": "الكلمة تعني 'الأم'.",
+        "englishReason": "The word means 'mom'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 255
+      },
+      {
+        "word": "balcony",
+        "meaning": "شرفة",
+        "options": [
+          "شرفة",
+          "حديقة",
+          "نافذة",
+          "باب"
+        ],
+        "arabicReason": "الكلمة تعني 'شرفة'.",
+        "englishReason": "The word means 'balcony'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 256
+      },
+      {
+        "word": "plant",
+        "meaning": "نبتة",
+        "options": [
+          "نبتة",
+          "زهرة",
+          "شجرة",
+          "ورقة"
+        ],
+        "arabicReason": "الكلمة تعني 'نبتة'.",
+        "englishReason": "The word means 'plant'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 257
+      },
+      {
+        "word": "clean",
+        "meaning": "نظيف",
+        "options": [
+          "نظيف",
+          "متسخ",
+          "كبير",
+          "صغير"
+        ],
+        "arabicReason": "الكلمة تعني 'نظيف'.",
+        "englishReason": "The word means 'clean'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 258
+      },
+      {
+        "word": "tidy",
+        "meaning": "مرتب",
+        "options": [
+          "مرتب",
+          "قديم",
+          "واسع",
+          "مظلم"
+        ],
+        "arabicReason": "الكلمة تعني 'مرتب'.",
+        "englishReason": "The word means 'tidy'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 259
+      },
+      {
+        "word": "sit",
+        "meaning": "يجلس",
+        "options": [
+          "يجلس",
+          "يقف",
+          "يجري",
+          "ينام"
+        ],
+        "arabicReason": "الكلمة تعني 'يجلس'.",
+        "englishReason": "The word means 'sit'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 260
+      },
+      {
+        "word": "sometimes",
+        "meaning": "أحيانًا",
+        "options": [
+          "أحيانًا",
+          "دائمًا",
+          "أبدًا",
+          "غدًا"
+        ],
+        "arabicReason": "الكلمة تعني 'أحيانًا'.",
+        "englishReason": "The word means 'sometimes'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 261
+      },
+      {
+        "word": "always",
+        "meaning": "دائمًا",
+        "options": [
+          "دائمًا",
+          "أحيانًا",
+          "أمس",
+          "غدًا"
+        ],
+        "arabicReason": "الكلمة تعني 'دائمًا'.",
+        "englishReason": "The word means 'always'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 262
       }
     ],
     "what_do_you_hear": [
@@ -19755,6 +22321,286 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 152
+      },
+      {
+        "sentence": "On the garden day, I go to the garden with my friend.",
+        "options": [
+          "On the garden day, I go to the garden with my friend.",
+          "On the garden day, I go to the school with my friend.",
+          "On the garden day, I go to the hospital with my friend.",
+          "On the garden day, I go to the zoo with my friend."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 153
+      },
+      {
+        "sentence": "The sun is shining and the air is fresh.",
+        "options": [
+          "The sun is shining and the air is fresh.",
+          "The sun is shining and the air is hot.",
+          "The sun is sleeping and the air is fresh.",
+          "The sun is shining and the air is dirty."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 154
+      },
+      {
+        "sentence": "We slide on the slide and play on the swing.",
+        "options": [
+          "We slide on the slide and play on the swing.",
+          "We slide on the slide and play football.",
+          "We play on the swing and ride bikes.",
+          "We swim in the pool and play on the swing."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 155
+      },
+      {
+        "sentence": "We run around the garden and play hide-and-seek.",
+        "options": [
+          "We run around the garden and play hide-and-seek.",
+          "We run around the garden and play basketball.",
+          "We walk around the garden and play football.",
+          "We jump around the garden and play tennis."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 156
+      },
+      {
+        "sentence": "At lunchtime, we have lunch and take a rest.",
+        "options": [
+          "At lunchtime, we have lunch and take a rest.",
+          "At lunchtime, we have breakfast and take a rest.",
+          "At lunchtime, we have lunch and play football.",
+          "At lunchtime, we have dinner and go home."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 157
+      },
+      {
+        "sentence": "Then we walk around to see the birds singing.",
+        "options": [
+          "Then we walk around to see the birds singing.",
+          "Then we walk around to see the birds sleeping.",
+          "Then we run around to see the birds singing.",
+          "Then we walk around to see the cats singing."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 158
+      },
+      {
+        "sentence": "The butterflies are flying around the colourful flowers.",
+        "options": [
+          "The butterflies are flying around the colourful flowers.",
+          "The butterflies are flying around the tall trees.",
+          "The butterflies are sitting on the colourful flowers.",
+          "The birds are flying around the colourful flowers."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 159
+      },
+      {
+        "sentence": "The air is fresh in the garden.",
+        "options": [
+          "The air is fresh in the garden.",
+          "The air is dirty in the garden.",
+          "The air is hot in the garden.",
+          "The air is cold in the garden."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 160
+      },
+      {
+        "sentence": "I always enjoy the garden day.",
+        "options": [
+          "I always enjoy the garden day.",
+          "I always forget the garden day.",
+          "I always clean the garden day.",
+          "I always leave the garden day."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 161
+      },
+      {
+        "sentence": "We go up high and down on the swing.",
+        "options": [
+          "We go up high and down on the swing.",
+          "We go up high and down on the bus.",
+          "We go up high and down at school.",
+          "We go up high and down in the classroom."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 162
+      },
+      {
+        "sentence": "I sleep in the bedroom.",
+        "options": [
+          "I sleep in the bedroom.",
+          "I sleep in the kitchen.",
+          "I sleep in the dining room.",
+          "I sleep in the living room."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 163
+      },
+      {
+        "sentence": "I sit with my family and watch TV in the living room.",
+        "options": [
+          "I sit with my family and watch TV in the living room.",
+          "I sit with my family and eat in the living room.",
+          "I sit with my friends and watch TV in the living room.",
+          "I sit with my family and watch TV in the bedroom."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 164
+      },
+      {
+        "sentence": "We eat in the dining room.",
+        "options": [
+          "We eat in the dining room.",
+          "We eat in the bedroom.",
+          "We eat in the kitchen.",
+          "We eat in the balcony."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 165
+      },
+      {
+        "sentence": "I sometimes help my mom in the kitchen.",
+        "options": [
+          "I sometimes help my mom in the kitchen.",
+          "I always help my mom in the kitchen.",
+          "I sometimes help my dad in the kitchen.",
+          "I sometimes play in the kitchen."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 166
+      },
+      {
+        "sentence": "There is a balcony with some plants.",
+        "options": [
+          "There is a balcony with some plants.",
+          "There is a balcony with some chairs.",
+          "There is a garden with some plants.",
+          "There is a bedroom with some plants."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 167
+      },
+      {
+        "sentence": "My house is always clean and tidy.",
+        "options": [
+          "My house is always clean and tidy.",
+          "My house is always big and tidy.",
+          "My house is always clean and old.",
+          "My house is always dirty and tidy."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 168
+      },
+      {
+        "sentence": "This is my house.",
+        "options": [
+          "This is my house.",
+          "This is my school.",
+          "This is my garden.",
+          "This is my kitchen."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 169
+      },
+      {
+        "sentence": "I watch TV with my family.",
+        "options": [
+          "I watch TV with my family.",
+          "I watch TV with my friends.",
+          "I read books with my family.",
+          "I play games with my family."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 170
+      },
+      {
+        "sentence": "We have a balcony with some plants.",
+        "options": [
+          "We have a balcony with some plants.",
+          "We have a balcony with some flowers.",
+          "We have a kitchen with some plants.",
+          "We have a bedroom with some plants."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 171
+      },
+      {
+        "sentence": "I help my mom at home.",
+        "options": [
+          "I help my mom at home.",
+          "I help my teacher at home.",
+          "I help my friend at home.",
+          "I help my dad at school."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 172
       }
     ],
     "vocab_choose": [
@@ -21848,6 +24694,346 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 123
+      },
+      {
+        "question": "On the garden day, I go to the ______ with my friend.",
+        "correctAnswer": "garden",
+        "arabicReason": "نستخدم 'garden' لأن القطعة تتحدث عن الذهاب إلى الحديقة.",
+        "englishReason": "We use 'garden' because the passage is about going to the garden.",
+        "options": [
+          "garden",
+          "school",
+          "hospital",
+          "city"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 124
+      },
+      {
+        "question": "The sun is ______ and the air is fresh.",
+        "correctAnswer": "shining",
+        "arabicReason": "نستخدم 'shining' لوصف الشمس.",
+        "englishReason": "We use 'shining' to describe the sun.",
+        "options": [
+          "shining",
+          "running",
+          "sleeping",
+          "flying"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 125
+      },
+      {
+        "question": "We play on the ______.",
+        "correctAnswer": "swing",
+        "arabicReason": "نستخدم 'swing' لأنها إحدى ألعاب الحديقة.",
+        "englishReason": "We use 'swing' because it is playground equipment.",
+        "options": [
+          "swing",
+          "flower",
+          "bird",
+          "air"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 126
+      },
+      {
+        "question": "We run around the garden and play ______.",
+        "correctAnswer": "hide-and-seek",
+        "arabicReason": "نستخدم 'hide-and-seek' لأنها اللعبة المذكورة في القطعة.",
+        "englishReason": "We use 'hide-and-seek' because it is the game mentioned in the passage.",
+        "options": [
+          "hide-and-seek",
+          "football",
+          "basketball",
+          "tennis"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 127
+      },
+      {
+        "question": "At ______, we have lunch and take a rest.",
+        "correctAnswer": "lunchtime",
+        "arabicReason": "نستخدم 'lunchtime' لأنها تعني وقت الغداء.",
+        "englishReason": "We use 'lunchtime' because it means the time for lunch.",
+        "options": [
+          "lunchtime",
+          "morning",
+          "night",
+          "weekend"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 128
+      },
+      {
+        "question": "We have lunch and take a ______.",
+        "correctAnswer": "rest",
+        "arabicReason": "نستخدم 'rest' لأننا نأخذ قسطًا من الراحة بعد الغداء.",
+        "englishReason": "We use 'rest' because we take a break after lunch.",
+        "options": [
+          "rest",
+          "lesson",
+          "test",
+          "game"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 129
+      },
+      {
+        "question": "We see the birds ______.",
+        "correctAnswer": "singing",
+        "arabicReason": "نستخدم 'singing' لأن الطيور تغني في القطعة.",
+        "englishReason": "We use 'singing' because the birds are singing in the passage.",
+        "options": [
+          "singing",
+          "sleeping",
+          "swimming",
+          "jumping"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 130
+      },
+      {
+        "question": "The butterflies are flying around the colourful ______.",
+        "correctAnswer": "flowers",
+        "arabicReason": "نستخدم 'flowers' لأن الفراشات تطير حول الزهور.",
+        "englishReason": "We use 'flowers' because butterflies fly around flowers.",
+        "options": [
+          "flowers",
+          "houses",
+          "cars",
+          "desks"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 131
+      },
+      {
+        "question": "The air is ______.",
+        "correctAnswer": "fresh",
+        "arabicReason": "نستخدم 'fresh' لوصف الهواء في الحديقة.",
+        "englishReason": "We use 'fresh' to describe the air in the garden.",
+        "options": [
+          "fresh",
+          "dirty",
+          "hot",
+          "old"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 132
+      },
+      {
+        "question": "I always ______ the garden day.",
+        "correctAnswer": "enjoy",
+        "arabicReason": "نستخدم 'enjoy' لأن المتحدث يستمتع بيوم الحديقة.",
+        "englishReason": "We use 'enjoy' because the speaker likes the garden day.",
+        "options": [
+          "enjoy",
+          "forget",
+          "leave",
+          "draw"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 133
+      },
+      {
+        "question": "I sleep in the ______.",
+        "correctAnswer": "bedroom",
+        "arabicReason": "ننام في غرفة النوم.",
+        "englishReason": "We sleep in the bedroom.",
+        "options": [
+          "bedroom",
+          "kitchen",
+          "balcony",
+          "living room"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 134
+      },
+      {
+        "question": "My family watches TV in the ______.",
+        "correctAnswer": "living room",
+        "arabicReason": "نشاهد التلفاز في غرفة المعيشة.",
+        "englishReason": "We watch TV in the living room.",
+        "options": [
+          "living room",
+          "bedroom",
+          "kitchen",
+          "dining room"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 135
+      },
+      {
+        "question": "We eat in the ______.",
+        "correctAnswer": "dining room",
+        "arabicReason": "نتناول الطعام في غرفة الطعام.",
+        "englishReason": "We eat in the dining room.",
+        "options": [
+          "dining room",
+          "bedroom",
+          "balcony",
+          "living room"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 136
+      },
+      {
+        "question": "I help my mom in the ______.",
+        "correctAnswer": "kitchen",
+        "arabicReason": "نساعد الأم في المطبخ.",
+        "englishReason": "We help our mom in the kitchen.",
+        "options": [
+          "kitchen",
+          "bedroom",
+          "living room",
+          "balcony"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 137
+      },
+      {
+        "question": "There are some ______ on the balcony.",
+        "correctAnswer": "plants",
+        "arabicReason": "يوجد بعض النباتات في الشرفة.",
+        "englishReason": "There are some plants on the balcony.",
+        "options": [
+          "plants",
+          "chairs",
+          "books",
+          "beds"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 138
+      },
+      {
+        "question": "My house is always clean and ______.",
+        "correctAnswer": "tidy",
+        "arabicReason": "الوصف الصحيح هو نظيف ومرتب.",
+        "englishReason": "The correct description is clean and tidy.",
+        "options": [
+          "tidy",
+          "hungry",
+          "angry",
+          "small"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 139
+      },
+      {
+        "question": "I ______ with my family in the living room.",
+        "correctAnswer": "sit",
+        "arabicReason": "نجلس مع العائلة في غرفة المعيشة.",
+        "englishReason": "We sit with our family in the living room.",
+        "options": [
+          "sit",
+          "sleep",
+          "eat",
+          "run"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 140
+      },
+      {
+        "question": "I ______ in the bedroom every night.",
+        "correctAnswer": "sleep",
+        "arabicReason": "ننام في غرفة النوم.",
+        "englishReason": "We sleep in the bedroom.",
+        "options": [
+          "sleep",
+          "cook",
+          "watch",
+          "play"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 141
+      },
+      {
+        "question": "I ______ help my mom in the kitchen.",
+        "correctAnswer": "sometimes",
+        "arabicReason": "نستخدم (sometimes) بمعنى أحيانًا.",
+        "englishReason": "We use 'sometimes' to mean not all the time.",
+        "options": [
+          "sometimes",
+          "always",
+          "never",
+          "tomorrow"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 142
+      },
+      {
+        "question": "This is my ______.",
+        "correctAnswer": "house",
+        "arabicReason": "الجملة تتحدث عن المنزل.",
+        "englishReason": "The sentence is talking about a house.",
+        "options": [
+          "house",
+          "school",
+          "garden",
+          "hospital"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "9",
+        "id": 143
       }
     ],
     "sentence": [],
