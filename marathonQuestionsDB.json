@@ -385,6 +385,75 @@
         "curriculum": "OL",
         "unit": "9",
         "id": 15
+      },
+      {
+        "passage": "I have a kind {blank1}. His name is Ahmed. He is tall and {blank2}. He has brown eyes and short {blank3}. We help each other and sometimes we go to the {blank4} together. Ahmed is my best {blank5}.",
+        "options": [
+          "friend",
+          "slim",
+          "hair",
+          "club",
+          "friend"
+        ],
+        "correctAnswer": [
+          "friend",
+          "slim",
+          "hair",
+          "club",
+          "friend"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 16
+      },
+      {
+        "passage": "Today is my {blank1}. My friends come to my {blank2}. We {blank3} and sing songs. They give me {blank4}. We enjoy our {blank5}.",
+        "options": [
+          "birthday",
+          "party",
+          "play",
+          "gifts",
+          "day"
+        ],
+        "correctAnswer": [
+          "birthday",
+          "party",
+          "play",
+          "gifts",
+          "day"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 17
+      },
+      {
+        "passage": "Social media plays an {blank1} role in our life. It helps us {blank2} new things and communicate {blank3}. To stay safe, you should limit your {blank4} time and don't make {blank5} with people you don't know.",
+        "options": [
+          "important",
+          "learn",
+          "faster",
+          "screen",
+          "friends"
+        ],
+        "correctAnswer": [
+          "important",
+          "learn",
+          "faster",
+          "screen",
+          "friends"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 18
       }
     ],
     "correct": [
@@ -1609,6 +1678,246 @@
         "curriculum": "OL",
         "unit": "9",
         "id": 101
+      },
+      {
+        "sentence": "Ahmed are my best friend.",
+        "errorWord": "are",
+        "correctWord": "is",
+        "arabicReason": "نستخدم (is) مع الفاعل المفرد Ahmed.",
+        "englishReason": "We use 'is' with the singular subject Ahmed.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 102
+      },
+      {
+        "sentence": "I is good at Math.",
+        "errorWord": "is",
+        "correctWord": "am",
+        "arabicReason": "نستخدم (am) مع الضمير I.",
+        "englishReason": "We use 'am' with the pronoun I.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 103
+      },
+      {
+        "sentence": "We is good friends.",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "نستخدم (are) مع الضمير We.",
+        "englishReason": "We use 'are' with the pronoun We.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 104
+      },
+      {
+        "sentence": "He have brown eyes.",
+        "errorWord": "have",
+        "correctWord": "has",
+        "arabicReason": "نستخدم (has) مع الفاعل المفرد He.",
+        "englishReason": "We use 'has' with the singular subject He.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 105
+      },
+      {
+        "sentence": "Ahmed help me with English.",
+        "errorWord": "help",
+        "correctWord": "helps",
+        "arabicReason": "نضيف (s) للفعل مع الفاعل المفرد Ahmed.",
+        "englishReason": "We add 's' to the verb with the singular subject Ahmed.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 106
+      },
+      {
+        "sentence": "We helps each other every day.",
+        "errorWord": "helps",
+        "correctWord": "help",
+        "arabicReason": "مع الفاعل We نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With 'We', we use the base form of the verb.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 107
+      },
+      {
+        "sentence": "They has a kind friend.",
+        "errorWord": "has",
+        "correctWord": "have",
+        "arabicReason": "نستخدم (have) مع الفاعل الجمع They.",
+        "englishReason": "We use 'have' with the plural subject They.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 108
+      },
+      {
+        "sentence": "My friend have short hair.",
+        "errorWord": "have",
+        "correctWord": "has",
+        "arabicReason": "نستخدم (has) مع الفاعل المفرد My friend.",
+        "englishReason": "We use 'has' with the singular subject 'My friend'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 109
+      },
+      {
+        "sentence": "She help her friend every day.",
+        "errorWord": "help",
+        "correctWord": "helps",
+        "arabicReason": "نضيف (s) للفعل مع الفاعل المفرد She.",
+        "englishReason": "We add 's' to the verb with the singular subject She.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 110
+      },
+      {
+        "sentence": "They is at the club together.",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "نستخدم (are) مع الفاعل الجمع They.",
+        "englishReason": "We use 'are' with the plural subject They.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 111
+      },
+      {
+        "sentence": "Today are my birthday.",
+        "errorWord": "are",
+        "correctWord": "is",
+        "arabicReason": "نستخدم (is) مع Today لأنه مفرد.",
+        "englishReason": "We use 'is' with 'Today' because it is singular.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 112
+      },
+      {
+        "sentence": "My friends comes to my party.",
+        "errorWord": "comes",
+        "correctWord": "come",
+        "arabicReason": "مع الفاعل الجمع (My friends) نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With the plural subject 'My friends', we use the base form of the verb.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 113
+      },
+      {
+        "sentence": "We plays and sing songs.",
+        "errorWord": "plays",
+        "correctWord": "play",
+        "arabicReason": "مع الفاعل We نستخدم الفعل الأساسي.",
+        "englishReason": "With 'We', we use the base form of the verb.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 114
+      },
+      {
+        "sentence": "They gives me gifts.",
+        "errorWord": "gives",
+        "correctWord": "give",
+        "arabicReason": "مع الفاعل They نستخدم الفعل الأساسي.",
+        "englishReason": "With 'They', we use the base form of the verb.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 115
+      },
+      {
+        "sentence": "Everyone enjoys the party.",
+        "errorWord": "enjoys",
+        "correctWord": "enjoy",
+        "arabicReason": "بعد الفعل المساعد (does) أو عند تحويلها للمصدر لا نضيف (s)، والفعل الأساسي هو enjoy.",
+        "englishReason": "The base form of the verb is 'enjoy'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 116
+      },
+      {
+        "sentence": "I is happy today.",
+        "errorWord": "is",
+        "correctWord": "am",
+        "arabicReason": "نستخدم (am) مع الضمير I.",
+        "englishReason": "We use 'am' with the pronoun I.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 117
+      },
+      {
+        "sentence": "We is happy today.",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "نستخدم (are) مع الضمير We.",
+        "englishReason": "We use 'are' with the pronoun We.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 118
+      },
+      {
+        "sentence": "My friend come to my party.",
+        "errorWord": "come",
+        "correctWord": "comes",
+        "arabicReason": "مع الفاعل المفرد (My friend) نضيف (s) إلى الفعل.",
+        "englishReason": "With the singular subject 'My friend', we add 's' to the verb.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 119
+      },
+      {
+        "sentence": "He give me a gift.",
+        "errorWord": "give",
+        "correctWord": "gives",
+        "arabicReason": "مع الضمير He نضيف (s) إلى الفعل.",
+        "englishReason": "With the pronoun 'He', we add 's' to the verb.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 120
+      },
+      {
+        "sentence": "She have a birthday party.",
+        "errorWord": "have",
+        "correctWord": "has",
+        "arabicReason": "نستخدم (has) مع الضمائر المفردة مثل She.",
+        "englishReason": "We use 'has' with singular pronouns like 'She'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 121
       }
     ],
     "translate": [
@@ -3226,6 +3535,601 @@
         "curriculum": "OL",
         "unit": "9",
         "id": 95
+      },
+      {
+        "word": "I have a kind friend.",
+        "meaning": "لدي صديق لطيف.",
+        "options": [
+          "لدي صديق لطيف.",
+          "لدي أخ لطيف.",
+          "لدي معلم لطيف.",
+          "لدي جار لطيف."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 96
+      },
+      {
+        "word": "His name is Ahmed.",
+        "meaning": "اسمه أحمد.",
+        "options": [
+          "اسمه أحمد.",
+          "اسمي أحمد.",
+          "اسمها أحمد.",
+          "اسمهم أحمد."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 97
+      },
+      {
+        "word": "Ahmed is tall and slim.",
+        "meaning": "أحمد طويل ونحيف.",
+        "options": [
+          "أحمد طويل ونحيف.",
+          "أحمد قصير ونحيف.",
+          "أحمد طويل وسمين.",
+          "أحمد قصير وسمين."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 98
+      },
+      {
+        "word": "He has brown eyes and short hair.",
+        "meaning": "لديه عيون بنية وشعر قصير.",
+        "options": [
+          "لديه عيون بنية وشعر قصير.",
+          "لديه عيون زرقاء وشعر قصير.",
+          "لديه عيون بنية وشعر طويل.",
+          "لديه شعر بني وعيون قصيرة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 99
+      },
+      {
+        "word": "He is good at English.",
+        "meaning": "هو جيد في اللغة الإنجليزية.",
+        "options": [
+          "هو جيد في اللغة الإنجليزية.",
+          "هو جيد في الرياضيات.",
+          "هو يحب اللغة الإنجليزية.",
+          "هو يدرس اللغة الإنجليزية."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 100
+      },
+      {
+        "word": "I am good at Math.",
+        "meaning": "أنا جيد في الرياضيات.",
+        "options": [
+          "أنا جيد في الرياضيات.",
+          "أنا جيد في اللغة الإنجليزية.",
+          "أنا أحب الرياضيات.",
+          "أنا أدرس الرياضيات."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 101
+      },
+      {
+        "word": "We help each other.",
+        "meaning": "نحن نساعد بعضنا البعض.",
+        "options": [
+          "نحن نساعد بعضنا البعض.",
+          "نحن نلعب معًا.",
+          "نحن نتحدث كل يوم.",
+          "نحن نذهب إلى المدرسة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 102
+      },
+      {
+        "word": "We text every day.",
+        "meaning": "نرسل رسائل كل يوم.",
+        "options": [
+          "نرسل رسائل كل يوم.",
+          "نذهب إلى النادي كل يوم.",
+          "ندرس كل يوم.",
+          "نلعب كل يوم."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 103
+      },
+      {
+        "word": "Sometimes we go to the club together.",
+        "meaning": "أحيانًا نذهب إلى النادي معًا.",
+        "options": [
+          "أحيانًا نذهب إلى النادي معًا.",
+          "أحيانًا نذهب إلى المدرسة معًا.",
+          "أحيانًا نذهب إلى الحديقة معًا.",
+          "أحيانًا نذهب إلى المكتبة معًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 104
+      },
+      {
+        "word": "Ahmed is my best friend.",
+        "meaning": "أحمد هو أفضل صديق لي.",
+        "options": [
+          "أحمد هو أفضل صديق لي.",
+          "أحمد هو أخي.",
+          "أحمد هو معلمي.",
+          "أحمد هو جاري."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 105
+      },
+      {
+        "word": "Today is my birthday.",
+        "meaning": "اليوم هو عيد ميلادي.",
+        "options": [
+          "اليوم هو عيد ميلادي.",
+          "اليوم هو أول يوم دراسة.",
+          "اليوم هو يوم عطلة.",
+          "اليوم هو يوم الجمعة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 106
+      },
+      {
+        "word": "My friends come to my party.",
+        "meaning": "أصدقائي يأتون إلى حفلتي.",
+        "options": [
+          "أصدقائي يأتون إلى حفلتي.",
+          "أصدقائي يذهبون إلى المدرسة.",
+          "أصدقائي يلعبون في الحديقة.",
+          "أصدقائي يزورون المعلم."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 107
+      },
+      {
+        "word": "We play and sing songs.",
+        "meaning": "نلعب ونغني الأغاني.",
+        "options": [
+          "نلعب ونغني الأغاني.",
+          "نقرأ الكتب.",
+          "نشاهد التلفاز.",
+          "نكتب الواجب."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 108
+      },
+      {
+        "word": "They give me gifts.",
+        "meaning": "هم يعطونني هدايا.",
+        "options": [
+          "هم يعطونني هدايا.",
+          "هم يأخذون هدايا.",
+          "هم يشترون ألعابًا.",
+          "هم يكتبون رسائل."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 109
+      },
+      {
+        "word": "We enjoy our day.",
+        "meaning": "نستمتع بيومنا.",
+        "options": [
+          "نستمتع بيومنا.",
+          "ننهي يومنا.",
+          "نبدأ المدرسة.",
+          "نذهب إلى السوق."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 110
+      },
+      {
+        "word": "Today is a happy day.",
+        "meaning": "اليوم يوم سعيد.",
+        "options": [
+          "اليوم يوم سعيد.",
+          "اليوم يوم طويل.",
+          "اليوم يوم ممطر.",
+          "اليوم يوم صعب."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 111
+      },
+      {
+        "word": "My friends sing songs.",
+        "meaning": "أصدقائي يغنون الأغاني.",
+        "options": [
+          "أصدقائي يغنون الأغاني.",
+          "أصدقائي يقرؤون القصص.",
+          "أصدقائي يلعبون الكرة.",
+          "أصدقائي يكتبون الدرس."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 112
+      },
+      {
+        "word": "I get many gifts.",
+        "meaning": "أحصل على الكثير من الهدايا.",
+        "options": [
+          "أحصل على الكثير من الهدايا.",
+          "أشتري الكثير من الهدايا.",
+          "أصنع الكثير من الألعاب.",
+          "أقرأ الكثير من الكتب."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 113
+      },
+      {
+        "word": "We have a birthday party.",
+        "meaning": "لدينا حفلة عيد ميلاد.",
+        "options": [
+          "لدينا حفلة عيد ميلاد.",
+          "لدينا حصة لغة إنجليزية.",
+          "لدينا رحلة مدرسية.",
+          "لدينا مباراة كرة قدم."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 114
+      },
+      {
+        "word": "Everyone enjoys the party.",
+        "meaning": "الجميع يستمتع بالحفلة.",
+        "options": [
+          "الجميع يستمتع بالحفلة.",
+          "الجميع يذهب إلى المدرسة.",
+          "الجميع يكتب الواجب.",
+          "الجميع يشاهد التلفاز."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 115
+      },
+      {
+        "word": "Social media plays an important role in our life.",
+        "meaning": "تلعب وسائل التواصل الاجتماعي دورًا مهمًا في حياتنا.",
+        "options": [
+          "تلعب وسائل التواصل الاجتماعي دورًا مهمًا في حياتنا.",
+          "تلعب وسائل التواصل الاجتماعي في المدرسة.",
+          "تلعب وسائل التواصل الاجتماعي كرة القدم.",
+          "تلعب وسائل التواصل الاجتماعي دورًا صغيرًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 116
+      },
+      {
+        "word": "It helps us learn new things.",
+        "meaning": "إنها تساعدنا على تعلم أشياء جديدة.",
+        "options": [
+          "إنها تساعدنا على تعلم أشياء جديدة.",
+          "إنها تمنعنا من التعلم.",
+          "إنها تساعدنا على النوم.",
+          "إنها تساعدنا على اللعب فقط."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 117
+      },
+      {
+        "word": "We communicate faster.",
+        "meaning": "نتواصل بشكل أسرع.",
+        "options": [
+          "نتواصل بشكل أسرع.",
+          "نكتب ببطء.",
+          "نلعب كثيرًا.",
+          "نسافر معًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 118
+      },
+      {
+        "word": "We learn about different cultures.",
+        "meaning": "نتعلم عن ثقافات مختلفة.",
+        "options": [
+          "نتعلم عن ثقافات مختلفة.",
+          "نتعلم عن الحيوانات.",
+          "نتعلم عن السيارات.",
+          "نتعلم عن الملابس."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 119
+      },
+      {
+        "word": "Social media can waste our time.",
+        "meaning": "يمكن أن تهدر وسائل التواصل الاجتماعي وقتنا.",
+        "options": [
+          "يمكن أن تهدر وسائل التواصل الاجتماعي وقتنا.",
+          "يمكن أن توفر وقتنا دائمًا.",
+          "يمكن أن تنظف وقتنا.",
+          "يمكن أن تطيل يومنا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 120
+      },
+      {
+        "word": "It can cause headaches.",
+        "meaning": "يمكن أن تسبب الصداع.",
+        "options": [
+          "يمكن أن تسبب الصداع.",
+          "يمكن أن تسبب السعادة.",
+          "يمكن أن تسبب النجاح.",
+          "يمكن أن تسبب الهدايا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 121
+      },
+      {
+        "word": "It can cause eye problems.",
+        "meaning": "يمكن أن تسبب مشكلات في العين.",
+        "options": [
+          "يمكن أن تسبب مشكلات في العين.",
+          "يمكن أن تسبب شعرًا طويلًا.",
+          "يمكن أن تسبب سرعة الجري.",
+          "يمكن أن تسبب النجاح."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 122
+      },
+      {
+        "word": "You should limit your screen time.",
+        "meaning": "يجب أن تقلل وقت استخدام الشاشة.",
+        "options": [
+          "يجب أن تقلل وقت استخدام الشاشة.",
+          "يجب أن تزيد وقت استخدام الشاشة.",
+          "يجب أن تشتري شاشة جديدة.",
+          "يجب أن تشاهد التلفاز."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 123
+      },
+      {
+        "word": "Don't make friends with people you don't know.",
+        "meaning": "لا تصادق أشخاصًا لا تعرفهم.",
+        "options": [
+          "لا تصادق أشخاصًا لا تعرفهم.",
+          "صادق كل الناس.",
+          "لا تتحدث مع أصدقائك.",
+          "اذهب إلى المدرسة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 124
+      },
+      {
+        "word": "Social media is sometimes good.",
+        "meaning": "وسائل التواصل الاجتماعي تكون جيدة أحيانًا.",
+        "options": [
+          "وسائل التواصل الاجتماعي تكون جيدة أحيانًا.",
+          "وسائل التواصل الاجتماعي سيئة دائمًا.",
+          "وسائل التواصل الاجتماعي لا تعمل.",
+          "وسائل التواصل الاجتماعي لعبة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 125
+      },
+      {
+        "word": "Social media is sometimes bad.",
+        "meaning": "وسائل التواصل الاجتماعي تكون سيئة أحيانًا.",
+        "options": [
+          "وسائل التواصل الاجتماعي تكون سيئة أحيانًا.",
+          "وسائل التواصل الاجتماعي جيدة دائمًا.",
+          "وسائل التواصل الاجتماعي مدرسة.",
+          "وسائل التواصل الاجتماعي كتاب."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 126
+      },
+      {
+        "word": "We should stay safe online.",
+        "meaning": "يجب أن نبقى آمنين على الإنترنت.",
+        "options": [
+          "يجب أن نبقى آمنين على الإنترنت.",
+          "يجب أن نلعب طوال اليوم.",
+          "يجب أن نسافر كل يوم.",
+          "يجب أن ننام مبكرًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 127
+      },
+      {
+        "word": "People use social media every day.",
+        "meaning": "يستخدم الناس وسائل التواصل الاجتماعي كل يوم.",
+        "options": [
+          "يستخدم الناس وسائل التواصل الاجتماعي كل يوم.",
+          "يستخدم الناس السيارات كل يوم.",
+          "يقرأ الناس القصص كل يوم.",
+          "يلعب الناس الكرة كل يوم."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 128
+      },
+      {
+        "word": "Too much screen time is unhealthy.",
+        "meaning": "الإفراط في استخدام الشاشة غير صحي.",
+        "options": [
+          "الإفراط في استخدام الشاشة غير صحي.",
+          "الإفراط في استخدام الشاشة مفيد دائمًا.",
+          "الإفراط في استخدام الشاشة ممتع فقط.",
+          "الإفراط في استخدام الشاشة يجعلنا أطول."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 129
+      },
+      {
+        "word": "Social media helps us communicate.",
+        "meaning": "تساعدنا وسائل التواصل الاجتماعي على التواصل.",
+        "options": [
+          "تساعدنا وسائل التواصل الاجتماعي على التواصل.",
+          "تساعدنا وسائل التواصل الاجتماعي على النوم.",
+          "تساعدنا وسائل التواصل الاجتماعي على الطبخ.",
+          "تساعدنا وسائل التواصل الاجتماعي على السباحة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 130
       }
     ],
     "find_the_vowel": [
@@ -4824,6 +5728,601 @@
         "curriculum": "OL",
         "unit": "9",
         "id": 93
+      },
+      {
+        "question": "Ahmed ______ tall and slim.",
+        "correctAnswer": "is",
+        "arabicReason": "نستخدم (is) مع الفاعل المفرد Ahmed.",
+        "englishReason": "We use 'is' with the singular subject Ahmed.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 94
+      },
+      {
+        "question": "I ______ good at Math.",
+        "correctAnswer": "am",
+        "arabicReason": "نستخدم (am) مع الضمير I.",
+        "englishReason": "We use 'am' with the pronoun I.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 95
+      },
+      {
+        "question": "We ______ good friends.",
+        "correctAnswer": "are",
+        "arabicReason": "نستخدم (are) مع الضمير We.",
+        "englishReason": "We use 'are' with the pronoun We.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 96
+      },
+      {
+        "question": "He ______ brown eyes.",
+        "correctAnswer": "has",
+        "arabicReason": "نستخدم (has) مع الفاعل المفرد He.",
+        "englishReason": "We use 'has' with the singular subject He.",
+        "options": [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 97
+      },
+      {
+        "question": "We ______ each other every day.",
+        "correctAnswer": "help",
+        "arabicReason": "مع الفاعل We نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With 'We', we use the base form of the verb.",
+        "options": [
+          "helps",
+          "help",
+          "helping",
+          "helped"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 98
+      },
+      {
+        "question": "Ahmed ______ me with English.",
+        "correctAnswer": "helps",
+        "arabicReason": "نضيف (s) للفعل مع الفاعل المفرد Ahmed.",
+        "englishReason": "We add 's' to the verb with the singular subject Ahmed.",
+        "options": [
+          "help",
+          "helps",
+          "helping",
+          "helped"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 99
+      },
+      {
+        "question": "______ Ahmed good at English?",
+        "correctAnswer": "Is",
+        "arabicReason": "نستخدم (Is) في السؤال مع الفاعل المفرد Ahmed.",
+        "englishReason": "We use 'Is' in questions with the singular subject Ahmed.",
+        "options": [
+          "Am",
+          "Is",
+          "Are",
+          "Do"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 100
+      },
+      {
+        "question": "______ you good at Math?",
+        "correctAnswer": "Are",
+        "arabicReason": "نستخدم (Are) مع الضمير you.",
+        "englishReason": "We use 'Are' with the pronoun you.",
+        "options": [
+          "Am",
+          "Is",
+          "Are",
+          "Does"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 101
+      },
+      {
+        "question": "______ Ahmed text you every day?",
+        "correctAnswer": "Does",
+        "arabicReason": "نستخدم (Does) في المضارع البسيط مع الفاعل المفرد.",
+        "englishReason": "We use 'Does' in the simple present with a singular subject.",
+        "options": [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 102
+      },
+      {
+        "question": "______ you help your friend?",
+        "correctAnswer": "Do",
+        "arabicReason": "نستخدم (Do) مع الفاعل You في المضارع البسيط.",
+        "englishReason": "We use 'Do' with the subject 'you' in the simple present.",
+        "options": [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 103
+      },
+      {
+        "question": "Today ______ my birthday.",
+        "correctAnswer": "is",
+        "arabicReason": "نستخدم (is) مع Today لأنه مفرد.",
+        "englishReason": "We use 'is' with 'Today' because it is singular.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 104
+      },
+      {
+        "question": "My friends ______ to my party.",
+        "correctAnswer": "come",
+        "arabicReason": "مع الفاعل الجمع (My friends) نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With the plural subject 'My friends', we use the base form of the verb.",
+        "options": [
+          "comes",
+          "come",
+          "coming",
+          "came"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 105
+      },
+      {
+        "question": "We ______ and sing songs.",
+        "correctAnswer": "play",
+        "arabicReason": "مع الفاعل We نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With 'We', we use the base form of the verb.",
+        "options": [
+          "plays",
+          "play",
+          "playing",
+          "played"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 106
+      },
+      {
+        "question": "They ______ me gifts.",
+        "correctAnswer": "give",
+        "arabicReason": "مع الفاعل They نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With 'They', we use the base form of the verb.",
+        "options": [
+          "gives",
+          "give",
+          "giving",
+          "gave"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 107
+      },
+      {
+        "question": "Everyone ______ the party.",
+        "correctAnswer": "enjoys",
+        "arabicReason": "Everyone مفرد، لذلك نضيف (s) إلى الفعل.",
+        "englishReason": "Everyone is singular, so we add 's' to the verb.",
+        "options": [
+          "enjoy",
+          "enjoys",
+          "enjoying",
+          "enjoyed"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 108
+      },
+      {
+        "question": "______ today your birthday?",
+        "correctAnswer": "Is",
+        "arabicReason": "نستخدم (Is) لتكوين السؤال مع Today.",
+        "englishReason": "We use 'Is' to form a question with 'Today'.",
+        "options": [
+          "Am",
+          "Is",
+          "Are",
+          "Do"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 109
+      },
+      {
+        "question": "______ your friends come to your party?",
+        "correctAnswer": "Do",
+        "arabicReason": "نستخدم (Do) مع الفاعل الجمع في المضارع البسيط.",
+        "englishReason": "We use 'Do' with a plural subject in the simple present.",
+        "options": [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 110
+      },
+      {
+        "question": "______ everyone enjoy the party?",
+        "correctAnswer": "Does",
+        "arabicReason": "Everyone مفرد، لذلك نستخدم (Does) في السؤال.",
+        "englishReason": "Everyone is singular, so we use 'Does' in questions.",
+        "options": [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 111
+      },
+      {
+        "question": "We ______ happy today.",
+        "correctAnswer": "are",
+        "arabicReason": "نستخدم (are) مع الضمير We.",
+        "englishReason": "We use 'are' with the pronoun 'We'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 112
+      },
+      {
+        "question": "I ______ happy on my birthday.",
+        "correctAnswer": "am",
+        "arabicReason": "نستخدم (am) مع الضمير I.",
+        "englishReason": "We use 'am' with the pronoun 'I'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 113
+      },
+      {
+        "question": "Social media ______ important in our life.",
+        "correctAnswer": "is",
+        "arabicReason": "الفاعل (Social media) مفرد، لذلك نستخدم (is).",
+        "englishReason": "The subject 'Social media' is singular, so we use 'is'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 114
+      },
+      {
+        "question": "______ social media help us learn new things?",
+        "correctAnswer": "Does",
+        "arabicReason": "مع الفاعل المفرد نستخدم (Does) في السؤال.",
+        "englishReason": "We use 'Does' with a singular subject in questions.",
+        "options": [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 115
+      },
+      {
+        "question": "______ social media good or bad?",
+        "correctAnswer": "Is",
+        "arabicReason": "السؤال يبدأ بـ (Is) لأن Social media مفرد.",
+        "englishReason": "The question starts with 'Is' because 'Social media' is singular.",
+        "options": [
+          "Am",
+          "Is",
+          "Are",
+          "Do"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 116
+      },
+      {
+        "question": "We ______ communicate faster.",
+        "correctAnswer": "can",
+        "arabicReason": "نستخدم (can) للتعبير عن القدرة.",
+        "englishReason": "We use 'can' to express ability.",
+        "options": [
+          "can",
+          "is",
+          "does",
+          "are"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 117
+      },
+      {
+        "question": "You ______ limit your screen time.",
+        "correctAnswer": "should",
+        "arabicReason": "نستخدم (should) لإعطاء النصيحة.",
+        "englishReason": "We use 'should' to give advice.",
+        "options": [
+          "should",
+          "are",
+          "does",
+          "am"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 118
+      },
+      {
+        "question": "______ you use social media every day?",
+        "correctAnswer": "Do",
+        "arabicReason": "مع الفاعل (you) نستخدم (Do).",
+        "englishReason": "We use 'Do' with the subject 'you'.",
+        "options": [
+          "Do",
+          "Does",
+          "Is",
+          "Was"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 119
+      },
+      {
+        "question": "It ______ cause headaches.",
+        "correctAnswer": "can",
+        "arabicReason": "نستخدم (can) للتعبير عن الاحتمال أو القدرة.",
+        "englishReason": "We use 'can' to express possibility.",
+        "options": [
+          "can",
+          "is",
+          "does",
+          "am"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 120
+      },
+      {
+        "question": "People ______ learn about different cultures.",
+        "correctAnswer": "can",
+        "arabicReason": "نستخدم (can) لأن الجملة تتحدث عن إمكانية التعلم.",
+        "englishReason": "We use 'can' because the sentence talks about possibility.",
+        "options": [
+          "can",
+          "is",
+          "does",
+          "was"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 121
+      },
+      {
+        "question": "______ make friends with people you don't know.",
+        "correctAnswer": "Don't",
+        "arabicReason": "نستخدم (Don't) للنهي.",
+        "englishReason": "We use 'Don't' to give a negative command.",
+        "options": [
+          "Don't",
+          "Does",
+          "Is",
+          "Can"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 122
+      },
+      {
+        "question": "Eye problems ______ caused by too much screen time.",
+        "correctAnswer": "are",
+        "arabicReason": "الفاعل جمع (Eye problems)، لذلك نستخدم (are).",
+        "englishReason": "The subject 'Eye problems' is plural, so we use 'are'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 123
+      },
+      {
+        "question": "My brother ______ use social media every day.",
+        "correctAnswer": "does",
+        "arabicReason": "مع الفاعل المفرد (My brother) نستخدم (does).",
+        "englishReason": "We use 'does' with the singular subject 'My brother'.",
+        "options": [
+          "do",
+          "does",
+          "are",
+          "am"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 124
+      },
+      {
+        "question": "______ we stay safe online?",
+        "correctAnswer": "Should",
+        "arabicReason": "نستخدم (Should) عند طلب النصيحة أو الاقتراح.",
+        "englishReason": "We use 'Should' for advice or suggestions.",
+        "options": [
+          "Should",
+          "Do",
+          "Is",
+          "Does"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 125
+      },
+      {
+        "question": "I ______ communicate with my friends online.",
+        "correctAnswer": "can",
+        "arabicReason": "نستخدم (can) للتعبير عن القدرة.",
+        "englishReason": "We use 'can' to express ability.",
+        "options": [
+          "can",
+          "is",
+          "does",
+          "are"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 126
+      },
+      {
+        "question": "My friends ______ online every evening.",
+        "correctAnswer": "are",
+        "arabicReason": "الفاعل جمع (My friends)، لذلك نستخدم (are).",
+        "englishReason": "The subject 'My friends' is plural, so we use 'are'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 127
+      },
+      {
+        "question": "______ social media waste our time?",
+        "correctAnswer": "Can",
+        "arabicReason": "نستخدم (Can) للسؤال عن الإمكانية.",
+        "englishReason": "We use 'Can' to ask about possibility.",
+        "options": [
+          "Can",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 128
       }
     ],
     "justtalk": [
@@ -5486,6 +6985,195 @@
         "curriculum": "OL",
         "unit": "9",
         "id": 31
+      },
+      {
+        "sentences": [
+          {
+            "text": "I have a kind friend.",
+            "target": "I have a kind friend."
+          },
+          {
+            "text": "His name is Ahmed.",
+            "target": "His name is Ahmed."
+          },
+          {
+            "text": "Ahmed is tall and slim.",
+            "target": "Ahmed is tall and slim."
+          }
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 32
+      },
+      {
+        "sentences": [
+          {
+            "text": "He has brown eyes and short hair.",
+            "target": "He has brown eyes and short hair."
+          },
+          {
+            "text": "He is good at English.",
+            "target": "He is good at English."
+          },
+          {
+            "text": "I am good at Math.",
+            "target": "I am good at Math."
+          }
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 33
+      },
+      {
+        "sentences": [
+          {
+            "text": "We help each other.",
+            "target": "We help each other."
+          },
+          {
+            "text": "We text every day.",
+            "target": "We text every day."
+          },
+          {
+            "text": "Ahmed is my best friend.",
+            "target": "Ahmed is my best friend."
+          }
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 34
+      },
+      {
+        "sentences": [
+          {
+            "text": "Today is my birthday.",
+            "target": "Today is my birthday."
+          },
+          {
+            "text": "My friends come to my party.",
+            "target": "My friends come to my party."
+          },
+          {
+            "text": "We play and sing songs.",
+            "target": "We play and sing songs."
+          }
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 35
+      },
+      {
+        "sentences": [
+          {
+            "text": "They give me gifts.",
+            "target": "They give me gifts."
+          },
+          {
+            "text": "We enjoy our day.",
+            "target": "We enjoy our day."
+          },
+          {
+            "text": "Today is a happy day.",
+            "target": "Today is a happy day."
+          }
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 36
+      },
+      {
+        "sentences": [
+          {
+            "text": "My friends sing songs.",
+            "target": "My friends sing songs."
+          },
+          {
+            "text": "I get many gifts.",
+            "target": "I get many gifts."
+          },
+          {
+            "text": "Everyone enjoys the party.",
+            "target": "Everyone enjoys the party."
+          }
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 37
+      },
+      {
+        "sentences": [
+          {
+            "text": "Social media plays an important role in our life.",
+            "target": "Social media plays an important role in our life."
+          },
+          {
+            "text": "It helps us learn new things.",
+            "target": "It helps us learn new things."
+          },
+          {
+            "text": "We communicate faster.",
+            "target": "We communicate faster."
+          }
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 38
+      },
+      {
+        "sentences": [
+          {
+            "text": "We learn about different cultures.",
+            "target": "We learn about different cultures."
+          },
+          {
+            "text": "Social media can waste our time.",
+            "target": "Social media can waste our time."
+          },
+          {
+            "text": "It can cause eye problems.",
+            "target": "It can cause eye problems."
+          }
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 39
+      },
+      {
+        "sentences": [
+          {
+            "text": "You should limit your screen time.",
+            "target": "You should limit your screen time."
+          },
+          {
+            "text": "Don't make friends with people you don't know.",
+            "target": "Don't make friends with people you don't know."
+          },
+          {
+            "text": "We should stay safe online.",
+            "target": "We should stay safe online."
+          }
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 40
       }
     ],
     "Matching": [
@@ -6827,6 +8515,356 @@
         "curriculum": "OL",
         "unit": "9",
         "id": 129
+      },
+      {
+        "sentence": "i have a kind friend",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول به + الصفة.",
+        "englishReason": "The correct order is subject + verb + object + adjective.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 130
+      },
+      {
+        "sentence": "his name is ahmed",
+        "arabicReason": "الترتيب الصحيح هو: الملكية + الاسم + فعل الكينونة + الاسم.",
+        "englishReason": "The correct order is possessive + noun + verb to be + noun.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 131
+      },
+      {
+        "sentence": "ahmed is tall and slim",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الصفات.",
+        "englishReason": "The correct order is subject + verb to be + adjectives.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 132
+      },
+      {
+        "sentence": "he has brown eyes and short hair",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is subject + verb + object.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 133
+      },
+      {
+        "sentence": "he is good at english",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الصفة + حرف الجر + المادة.",
+        "englishReason": "The correct order is subject + verb to be + adjective + preposition + subject.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 134
+      },
+      {
+        "sentence": "i am good at math",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الصفة + حرف الجر + المادة.",
+        "englishReason": "The correct order is subject + verb to be + adjective + preposition + subject.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 135
+      },
+      {
+        "sentence": "we help each other",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is subject + verb + object.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 136
+      },
+      {
+        "sentence": "we text every day",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb + time expression.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 137
+      },
+      {
+        "sentence": "sometimes we go to the club together",
+        "arabicReason": "يمكن أن تبدأ الجملة بظرف التكرار ثم الفاعل ثم الفعل.",
+        "englishReason": "The sentence can start with an adverb of frequency, then the subject and the verb.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 138
+      },
+      {
+        "sentence": "ahmed is my best friend",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الملكية + الصفة + الاسم.",
+        "englishReason": "The correct order is subject + verb to be + possessive + adjective + noun.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 139
+      },
+      {
+        "sentence": "today is my birthday",
+        "arabicReason": "الترتيب الصحيح هو: ظرف الزمان + فعل الكينونة + الملكية + الاسم.",
+        "englishReason": "The correct order is: time expression + verb to be + possessive + noun.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 140
+      },
+      {
+        "sentence": "my friends come to my party",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + شبه الجملة.",
+        "englishReason": "The correct order is: subject + verb + prepositional phrase.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 141
+      },
+      {
+        "sentence": "we play and sing songs",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الأفعال + المفعول به.",
+        "englishReason": "The correct order is: subject + verbs + object.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 142
+      },
+      {
+        "sentence": "they give me gifts",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول غير المباشر + المفعول المباشر.",
+        "englishReason": "The correct order is: subject + verb + indirect object + direct object.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 143
+      },
+      {
+        "sentence": "we enjoy our day",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + الملكية + الاسم.",
+        "englishReason": "The correct order is: subject + verb + possessive + noun.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 144
+      },
+      {
+        "sentence": "today is a happy day",
+        "arabicReason": "الترتيب الصحيح هو: ظرف الزمان + فعل الكينونة + أداة النكرة + الصفة + الاسم.",
+        "englishReason": "The correct order is: time expression + verb to be + article + adjective + noun.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 145
+      },
+      {
+        "sentence": "my friends sing songs",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is: subject + verb + object.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 146
+      },
+      {
+        "sentence": "i get many gifts",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + الصفة + المفعول به.",
+        "englishReason": "The correct order is: subject + verb + adjective + object.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 147
+      },
+      {
+        "sentence": "we have a birthday party",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + أداة النكرة + الاسم + الاسم.",
+        "englishReason": "The correct order is: subject + verb + article + noun + noun.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 148
+      },
+      {
+        "sentence": "everyone enjoys the party",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + أداة التعريف + المفعول به.",
+        "englishReason": "The correct order is: subject + verb + article + object.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 149
+      },
+      {
+        "sentence": "social media plays an important role in our life",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول به + شبه الجملة.",
+        "englishReason": "The correct order is: subject + verb + object + prepositional phrase.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 150
+      },
+      {
+        "sentence": "it helps us learn new things",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول + الفعل + المفعول.",
+        "englishReason": "The correct order is: subject + verb + object + verb + object.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 151
+      },
+      {
+        "sentence": "we communicate faster",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + الحال.",
+        "englishReason": "The correct order is: subject + verb + adverb.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 152
+      },
+      {
+        "sentence": "we learn about different cultures",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + حرف الجر + الصفة + الاسم.",
+        "englishReason": "The correct order is: subject + verb + preposition + adjective + noun.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 153
+      },
+      {
+        "sentence": "social media can waste our time",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل المساعد + الفعل + الملكية + الاسم.",
+        "englishReason": "The correct order is: subject + modal verb + verb + possessive + noun.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 154
+      },
+      {
+        "sentence": "it can cause headaches",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل المساعد + الفعل + المفعول به.",
+        "englishReason": "The correct order is: subject + modal verb + verb + object.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 155
+      },
+      {
+        "sentence": "it can cause eye problems",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل المساعد + الفعل + الاسم + الاسم.",
+        "englishReason": "The correct order is: subject + modal verb + verb + noun + noun.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 156
+      },
+      {
+        "sentence": "you should limit your screen time",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل المساعد + الفعل + الملكية + الاسم.",
+        "englishReason": "The correct order is: subject + modal verb + verb + possessive + noun.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 157
+      },
+      {
+        "sentence": "do not make friends with people",
+        "arabicReason": "الترتيب الصحيح هو: أداة النهي + الفعل + المفعول + حرف الجر + الاسم.",
+        "englishReason": "The correct order is: negative command + verb + object + preposition + noun.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 158
+      },
+      {
+        "sentence": "you do not know them",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل المساعد + النفي + الفعل + المفعول.",
+        "englishReason": "The correct order is: subject + auxiliary + not + verb + object.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 159
+      },
+      {
+        "sentence": "social media is sometimes good",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + ظرف التكرار + الصفة.",
+        "englishReason": "The correct order is: subject + verb to be + adverb + adjective.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 160
+      },
+      {
+        "sentence": "social media is sometimes bad",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + ظرف التكرار + الصفة.",
+        "englishReason": "The correct order is: subject + verb to be + adverb + adjective.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 161
+      },
+      {
+        "sentence": "we should stay safe online",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل المساعد + الفعل + الصفة + الحال.",
+        "englishReason": "The correct order is: subject + modal verb + verb + adjective + adverb.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 162
+      },
+      {
+        "sentence": "people use social media every day",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول + ظرف الزمان.",
+        "englishReason": "The correct order is: subject + verb + object + time expression.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 163
+      },
+      {
+        "sentence": "too much screen time is unhealthy",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الصفة.",
+        "englishReason": "The correct order is: subject + verb to be + adjective.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 164
       }
     ],
     "rewrite": [
@@ -7704,6 +9742,246 @@
         "curriculum": "OL",
         "unit": "9",
         "id": 72
+      },
+      {
+        "sentence": "Ahmed is tall and slim.",
+        "targetWord": "IS",
+        "correctAnswer": "Is Ahmed tall and slim?",
+        "arabicReason": "عندما تكون الكلمة الهدف (IS) نحول الجملة إلى سؤال باستخدام Is في البداية.",
+        "englishReason": "When the target word is 'IS', we rewrite the sentence as a question starting with Is.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 73
+      },
+      {
+        "sentence": "He has brown eyes.",
+        "targetWord": "DOES",
+        "correctAnswer": "Does he have brown eyes?",
+        "arabicReason": "مع (DOES) نستخدم الفعل الأساسي (have) بعد الفاعل.",
+        "englishReason": "With 'DOES', we use the base verb 'have' after the subject.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 74
+      },
+      {
+        "sentence": "He is good at English.",
+        "targetWord": "IS",
+        "correctAnswer": "Is he good at English?",
+        "arabicReason": "نبدأ السؤال بـ Is مع الفاعل المفرد.",
+        "englishReason": "We start the question with 'Is' for a singular subject.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 75
+      },
+      {
+        "sentence": "I am good at Math.",
+        "targetWord": "ARE",
+        "correctAnswer": "Are you good at Math?",
+        "arabicReason": "عند استخدام (ARE) نغير I إلى you لتكوين سؤال صحيح.",
+        "englishReason": "When using 'ARE', we change 'I' to 'you' to form a correct question.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 76
+      },
+      {
+        "sentence": "We help each other.",
+        "targetWord": "DO",
+        "correctAnswer": "Do we help each other?",
+        "arabicReason": "نستخدم (Do) مع الفاعل We لتكوين السؤال.",
+        "englishReason": "We use 'Do' with the subject 'we' to form the question.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 77
+      },
+      {
+        "sentence": "We text every day.",
+        "targetWord": "DO",
+        "correctAnswer": "Do we text every day?",
+        "arabicReason": "نستخدم (Do) مع الفاعل We في المضارع البسيط.",
+        "englishReason": "We use 'Do' with the subject 'we' in the simple present.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 78
+      },
+      {
+        "sentence": "Ahmed helps me with English.",
+        "targetWord": "DOES",
+        "correctAnswer": "Does Ahmed help me with English?",
+        "arabicReason": "مع (Does) يعود الفعل إلى صورته الأساسية (help).",
+        "englishReason": "With 'Does', the verb returns to its base form (help).",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 79
+      },
+      {
+        "sentence": "They are good friends.",
+        "targetWord": "ARE",
+        "correctAnswer": "Are they good friends?",
+        "arabicReason": "نستخدم (Are) مع الفاعل الجمع They.",
+        "englishReason": "We use 'Are' with the plural subject 'they'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 80
+      },
+      {
+        "sentence": "She has a kind friend.",
+        "targetWord": "DOES",
+        "correctAnswer": "Does she have a kind friend?",
+        "arabicReason": "بعد (Does) نستخدم الفعل الأساسي (have).",
+        "englishReason": "After 'Does', we use the base verb 'have'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 81
+      },
+      {
+        "sentence": "My friend is kind.",
+        "targetWord": "IS",
+        "correctAnswer": "Is my friend kind?",
+        "arabicReason": "نبدأ السؤال بـ Is لأن الفاعل مفرد.",
+        "englishReason": "We start the question with 'Is' because the subject is singular.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 82
+      },
+      {
+        "sentence": "Today is my birthday.",
+        "targetWord": "IS",
+        "correctAnswer": "Is today your birthday?",
+        "arabicReason": "عندما تكون الكلمة الهدف (IS) نحول الجملة إلى سؤال يبدأ بـ Is، ونغير my إلى your.",
+        "englishReason": "When the target word is 'IS', we form a question starting with 'Is' and change 'my' to 'your'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 83
+      },
+      {
+        "sentence": "My friends come to my party.",
+        "targetWord": "DO",
+        "correctAnswer": "Do your friends come to your party?",
+        "arabicReason": "مع (DO) نحول الجملة إلى سؤال ونغير my إلى your.",
+        "englishReason": "With 'DO', we form a question and change 'my' to 'your'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 84
+      },
+      {
+        "sentence": "We play and sing songs.",
+        "targetWord": "DO",
+        "correctAnswer": "Do you play and sing songs?",
+        "arabicReason": "مع (DO) نبدأ السؤال ونغير We إلى you.",
+        "englishReason": "With 'DO', we start the question and change 'we' to 'you'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 85
+      },
+      {
+        "sentence": "They give me gifts.",
+        "targetWord": "DO",
+        "correctAnswer": "Do they give you gifts?",
+        "arabicReason": "مع (DO) نحول الجملة إلى سؤال ونغير me إلى you.",
+        "englishReason": "With 'DO', we form a question and change 'me' to 'you'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 86
+      },
+      {
+        "sentence": "We enjoy our day.",
+        "targetWord": "DO",
+        "correctAnswer": "Do you enjoy your day?",
+        "arabicReason": "مع (DO) نغير We إلى you و our إلى your.",
+        "englishReason": "With 'DO', we change 'we' to 'you' and 'our' to 'your'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 87
+      },
+      {
+        "sentence": "Today is a happy day.",
+        "targetWord": "IS",
+        "correctAnswer": "Is today a happy day?",
+        "arabicReason": "نبدأ السؤال بـ Is لأن الفعل الأصلي هو is.",
+        "englishReason": "We start the question with 'Is' because the original verb is 'is'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 88
+      },
+      {
+        "sentence": "My friends sing songs.",
+        "targetWord": "DO",
+        "correctAnswer": "Do your friends sing songs?",
+        "arabicReason": "مع (DO) نكون السؤال ونغير my إلى your.",
+        "englishReason": "With 'DO', we form the question and change 'my' to 'your'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 89
+      },
+      {
+        "sentence": "I get many gifts.",
+        "targetWord": "DO",
+        "correctAnswer": "Do you get many gifts?",
+        "arabicReason": "مع (DO) نغير I إلى you.",
+        "englishReason": "With 'DO', we change 'I' to 'you'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 90
+      },
+      {
+        "sentence": "We have a birthday party.",
+        "targetWord": "DO",
+        "correctAnswer": "Do you have a birthday party?",
+        "arabicReason": "مع (DO) نغير We إلى you.",
+        "englishReason": "With 'DO', we change 'we' to 'you'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 91
+      },
+      {
+        "sentence": "Everyone enjoys the party.",
+        "targetWord": "DOES",
+        "correctAnswer": "Does everyone enjoy the party?",
+        "arabicReason": "مع (DOES) يعود الفعل إلى صورته الأساسية (enjoy).",
+        "englishReason": "With 'DOES', the verb returns to its base form (enjoy).",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 92
       }
     ],
     "Scramble": [
@@ -9451,6 +11729,422 @@
         "curriculum": "OL",
         "unit": "9",
         "id": 218
+      },
+      {
+        "word": "friend",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 219
+      },
+      {
+        "word": "kind",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 220
+      },
+      {
+        "word": "tall",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 221
+      },
+      {
+        "word": "slim",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 222
+      },
+      {
+        "word": "brown",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 223
+      },
+      {
+        "word": "eyes",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 224
+      },
+      {
+        "word": "short",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 225
+      },
+      {
+        "word": "hair",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 226
+      },
+      {
+        "word": "goodat",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 227
+      },
+      {
+        "word": "English",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 228
+      },
+      {
+        "word": "Math",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 229
+      },
+      {
+        "word": "help",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 230
+      },
+      {
+        "word": "eachother",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 231
+      },
+      {
+        "word": "text",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 232
+      },
+      {
+        "word": "everyday",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 233
+      },
+      {
+        "word": "sometimes",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 234
+      },
+      {
+        "word": "club",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 235
+      },
+      {
+        "word": "together",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 236
+      },
+      {
+        "word": "bestfriend",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 237
+      },
+      {
+        "word": "today",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 238
+      },
+      {
+        "word": "birthday",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 239
+      },
+      {
+        "word": "friends",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 240
+      },
+      {
+        "word": "come",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 241
+      },
+      {
+        "word": "party",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 242
+      },
+      {
+        "word": "play",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 243
+      },
+      {
+        "word": "sing",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 244
+      },
+      {
+        "word": "songs",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 245
+      },
+      {
+        "word": "give",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 246
+      },
+      {
+        "word": "gifts",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 247
+      },
+      {
+        "word": "enjoy",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 248
+      },
+      {
+        "word": "day",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 249
+      },
+      {
+        "word": "social",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 250
+      },
+      {
+        "word": "media",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 251
+      },
+      {
+        "word": "important",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 252
+      },
+      {
+        "word": "role",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 253
+      },
+      {
+        "word": "life",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 254
+      },
+      {
+        "word": "good",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 255
+      },
+      {
+        "word": "bad",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 256
+      },
+      {
+        "word": "learn",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 257
+      },
+      {
+        "word": "communicate",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 258
+      },
+      {
+        "word": "faster",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 259
+      },
+      {
+        "word": "cultures",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 260
+      },
+      {
+        "word": "waste",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 261
+      },
+      {
+        "word": "time",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 262
+      },
+      {
+        "word": "cause",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 263
+      },
+      {
+        "word": "headaches",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 264
+      },
+      {
+        "word": "eye",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 265
+      },
+      {
+        "word": "problems",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 266
+      },
+      {
+        "word": "limit",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 267
+      },
+      {
+        "word": "screen",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 268
+      },
+      {
+        "word": "people",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 269
+      },
+      {
+        "word": "know",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 270
       }
     ],
     "sequence": [
@@ -9611,6 +12305,48 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "5"
+      },
+      {
+        "title": "Sort the words: Pronouns or Verbs?",
+        "categories": [
+          {
+            "id": "pronouns",
+            "name": "👤 Pronouns"
+          },
+          {
+            "id": "verbs",
+            "name": "⚡ Verbs"
+          }
+        ],
+        "wordList": [
+          "I",
+          "help",
+          "he",
+          "go",
+          "they",
+          "has",
+          "we",
+          "is",
+          "she",
+          "text"
+        ],
+        "answerKey": {
+          "I": "pronouns",
+          "he": "pronouns",
+          "they": "pronouns",
+          "we": "pronouns",
+          "she": "pronouns",
+          "help": "verbs",
+          "go": "verbs",
+          "has": "verbs",
+          "is": "verbs",
+          "text": "verbs"
+        },
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 4
       }
     ],
     "spilling": [
@@ -11342,6 +14078,422 @@
         "curriculum": "OL",
         "unit": "9",
         "id": 216
+      },
+      {
+        "word": "friend",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 217
+      },
+      {
+        "word": "kind",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 218
+      },
+      {
+        "word": "tall",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 219
+      },
+      {
+        "word": "slim",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 220
+      },
+      {
+        "word": "brown",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 221
+      },
+      {
+        "word": "eyes",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 222
+      },
+      {
+        "word": "short",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 223
+      },
+      {
+        "word": "hair",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 224
+      },
+      {
+        "word": "goodat",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 225
+      },
+      {
+        "word": "English",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 226
+      },
+      {
+        "word": "Math",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 227
+      },
+      {
+        "word": "help",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 228
+      },
+      {
+        "word": "eachother",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 229
+      },
+      {
+        "word": "text",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 230
+      },
+      {
+        "word": "everyday",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 231
+      },
+      {
+        "word": "sometimes",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 232
+      },
+      {
+        "word": "club",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 233
+      },
+      {
+        "word": "together",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 234
+      },
+      {
+        "word": "bestfriend",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 235
+      },
+      {
+        "word": "today",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 236
+      },
+      {
+        "word": "birthday",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 237
+      },
+      {
+        "word": "friends",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 238
+      },
+      {
+        "word": "come",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 239
+      },
+      {
+        "word": "party",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 240
+      },
+      {
+        "word": "play",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 241
+      },
+      {
+        "word": "sing",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 242
+      },
+      {
+        "word": "songs",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 243
+      },
+      {
+        "word": "give",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 244
+      },
+      {
+        "word": "gifts",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 245
+      },
+      {
+        "word": "enjoy",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 246
+      },
+      {
+        "word": "day",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 247
+      },
+      {
+        "word": "social",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 248
+      },
+      {
+        "word": "media",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 249
+      },
+      {
+        "word": "important",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 250
+      },
+      {
+        "word": "role",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 251
+      },
+      {
+        "word": "life",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 252
+      },
+      {
+        "word": "good",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 253
+      },
+      {
+        "word": "bad",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 254
+      },
+      {
+        "word": "learn",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 255
+      },
+      {
+        "word": "communicate",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 256
+      },
+      {
+        "word": "faster",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 257
+      },
+      {
+        "word": "cultures",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 258
+      },
+      {
+        "word": "waste",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 259
+      },
+      {
+        "word": "time",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 260
+      },
+      {
+        "word": "cause",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 261
+      },
+      {
+        "word": "headaches",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 262
+      },
+      {
+        "word": "eye",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 263
+      },
+      {
+        "word": "problems",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 264
+      },
+      {
+        "word": "limit",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 265
+      },
+      {
+        "word": "screen",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 266
+      },
+      {
+        "word": "people",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 267
+      },
+      {
+        "word": "know",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 268
       }
     ],
     "Underline": [
@@ -11984,6 +15136,128 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "5"
+      },
+      {
+        "sentence": "I have a kind friend.",
+        "instruction": "استخرج الصفات",
+        "correctWords": [
+          "kind"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 52
+      },
+      {
+        "sentence": "Ahmed is tall and slim.",
+        "instruction": "استخرج الصفات",
+        "correctWords": [
+          "tall",
+          "slim"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 53
+      },
+      {
+        "sentence": "He has brown eyes.",
+        "instruction": "استخرج الصفات",
+        "correctWords": [
+          "brown"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 54
+      },
+      {
+        "sentence": "He has short hair.",
+        "instruction": "استخرج الصفات",
+        "correctWords": [
+          "short"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 55
+      },
+      {
+        "sentence": "He is good at English.",
+        "instruction": "استخرج الصفات",
+        "correctWords": [
+          "good"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 56
+      },
+      {
+        "sentence": "I am good at Math.",
+        "instruction": "استخرج الصفات",
+        "correctWords": [
+          "good"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 57
+      },
+      {
+        "sentence": "Ahmed is my best friend.",
+        "instruction": "استخرج الصفات",
+        "correctWords": [
+          "best"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 58
+      },
+      {
+        "sentence": "My best friend is kind.",
+        "instruction": "استخرج الصفات",
+        "correctWords": [
+          "best",
+          "kind"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 59
+      },
+      {
+        "sentence": "Ahmed is a kind boy.",
+        "instruction": "استخرج الصفات",
+        "correctWords": [
+          "kind"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 60
+      },
+      {
+        "sentence": "My tall friend helps me.",
+        "instruction": "استخرج الصفات",
+        "correctWords": [
+          "tall"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 61
       }
     ],
     "vocab_listening_quiz": [
@@ -16050,6 +19324,890 @@
         "curriculum": "OL",
         "unit": "9",
         "id": 239
+      },
+      {
+        "word": "friend",
+        "meaning": "صديق",
+        "options": [
+          "صديق",
+          "أخ",
+          "معلم",
+          "جار"
+        ],
+        "arabicReason": "الكلمة تعني 'صديق'.",
+        "englishReason": "The word means 'friend'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 240
+      },
+      {
+        "word": "kind",
+        "meaning": "لطيف",
+        "options": [
+          "لطيف",
+          "غاضب",
+          "كسول",
+          "سريع"
+        ],
+        "arabicReason": "الكلمة تعني 'لطيف'.",
+        "englishReason": "The word means 'kind'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 241
+      },
+      {
+        "word": "tall",
+        "meaning": "طويل",
+        "options": [
+          "طويل",
+          "قصير",
+          "نحيف",
+          "سمين"
+        ],
+        "arabicReason": "الكلمة تعني 'طويل'.",
+        "englishReason": "The word means 'tall'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 242
+      },
+      {
+        "word": "slim",
+        "meaning": "نحيف",
+        "options": [
+          "نحيف",
+          "سمين",
+          "طويل",
+          "قصير"
+        ],
+        "arabicReason": "الكلمة تعني 'نحيف'.",
+        "englishReason": "The word means 'slim'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 243
+      },
+      {
+        "word": "brown",
+        "meaning": "بني",
+        "options": [
+          "بني",
+          "أزرق",
+          "أحمر",
+          "أخضر"
+        ],
+        "arabicReason": "الكلمة تعني اللون 'البني'.",
+        "englishReason": "The word means the color 'brown'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 244
+      },
+      {
+        "word": "eyes",
+        "meaning": "عيون",
+        "options": [
+          "عيون",
+          "آذان",
+          "أنف",
+          "شعر"
+        ],
+        "arabicReason": "الكلمة تعني 'عيون'.",
+        "englishReason": "The word means 'eyes'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 245
+      },
+      {
+        "word": "short",
+        "meaning": "قصير",
+        "options": [
+          "قصير",
+          "طويل",
+          "جميل",
+          "ذكي"
+        ],
+        "arabicReason": "الكلمة تعني 'قصير'.",
+        "englishReason": "The word means 'short'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 246
+      },
+      {
+        "word": "hair",
+        "meaning": "شعر",
+        "options": [
+          "شعر",
+          "وجه",
+          "يد",
+          "عين"
+        ],
+        "arabicReason": "الكلمة تعني 'شعر'.",
+        "englishReason": "The word means 'hair'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 247
+      },
+      {
+        "word": "good at",
+        "meaning": "جيد في",
+        "options": [
+          "جيد في",
+          "سيئ في",
+          "يحب",
+          "يذهب إلى"
+        ],
+        "arabicReason": "التعبير يعني 'يجيد شيئًا'.",
+        "englishReason": "The phrase means 'good at something'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 248
+      },
+      {
+        "word": "English",
+        "meaning": "اللغة الإنجليزية",
+        "options": [
+          "اللغة الإنجليزية",
+          "الرياضيات",
+          "العلوم",
+          "الرسم"
+        ],
+        "arabicReason": "الكلمة تعني 'اللغة الإنجليزية'.",
+        "englishReason": "The word means 'English'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 249
+      },
+      {
+        "word": "Math",
+        "meaning": "الرياضيات",
+        "options": [
+          "الرياضيات",
+          "العلوم",
+          "اللغة الإنجليزية",
+          "الرسم"
+        ],
+        "arabicReason": "الكلمة تعني 'الرياضيات'.",
+        "englishReason": "The word means 'Math'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 250
+      },
+      {
+        "word": "help",
+        "meaning": "يساعد",
+        "options": [
+          "يساعد",
+          "يلعب",
+          "ينام",
+          "يجري"
+        ],
+        "arabicReason": "الكلمة تعني 'يساعد'.",
+        "englishReason": "The word means 'help'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 251
+      },
+      {
+        "word": "each other",
+        "meaning": "بعضنا البعض",
+        "options": [
+          "بعضنا البعض",
+          "كل يوم",
+          "معًا",
+          "أحيانًا"
+        ],
+        "arabicReason": "التعبير يعني أن شخصين يساعدان بعضهما البعض.",
+        "englishReason": "The phrase means people help one another.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 252
+      },
+      {
+        "word": "text",
+        "meaning": "يرسل رسائل",
+        "options": [
+          "يرسل رسائل",
+          "يتصل",
+          "يكتب",
+          "يقرأ"
+        ],
+        "arabicReason": "الكلمة تعني 'يرسل رسائل'.",
+        "englishReason": "The word means 'text' (send messages).",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 253
+      },
+      {
+        "word": "every day",
+        "meaning": "كل يوم",
+        "options": [
+          "كل يوم",
+          "أحيانًا",
+          "غدًا",
+          "أمس"
+        ],
+        "arabicReason": "التعبير يعني 'كل يوم'.",
+        "englishReason": "The phrase means 'every day'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 254
+      },
+      {
+        "word": "sometimes",
+        "meaning": "أحيانًا",
+        "options": [
+          "أحيانًا",
+          "دائمًا",
+          "أبدًا",
+          "كل يوم"
+        ],
+        "arabicReason": "الكلمة تعني 'أحيانًا'.",
+        "englishReason": "The word means 'sometimes'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 255
+      },
+      {
+        "word": "club",
+        "meaning": "النادي",
+        "options": [
+          "النادي",
+          "المدرسة",
+          "الحديقة",
+          "البيت"
+        ],
+        "arabicReason": "الكلمة تعني 'النادي'.",
+        "englishReason": "The word means 'club'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 256
+      },
+      {
+        "word": "together",
+        "meaning": "معًا",
+        "options": [
+          "معًا",
+          "وحده",
+          "سريعًا",
+          "دائمًا"
+        ],
+        "arabicReason": "الكلمة تعني 'معًا'.",
+        "englishReason": "The word means 'together'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 257
+      },
+      {
+        "word": "best friend",
+        "meaning": "أفضل صديق",
+        "options": [
+          "أفضل صديق",
+          "صديق جديد",
+          "أخ",
+          "جار"
+        ],
+        "arabicReason": "التعبير يعني 'أفضل صديق'.",
+        "englishReason": "The phrase means 'best friend'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 258
+      },
+      {
+        "word": "today",
+        "meaning": "اليوم",
+        "options": [
+          "اليوم",
+          "غدًا",
+          "أمس",
+          "الآن"
+        ],
+        "arabicReason": "الكلمة تعني 'اليوم'.",
+        "englishReason": "The word means 'today'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 259
+      },
+      {
+        "word": "birthday",
+        "meaning": "عيد ميلاد",
+        "options": [
+          "عيد ميلاد",
+          "حفلة",
+          "هدية",
+          "يوم"
+        ],
+        "arabicReason": "الكلمة تعني 'عيد ميلاد'.",
+        "englishReason": "The word means 'birthday'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 260
+      },
+      {
+        "word": "friends",
+        "meaning": "أصدقاء",
+        "options": [
+          "أصدقاء",
+          "إخوة",
+          "معلمون",
+          "جيران"
+        ],
+        "arabicReason": "الكلمة تعني 'أصدقاء'.",
+        "englishReason": "The word means 'friends'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 261
+      },
+      {
+        "word": "come",
+        "meaning": "يأتون",
+        "options": [
+          "يأتون",
+          "يذهبون",
+          "يلعبون",
+          "يغنون"
+        ],
+        "arabicReason": "الكلمة تعني 'يأتون'.",
+        "englishReason": "The word means 'come'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 262
+      },
+      {
+        "word": "party",
+        "meaning": "حفلة",
+        "options": [
+          "حفلة",
+          "مدرسة",
+          "حديقة",
+          "منزل"
+        ],
+        "arabicReason": "الكلمة تعني 'حفلة'.",
+        "englishReason": "The word means 'party'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 263
+      },
+      {
+        "word": "play",
+        "meaning": "يلعب",
+        "options": [
+          "يلعب",
+          "يغني",
+          "يكتب",
+          "ينام"
+        ],
+        "arabicReason": "الكلمة تعني 'يلعب'.",
+        "englishReason": "The word means 'play'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 264
+      },
+      {
+        "word": "sing",
+        "meaning": "يغني",
+        "options": [
+          "يغني",
+          "يلعب",
+          "يقرأ",
+          "يجري"
+        ],
+        "arabicReason": "الكلمة تعني 'يغني'.",
+        "englishReason": "The word means 'sing'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 265
+      },
+      {
+        "word": "songs",
+        "meaning": "أغانٍ",
+        "options": [
+          "أغانٍ",
+          "قصص",
+          "ألعاب",
+          "كتب"
+        ],
+        "arabicReason": "الكلمة تعني 'أغانٍ'.",
+        "englishReason": "The word means 'songs'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 266
+      },
+      {
+        "word": "give",
+        "meaning": "يعطي",
+        "options": [
+          "يعطي",
+          "يأخذ",
+          "يشتري",
+          "يرى"
+        ],
+        "arabicReason": "الكلمة تعني 'يعطي'.",
+        "englishReason": "The word means 'give'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 267
+      },
+      {
+        "word": "gifts",
+        "meaning": "هدايا",
+        "options": [
+          "هدايا",
+          "ألعاب",
+          "حلويات",
+          "زهور"
+        ],
+        "arabicReason": "الكلمة تعني 'هدايا'.",
+        "englishReason": "The word means 'gifts'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 268
+      },
+      {
+        "word": "enjoy",
+        "meaning": "يستمتع",
+        "options": [
+          "يستمتع",
+          "يحزن",
+          "ينام",
+          "يرسم"
+        ],
+        "arabicReason": "الكلمة تعني 'يستمتع'.",
+        "englishReason": "The word means 'enjoy'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 269
+      },
+      {
+        "word": "day",
+        "meaning": "يوم",
+        "options": [
+          "يوم",
+          "شهر",
+          "سنة",
+          "أسبوع"
+        ],
+        "arabicReason": "الكلمة تعني 'يوم'.",
+        "englishReason": "The word means 'day'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 270
+      },
+      {
+        "word": "social media",
+        "meaning": "وسائل التواصل الاجتماعي",
+        "options": [
+          "وسائل التواصل الاجتماعي",
+          "التلفاز",
+          "المدرسة",
+          "الإنترنت"
+        ],
+        "arabicReason": "الكلمة تعني 'وسائل التواصل الاجتماعي'.",
+        "englishReason": "The term means 'social media'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 271
+      },
+      {
+        "word": "important",
+        "meaning": "مهم",
+        "options": [
+          "مهم",
+          "صغير",
+          "صعب",
+          "قديم"
+        ],
+        "arabicReason": "الكلمة تعني 'مهم'.",
+        "englishReason": "The word means 'important'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 272
+      },
+      {
+        "word": "role",
+        "meaning": "دور",
+        "options": [
+          "دور",
+          "مكان",
+          "لعبة",
+          "رحلة"
+        ],
+        "arabicReason": "الكلمة تعني 'دور'.",
+        "englishReason": "The word means 'role'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 273
+      },
+      {
+        "word": "life",
+        "meaning": "حياة",
+        "options": [
+          "حياة",
+          "مدينة",
+          "حديقة",
+          "منزل"
+        ],
+        "arabicReason": "الكلمة تعني 'حياة'.",
+        "englishReason": "The word means 'life'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 274
+      },
+      {
+        "word": "learn",
+        "meaning": "يتعلم",
+        "options": [
+          "يتعلم",
+          "يلعب",
+          "يكتب",
+          "يشاهد"
+        ],
+        "arabicReason": "الكلمة تعني 'يتعلم'.",
+        "englishReason": "The word means 'learn'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 275
+      },
+      {
+        "word": "communicate",
+        "meaning": "يتواصل",
+        "options": [
+          "يتواصل",
+          "يسافر",
+          "ينام",
+          "يجري"
+        ],
+        "arabicReason": "الكلمة تعني 'يتواصل'.",
+        "englishReason": "The word means 'communicate'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 276
+      },
+      {
+        "word": "faster",
+        "meaning": "بسرعة أكبر",
+        "options": [
+          "بسرعة أكبر",
+          "ببطء",
+          "بهدوء",
+          "بصعوبة"
+        ],
+        "arabicReason": "الكلمة تعني 'بسرعة أكبر'.",
+        "englishReason": "The word means 'faster'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 277
+      },
+      {
+        "word": "cultures",
+        "meaning": "ثقافات",
+        "options": [
+          "ثقافات",
+          "لغات",
+          "دروس",
+          "بلاد"
+        ],
+        "arabicReason": "الكلمة تعني 'ثقافات'.",
+        "englishReason": "The word means 'cultures'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 278
+      },
+      {
+        "word": "waste",
+        "meaning": "يهدر",
+        "options": [
+          "يهدر",
+          "يوفر",
+          "يصنع",
+          "يصلح"
+        ],
+        "arabicReason": "الكلمة تعني 'يهدر'.",
+        "englishReason": "The word means 'waste'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 279
+      },
+      {
+        "word": "time",
+        "meaning": "وقت",
+        "options": [
+          "وقت",
+          "ساعة",
+          "دقيقة",
+          "يوم"
+        ],
+        "arabicReason": "الكلمة تعني 'وقت'.",
+        "englishReason": "The word means 'time'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 280
+      },
+      {
+        "word": "cause",
+        "meaning": "يسبب",
+        "options": [
+          "يسبب",
+          "يمنع",
+          "يساعد",
+          "يبدأ"
+        ],
+        "arabicReason": "الكلمة تعني 'يسبب'.",
+        "englishReason": "The word means 'cause'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 281
+      },
+      {
+        "word": "headaches",
+        "meaning": "صداع",
+        "options": [
+          "صداع",
+          "حمى",
+          "سعال",
+          "برد"
+        ],
+        "arabicReason": "الكلمة تعني 'صداع'.",
+        "englishReason": "The word means 'headaches'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 282
+      },
+      {
+        "word": "eye problems",
+        "meaning": "مشكلات في العين",
+        "options": [
+          "مشكلات في العين",
+          "ألم في القدم",
+          "ألم في الظهر",
+          "ألم في اليد"
+        ],
+        "arabicReason": "الكلمة تعني 'مشكلات في العين'.",
+        "englishReason": "The term means 'eye problems'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 283
+      },
+      {
+        "word": "stay safe",
+        "meaning": "يبقى آمنًا",
+        "options": [
+          "يبقى آمنًا",
+          "يذهب للمدرسة",
+          "يلعب بالخارج",
+          "يقرأ كتابًا"
+        ],
+        "arabicReason": "التعبير يعني 'يبقى آمنًا'.",
+        "englishReason": "The phrase means 'stay safe'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 284
+      },
+      {
+        "word": "limit",
+        "meaning": "يحدد / يقلل",
+        "options": [
+          "يحدد / يقلل",
+          "يزيد",
+          "يشتري",
+          "يفتح"
+        ],
+        "arabicReason": "الكلمة تعني 'يحدد أو يقلل'.",
+        "englishReason": "The word means 'limit'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 285
+      },
+      {
+        "word": "screen time",
+        "meaning": "وقت استخدام الشاشة",
+        "options": [
+          "وقت استخدام الشاشة",
+          "وقت النوم",
+          "وقت المدرسة",
+          "وقت اللعب"
+        ],
+        "arabicReason": "التعبير يعني 'وقت استخدام الشاشة'.",
+        "englishReason": "The phrase means 'screen time'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 286
+      },
+      {
+        "word": "make friends",
+        "meaning": "يصادق",
+        "options": [
+          "يصادق",
+          "يغني",
+          "يسافر",
+          "يرسم"
+        ],
+        "arabicReason": "التعبير يعني 'يصادق'.",
+        "englishReason": "The phrase means 'make friends'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 287
+      },
+      {
+        "word": "people",
+        "meaning": "أشخاص",
+        "options": [
+          "أشخاص",
+          "أطفال",
+          "مدارس",
+          "كتب"
+        ],
+        "arabicReason": "الكلمة تعني 'أشخاص'.",
+        "englishReason": "The word means 'people'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 288
+      },
+      {
+        "word": "know",
+        "meaning": "يعرف",
+        "options": [
+          "يعرف",
+          "ينسى",
+          "يكتب",
+          "يسمع"
+        ],
+        "arabicReason": "الكلمة تعني 'يعرف'.",
+        "englishReason": "The word means 'know'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 289
+      },
+      {
+        "word": "good",
+        "meaning": "جيد",
+        "options": [
+          "جيد",
+          "سيئ",
+          "قصير",
+          "ضعيف"
+        ],
+        "arabicReason": "الكلمة تعني 'جيد'.",
+        "englishReason": "The word means 'good'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 290
+      },
+      {
+        "word": "bad",
+        "meaning": "سيئ",
+        "options": [
+          "سيئ",
+          "جميل",
+          "سريع",
+          "قوي"
+        ],
+        "arabicReason": "الكلمة تعني 'سيئ'.",
+        "englishReason": "The word means 'bad'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 291
       }
     ],
     "vocab_quiz": [
@@ -20183,6 +24341,890 @@
         "curriculum": "OL",
         "unit": "9",
         "id": 262
+      },
+      {
+        "word": "friend",
+        "meaning": "صديق",
+        "options": [
+          "صديق",
+          "أخ",
+          "معلم",
+          "جار"
+        ],
+        "arabicReason": "الكلمة تعني 'صديق' وهو شخص نحبه.",
+        "englishReason": "The word means 'friend' - a person you like.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 263
+      },
+      {
+        "word": "kind",
+        "meaning": "لطيف",
+        "options": [
+          "لطيف",
+          "كسول",
+          "غاضب",
+          "سريع"
+        ],
+        "arabicReason": "الكلمة تعني 'لطيف' ويعامل الآخرين بلطف.",
+        "englishReason": "The word means 'kind' - nice to other people.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 264
+      },
+      {
+        "word": "tall",
+        "meaning": "طويل",
+        "options": [
+          "طويل",
+          "قصير",
+          "نحيف",
+          "سمين"
+        ],
+        "arabicReason": "الكلمة تعني 'طويل'.",
+        "englishReason": "The word means 'tall'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 265
+      },
+      {
+        "word": "slim",
+        "meaning": "نحيف",
+        "options": [
+          "نحيف",
+          "سمين",
+          "طويل",
+          "قصير"
+        ],
+        "arabicReason": "الكلمة تعني 'نحيف'.",
+        "englishReason": "The word means 'slim'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 266
+      },
+      {
+        "word": "brown",
+        "meaning": "بني",
+        "options": [
+          "بني",
+          "أزرق",
+          "أحمر",
+          "أخضر"
+        ],
+        "arabicReason": "الكلمة تعني اللون 'البني'.",
+        "englishReason": "The word means the color 'brown'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 267
+      },
+      {
+        "word": "eyes",
+        "meaning": "عيون",
+        "options": [
+          "عيون",
+          "آذان",
+          "أنف",
+          "شعر"
+        ],
+        "arabicReason": "الكلمة تعني 'عيون'.",
+        "englishReason": "The word means 'eyes'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 268
+      },
+      {
+        "word": "short",
+        "meaning": "قصير",
+        "options": [
+          "قصير",
+          "طويل",
+          "جميل",
+          "ذكي"
+        ],
+        "arabicReason": "الكلمة تعني 'قصير'.",
+        "englishReason": "The word means 'short'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 269
+      },
+      {
+        "word": "hair",
+        "meaning": "شعر",
+        "options": [
+          "شعر",
+          "وجه",
+          "يد",
+          "عين"
+        ],
+        "arabicReason": "الكلمة تعني 'شعر'.",
+        "englishReason": "The word means 'hair'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 270
+      },
+      {
+        "word": "good at",
+        "meaning": "جيد في",
+        "options": [
+          "جيد في",
+          "سيئ في",
+          "يحب",
+          "يذهب إلى"
+        ],
+        "arabicReason": "التعبير يعني 'يجيد شيئًا'.",
+        "englishReason": "The phrase means 'good at something'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 271
+      },
+      {
+        "word": "English",
+        "meaning": "اللغة الإنجليزية",
+        "options": [
+          "اللغة الإنجليزية",
+          "الرياضيات",
+          "العلوم",
+          "اللغة العربية"
+        ],
+        "arabicReason": "الكلمة تعني 'اللغة الإنجليزية'.",
+        "englishReason": "The word means 'English'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 272
+      },
+      {
+        "word": "Math",
+        "meaning": "الرياضيات",
+        "options": [
+          "الرياضيات",
+          "العلوم",
+          "اللغة الإنجليزية",
+          "الرسم"
+        ],
+        "arabicReason": "الكلمة تعني 'الرياضيات'.",
+        "englishReason": "The word means 'Math'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 273
+      },
+      {
+        "word": "help",
+        "meaning": "يساعد",
+        "options": [
+          "يساعد",
+          "يلعب",
+          "ينام",
+          "يجري"
+        ],
+        "arabicReason": "الكلمة تعني 'يساعد'.",
+        "englishReason": "The word means 'help'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 274
+      },
+      {
+        "word": "each other",
+        "meaning": "بعضنا البعض",
+        "options": [
+          "بعضنا البعض",
+          "كل يوم",
+          "معًا",
+          "أحيانًا"
+        ],
+        "arabicReason": "التعبير يعني أن شخصين يساعدان أو يفعلان شيئًا معًا.",
+        "englishReason": "The phrase means two or more people do something for one another.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 275
+      },
+      {
+        "word": "text",
+        "meaning": "يرسل رسائل",
+        "options": [
+          "يرسل رسائل",
+          "يتصل",
+          "يكتب",
+          "يقرأ"
+        ],
+        "arabicReason": "الكلمة تعني 'يرسل رسائل'.",
+        "englishReason": "The word means 'text' (send messages).",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 276
+      },
+      {
+        "word": "every day",
+        "meaning": "كل يوم",
+        "options": [
+          "كل يوم",
+          "أحيانًا",
+          "غدًا",
+          "أمس"
+        ],
+        "arabicReason": "التعبير يعني 'كل يوم'.",
+        "englishReason": "The phrase means 'every day'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 277
+      },
+      {
+        "word": "sometimes",
+        "meaning": "أحيانًا",
+        "options": [
+          "أحيانًا",
+          "دائمًا",
+          "أبدًا",
+          "كل يوم"
+        ],
+        "arabicReason": "الكلمة تعني 'أحيانًا'.",
+        "englishReason": "The word means 'sometimes'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 278
+      },
+      {
+        "word": "club",
+        "meaning": "النادي",
+        "options": [
+          "النادي",
+          "المدرسة",
+          "الحديقة",
+          "البيت"
+        ],
+        "arabicReason": "الكلمة تعني 'النادي'.",
+        "englishReason": "The word means 'club'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 279
+      },
+      {
+        "word": "together",
+        "meaning": "معًا",
+        "options": [
+          "معًا",
+          "وحده",
+          "سريعًا",
+          "دائمًا"
+        ],
+        "arabicReason": "الكلمة تعني 'معًا'.",
+        "englishReason": "The word means 'together'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 280
+      },
+      {
+        "word": "best friend",
+        "meaning": "أفضل صديق",
+        "options": [
+          "أفضل صديق",
+          "صديق جديد",
+          "أخ",
+          "جار"
+        ],
+        "arabicReason": "التعبير يعني 'أفضل صديق'.",
+        "englishReason": "The phrase means 'best friend'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 281
+      },
+      {
+        "word": "today",
+        "meaning": "اليوم",
+        "options": [
+          "اليوم",
+          "غدًا",
+          "أمس",
+          "الآن"
+        ],
+        "arabicReason": "الكلمة تعني 'اليوم'.",
+        "englishReason": "The word means 'today'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 282
+      },
+      {
+        "word": "birthday",
+        "meaning": "عيد ميلاد",
+        "options": [
+          "عيد ميلاد",
+          "حفلة",
+          "هدية",
+          "يوم"
+        ],
+        "arabicReason": "الكلمة تعني 'عيد ميلاد'.",
+        "englishReason": "The word means 'birthday'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 283
+      },
+      {
+        "word": "friends",
+        "meaning": "أصدقاء",
+        "options": [
+          "أصدقاء",
+          "إخوة",
+          "معلمون",
+          "جيران"
+        ],
+        "arabicReason": "الكلمة تعني 'أصدقاء'.",
+        "englishReason": "The word means 'friends'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 284
+      },
+      {
+        "word": "come",
+        "meaning": "يأتون",
+        "options": [
+          "يأتون",
+          "يذهبون",
+          "يلعبون",
+          "يغنون"
+        ],
+        "arabicReason": "الكلمة تعني 'يأتون'.",
+        "englishReason": "The word means 'come'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 285
+      },
+      {
+        "word": "party",
+        "meaning": "حفلة",
+        "options": [
+          "حفلة",
+          "مدرسة",
+          "حديقة",
+          "منزل"
+        ],
+        "arabicReason": "الكلمة تعني 'حفلة'.",
+        "englishReason": "The word means 'party'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 286
+      },
+      {
+        "word": "play",
+        "meaning": "يلعب",
+        "options": [
+          "يلعب",
+          "يغني",
+          "يكتب",
+          "ينام"
+        ],
+        "arabicReason": "الكلمة تعني 'يلعب'.",
+        "englishReason": "The word means 'play'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 287
+      },
+      {
+        "word": "sing",
+        "meaning": "يغني",
+        "options": [
+          "يغني",
+          "يلعب",
+          "يقرأ",
+          "يجري"
+        ],
+        "arabicReason": "الكلمة تعني 'يغني'.",
+        "englishReason": "The word means 'sing'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 288
+      },
+      {
+        "word": "songs",
+        "meaning": "أغانٍ",
+        "options": [
+          "أغانٍ",
+          "قصص",
+          "ألعاب",
+          "كتب"
+        ],
+        "arabicReason": "الكلمة تعني 'أغانٍ'.",
+        "englishReason": "The word means 'songs'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 289
+      },
+      {
+        "word": "give",
+        "meaning": "يعطي",
+        "options": [
+          "يعطي",
+          "يأخذ",
+          "يشتري",
+          "يرى"
+        ],
+        "arabicReason": "الكلمة تعني 'يعطي'.",
+        "englishReason": "The word means 'give'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 290
+      },
+      {
+        "word": "gifts",
+        "meaning": "هدايا",
+        "options": [
+          "هدايا",
+          "ألعاب",
+          "حلويات",
+          "زهور"
+        ],
+        "arabicReason": "الكلمة تعني 'هدايا'.",
+        "englishReason": "The word means 'gifts'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 291
+      },
+      {
+        "word": "enjoy",
+        "meaning": "يستمتع",
+        "options": [
+          "يستمتع",
+          "يحزن",
+          "ينام",
+          "يرسم"
+        ],
+        "arabicReason": "الكلمة تعني 'يستمتع'.",
+        "englishReason": "The word means 'enjoy'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 292
+      },
+      {
+        "word": "day",
+        "meaning": "يوم",
+        "options": [
+          "يوم",
+          "شهر",
+          "سنة",
+          "أسبوع"
+        ],
+        "arabicReason": "الكلمة تعني 'يوم'.",
+        "englishReason": "The word means 'day'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 293
+      },
+      {
+        "word": "social media",
+        "meaning": "وسائل التواصل الاجتماعي",
+        "options": [
+          "وسائل التواصل الاجتماعي",
+          "التلفاز",
+          "المدرسة",
+          "الإنترنت"
+        ],
+        "arabicReason": "الكلمة تعني 'وسائل التواصل الاجتماعي'.",
+        "englishReason": "The term means 'social media'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 294
+      },
+      {
+        "word": "important",
+        "meaning": "مهم",
+        "options": [
+          "مهم",
+          "صغير",
+          "صعب",
+          "قديم"
+        ],
+        "arabicReason": "الكلمة تعني 'مهم'.",
+        "englishReason": "The word means 'important'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 295
+      },
+      {
+        "word": "role",
+        "meaning": "دور",
+        "options": [
+          "دور",
+          "مكان",
+          "لعبة",
+          "رحلة"
+        ],
+        "arabicReason": "الكلمة تعني 'دور'.",
+        "englishReason": "The word means 'role'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 296
+      },
+      {
+        "word": "life",
+        "meaning": "حياة",
+        "options": [
+          "حياة",
+          "مدينة",
+          "حديقة",
+          "منزل"
+        ],
+        "arabicReason": "الكلمة تعني 'حياة'.",
+        "englishReason": "The word means 'life'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 297
+      },
+      {
+        "word": "learn",
+        "meaning": "يتعلم",
+        "options": [
+          "يتعلم",
+          "يلعب",
+          "يكتب",
+          "يشاهد"
+        ],
+        "arabicReason": "الكلمة تعني 'يتعلم'.",
+        "englishReason": "The word means 'learn'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 298
+      },
+      {
+        "word": "communicate",
+        "meaning": "يتواصل",
+        "options": [
+          "يتواصل",
+          "يسافر",
+          "ينام",
+          "يجري"
+        ],
+        "arabicReason": "الكلمة تعني 'يتواصل'.",
+        "englishReason": "The word means 'communicate'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 299
+      },
+      {
+        "word": "faster",
+        "meaning": "بسرعة أكبر",
+        "options": [
+          "بسرعة أكبر",
+          "ببطء",
+          "بهدوء",
+          "بصعوبة"
+        ],
+        "arabicReason": "الكلمة تعني 'بسرعة أكبر'.",
+        "englishReason": "The word means 'faster'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 300
+      },
+      {
+        "word": "cultures",
+        "meaning": "ثقافات",
+        "options": [
+          "ثقافات",
+          "لغات",
+          "دروس",
+          "بلاد"
+        ],
+        "arabicReason": "الكلمة تعني 'ثقافات'.",
+        "englishReason": "The word means 'cultures'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 301
+      },
+      {
+        "word": "waste",
+        "meaning": "يهدر",
+        "options": [
+          "يهدر",
+          "يوفر",
+          "يصنع",
+          "يصلح"
+        ],
+        "arabicReason": "الكلمة تعني 'يهدر'.",
+        "englishReason": "The word means 'waste'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 302
+      },
+      {
+        "word": "time",
+        "meaning": "وقت",
+        "options": [
+          "وقت",
+          "ساعة",
+          "دقيقة",
+          "يوم"
+        ],
+        "arabicReason": "الكلمة تعني 'وقت'.",
+        "englishReason": "The word means 'time'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 303
+      },
+      {
+        "word": "cause",
+        "meaning": "يسبب",
+        "options": [
+          "يسبب",
+          "يمنع",
+          "يساعد",
+          "يبدأ"
+        ],
+        "arabicReason": "الكلمة تعني 'يسبب'.",
+        "englishReason": "The word means 'cause'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 304
+      },
+      {
+        "word": "headaches",
+        "meaning": "صداع",
+        "options": [
+          "صداع",
+          "حمى",
+          "سعال",
+          "برد"
+        ],
+        "arabicReason": "الكلمة تعني 'صداع'.",
+        "englishReason": "The word means 'headaches'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 305
+      },
+      {
+        "word": "eye problems",
+        "meaning": "مشكلات في العين",
+        "options": [
+          "مشكلات في العين",
+          "ألم في القدم",
+          "ألم في الظهر",
+          "ألم في اليد"
+        ],
+        "arabicReason": "الكلمة تعني 'مشكلات في العين'.",
+        "englishReason": "The term means 'eye problems'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 306
+      },
+      {
+        "word": "stay safe",
+        "meaning": "يبقى آمنًا",
+        "options": [
+          "يبقى آمنًا",
+          "يذهب للمدرسة",
+          "يلعب بالخارج",
+          "يقرأ كتابًا"
+        ],
+        "arabicReason": "التعبير يعني 'يبقى آمنًا'.",
+        "englishReason": "The phrase means 'stay safe'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 307
+      },
+      {
+        "word": "limit",
+        "meaning": "يحدد / يقلل",
+        "options": [
+          "يحدد / يقلل",
+          "يزيد",
+          "يشتري",
+          "يفتح"
+        ],
+        "arabicReason": "الكلمة تعني 'يحدد أو يقلل'.",
+        "englishReason": "The word means 'limit'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 308
+      },
+      {
+        "word": "screen time",
+        "meaning": "وقت استخدام الشاشة",
+        "options": [
+          "وقت استخدام الشاشة",
+          "وقت النوم",
+          "وقت المدرسة",
+          "وقت اللعب"
+        ],
+        "arabicReason": "التعبير يعني 'وقت استخدام الشاشة'.",
+        "englishReason": "The phrase means 'screen time'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 309
+      },
+      {
+        "word": "make friends",
+        "meaning": "يصادق",
+        "options": [
+          "يصادق",
+          "يغني",
+          "يسافر",
+          "يرسم"
+        ],
+        "arabicReason": "التعبير يعني 'يصادق'.",
+        "englishReason": "The phrase means 'make friends'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 310
+      },
+      {
+        "word": "people",
+        "meaning": "أشخاص",
+        "options": [
+          "أشخاص",
+          "أطفال",
+          "مدارس",
+          "كتب"
+        ],
+        "arabicReason": "الكلمة تعني 'أشخاص'.",
+        "englishReason": "The word means 'people'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 311
+      },
+      {
+        "word": "know",
+        "meaning": "يعرف",
+        "options": [
+          "يعرف",
+          "ينسى",
+          "يكتب",
+          "يسمع"
+        ],
+        "arabicReason": "الكلمة تعني 'يعرف'.",
+        "englishReason": "The word means 'know'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 312
+      },
+      {
+        "word": "good",
+        "meaning": "جيد",
+        "options": [
+          "جيد",
+          "سيئ",
+          "قصير",
+          "ضعيف"
+        ],
+        "arabicReason": "الكلمة تعني 'جيد'.",
+        "englishReason": "The word means 'good'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 313
+      },
+      {
+        "word": "bad",
+        "meaning": "سيئ",
+        "options": [
+          "سيئ",
+          "جميل",
+          "سريع",
+          "قوي"
+        ],
+        "arabicReason": "الكلمة تعني 'سيئ'.",
+        "englishReason": "The word means 'bad'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 314
       }
     ],
     "what_do_you_hear": [
@@ -22601,6 +27643,496 @@
         "curriculum": "OL",
         "unit": "9",
         "id": 172
+      },
+      {
+        "sentence": "I have a kind friend.",
+        "options": [
+          "I have a kind friend.",
+          "I have a new friend.",
+          "I have a tall friend.",
+          "I have a funny friend."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 173
+      },
+      {
+        "sentence": "His name is Ahmed.",
+        "options": [
+          "His name is Ahmed.",
+          "His name is Ali.",
+          "His name is Omar.",
+          "His name is Adam."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 174
+      },
+      {
+        "sentence": "Ahmed is tall and slim.",
+        "options": [
+          "Ahmed is tall and slim.",
+          "Ahmed is short and slim.",
+          "Ahmed is tall and fat.",
+          "Ahmed is short and fat."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 175
+      },
+      {
+        "sentence": "He has brown eyes and short hair.",
+        "options": [
+          "He has brown eyes and short hair.",
+          "He has blue eyes and short hair.",
+          "He has brown eyes and long hair.",
+          "He has green eyes and long hair."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 176
+      },
+      {
+        "sentence": "He is good at English.",
+        "options": [
+          "He is good at English.",
+          "He is good at Math.",
+          "He is good at Science.",
+          "He is good at Art."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 177
+      },
+      {
+        "sentence": "I am good at Math.",
+        "options": [
+          "I am good at Math.",
+          "I am good at English.",
+          "I am good at Science.",
+          "I am good at Music."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 178
+      },
+      {
+        "sentence": "We help each other.",
+        "options": [
+          "We help each other.",
+          "We call each other.",
+          "We watch each other.",
+          "We meet each other."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 179
+      },
+      {
+        "sentence": "We text every day.",
+        "options": [
+          "We text every day.",
+          "We text every week.",
+          "We text every month.",
+          "We text every year."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 180
+      },
+      {
+        "sentence": "Sometimes we go to the club together.",
+        "options": [
+          "Sometimes we go to the club together.",
+          "Sometimes we go to school together.",
+          "Sometimes we go to the park together.",
+          "Sometimes we go to the library together."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 181
+      },
+      {
+        "sentence": "Ahmed is my best friend.",
+        "options": [
+          "Ahmed is my best friend.",
+          "Ahmed is my brother.",
+          "Ahmed is my teacher.",
+          "Ahmed is my neighbor."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 182
+      },
+      {
+        "sentence": "Today is my birthday.",
+        "options": [
+          "Today is my birthday.",
+          "Today is my holiday.",
+          "Today is my school day.",
+          "Today is my game."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 183
+      },
+      {
+        "sentence": "My friends come to my party.",
+        "options": [
+          "My friends come to my party.",
+          "My friends come to my house.",
+          "My friends come to my school.",
+          "My friends come to my garden."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 184
+      },
+      {
+        "sentence": "We play and sing songs.",
+        "options": [
+          "We play and sing songs.",
+          "We play and read books.",
+          "We play and watch TV.",
+          "We play and draw pictures."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 185
+      },
+      {
+        "sentence": "They give me gifts.",
+        "options": [
+          "They give me gifts.",
+          "They give me books.",
+          "They give me flowers.",
+          "They give me toys."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 186
+      },
+      {
+        "sentence": "We enjoy our day.",
+        "options": [
+          "We enjoy our day.",
+          "We enjoy our lesson.",
+          "We enjoy our lunch.",
+          "We enjoy our game."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 187
+      },
+      {
+        "sentence": "Today is a happy day.",
+        "options": [
+          "Today is a happy day.",
+          "Today is a busy day.",
+          "Today is a rainy day.",
+          "Today is a cold day."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 188
+      },
+      {
+        "sentence": "My friends sing songs.",
+        "options": [
+          "My friends sing songs.",
+          "My friends play football.",
+          "My friends read books.",
+          "My friends watch TV."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 189
+      },
+      {
+        "sentence": "I get many gifts.",
+        "options": [
+          "I get many gifts.",
+          "I get many books.",
+          "I get many toys.",
+          "I get many flowers."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 190
+      },
+      {
+        "sentence": "We have a birthday party.",
+        "options": [
+          "We have a birthday party.",
+          "We have a football match.",
+          "We have an English lesson.",
+          "We have a school trip."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 191
+      },
+      {
+        "sentence": "Everyone enjoys the party.",
+        "options": [
+          "Everyone enjoys the party.",
+          "Everyone enjoys the game.",
+          "Everyone enjoys the lesson.",
+          "Everyone enjoys the trip."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 192
+      },
+      {
+        "sentence": "Social media plays an important role in our life.",
+        "options": [
+          "Social media plays an important role in our life.",
+          "Social media plays an important game in our life.",
+          "Social media plays an important lesson in our life.",
+          "Social media plays an important sport in our life."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 193
+      },
+      {
+        "sentence": "It helps us learn new things.",
+        "options": [
+          "It helps us learn new things.",
+          "It helps us buy new things.",
+          "It helps us forget new things.",
+          "It helps us carry new things."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 194
+      },
+      {
+        "sentence": "We communicate faster.",
+        "options": [
+          "We communicate faster.",
+          "We communicate slower.",
+          "We communicate quietly.",
+          "We communicate later."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 195
+      },
+      {
+        "sentence": "We learn about different cultures.",
+        "options": [
+          "We learn about different cultures.",
+          "We learn about different animals.",
+          "We learn about different games.",
+          "We learn about different schools."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 196
+      },
+      {
+        "sentence": "Social media can waste our time.",
+        "options": [
+          "Social media can waste our time.",
+          "Social media can save our time.",
+          "Social media can change our time.",
+          "Social media can clean our time."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 197
+      },
+      {
+        "sentence": "It can cause headaches.",
+        "options": [
+          "It can cause headaches.",
+          "It can cause happiness.",
+          "It can cause homework.",
+          "It can cause holidays."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 198
+      },
+      {
+        "sentence": "It can cause eye problems.",
+        "options": [
+          "It can cause eye problems.",
+          "It can cause eye colours.",
+          "It can cause eye lessons.",
+          "It can cause eye toys."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 199
+      },
+      {
+        "sentence": "You should limit your screen time.",
+        "options": [
+          "You should limit your screen time.",
+          "You should increase your screen time.",
+          "You should enjoy your screen time.",
+          "You should forget your screen time."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 200
+      },
+      {
+        "sentence": "Don't make friends with people you don't know.",
+        "options": [
+          "Don't make friends with people you don't know.",
+          "Don't make friends with people you know.",
+          "Don't play with people you don't know.",
+          "Don't talk with people at school."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 201
+      },
+      {
+        "sentence": "Social media is sometimes good.",
+        "options": [
+          "Social media is sometimes good.",
+          "Social media is always good.",
+          "Social media is never good.",
+          "Social media is always bad."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 202
+      },
+      {
+        "sentence": "Social media is sometimes bad.",
+        "options": [
+          "Social media is sometimes bad.",
+          "Social media is always bad.",
+          "Social media is never bad.",
+          "Social media is always useful."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 203
+      },
+      {
+        "sentence": "We should stay safe online.",
+        "options": [
+          "We should stay safe online.",
+          "We should stay late online.",
+          "We should stay alone online.",
+          "We should stay busy online."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 204
+      },
+      {
+        "sentence": "Learning online can be useful.",
+        "options": [
+          "Learning online can be useful.",
+          "Learning online can be boring.",
+          "Learning online can be noisy.",
+          "Learning online can be difficult."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 205
+      },
+      {
+        "sentence": "People use social media every day.",
+        "options": [
+          "People use social media every day.",
+          "People clean social media every day.",
+          "People sell social media every day.",
+          "People draw social media every day."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 206
+      },
+      {
+        "sentence": "Too much screen time is unhealthy.",
+        "options": [
+          "Too much screen time is unhealthy.",
+          "Too much screen time is exciting.",
+          "Too much screen time is funny.",
+          "Too much screen time is beautiful."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 207
       }
     ],
     "vocab_choose": [
@@ -25034,6 +30566,601 @@
         "curriculum": "OL",
         "unit": "9",
         "id": 143
+      },
+      {
+        "question": "Ahmed is a ______ friend.",
+        "correctAnswer": "kind",
+        "arabicReason": "نستخدم (kind) لأن أحمد صديق لطيف.",
+        "englishReason": "We use 'kind' because Ahmed is a nice friend.",
+        "options": [
+          "kind",
+          "short",
+          "angry",
+          "lazy"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 144
+      },
+      {
+        "question": "Ahmed is tall and ______.",
+        "correctAnswer": "slim",
+        "arabicReason": "الوصف الصحيح هو طويل ونحيف.",
+        "englishReason": "The correct description is tall and slim.",
+        "options": [
+          "slim",
+          "fat",
+          "old",
+          "young"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 145
+      },
+      {
+        "question": "He has brown ______.",
+        "correctAnswer": "eyes",
+        "arabicReason": "العيون تكون بنية.",
+        "englishReason": "Eyes can be brown.",
+        "options": [
+          "eyes",
+          "hands",
+          "feet",
+          "ears"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 146
+      },
+      {
+        "question": "He has short ______.",
+        "correctAnswer": "hair",
+        "arabicReason": "الشعر يمكن أن يكون قصيرًا.",
+        "englishReason": "Hair can be short.",
+        "options": [
+          "hair",
+          "eyes",
+          "mouth",
+          "nose"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 147
+      },
+      {
+        "question": "Ahmed is good at ______.",
+        "correctAnswer": "English",
+        "arabicReason": "أحمد جيد في اللغة الإنجليزية.",
+        "englishReason": "Ahmed is good at English.",
+        "options": [
+          "English",
+          "Math",
+          "Science",
+          "Art"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 148
+      },
+      {
+        "question": "I am good at ______.",
+        "correctAnswer": "Math",
+        "arabicReason": "المتكلم جيد في الرياضيات.",
+        "englishReason": "The speaker is good at Math.",
+        "options": [
+          "Math",
+          "English",
+          "Music",
+          "History"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 149
+      },
+      {
+        "question": "We ______ each other.",
+        "correctAnswer": "help",
+        "arabicReason": "نستخدم (help) لأننا نساعد بعضنا البعض.",
+        "englishReason": "We use 'help' because we help each other.",
+        "options": [
+          "help",
+          "watch",
+          "sleep",
+          "run"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 150
+      },
+      {
+        "question": "We text ______.",
+        "correctAnswer": "every day",
+        "arabicReason": "نستخدم (every day) لأننا نرسل الرسائل كل يوم.",
+        "englishReason": "We use 'every day' because we send messages daily.",
+        "options": [
+          "every day",
+          "yesterday",
+          "tomorrow",
+          "never"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 151
+      },
+      {
+        "question": "Sometimes we go to the ______ together.",
+        "correctAnswer": "club",
+        "arabicReason": "نذهب أحيانًا إلى النادي.",
+        "englishReason": "Sometimes we go to the club.",
+        "options": [
+          "club",
+          "hospital",
+          "school",
+          "library"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 152
+      },
+      {
+        "question": "Ahmed is my best ______.",
+        "correctAnswer": "friend",
+        "arabicReason": "أحمد هو أفضل صديق لي.",
+        "englishReason": "Ahmed is my best friend.",
+        "options": [
+          "friend",
+          "teacher",
+          "brother",
+          "doctor"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 153
+      },
+      {
+        "question": "Today is my ______.",
+        "correctAnswer": "birthday",
+        "arabicReason": "نستخدم (birthday) لأن الجملة تتحدث عن عيد الميلاد.",
+        "englishReason": "We use 'birthday' because the sentence is about a birthday.",
+        "options": [
+          "birthday",
+          "party",
+          "school",
+          "day"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 154
+      },
+      {
+        "question": "My friends ______ to my party.",
+        "correctAnswer": "come",
+        "arabicReason": "نستخدم (come) لأن الأصدقاء يأتون إلى الحفلة.",
+        "englishReason": "We use 'come' because friends come to the party.",
+        "options": [
+          "come",
+          "play",
+          "sing",
+          "give"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 155
+      },
+      {
+        "question": "We ______ and sing songs.",
+        "correctAnswer": "play",
+        "arabicReason": "نستخدم (play) لأننا نلعب في الحفلة.",
+        "englishReason": "We use 'play' because we play at the party.",
+        "options": [
+          "play",
+          "sleep",
+          "read",
+          "draw"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 156
+      },
+      {
+        "question": "We play and ______ songs.",
+        "correctAnswer": "sing",
+        "arabicReason": "نستخدم (sing) لأننا نغني الأغاني.",
+        "englishReason": "We use 'sing' because we sing songs.",
+        "options": [
+          "sing",
+          "watch",
+          "open",
+          "eat"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 157
+      },
+      {
+        "question": "They give me ______.",
+        "correctAnswer": "gifts",
+        "arabicReason": "نستخدم (gifts) لأن الأصدقاء يعطون هدايا.",
+        "englishReason": "We use 'gifts' because friends give presents.",
+        "options": [
+          "gifts",
+          "songs",
+          "books",
+          "flowers"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 158
+      },
+      {
+        "question": "We enjoy our ______.",
+        "correctAnswer": "day",
+        "arabicReason": "نستخدم (day) لأننا نستمتع بيومنا.",
+        "englishReason": "We use 'day' because we enjoy our day.",
+        "options": [
+          "day",
+          "book",
+          "room",
+          "school"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 159
+      },
+      {
+        "question": "My friends come to my ______.",
+        "correctAnswer": "party",
+        "arabicReason": "نستخدم (party) لأن الأصدقاء يأتون إلى الحفلة.",
+        "englishReason": "We use 'party' because friends come to the party.",
+        "options": [
+          "party",
+          "house",
+          "garden",
+          "class"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 160
+      },
+      {
+        "question": "I ______ my birthday.",
+        "correctAnswer": "enjoy",
+        "arabicReason": "نستخدم (enjoy) لأننا نستمتع بعيد الميلاد.",
+        "englishReason": "We use 'enjoy' because we enjoy our birthday.",
+        "options": [
+          "enjoy",
+          "close",
+          "wash",
+          "buy"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 161
+      },
+      {
+        "question": "We sing ______.",
+        "correctAnswer": "songs",
+        "arabicReason": "نستخدم (songs) لأننا نغني الأغاني.",
+        "englishReason": "We use 'songs' because we sing songs.",
+        "options": [
+          "songs",
+          "gifts",
+          "friends",
+          "days"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 162
+      },
+      {
+        "question": "______ is my birthday.",
+        "correctAnswer": "Today",
+        "arabicReason": "نستخدم (Today) لأن الجملة تبدأ بكلمة اليوم.",
+        "englishReason": "We use 'Today' because the sentence starts with the day.",
+        "options": [
+          "Today",
+          "Yesterday",
+          "Tomorrow",
+          "Night"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 163
+      },
+      {
+        "question": "Social media plays an ______ role in our life.",
+        "correctAnswer": "important",
+        "arabicReason": "نستخدم (important) لأن العبارة الصحيحة هي important role.",
+        "englishReason": "We use 'important' because the correct phrase is 'important role'.",
+        "options": [
+          "important",
+          "short",
+          "small",
+          "old"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 164
+      },
+      {
+        "question": "It helps us ______ new things.",
+        "correctAnswer": "learn",
+        "arabicReason": "نستخدم (learn) لأن وسائل التواصل تساعدنا على التعلم.",
+        "englishReason": "We use 'learn' because social media helps us learn new things.",
+        "options": [
+          "learn",
+          "sleep",
+          "forget",
+          "close"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 165
+      },
+      {
+        "question": "We communicate ______.",
+        "correctAnswer": "faster",
+        "arabicReason": "نستخدم (faster) لأن وسائل التواصل تجعل التواصل أسرع.",
+        "englishReason": "We use 'faster' because social media helps us communicate more quickly.",
+        "options": [
+          "faster",
+          "slower",
+          "later",
+          "hard"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 166
+      },
+      {
+        "question": "We learn about different ______.",
+        "correctAnswer": "cultures",
+        "arabicReason": "نستخدم (cultures) لأننا نتعرف على ثقافات مختلفة.",
+        "englishReason": "We use 'cultures' because we learn about different cultures.",
+        "options": [
+          "cultures",
+          "books",
+          "schools",
+          "games"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 167
+      },
+      {
+        "question": "Social media can ______ our time.",
+        "correctAnswer": "waste",
+        "arabicReason": "نستخدم (waste) لأن وسائل التواصل قد تهدر الوقت.",
+        "englishReason": "We use 'waste' because social media can waste our time.",
+        "options": [
+          "waste",
+          "save",
+          "buy",
+          "open"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 168
+      },
+      {
+        "question": "It can cause ______.",
+        "correctAnswer": "headaches",
+        "arabicReason": "نستخدم (headaches) لأنها من أضرار الاستخدام الطويل.",
+        "englishReason": "We use 'headaches' because they are a possible effect.",
+        "options": [
+          "headaches",
+          "flowers",
+          "toys",
+          "friends"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 169
+      },
+      {
+        "question": "It can cause eye ______.",
+        "correctAnswer": "problems",
+        "arabicReason": "نستخدم (problems) لأن التعبير الصحيح هو eye problems.",
+        "englishReason": "We use 'problems' because the correct phrase is 'eye problems'.",
+        "options": [
+          "problems",
+          "books",
+          "games",
+          "songs"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 170
+      },
+      {
+        "question": "To stay safe, you should ______ your screen time.",
+        "correctAnswer": "limit",
+        "arabicReason": "نستخدم (limit) لأننا يجب أن نقلل وقت الشاشة.",
+        "englishReason": "We use 'limit' because we should reduce screen time.",
+        "options": [
+          "limit",
+          "increase",
+          "draw",
+          "paint"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 171
+      },
+      {
+        "question": "Don't make friends with ______ you don't know.",
+        "correctAnswer": "people",
+        "arabicReason": "نستخدم (people) لأن الجملة تتحدث عن أشخاص لا تعرفهم.",
+        "englishReason": "We use 'people' because the sentence talks about unknown people.",
+        "options": [
+          "people",
+          "books",
+          "tables",
+          "animals"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 172
+      },
+      {
+        "question": "People you don't ______.",
+        "correctAnswer": "know",
+        "arabicReason": "نستخدم (know) لأن المعنى هو أشخاص لا تعرفهم.",
+        "englishReason": "We use 'know' because it means people you don't know.",
+        "options": [
+          "know",
+          "play",
+          "watch",
+          "read"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 173
+      },
+      {
+        "question": "Social media is sometimes ______.",
+        "correctAnswer": "good",
+        "arabicReason": "نستخدم (good) لأن القطعة تقول إنها أحيانًا جيدة.",
+        "englishReason": "We use 'good' because the passage says it is sometimes good.",
+        "options": [
+          "good",
+          "cold",
+          "late",
+          "small"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 174
+      },
+      {
+        "question": "Social media is sometimes ______.",
+        "correctAnswer": "bad",
+        "arabicReason": "نستخدم (bad) لأن القطعة تقول إنها أحيانًا سيئة.",
+        "englishReason": "We use 'bad' because the passage says it is sometimes bad.",
+        "options": [
+          "bad",
+          "clean",
+          "new",
+          "long"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 175
+      },
+      {
+        "question": "Social media plays an important ______.",
+        "correctAnswer": "role",
+        "arabicReason": "نستخدم (role) لأن التعبير الصحيح هو important role.",
+        "englishReason": "We use 'role' because the correct phrase is 'important role'.",
+        "options": [
+          "role",
+          "song",
+          "friend",
+          "garden"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 176
+      },
+      {
+        "question": "Social media plays an important role in our ______.",
+        "correctAnswer": "life",
+        "arabicReason": "نستخدم (life) لأن التعبير الصحيح هو in our life.",
+        "englishReason": "We use 'life' because the correct phrase is 'in our life'.",
+        "options": [
+          "life",
+          "bag",
+          "class",
+          "lesson"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 177
+      },
+      {
+        "question": "You should limit your ______ time.",
+        "correctAnswer": "screen",
+        "arabicReason": "نستخدم (screen) لأن التعبير الصحيح هو screen time.",
+        "englishReason": "We use 'screen' because the correct phrase is 'screen time'.",
+        "options": [
+          "screen",
+          "party",
+          "holiday",
+          "football"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 178
       }
     ],
     "sentence": [],
