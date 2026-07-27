@@ -50,7 +50,7 @@
       "status": "free",
       "teacherId": null,
       "subscriptionPrice": 0,
-       "customMessage": "📢 ",
+      "customMessage": "",
       "broadcastMessage": ""
     },
     {
@@ -70,7 +70,7 @@
       "status": "free",
       "teacherId": null,
       "subscriptionPrice": 0,
-       "customMessage": "📢 ",
+      "customMessage": "",
       "broadcastMessage": ""
     },
     {
@@ -90,7 +90,7 @@
       "status": "free",
       "teacherId": null,
       "subscriptionPrice": 0,
-        "customMessage": "📢 ",
+      "customMessage": "",
       "broadcastMessage": ""
     },
     {
@@ -110,7 +110,7 @@
       "status": "free",
       "teacherId": null,
       "subscriptionPrice": 0,
-      "customMessage": "السلام عليكم , يمكن للاولاد الاستمرار في استخدام خدمات المنصة , بالتوفيق بمشيئة الله تعالي",
+      "customMessage": "",
       "broadcastMessage": ""
     },
     {
@@ -130,7 +130,7 @@
       "status": "free",
       "teacherId": null,
       "subscriptionPrice": 0,
-       "customMessage": "📢 ",
+      "customMessage": "",
       "broadcastMessage": ""
     },
     {
@@ -150,7 +150,7 @@
       "status": "free",
       "teacherId": null,
       "subscriptionPrice": 0,
-  "customMessage": "📢 ",
+      "customMessage": "",
       "broadcastMessage": ""
     },
     {
@@ -170,7 +170,7 @@
       "status": "free",
       "teacherId": null,
       "subscriptionPrice": 0,
-       "customMessage": "📢 ",
+      "customMessage": "",
       "broadcastMessage": ""
     },
     {
@@ -190,7 +190,7 @@
       "status": "free",
       "teacherId": null,
       "subscriptionPrice": 0,
-       "customMessage": "📢 ",
+      "customMessage": "",
       "broadcastMessage": ""
     },
     {
@@ -210,7 +210,7 @@
       "status": "free",
       "teacherId": null,
       "subscriptionPrice": 0,
-       "customMessage": "📢 ",
+      "customMessage": "",
       "broadcastMessage": ""
     },
     {
@@ -238,13 +238,13 @@
       "lastLogin": null,
       "isPaid": true,
       "duration": 30,
-      "level": "preparatory",
-      "grade": "3",
+      "level": "primary",
+      "grade": "2",
       "type": "OL",
       "status": "free",
       "teacherId": null,
       "subscriptionPrice": 0,
-       "customMessage": "📢 ",
+      "customMessage": "",
       "broadcastMessage": ""
     },
     {
@@ -258,13 +258,13 @@
       "lastLogin": null,
       "isPaid": true,
       "duration": 30,
-      "level": "preparatory",
-      "grade": "3",
+      "level": "primary",
+      "grade": "2",
       "type": "OL",
       "status": "free",
       "teacherId": null,
       "subscriptionPrice": 0,
-      "customMessage": "📢 ",
+      "customMessage": "",
       "broadcastMessage": ""
     },
     {
@@ -278,8 +278,8 @@
       "lastLogin": null,
       "isPaid": true,
       "duration": 30,
-      "level": "preparatory",
-      "grade": "3",
+      "level": "primary",
+      "grade": "2",
       "type": "OL",
       "status": "free",
       "teacherId": null,
@@ -351,5 +351,202 @@
   },
   "teacherExams": [],
   "groups": [],
-  "exams": [  ]
+  "exams": [
+    {
+      "id": "exam_1784418720355",
+      "title": "رررررر",
+      "level": "primary",
+      "grade": "2",
+      "curriculum": "OL",
+      "units": [
+        "5"
+      ],
+      "visibility": "public",
+      "teacherId": null,
+      "activities": [
+        {
+          "type": "complete",
+          "name": "Complete (أكمل القطعة)",
+          "questions": [
+            {
+              "id": 7,
+              "question": {
+                "passage": "This is my {blank1}. There is a blue {blank2} on the floor. There are two comfortable {blank3} beside the sofa. My cat is {blank4} the table. There is a vase {blank5} the table. A tall plant is in the {blank6}. There is a large TV on a {blank7}. I like sitting on the sofa and watching {blank8}.",
+                "options": [
+                  "living room",
+                  "carpet",
+                  "armchairs",
+                  "under",
+                  "on",
+                  "corner",
+                  "stand",
+                  "TV"
+                ],
+                "correctAnswer": [
+                  "living room",
+                  "carpet",
+                  "armchairs",
+                  "under",
+                  "on",
+                  "corner",
+                  "stand",
+                  "TV"
+                ],
+                "reason": "Complete the passage with the correct words in order.",
+                "id": 7,
+                "level": "primary",
+                "grade": "2",
+                "curriculum": "OL",
+                "unit": "5"
+              }
+            }
+          ]
+        },
+        {
+          "type": "correct",
+          "name": "Correct (صحح ما بين الأقواس)",
+          "questions": [
+            {
+              "id": 52,
+              "question": {
+                "sentence": "I aren't happy in my living room.",
+                "errorWord": "aren't",
+                "correctWord": "am not",
+                "arabicReason": "مع I نستخدم am not.",
+                "englishReason": "Use 'am not' with 'I'.",
+                "id": 52,
+                "level": "primary",
+                "grade": "2",
+                "curriculum": "OL",
+                "unit": "5"
+              }
+            }
+          ]
+        },
+        {
+          "type": "rewrite",
+          "name": "Rewrite (أعد كتابة الجملة)",
+          "questions": [
+            {
+              "id": 28,
+              "question": {
+                "sentence": "My cat likes the sofa.",
+                "targetWord": "doesn't",
+                "correctAnswer": "My cat doesn't like the sofa.",
+                "arabicReason": "مع الفاعل المفرد نستخدم doesn't ويعود الفعل إلى صورته الأساسية.",
+                "englishReason": "Use 'doesn't' with a singular subject and return the verb to its base form.",
+                "id": 28,
+                "level": "primary",
+                "grade": "2",
+                "curriculum": "OL",
+                "unit": "5"
+              }
+            }
+          ]
+        }
+      ],
+      "totalQuestions": 3,
+      "isActive": true,
+      "addedDate": "2026-07-18",
+      "addedBy": "مستر إنجليزي"
+    },
+    {
+      "id": "exam_1784418720355",
+      "title": "رررررر",
+      "level": "primary",
+      "grade": "2",
+      "curriculum": "OL",
+      "units": [
+        "5"
+      ],
+      "visibility": "public",
+      "teacherId": null,
+      "activities": [
+        {
+          "type": "complete",
+          "name": "Complete (أكمل القطعة)",
+          "questions": [
+            {
+              "id": 7,
+              "question": {
+                "passage": "This is my {blank1}. There is a blue {blank2} on the floor. There are two comfortable {blank3} beside the sofa. My cat is {blank4} the table. There is a vase {blank5} the table. A tall plant is in the {blank6}. There is a large TV on a {blank7}. I like sitting on the sofa and watching {blank8}.",
+                "options": [
+                  "living room",
+                  "carpet",
+                  "armchairs",
+                  "under",
+                  "on",
+                  "corner",
+                  "stand",
+                  "TV"
+                ],
+                "correctAnswer": [
+                  "living room",
+                  "carpet",
+                  "armchairs",
+                  "under",
+                  "on",
+                  "corner",
+                  "stand",
+                  "TV"
+                ],
+                "reason": "Complete the passage with the correct words in order.",
+                "id": 7,
+                "level": "primary",
+                "grade": "2",
+                "curriculum": "OL",
+                "unit": "5"
+              }
+            }
+          ]
+        },
+        {
+          "type": "correct",
+          "name": "Correct (صحح ما بين الأقواس)",
+          "questions": [
+            {
+              "id": 52,
+              "question": {
+                "sentence": "I aren't happy in my living room.",
+                "errorWord": "aren't",
+                "correctWord": "am not",
+                "arabicReason": "مع I نستخدم am not.",
+                "englishReason": "Use 'am not' with 'I'.",
+                "id": 52,
+                "level": "primary",
+                "grade": "2",
+                "curriculum": "OL",
+                "unit": "5"
+              }
+            }
+          ]
+        },
+        {
+          "type": "rewrite",
+          "name": "Rewrite (أعد كتابة الجملة)",
+          "questions": [
+            {
+              "id": 28,
+              "question": {
+                "sentence": "My cat likes the sofa.",
+                "targetWord": "doesn't",
+                "correctAnswer": "My cat doesn't like the sofa.",
+                "arabicReason": "مع الفاعل المفرد نستخدم doesn't ويعود الفعل إلى صورته الأساسية.",
+                "englishReason": "Use 'doesn't' with a singular subject and return the verb to its base form.",
+                "id": 28,
+                "level": "primary",
+                "grade": "2",
+                "curriculum": "OL",
+                "unit": "5"
+              }
+            }
+          ]
+        }
+      ],
+      "totalQuestions": 3,
+      "isActive": true,
+      "addedDate": "2026-07-18",
+      "addedBy": "مستر إنجليزي"
+    }
+  ]
 }
