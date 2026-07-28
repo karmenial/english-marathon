@@ -1918,6 +1918,186 @@
         "curriculum": "OL",
         "unit": "8",
         "id": 121
+      },
+      {
+        "sentence": "Social media are important in our life.",
+        "errorWord": "are",
+        "correctWord": "is",
+        "arabicReason": "نستخدم (is) لأن (Social media) تعامل كمفرد في هذه القطعة.",
+        "englishReason": "We use 'is' because 'Social media' is treated as singular in this passage.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 122
+      },
+      {
+        "sentence": "It help us learn new things.",
+        "errorWord": "help",
+        "correctWord": "helps",
+        "arabicReason": "مع الضمير (It) نضيف (s) إلى الفعل في المضارع البسيط.",
+        "englishReason": "With the pronoun 'It', we add 's' to the verb in the simple present tense.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 123
+      },
+      {
+        "sentence": "We communicates faster.",
+        "errorWord": "communicates",
+        "correctWord": "communicate",
+        "arabicReason": "مع الفاعل (We) نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With the subject 'We', we use the base form of the verb.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 124
+      },
+      {
+        "sentence": "Social media can wastes our time.",
+        "errorWord": "wastes",
+        "correctWord": "waste",
+        "arabicReason": "بعد الفعل المساعد (can) يأتي الفعل في المصدر بدون (s).",
+        "englishReason": "After the modal verb 'can', we use the base form of the verb.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 125
+      },
+      {
+        "sentence": "It can causes headaches.",
+        "errorWord": "causes",
+        "correctWord": "cause",
+        "arabicReason": "بعد (can) نستخدم الفعل الأساسي.",
+        "englishReason": "After 'can', we use the base form of the verb.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 126
+      },
+      {
+        "sentence": "It can cause eye problem.",
+        "errorWord": "problem",
+        "correctWord": "problems",
+        "arabicReason": "التعبير الصحيح هو (eye problems) لأنه يشير إلى مشكلات متعددة.",
+        "englishReason": "The correct phrase is 'eye problems' because it refers to multiple problems.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 127
+      },
+      {
+        "sentence": "You should limits your screen time.",
+        "errorWord": "limits",
+        "correctWord": "limit",
+        "arabicReason": "بعد (should) نستخدم الفعل في المصدر.",
+        "englishReason": "After 'should', we use the base form of the verb.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 128
+      },
+      {
+        "sentence": "Don't makes friends with people you don't know.",
+        "errorWord": "makes",
+        "correctWord": "make",
+        "arabicReason": "بعد (Don't) يأتي الفعل في صورته الأساسية.",
+        "englishReason": "After 'Don't', we use the base form of the verb.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 129
+      },
+      {
+        "sentence": "People learns about different cultures.",
+        "errorWord": "learns",
+        "correctWord": "learn",
+        "arabicReason": "مع الفاعل الجمع (People) نستخدم الفعل الأساسي.",
+        "englishReason": "With the plural subject 'People', we use the base form of the verb.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 130
+      },
+      {
+        "sentence": "My friend use social media every day.",
+        "errorWord": "use",
+        "correctWord": "uses",
+        "arabicReason": "مع الفاعل المفرد (My friend) نضيف (s) إلى الفعل.",
+        "englishReason": "With the singular subject 'My friend', we add 's' to the verb.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 131
+      },
+      {
+        "sentence": "We should stays safe online.",
+        "errorWord": "stays",
+        "correctWord": "stay",
+        "arabicReason": "بعد (should) يأتي الفعل في المصدر.",
+        "englishReason": "After 'should', we use the base form of the verb.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 132
+      },
+      {
+        "sentence": "Eye problems is common.",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "الفاعل (Eye problems) جمع، لذلك نستخدم (are).",
+        "englishReason": "The subject 'Eye problems' is plural, so we use 'are'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 133
+      },
+      {
+        "sentence": "He don't know these people.",
+        "errorWord": "don't",
+        "correctWord": "doesn't",
+        "arabicReason": "مع (He) نستخدم (doesn't) في النفي.",
+        "englishReason": "With 'He', we use 'doesn't' for negation.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 134
+      },
+      {
+        "sentence": "She communicate with her friends online.",
+        "errorWord": "communicate",
+        "correctWord": "communicates",
+        "arabicReason": "مع الضمير (She) نضيف (s) إلى الفعل.",
+        "englishReason": "With the pronoun 'She', we add 's' to the verb.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 135
+      },
+      {
+        "sentence": "They should limits their screen time.",
+        "errorWord": "limits",
+        "correctWord": "limit",
+        "arabicReason": "بعد (should) نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "After 'should', we use the base form of the verb.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 136
       }
     ],
     "translate": [
@@ -9982,6 +10162,66 @@
         "curriculum": "OL",
         "unit": "8",
         "id": 92
+      },
+      {
+        "sentence": "Social media is important in our life.",
+        "targetWord": "IS",
+        "correctAnswer": "Is social media important in our life?",
+        "arabicReason": "عندما تكون الكلمة الهدف (IS) نحول الجملة إلى سؤال يبدأ بـ Is.",
+        "englishReason": "When the target word is 'IS', we form a question starting with 'Is'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 93
+      },
+      {
+        "sentence": "It helps us learn new things.",
+        "targetWord": "DOES",
+        "correctAnswer": "Does it help us learn new things?",
+        "arabicReason": "مع (DOES) يعود الفعل إلى صورته الأساسية (help).",
+        "englishReason": "With 'DOES', the verb returns to its base form (help).",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 94
+      },
+      {
+        "sentence": "We communicate faster.",
+        "targetWord": "DO",
+        "correctAnswer": "Do you communicate faster?",
+        "arabicReason": "مع (DO) نحول الجملة إلى سؤال ونغير We إلى you.",
+        "englishReason": "With 'DO', we form a question and change 'we' to 'you'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 95
+      },
+      {
+        "sentence": "You should limit your screen time.",
+        "targetWord": "SHOULD",
+        "correctAnswer": "Should you limit your screen time?",
+        "arabicReason": "مع (SHOULD) نبدأ السؤال بالفعل المساعد دون تغيير الفعل الأساسي.",
+        "englishReason": "With 'SHOULD', we begin the question with the modal verb and keep the main verb in its base form.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 96
+      },
+      {
+        "sentence": "It can cause headaches.",
+        "targetWord": "CAN",
+        "correctAnswer": "Can it cause headaches?",
+        "arabicReason": "مع (CAN) نحول الجملة إلى سؤال بوضع Can في بداية الجملة.",
+        "englishReason": "With 'CAN', we form the question by placing 'Can' at the beginning.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 97
       }
     ],
     "Scramble": [
@@ -12185,6 +12425,86 @@
         "grade": "3",
         "curriculum": "AL",
         "unit": "3"
+      },
+      {
+        "question": "Someone asks you, 'What's your name?' What would you say?",
+        "options": [
+          "I'm Ali.",
+          "I live in Cairo.",
+          "I play football.",
+          "I'm twelve years old."
+        ],
+        "correctAnswer": "I'm Ali.",
+        "reason": "We answer 'What's your name?' by saying our name.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 2
+      },
+      {
+        "question": "Someone asks you, 'Where do you live?' What would you say?",
+        "options": [
+          "I live in Cairo.",
+          "I'm Ahmed.",
+          "I like swimming.",
+          "I'm eleven years old."
+        ],
+        "correctAnswer": "I live in Cairo.",
+        "reason": "We answer 'Where do you live?' by saying the place where we live.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 3
+      },
+      {
+        "question": "Someone asks you, 'What are your hobbies?' What would you say?",
+        "options": [
+          "I like reading and drawing.",
+          "I live in Giza.",
+          "My name is Omar.",
+          "I'm a student."
+        ],
+        "correctAnswer": "I like reading and drawing.",
+        "reason": "We answer 'What are your hobbies?' by talking about activities we enjoy.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 4
+      },
+      {
+        "question": "Someone asks you, 'What's your favourite sport?' What would you say?",
+        "options": [
+          "My favourite sport is football.",
+          "I go to school every day.",
+          "I'm from Egypt.",
+          "I have two brothers."
+        ],
+        "correctAnswer": "My favourite sport is football.",
+        "reason": "We answer 'What's your favourite sport?' by naming a sport we like.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 5
+      },
+      {
+        "question": "Someone asks you, 'How old are you?' What would you say?",
+        "options": [
+          "I'm eleven years old.",
+          "I live in Alexandria.",
+          "My favourite colour is blue.",
+          "I can ride a bike."
+        ],
+        "correctAnswer": "I'm eleven years old.",
+        "reason": "We answer 'How old are you?' by saying our age.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 6
       }
     ],
     "sorting": [
@@ -12347,6 +12667,48 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 4
+      },
+      {
+        "title": "Sort the words: Verbs or Adjectives?",
+        "categories": [
+          {
+            "id": "verbs",
+            "name": "🏃 Verbs"
+          },
+          {
+            "id": "adjectives",
+            "name": "⭐ Adjectives"
+          }
+        ],
+        "wordList": [
+          "learn",
+          "communicate",
+          "waste",
+          "cause",
+          "limit",
+          "important",
+          "different",
+          "good",
+          "bad",
+          "safe"
+        ],
+        "answerKey": {
+          "learn": "verbs",
+          "communicate": "verbs",
+          "waste": "verbs",
+          "cause": "verbs",
+          "limit": "verbs",
+          "important": "adjectives",
+          "different": "adjectives",
+          "good": "adjectives",
+          "bad": "adjectives",
+          "safe": "adjectives"
+        },
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 5
       }
     ],
     "spilling": [
@@ -15258,6 +15620,189 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 61
+      },
+      {
+        "sentence": "Social media plays an important role in our life.",
+        "instruction": "استخرج الصفات",
+        "correctWords": [
+          "important"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 62
+      },
+      {
+        "sentence": "It helps us learn new things.",
+        "instruction": "استخرج الأفعال",
+        "correctWords": [
+          "helps",
+          "learn"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 63
+      },
+      {
+        "sentence": "We communicate faster.",
+        "instruction": "استخرج الضمائر",
+        "correctWords": [
+          "We"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 64
+      },
+      {
+        "sentence": "We learn about different cultures.",
+        "instruction": "استخرج الصفات",
+        "correctWords": [
+          "different"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 65
+      },
+      {
+        "sentence": "Social media can waste our time.",
+        "instruction": "استخرج الأفعال",
+        "correctWords": [
+          "waste"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 66
+      },
+      {
+        "sentence": "It can cause headaches.",
+        "instruction": "استخرج الضمائر",
+        "correctWords": [
+          "It"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 67
+      },
+      {
+        "sentence": "It can cause eye problems.",
+        "instruction": "استخرج الأفعال",
+        "correctWords": [
+          "cause"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 68
+      },
+      {
+        "sentence": "You should limit your screen time.",
+        "instruction": "استخرج الضمائر",
+        "correctWords": [
+          "You",
+          "your"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 69
+      },
+      {
+        "sentence": "Don't make friends with people you don't know.",
+        "instruction": "استخرج الأفعال",
+        "correctWords": [
+          "make",
+          "know"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 70
+      },
+      {
+        "sentence": "Don't make friends with people you don't know.",
+        "instruction": "استخرج الضمائر",
+        "correctWords": [
+          "you"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 71
+      },
+      {
+        "sentence": "Social media is sometimes good.",
+        "instruction": "استخرج الصفات",
+        "correctWords": [
+          "good"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 72
+      },
+      {
+        "sentence": "Social media is sometimes bad.",
+        "instruction": "استخرج الصفات",
+        "correctWords": [
+          "bad"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 73
+      },
+      {
+        "sentence": "We should stay safe online.",
+        "instruction": "استخرج الصفات",
+        "correctWords": [
+          "safe"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 74
+      },
+      {
+        "sentence": "People use social media every day.",
+        "instruction": "استخرج الأفعال",
+        "correctWords": [
+          "use"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 75
+      },
+      {
+        "sentence": "Too much screen time is unhealthy.",
+        "instruction": "استخرج الصفات",
+        "correctWords": [
+          "unhealthy"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "10",
+        "id": 76
       }
     ],
     "vocab_listening_quiz": [
