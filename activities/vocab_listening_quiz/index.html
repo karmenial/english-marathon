@@ -929,6 +929,8 @@
         <div class="activity-name">
           for successfully completing the activity
           <strong id="certActivity">Vocab Listening Quiz (الاستماع واختيار المفردات)</strong>
+           <!-- ✅ أضف هذا السطر الجديد بالضبط هنا -->
+  <span id="certPath" style="display: block; font-size: 1.1rem; color: #ffd700; margin-top: 8px; font-weight: bold; letter-spacing: 1px; text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);"></span>
         </div>
         <div class="grade-badge" id="certGradeBadge">🌟 Excellent</div>
         <div class="score-section">
@@ -1420,6 +1422,9 @@
     document.getElementById('certDate').textContent = dateStr;
     document.getElementById('certYear').textContent = today.getFullYear();
     document.getElementById('certMotivation').textContent = grade.motivation;
+      // ✅ السطران الجديدان لإضافة المسار الدراسي (المرحلة_الصف_الوحدة_المنهج)
+    const pathString = `${currentLevel}_${currentGrade}_${currentUnit}_${currentType}`.toLowerCase();
+    document.getElementById('certPath').textContent = pathString;
     
     document.getElementById('certificateOverlay').classList.add('show');
     
