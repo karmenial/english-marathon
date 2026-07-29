@@ -1466,6 +1466,9 @@
     document.getElementById('certDate').textContent = dateStr;
     document.getElementById('certYear').textContent = today.getFullYear();
     document.getElementById('certMotivation').textContent = grade.motivation;
+     // ✅ السطران الجديدان لإضافة المسار الدراسي (المرحلة_الصف_الوحدة_المنهج)
+    const pathString = `${currentLevel}_${currentGrade}_${currentUnit}_${currentType}`.toLowerCase();
+    document.getElementById('certPath').textContent = pathString;
     
     // إظهار الشاشة العائمة
     document.getElementById('certificateOverlay').classList.add('show');
