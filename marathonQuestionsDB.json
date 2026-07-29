@@ -454,6 +454,62 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 18
+      },
+      {
+        "passage": "My good habits are simple. I always get up {blank1}. I brush my {blank2} every morning. I keep my room {blank3}. I study every {blank4}. I eat healthy {blank5}. I do sports three times a {blank6}. I am always kind and {blank8}.",
+        "options": [
+          "early",
+          "teeth",
+          "clean",
+          "day",
+          "food",
+          "week",
+          "helpful"
+        ],
+        "correctAnswer": [
+          "early",
+          "teeth",
+          "clean",
+          "day",
+          "food",
+          "week",
+          "helpful"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 19
+      },
+      {
+        "passage": "Kindness means being {blank1} and caring to others. It makes everyone {blank2}. We show love, {blank3} and care. Kindness builds strong {blank4}. It is {blank5}, so spread it {blank6}. A little kind {blank7} can make a {blank8} in someone's life.",
+        "options": [
+          "good",
+          "happy",
+          "respect",
+          "friendship",
+          "free",
+          "everywhere",
+          "act",
+          "difference"
+        ],
+        "correctAnswer": [
+          "good",
+          "happy",
+          "respect",
+          "friendship",
+          "free",
+          "everywhere",
+          "act",
+          "difference"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 20
       }
     ],
     "correct": [
@@ -2098,6 +2154,246 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 136
+      },
+      {
+        "sentence": "He don't get up early.",
+        "errorWord": "don't",
+        "correctWord": "doesn't",
+        "arabicReason": "مع الفاعل المفرد (He) نستخدم (doesn't) في النفي.",
+        "englishReason": "We use 'doesn't' with the singular subject (He).",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 137
+      },
+      {
+        "sentence": "They doesn't study every day.",
+        "errorWord": "doesn't",
+        "correctWord": "don't",
+        "arabicReason": "مع الفاعل الجمع (They) نستخدم (don't).",
+        "englishReason": "We use 'don't' with the plural subject (They).",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 138
+      },
+      {
+        "sentence": "My room aren't clean.",
+        "errorWord": "aren't",
+        "correctWord": "isn't",
+        "arabicReason": "مع الفاعل المفرد (My room) نستخدم (isn't).",
+        "englishReason": "We use 'isn't' with the singular subject (My room).",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 139
+      },
+      {
+        "sentence": "Good habits isn't bad.",
+        "errorWord": "isn't",
+        "correctWord": "aren't",
+        "arabicReason": "الفاعل (Good habits) جمع، لذلك نستخدم (aren't).",
+        "englishReason": "The subject (Good habits) is plural, so we use 'aren't'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 140
+      },
+      {
+        "sentence": "She don't brush her teeth every morning.",
+        "errorWord": "don't",
+        "correctWord": "doesn't",
+        "arabicReason": "مع (She) نستخدم (doesn't).",
+        "englishReason": "We use 'doesn't' with (She).",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 141
+      },
+      {
+        "sentence": "We doesn't eat healthy food.",
+        "errorWord": "doesn't",
+        "correctWord": "don't",
+        "arabicReason": "مع (We) نستخدم (don't).",
+        "englishReason": "We use 'don't' with (We).",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 142
+      },
+      {
+        "sentence": "The boys isn't kind.",
+        "errorWord": "isn't",
+        "correctWord": "aren't",
+        "arabicReason": "الفاعل (The boys) جمع، لذلك نستخدم (aren't).",
+        "englishReason": "The subject (The boys) is plural, so we use 'aren't'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 143
+      },
+      {
+        "sentence": "My mother don't keep the room clean.",
+        "errorWord": "don't",
+        "correctWord": "doesn't",
+        "arabicReason": "مع الفاعل المفرد (My mother) نستخدم (doesn't).",
+        "englishReason": "We use 'doesn't' with the singular subject (My mother).",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 144
+      },
+      {
+        "sentence": "Children isn't lazy.",
+        "errorWord": "isn't",
+        "correctWord": "aren't",
+        "arabicReason": "كلمة (Children) جمع، لذلك نستخدم (aren't).",
+        "englishReason": "Children is plural, so we use 'aren't'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 145
+      },
+      {
+        "sentence": "You doesn't play sports every week.",
+        "errorWord": "doesn't",
+        "correctWord": "don't",
+        "arabicReason": "مع (You) نستخدم (don't).",
+        "englishReason": "We use 'don't' with (You).",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 146
+      },
+      {
+        "sentence": "She don't help others.",
+        "errorWord": "don't",
+        "correctWord": "doesn't",
+        "arabicReason": "مع الفاعل المفرد (She) نستخدم (doesn't).",
+        "englishReason": "We use 'doesn't' with the singular subject (She).",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 147
+      },
+      {
+        "sentence": "They does respect everyone.",
+        "errorWord": "does",
+        "correctWord": "do",
+        "arabicReason": "مع الفاعل الجمع (They) نستخدم (do).",
+        "englishReason": "We use 'do' with the plural subject (They).",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 148
+      },
+      {
+        "sentence": "Kind people is helpful.",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "الفاعل (Kind people) جمع، لذلك نستخدم (are).",
+        "englishReason": "The subject (Kind people) is plural, so we use 'are'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 149
+      },
+      {
+        "sentence": "My brother are honest.",
+        "errorWord": "are",
+        "correctWord": "is",
+        "arabicReason": "الفاعل (My brother) مفرد، لذلك نستخدم (is).",
+        "englishReason": "The subject (My brother) is singular, so we use 'is'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 150
+      },
+      {
+        "sentence": "He care for others.",
+        "errorWord": "care",
+        "correctWord": "cares",
+        "arabicReason": "مع (He) نضيف (s) للفعل في المضارع البسيط.",
+        "englishReason": "With 'He', we add 's' to the verb in the simple present.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 151
+      },
+      {
+        "sentence": "We doesn't share with others.",
+        "errorWord": "doesn't",
+        "correctWord": "don't",
+        "arabicReason": "مع (We) نستخدم (don't).",
+        "englishReason": "We use 'don't' with 'We'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 152
+      },
+      {
+        "sentence": "Good habits is important.",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "الفاعل (Good habits) جمع، لذلك نستخدم (are).",
+        "englishReason": "The subject (Good habits) is plural, so we use 'are'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 153
+      },
+      {
+        "sentence": "She respects everyone.",
+        "errorWord": "respects",
+        "correctWord": "respects",
+        "arabicReason": "لا يوجد خطأ، والصحيح هو (respects) مع (She).",
+        "englishReason": "There is no mistake. 'Respects' is correct with 'She'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 154
+      },
+      {
+        "sentence": "The children doesn't help people.",
+        "errorWord": "doesn't",
+        "correctWord": "don't",
+        "arabicReason": "الفاعل (The children) جمع، لذلك نستخدم (don't).",
+        "englishReason": "The subject (The children) is plural, so we use 'don't'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 155
+      },
+      {
+        "sentence": "It make everyone happy.",
+        "errorWord": "make",
+        "correctWord": "makes",
+        "arabicReason": "مع (It) نضيف (s) للفعل في المضارع البسيط.",
+        "englishReason": "With 'It', we add 's' to the verb in the simple present.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 156
       }
     ],
     "translate": [
@@ -4310,6 +4606,465 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 130
+      },
+      {
+        "word": "I always get up early.",
+        "meaning": "أنا أستيقظ مبكرًا دائمًا.",
+        "options": [
+          "أنا أستيقظ مبكرًا دائمًا.",
+          "أنا أنام مبكرًا دائمًا.",
+          "أنا أذهب إلى المدرسة مبكرًا.",
+          "أنا ألعب مبكرًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 131
+      },
+      {
+        "word": "It helps me start my day fresh.",
+        "meaning": "إنه يساعدني على أن أبدأ يومي بنشاط.",
+        "options": [
+          "إنه يساعدني على أن أبدأ يومي بنشاط.",
+          "إنه يساعدني على إنهاء يومي.",
+          "إنه يساعدني على تنظيف غرفتي.",
+          "إنه يساعدني على النوم."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 132
+      },
+      {
+        "word": "I brush my teeth every morning.",
+        "meaning": "أنا أفرش أسناني كل صباح.",
+        "options": [
+          "أنا أفرش أسناني كل صباح.",
+          "أنا أغسل يدي كل صباح.",
+          "أنا أتناول الإفطار كل صباح.",
+          "أنا أنظف غرفتي كل صباح."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 133
+      },
+      {
+        "word": "It keeps me healthy.",
+        "meaning": "إنه يحافظ على صحتي.",
+        "options": [
+          "إنه يحافظ على صحتي.",
+          "إنه يجعلني متعبًا.",
+          "إنه يجعلني حزينًا.",
+          "إنه يجعلني متأخرًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 134
+      },
+      {
+        "word": "I keep my room clean.",
+        "meaning": "أحافظ على غرفتي نظيفة.",
+        "options": [
+          "أحافظ على غرفتي نظيفة.",
+          "أنظف المدرسة.",
+          "أفتح نافذة غرفتي.",
+          "أرتب حقيبتي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 135
+      },
+      {
+        "word": "I study every day.",
+        "meaning": "أنا أذاكر كل يوم.",
+        "options": [
+          "أنا أذاكر كل يوم.",
+          "أنا ألعب كل يوم.",
+          "أنا أنام كل يوم.",
+          "أنا أسافر كل يوم."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 136
+      },
+      {
+        "word": "I eat healthy food.",
+        "meaning": "أنا آكل طعامًا صحيًا.",
+        "options": [
+          "أنا آكل طعامًا صحيًا.",
+          "أنا أشرب ماءً فقط.",
+          "أنا أحب الوجبات السريعة.",
+          "أنا أطبخ كل يوم."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 137
+      },
+      {
+        "word": "I do sports three times a week.",
+        "meaning": "أنا أمارس الرياضة ثلاث مرات في الأسبوع.",
+        "options": [
+          "أنا أمارس الرياضة ثلاث مرات في الأسبوع.",
+          "أنا أمارس الرياضة كل يوم.",
+          "أنا أمارس الرياضة مرة واحدة في الشهر.",
+          "أنا ألعب في المدرسة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 138
+      },
+      {
+        "word": "I am always kind and helpful.",
+        "meaning": "أنا دائمًا لطيف ومتعاون.",
+        "options": [
+          "أنا دائمًا لطيف ومتعاون.",
+          "أنا دائمًا غاضب.",
+          "أنا دائمًا كسول.",
+          "أنا دائمًا صامت."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 139
+      },
+      {
+        "word": "Good habits keep me healthy.",
+        "meaning": "العادات الجيدة تحافظ على صحتي.",
+        "options": [
+          "العادات الجيدة تحافظ على صحتي.",
+          "العادات الجيدة تضيع وقتي.",
+          "العادات الجيدة تجعلني متأخرًا.",
+          "العادات الجيدة تمنعني من الدراسة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 140
+      },
+      {
+        "word": "Kindness means being good and caring to others.",
+        "meaning": "اللطف يعني أن تكون طيبًا ومهتمًا بالآخرين.",
+        "options": [
+          "اللطف يعني أن تكون طيبًا ومهتمًا بالآخرين.",
+          "اللطف يعني أن تكون غنيًا.",
+          "اللطف يعني أن تكون سريعًا.",
+          "اللطف يعني أن تكون مشهورًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 141
+      },
+      {
+        "word": "Kindness makes everyone happy.",
+        "meaning": "اللطف يجعل الجميع سعداء.",
+        "options": [
+          "اللطف يجعل الجميع سعداء.",
+          "اللطف يجعل الجميع متعبين.",
+          "اللطف يجعل الجميع غاضبين.",
+          "اللطف يجعل الجميع متأخرين."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 142
+      },
+      {
+        "word": "We show love, respect and care.",
+        "meaning": "نُظهر الحب والاحترام والاهتمام.",
+        "options": [
+          "نُظهر الحب والاحترام والاهتمام.",
+          "نُظهر الألعاب والهدايا.",
+          "نُظهر الكتب والحقائب.",
+          "نُظهر الطعام والشراب."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 143
+      },
+      {
+        "word": "Kindness builds strong friendship.",
+        "meaning": "اللطف يبني صداقة قوية.",
+        "options": [
+          "اللطف يبني صداقة قوية.",
+          "اللطف يبني مدرسة جديدة.",
+          "اللطف يبني منزلًا كبيرًا.",
+          "اللطف يبني طريقًا طويلًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 144
+      },
+      {
+        "word": "Kindness is free.",
+        "meaning": "اللطف مجاني.",
+        "options": [
+          "اللطف مجاني.",
+          "اللطف غالٍ.",
+          "اللطف صعب.",
+          "اللطف خطير."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 145
+      },
+      {
+        "word": "Spread kindness everywhere.",
+        "meaning": "انشر اللطف في كل مكان.",
+        "options": [
+          "انشر اللطف في كل مكان.",
+          "انشر الكتب في كل مكان.",
+          "انشر الألعاب في كل مكان.",
+          "انشر الملابس في كل مكان."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 146
+      },
+      {
+        "word": "A little kind act can make a difference.",
+        "meaning": "عملٌ لطيف صغير يمكن أن يُحدث فرقًا.",
+        "options": [
+          "عملٌ لطيف صغير يمكن أن يُحدث فرقًا.",
+          "هدية صغيرة يمكن أن تُحدث مشكلة.",
+          "لعبة صغيرة يمكن أن تُنهي اليوم.",
+          "كتاب صغير يمكن أن يُغيّر المدرسة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 147
+      },
+      {
+        "word": "Kindness can change someone's life.",
+        "meaning": "اللطف يمكن أن يغيّر حياة شخص.",
+        "options": [
+          "اللطف يمكن أن يغيّر حياة شخص.",
+          "اللطف يمكن أن يغيّر حقيبة شخص.",
+          "اللطف يمكن أن يغيّر غرفة شخص.",
+          "اللطف يمكن أن يغيّر سيارة شخص."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 148
+      },
+      {
+        "word": "I am kind and helpful every day.",
+        "meaning": "أنا لطيف ومتعاون كل يوم.",
+        "options": [
+          "أنا لطيف ومتعاون كل يوم.",
+          "أنا متعب كل يوم.",
+          "أنا غاضب كل يوم.",
+          "أنا متأخر كل يوم."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 149
+      },
+      {
+        "word": "Good people always respect others.",
+        "meaning": "الأشخاص الطيبون يحترمون الآخرين دائمًا.",
+        "options": [
+          "الأشخاص الطيبون يحترمون الآخرين دائمًا.",
+          "الأشخاص الطيبون يضحكون على الآخرين.",
+          "الأشخاص الطيبون ينسون الآخرين.",
+          "الأشخاص الطيبون يدفعون الآخرين."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 150
+      },
+      {
+        "word": "Kind people help others.",
+        "meaning": "الأشخاص الطيبون يساعدون الآخرين.",
+        "options": [
+          "الأشخاص الطيبون يساعدون الآخرين.",
+          "الأشخاص الطيبون يلعبون الكرة.",
+          "الأشخاص الطيبون يذهبون إلى المدرسة.",
+          "الأشخاص الطيبون يشاهدون التلفاز."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 151
+      },
+      {
+        "word": "Good children share with others.",
+        "meaning": "الأطفال الجيدون يشاركون الآخرين.",
+        "options": [
+          "الأطفال الجيدون يشاركون الآخرين.",
+          "الأطفال الجيدون ينامون مبكرًا.",
+          "الأطفال الجيدون يركضون بسرعة.",
+          "الأطفال الجيدون يأكلون كثيرًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 152
+      },
+      {
+        "word": "Polite people say kind words like please and thank you.",
+        "meaning": "الأشخاص المهذبون يقولون كلمات طيبة مثل من فضلك وشكرًا.",
+        "options": [
+          "الأشخاص المهذبون يقولون كلمات طيبة مثل من فضلك وشكرًا.",
+          "الأشخاص المهذبون يكتبون القصص.",
+          "الأشخاص المهذبون يشاهدون الأفلام.",
+          "الأشخاص المهذبون يقودون السيارات."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 153
+      },
+      {
+        "word": "Honest people always tell the truth.",
+        "meaning": "الأشخاص الصادقون يقولون الحقيقة دائمًا.",
+        "options": [
+          "الأشخاص الصادقون يقولون الحقيقة دائمًا.",
+          "الأشخاص الصادقون يحبون السفر.",
+          "الأشخاص الصادقون يقرأون الكتب.",
+          "الأشخاص الصادقون يلعبون الشطرنج."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 154
+      },
+      {
+        "word": "Good students respect everyone.",
+        "meaning": "الطلاب الجيدون يحترمون الجميع.",
+        "options": [
+          "الطلاب الجيدون يحترمون الجميع.",
+          "الطلاب الجيدون يزورون الحدائق.",
+          "الطلاب الجيدون يشترون الهدايا.",
+          "الطلاب الجيدون يرسمون الصور."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 155
+      },
+      {
+        "word": "Kind people care for others.",
+        "meaning": "الأشخاص الطيبون يهتمون بالآخرين.",
+        "options": [
+          "الأشخاص الطيبون يهتمون بالآخرين.",
+          "الأشخاص الطيبون يغنون الأغاني.",
+          "الأشخاص الطيبون يطبخون الطعام.",
+          "الأشخاص الطيبون يركبون الدراجات."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 156
+      },
+      {
+        "word": "Polite children speak nicely to everyone.",
+        "meaning": "الأطفال المهذبون يتحدثون بلطف مع الجميع.",
+        "options": [
+          "الأطفال المهذبون يتحدثون بلطف مع الجميع.",
+          "الأطفال المهذبون يلعبون في الحديقة.",
+          "الأطفال المهذبون يكتبون الواجب.",
+          "الأطفال المهذبون يذهبون إلى النادي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 157
       }
     ],
     "find_the_vowel": [
@@ -6503,6 +7258,516 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 128
+      },
+      {
+        "question": "I ______ get up early every day.",
+        "correctAnswer": "don't",
+        "arabicReason": "مع الفاعل (I) نستخدم (don't) في النفي.",
+        "englishReason": "We use 'don't' with the subject 'I' in negative sentences.",
+        "options": [
+          "doesn't",
+          "don't",
+          "isn't",
+          "aren't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 129
+      },
+      {
+        "question": "He ______ brush his teeth every morning.",
+        "correctAnswer": "doesn't",
+        "arabicReason": "مع الفاعل المفرد (He) نستخدم (doesn't).",
+        "englishReason": "We use 'doesn't' with the singular subject 'He'.",
+        "options": [
+          "don't",
+          "doesn't",
+          "isn't",
+          "aren't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 130
+      },
+      {
+        "question": "My room ______ clean today.",
+        "correctAnswer": "isn't",
+        "arabicReason": "الغرفة مفرد، لذلك نستخدم (isn't).",
+        "englishReason": "The subject 'My room' is singular, so we use 'isn't'.",
+        "options": [
+          "don't",
+          "aren't",
+          "isn't",
+          "doesn't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 131
+      },
+      {
+        "question": "My friends ______ lazy.",
+        "correctAnswer": "aren't",
+        "arabicReason": "مع الفاعل الجمع نستخدم (aren't).",
+        "englishReason": "We use 'aren't' with plural subjects.",
+        "options": [
+          "isn't",
+          "aren't",
+          "doesn't",
+          "don't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 132
+      },
+      {
+        "question": "She ______ study at night.",
+        "correctAnswer": "doesn't",
+        "arabicReason": "مع (She) نستخدم (doesn't).",
+        "englishReason": "We use 'doesn't' with 'She'.",
+        "options": [
+          "don't",
+          "doesn't",
+          "aren't",
+          "isn't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 133
+      },
+      {
+        "question": "We ______ eat unhealthy food.",
+        "correctAnswer": "don't",
+        "arabicReason": "مع (We) نستخدم (don't).",
+        "englishReason": "We use 'don't' with 'We'.",
+        "options": [
+          "doesn't",
+          "don't",
+          "isn't",
+          "aren't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 134
+      },
+      {
+        "question": "The boys ______ helpful.",
+        "correctAnswer": "aren't",
+        "arabicReason": "الفاعل جمع، لذلك نستخدم (aren't).",
+        "englishReason": "The subject is plural, so we use 'aren't'.",
+        "options": [
+          "aren't",
+          "isn't",
+          "doesn't",
+          "don't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 135
+      },
+      {
+        "question": "My sister ______ kind to everyone.",
+        "correctAnswer": "isn't",
+        "arabicReason": "مع الفاعل المفرد (My sister) نستخدم (isn't).",
+        "englishReason": "We use 'isn't' with the singular subject 'My sister'.",
+        "options": [
+          "aren't",
+          "isn't",
+          "don't",
+          "doesn't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 136
+      },
+      {
+        "question": "They ______ play sports every week.",
+        "correctAnswer": "don't",
+        "arabicReason": "مع (They) نستخدم (don't).",
+        "englishReason": "We use 'don't' with 'They'.",
+        "options": [
+          "doesn't",
+          "don't",
+          "aren't",
+          "isn't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 137
+      },
+      {
+        "question": "Ali ______ keep his room clean.",
+        "correctAnswer": "doesn't",
+        "arabicReason": "Ali اسم مفرد، لذلك نستخدم (doesn't).",
+        "englishReason": "Ali is singular, so we use 'doesn't'.",
+        "options": [
+          "don't",
+          "doesn't",
+          "isn't",
+          "aren't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 138
+      },
+      {
+        "question": "Healthy food ______ bad.",
+        "correctAnswer": "isn't",
+        "arabicReason": "الفاعل مفرد، لذلك نستخدم (isn't).",
+        "englishReason": "The subject is singular, so we use 'isn't'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "don't",
+          "doesn't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 139
+      },
+      {
+        "question": "The children ______ tired.",
+        "correctAnswer": "aren't",
+        "arabicReason": "الأطفال جمع، لذلك نستخدم (aren't).",
+        "englishReason": "Children is plural, so we use 'aren't'.",
+        "options": [
+          "aren't",
+          "isn't",
+          "doesn't",
+          "don't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 140
+      },
+      {
+        "question": "My father ______ get up late.",
+        "correctAnswer": "doesn't",
+        "arabicReason": "مع الفاعل المفرد نستخدم (doesn't).",
+        "englishReason": "We use 'doesn't' with singular subjects.",
+        "options": [
+          "doesn't",
+          "don't",
+          "aren't",
+          "isn't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 141
+      },
+      {
+        "question": "You ______ forget your homework.",
+        "correctAnswer": "don't",
+        "arabicReason": "مع (You) نستخدم (don't).",
+        "englishReason": "We use 'don't' with 'You'.",
+        "options": [
+          "doesn't",
+          "don't",
+          "aren't",
+          "isn't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 142
+      },
+      {
+        "question": "Good habits ______ bad.",
+        "correctAnswer": "aren't",
+        "arabicReason": "Good habits جمع، لذلك نستخدم (aren't).",
+        "englishReason": "Good habits is plural, so we use 'aren't'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "don't",
+          "doesn't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 143
+      },
+      {
+        "question": "Kindness ______ important.",
+        "correctAnswer": "is",
+        "arabicReason": "Kindness اسم مفرد، لذلك نستخدم (is).",
+        "englishReason": "Kindness is singular, so we use 'is'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "do"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 144
+      },
+      {
+        "question": "Good habits ______ useful.",
+        "correctAnswer": "are",
+        "arabicReason": "Good habits جمع، لذلك نستخدم (are).",
+        "englishReason": "Good habits is plural, so we use 'are'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "does"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 145
+      },
+      {
+        "question": "I ______ kind to everyone.",
+        "correctAnswer": "am",
+        "arabicReason": "مع (I) نستخدم (am).",
+        "englishReason": "We use 'am' with 'I'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "do"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 146
+      },
+      {
+        "question": "She ______ respect everyone.",
+        "correctAnswer": "does",
+        "arabicReason": "مع الفاعل المفرد نستخدم (does) في السؤال.",
+        "englishReason": "We use 'does' with singular subjects in questions.",
+        "options": [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 147
+      },
+      {
+        "question": "They ______ help others.",
+        "correctAnswer": "do",
+        "arabicReason": "مع الفاعل الجمع نستخدم (do).",
+        "englishReason": "We use 'do' with plural subjects.",
+        "options": [
+          "do",
+          "does",
+          "am",
+          "is"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 148
+      },
+      {
+        "question": "______ do kind people help?",
+        "correctAnswer": "Who",
+        "arabicReason": "نسأل عن الأشخاص باستخدام (Who).",
+        "englishReason": "We use 'Who' to ask about people.",
+        "options": [
+          "Who",
+          "When",
+          "Where",
+          "What"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 149
+      },
+      {
+        "question": "______ do you say \"thank you\"?",
+        "correctAnswer": "When",
+        "arabicReason": "نسأل عن الوقت باستخدام (When).",
+        "englishReason": "We use 'When' to ask about time.",
+        "options": [
+          "Where",
+          "When",
+          "What",
+          "Who"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 150
+      },
+      {
+        "question": "______ do you help others?",
+        "correctAnswer": "How",
+        "arabicReason": "نسأل عن المكان باستخدام (Where).",
+        "englishReason": "We use 'Where' to ask about place.",
+        "options": [
+          "What",
+          "How",
+          "Where",
+          "When"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 151
+      },
+      {
+        "question": "______ do kind people show?",
+        "correctAnswer": "What",
+        "arabicReason": "نسأل عن الشيء باستخدام (What).",
+        "englishReason": "We use 'What' to ask about things.",
+        "options": [
+          "What",
+          "When",
+          "Where",
+          "Who"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 152
+      },
+      {
+        "question": "______ she help her friends?",
+        "correctAnswer": "Does",
+        "arabicReason": "مع (She) نستخدم (Does) في السؤال.",
+        "englishReason": "We use 'Does' with 'She' in questions.",
+        "options": [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 153
+      },
+      {
+        "question": "______ they share with others?",
+        "correctAnswer": "Do",
+        "arabicReason": "مع (They) نستخدم (Do) في السؤال.",
+        "englishReason": "We use 'Do' with 'They' in questions.",
+        "options": [
+          "Does",
+          "Do",
+          "Is",
+          "Am"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 154
+      },
+      {
+        "question": "My friends ______ honest.",
+        "correctAnswer": "are",
+        "arabicReason": "My friends جمع، لذلك نستخدم (are).",
+        "englishReason": "My friends is plural, so we use 'are'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "does"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 155
+      },
+      {
+        "question": "My brother ______ polite.",
+        "correctAnswer": "is",
+        "arabicReason": "My brother مفرد، لذلك نستخدم (is).",
+        "englishReason": "My brother is singular, so we use 'is'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "do"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 156
+      },
+      {
+        "question": "______ you kind to others?",
+        "correctAnswer": "Are",
+        "arabicReason": "مع (You) وفعل الكينونة نستخدم (Are).",
+        "englishReason": "We use 'Are' with 'you'.",
+        "options": [
+          "Am",
+          "Is",
+          "Are",
+          "Do"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 157
+      },
+      {
+        "question": "______ we help our friends every day?",
+        "correctAnswer": "Do",
+        "arabicReason": "مع (We) نستخدم (Do) في السؤال.",
+        "englishReason": "We use 'Do' with 'We' in questions.",
+        "options": [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 158
       }
     ],
     "justtalk": [
@@ -7354,6 +8619,132 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 40
+      },
+      {
+        "sentences": [
+          {
+            "text": "I always get up early.",
+            "target": "I always get up early."
+          },
+          {
+            "text": "It helps me start my day fresh.",
+            "target": "It helps me start my day fresh."
+          },
+          {
+            "text": "I brush my teeth every morning.",
+            "target": "I brush my teeth every morning."
+          }
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 41
+      },
+      {
+        "sentences": [
+          {
+            "text": "I keep my room clean.",
+            "target": "I keep my room clean."
+          },
+          {
+            "text": "I study every day.",
+            "target": "I study every day."
+          },
+          {
+            "text": "I eat healthy food.",
+            "target": "I eat healthy food."
+          }
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 42
+      },
+      {
+        "sentences": [
+          {
+            "text": "I do sports three times a week.",
+            "target": "I do sports three times a week."
+          },
+          {
+            "text": "I am always kind and helpful.",
+            "target": "I am always kind and helpful."
+          },
+          {
+            "text": "Good habits keep me healthy.",
+            "target": "Good habits keep me healthy."
+          }
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 43
+      },
+      {
+        "sentences": [
+          {
+            "text": "Kind people help others.",
+            "target": "Kind people help others."
+          },
+          {
+            "text": "Good children share with others.",
+            "target": "Good children share with others."
+          },
+          {
+            "text": "Kindness makes everyone happy.",
+            "target": "Kindness makes everyone happy."
+          }
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 44
+      },
+      {
+        "sentences": [
+          {
+            "text": "We show love, respect and care.",
+            "target": "We show love, respect and care."
+          },
+          {
+            "text": "Kindness builds strong friendship.",
+            "target": "Kindness builds strong friendship."
+          },
+          {
+            "text": "Spread kindness everywhere.",
+            "target": "Spread kindness everywhere."
+          }
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 45
+      },
+      {
+        "sentences": [
+          {
+            "text": "Honest people always tell the truth.",
+            "target": "Honest people always tell the truth."
+          },
+          {
+            "text": "Good students respect everyone.",
+            "target": "Good students respect everyone."
+          },
+          {
+            "text": "Polite children speak nicely to everyone.",
+            "target": "Polite children speak nicely to everyone."
+          }
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 46
       }
     ],
     "Matching": [
@@ -9045,6 +10436,206 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 164
+      },
+      {
+        "sentence": "i always get up early",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + ظرف التكرار + الفعل + الحال.",
+        "englishReason": "The correct order is: subject + adverb of frequency + verb + adverb.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 165
+      },
+      {
+        "sentence": "it helps me start my day fresh",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول + الفعل + المفعول + الصفة.",
+        "englishReason": "The correct order is: subject + verb + object + verb + object + adjective.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 166
+      },
+      {
+        "sentence": "i brush my teeth every morning",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + الملكية + المفعول + ظرف الزمان.",
+        "englishReason": "The correct order is: subject + verb + possessive + object + time expression.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 167
+      },
+      {
+        "sentence": "it keeps me healthy",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول + الصفة.",
+        "englishReason": "The correct order is: subject + verb + object + adjective.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 168
+      },
+      {
+        "sentence": "i keep my room clean",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + الملكية + المفعول + الصفة.",
+        "englishReason": "The correct order is: subject + verb + possessive + object + adjective.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 169
+      },
+      {
+        "sentence": "i study every day",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + ظرف الزمان.",
+        "englishReason": "The correct order is: subject + verb + time expression.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 170
+      },
+      {
+        "sentence": "i eat healthy food",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + الصفة + المفعول.",
+        "englishReason": "The correct order is: subject + verb + adjective + object.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 171
+      },
+      {
+        "sentence": "i do sports three times a week",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول + ظرف التكرار.",
+        "englishReason": "The correct order is: subject + verb + object + frequency expression.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 172
+      },
+      {
+        "sentence": "i am always kind and helpful",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + ظرف التكرار + الصفة.",
+        "englishReason": "The correct order is: subject + verb to be + adverb of frequency + adjectives.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 173
+      },
+      {
+        "sentence": "good habits keep me healthy",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول + الصفة.",
+        "englishReason": "The correct order is: subject + verb + object + adjective.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 174
+      },
+      {
+        "sentence": "kindness means being good and caring to others",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + الخبر.",
+        "englishReason": "The correct order is: subject + verb + complement.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 175
+      },
+      {
+        "sentence": "kindness makes everyone happy",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول به + الصفة.",
+        "englishReason": "The correct order is: subject + verb + object + adjective.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 176
+      },
+      {
+        "sentence": "we show love respect and care",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعولات.",
+        "englishReason": "The correct order is: subject + verb + objects.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 177
+      },
+      {
+        "sentence": "kindness builds strong friendship",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + الصفة + المفعول به.",
+        "englishReason": "The correct order is: subject + verb + adjective + object.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 178
+      },
+      {
+        "sentence": "kindness is free",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الخبر.",
+        "englishReason": "The correct order is: subject + verb to be + complement.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 179
+      },
+      {
+        "sentence": "spread kindness everywhere",
+        "arabicReason": "الترتيب الصحيح هو: فعل الأمر + المفعول به + ظرف المكان.",
+        "englishReason": "The correct order is: imperative verb + object + place adverb.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 180
+      },
+      {
+        "sentence": "a little kind act can make a difference",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل المساعد + الفعل + المفعول به.",
+        "englishReason": "The correct order is: subject + modal + verb + object.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 181
+      },
+      {
+        "sentence": "kindness can change someones life",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل المساعد + الفعل + المفعول به.",
+        "englishReason": "The correct order is: subject + modal + verb + object.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 182
+      },
+      {
+        "sentence": "tell me about kind actions you do every day",
+        "arabicReason": "الترتيب الصحيح هو: فعل الأمر + المفعول به + شبه الجملة.",
+        "englishReason": "The correct order is: imperative verb + object + prepositional phrase.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 183
+      },
+      {
+        "sentence": "kindness is good for everyone",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الخبر.",
+        "englishReason": "The correct order is: subject + verb to be + complement.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 184
       }
     ],
     "rewrite": [
@@ -10222,6 +11813,186 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 97
+      },
+      {
+        "sentence": "He gets up early.",
+        "targetWord": "DOES",
+        "correctAnswer": "Does he get up early?",
+        "arabicReason": "عند استخدام (DOES) نحول الجملة إلى سؤال ويعود الفعل إلى صورته الأساسية (get).",
+        "englishReason": "With 'DOES', we form a question and the verb returns to its base form (get).",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 98
+      },
+      {
+        "sentence": "She brushes her teeth every morning.",
+        "targetWord": "DOES",
+        "correctAnswer": "Does she brush her teeth every morning?",
+        "arabicReason": "مع (DOES) نستخدم الفعل الأساسي (brush).",
+        "englishReason": "With 'DOES', we use the base verb (brush).",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 99
+      },
+      {
+        "sentence": "They study every day.",
+        "targetWord": "DO",
+        "correctAnswer": "Do they study every day?",
+        "arabicReason": "مع الفاعل الجمع نستخدم (DO) لتكوين السؤال.",
+        "englishReason": "We use 'DO' with plural subjects to form questions.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 100
+      },
+      {
+        "sentence": "We eat healthy food.",
+        "targetWord": "DO",
+        "correctAnswer": "Do we eat healthy food?",
+        "arabicReason": "نبدأ السؤال بـ (Do) مع الفاعل (We).",
+        "englishReason": "We begin the question with 'Do' for the subject 'We'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 101
+      },
+      {
+        "sentence": "My room is clean.",
+        "targetWord": "IS",
+        "correctAnswer": "Is my room clean?",
+        "arabicReason": "مع (IS) نحول الجملة إلى سؤال بوضع Is في البداية.",
+        "englishReason": "With 'IS', we form a question by placing 'Is' at the beginning.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 102
+      },
+      {
+        "sentence": "The boys are helpful.",
+        "targetWord": "ARE",
+        "correctAnswer": "Are the boys helpful?",
+        "arabicReason": "مع (ARE) نبدأ السؤال بالفعل المساعد Are.",
+        "englishReason": "With 'ARE', we begin the question with 'Are'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 103
+      },
+      {
+        "sentence": "Good habits are important.",
+        "targetWord": "ARE",
+        "correctAnswer": "Are good habits important?",
+        "arabicReason": "نستخدم (Are) لأن الفاعل جمع.",
+        "englishReason": "We use 'Are' because the subject is plural.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 104
+      },
+      {
+        "sentence": "Your brother keeps his room clean.",
+        "targetWord": "DOES",
+        "correctAnswer": "Does your brother keep his room clean?",
+        "arabicReason": "مع (DOES) يعود الفعل من (keeps) إلى (keep).",
+        "englishReason": "With 'DOES', the verb changes from 'keeps' to 'keep'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 105
+      },
+      {
+        "sentence": "You do sports every week.",
+        "targetWord": "DO",
+        "correctAnswer": "Do you do sports every week?",
+        "arabicReason": "نستخدم (Do) مع الفاعل (you).",
+        "englishReason": "We use 'Do' with the subject 'you'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 106
+      },
+      {
+        "sentence": "She is kind and helpful.",
+        "targetWord": "IS",
+        "correctAnswer": "Is she kind and helpful?",
+        "arabicReason": "مع (IS) نضع الفعل المساعد في بداية الجملة لتكوين السؤال.",
+        "englishReason": "With 'IS', we move the helping verb to the beginning to form a question.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 107
+      },
+      {
+        "sentence": "She helps others.",
+        "targetWord": "He",
+        "correctAnswer": "He helps others.",
+        "arabicReason": "غيّرنا الفاعل إلى (He)، ويبقى الفعل (helps) لأنه مفرد.",
+        "englishReason": "We changed the subject to 'He', so the verb stays 'helps' because it is singular.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 108
+      },
+      {
+        "sentence": "They respect everyone.",
+        "targetWord": "She",
+        "correctAnswer": "She respects everyone.",
+        "arabicReason": "مع (She) نضيف (s) إلى الفعل في المضارع البسيط.",
+        "englishReason": "With 'She', we add 's' to the verb in the simple present.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 109
+      },
+      {
+        "sentence": "He shares with others.",
+        "targetWord": "They",
+        "correctAnswer": "They share with others.",
+        "arabicReason": "مع (They) نستخدم الفعل في صورته الأساسية (share).",
+        "englishReason": "With 'They', we use the base form of the verb (share).",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 110
+      },
+      {
+        "sentence": "We show love and care.",
+        "targetWord": "She",
+        "correctAnswer": "She shows love and care.",
+        "arabicReason": "مع (She) يصبح الفعل (shows).",
+        "englishReason": "With 'She', the verb changes to 'shows'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 111
+      },
+      {
+        "sentence": "Kind people build strong friendship.",
+        "targetWord": "Kindness",
+        "correctAnswer": "Kindness builds strong friendship.",
+        "arabicReason": "غيّرنا الفاعل إلى المفرد (Kindness)، لذلك يصبح الفعل (builds).",
+        "englishReason": "We changed the subject to the singular 'Kindness', so the verb becomes 'builds'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 112
       }
     ],
     "Scramble": [
@@ -12385,6 +14156,326 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 270
+      },
+      {
+        "word": "good",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 271
+      },
+      {
+        "word": "habits",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 272
+      },
+      {
+        "word": "always",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 273
+      },
+      {
+        "word": "early",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 274
+      },
+      {
+        "word": "helps",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 275
+      },
+      {
+        "word": "fresh",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 276
+      },
+      {
+        "word": "brush",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 277
+      },
+      {
+        "word": "teeth",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 278
+      },
+      {
+        "word": "healthy",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 279
+      },
+      {
+        "word": "keep",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 280
+      },
+      {
+        "word": "room",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 281
+      },
+      {
+        "word": "clean",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 282
+      },
+      {
+        "word": "study",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 283
+      },
+      {
+        "word": "food",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 284
+      },
+      {
+        "word": "sports",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 285
+      },
+      {
+        "word": "week",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 286
+      },
+      {
+        "word": "kind",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 287
+      },
+      {
+        "word": "helpful",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 288
+      },
+      {
+        "word": "day",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 289
+      },
+      {
+        "word": "eat",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 290
+      },
+      {
+        "word": "kindness",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 291
+      },
+      {
+        "word": "means",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 292
+      },
+      {
+        "word": "good",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 293
+      },
+      {
+        "word": "caring",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 294
+      },
+      {
+        "word": "others",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 295
+      },
+      {
+        "word": "happy",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 296
+      },
+      {
+        "word": "show",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 297
+      },
+      {
+        "word": "love",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 298
+      },
+      {
+        "word": "respect",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 299
+      },
+      {
+        "word": "care",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 300
+      },
+      {
+        "word": "builds",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 301
+      },
+      {
+        "word": "strong",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 302
+      },
+      {
+        "word": "friendship",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 303
+      },
+      {
+        "word": "free",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 304
+      },
+      {
+        "word": "spread",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 305
+      },
+      {
+        "word": "everywhere",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 306
+      },
+      {
+        "word": "little",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 307
+      },
+      {
+        "word": "difference",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 308
+      },
+      {
+        "word": "life",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 309
+      },
+      {
+        "word": "action",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 310
       }
     ],
     "sequence": [
@@ -14856,6 +16947,326 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 268
+      },
+      {
+        "word": "good",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 269
+      },
+      {
+        "word": "habits",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 270
+      },
+      {
+        "word": "always",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 271
+      },
+      {
+        "word": "early",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 272
+      },
+      {
+        "word": "helps",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 273
+      },
+      {
+        "word": "fresh",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 274
+      },
+      {
+        "word": "brush",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 275
+      },
+      {
+        "word": "teeth",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 276
+      },
+      {
+        "word": "healthy",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 277
+      },
+      {
+        "word": "keep",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 278
+      },
+      {
+        "word": "room",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 279
+      },
+      {
+        "word": "clean",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 280
+      },
+      {
+        "word": "study",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 281
+      },
+      {
+        "word": "food",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 282
+      },
+      {
+        "word": "sports",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 283
+      },
+      {
+        "word": "week",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 284
+      },
+      {
+        "word": "kind",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 285
+      },
+      {
+        "word": "helpful",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 286
+      },
+      {
+        "word": "day",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 287
+      },
+      {
+        "word": "eat",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 288
+      },
+      {
+        "word": "kindness",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 289
+      },
+      {
+        "word": "means",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 290
+      },
+      {
+        "word": "good",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 291
+      },
+      {
+        "word": "caring",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 292
+      },
+      {
+        "word": "others",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 293
+      },
+      {
+        "word": "happy",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 294
+      },
+      {
+        "word": "show",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 295
+      },
+      {
+        "word": "love",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 296
+      },
+      {
+        "word": "respect",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 297
+      },
+      {
+        "word": "care",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 298
+      },
+      {
+        "word": "builds",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 299
+      },
+      {
+        "word": "strong",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 300
+      },
+      {
+        "word": "friendship",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 301
+      },
+      {
+        "word": "free",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 302
+      },
+      {
+        "word": "spread",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 303
+      },
+      {
+        "word": "everywhere",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 304
+      },
+      {
+        "word": "little",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 305
+      },
+      {
+        "word": "difference",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 306
+      },
+      {
+        "word": "life",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 307
+      },
+      {
+        "word": "action",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 308
       }
     ],
     "Underline": [
@@ -15803,6 +18214,308 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 76
+      },
+      {
+        "sentence": "I always get up early.",
+        "instruction": "Underline the subject:",
+        "correctWords": [
+          "I"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 77
+      },
+      {
+        "sentence": "I brush my teeth every morning.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "brush"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 78
+      },
+      {
+        "sentence": "It helps me start my day fresh.",
+        "instruction": "Underline the subject:",
+        "correctWords": [
+          "It"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 79
+      },
+      {
+        "sentence": "I keep my room clean.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "keep"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 80
+      },
+      {
+        "sentence": "I study every day.",
+        "instruction": "Underline the subject:",
+        "correctWords": [
+          "I"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 81
+      },
+      {
+        "sentence": "I eat healthy food.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "eat"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 82
+      },
+      {
+        "sentence": "I do sports three times a week.",
+        "instruction": "Underline the subject:",
+        "correctWords": [
+          "I"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 83
+      },
+      {
+        "sentence": "I am always kind and helpful.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "am"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 84
+      },
+      {
+        "sentence": "Good habits keep me healthy.",
+        "instruction": "Underline the subject:",
+        "correctWords": [
+          "Good habits"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 85
+      },
+      {
+        "sentence": "Good habits keep me healthy.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "keep"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 86
+      },
+      {
+        "sentence": "Kindness means being good and caring to others.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "means"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 87
+      },
+      {
+        "sentence": "Kindness makes everyone happy.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "makes"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 88
+      },
+      {
+        "sentence": "We show love, respect and care.",
+        "instruction": "Underline the pronoun:",
+        "correctWords": [
+          "We"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 89
+      },
+      {
+        "sentence": "Kindness builds strong friendship.",
+        "instruction": "Underline the adjective:",
+        "correctWords": [
+          "strong"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 90
+      },
+      {
+        "sentence": "Kindness is free.",
+        "instruction": "Underline the adjective:",
+        "correctWords": [
+          "free"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 91
+      },
+      {
+        "sentence": "Spread kindness everywhere.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "Spread"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 92
+      },
+      {
+        "sentence": "A little kind act can make a difference.",
+        "instruction": "Underline the adjectives:",
+        "correctWords": [
+          "little",
+          "kind"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 93
+      },
+      {
+        "sentence": "Kindness can change someone's life.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "change"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 94
+      },
+      {
+        "sentence": "Tell me about kind actions you do every day.",
+        "instruction": "Underline the pronouns:",
+        "correctWords": [
+          "me",
+          "you"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 95
+      },
+      {
+        "sentence": "Kind people help others.",
+        "instruction": "Underline the adjective:",
+        "correctWords": [
+          "Kind"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 96
+      },
+      {
+        "sentence": "Good children share with others.",
+        "instruction": "Underline the adjective:",
+        "correctWords": [
+          "Good"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 97
+      },
+      {
+        "sentence": "Honest people always tell the truth.",
+        "instruction": "Underline the adjective:",
+        "correctWords": [
+          "Honest"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 98
+      },
+      {
+        "sentence": "Good students respect everyone.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "respect"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 99
+      },
+      {
+        "sentence": "Polite children speak nicely to everyone.",
+        "instruction": "Underline the adjective:",
+        "correctWords": [
+          "Polite"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 100
+      },
+      {
+        "sentence": "I am kind and helpful.",
+        "instruction": "Underline the pronoun:",
+        "correctWords": [
+          "I"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 101
       }
     ],
     "vocab_listening_quiz": [
@@ -20753,6 +23466,686 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 291
+      },
+      {
+        "word": "good habits",
+        "meaning": "عادات جيدة",
+        "options": [
+          "عادات جيدة",
+          "طعام صحي",
+          "غرفة نظيفة",
+          "رياضة"
+        ],
+        "arabicReason": "الكلمة تعني 'عادات جيدة' وهي الأشياء التي نفعلها للحفاظ على صحتنا.",
+        "englishReason": "The phrase means 'good habits' - healthy things we do every day.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 292
+      },
+      {
+        "word": "always",
+        "meaning": "دائمًا",
+        "options": [
+          "دائمًا",
+          "أحيانًا",
+          "أبدًا",
+          "غدًا"
+        ],
+        "arabicReason": "الكلمة تعني 'دائمًا'.",
+        "englishReason": "The word means 'always'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 293
+      },
+      {
+        "word": "get up",
+        "meaning": "يستيقظ",
+        "options": [
+          "يستيقظ",
+          "ينام",
+          "يجلس",
+          "يجري"
+        ],
+        "arabicReason": "الكلمة تعني 'يستيقظ'.",
+        "englishReason": "The phrase means 'get up'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 294
+      },
+      {
+        "word": "early",
+        "meaning": "مبكرًا",
+        "options": [
+          "مبكرًا",
+          "متأخرًا",
+          "بسرعة",
+          "ببطء"
+        ],
+        "arabicReason": "الكلمة تعني 'مبكرًا'.",
+        "englishReason": "The word means 'early'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 295
+      },
+      {
+        "word": "helps",
+        "meaning": "يساعد",
+        "options": [
+          "يساعد",
+          "يلعب",
+          "يكتب",
+          "ينام"
+        ],
+        "arabicReason": "الكلمة تعني 'يساعد'.",
+        "englishReason": "The word means 'helps'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 296
+      },
+      {
+        "word": "fresh",
+        "meaning": "نشيط",
+        "options": [
+          "نشيط",
+          "متعب",
+          "جائع",
+          "حزين"
+        ],
+        "arabicReason": "الكلمة تعني 'نشيط' أو 'منتعش'.",
+        "englishReason": "The word means 'fresh' or 'energetic'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 297
+      },
+      {
+        "word": "brush",
+        "meaning": "يفرش",
+        "options": [
+          "يفرش",
+          "يغسل",
+          "يأكل",
+          "يشرب"
+        ],
+        "arabicReason": "الكلمة تعني 'يفرش' مثل تنظيف الأسنان.",
+        "englishReason": "The word means 'brush', as in brushing your teeth.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 298
+      },
+      {
+        "word": "teeth",
+        "meaning": "أسنان",
+        "options": [
+          "أسنان",
+          "يدان",
+          "عينان",
+          "قدمان"
+        ],
+        "arabicReason": "الكلمة تعني 'أسنان'.",
+        "englishReason": "The word means 'teeth'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 299
+      },
+      {
+        "word": "healthy",
+        "meaning": "صحي",
+        "options": [
+          "صحي",
+          "مريض",
+          "طويل",
+          "قصير"
+        ],
+        "arabicReason": "الكلمة تعني 'صحي'.",
+        "englishReason": "The word means 'healthy'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 300
+      },
+      {
+        "word": "keep",
+        "meaning": "يحافظ على",
+        "options": [
+          "يحافظ على",
+          "يفتح",
+          "يغلق",
+          "يبيع"
+        ],
+        "arabicReason": "الكلمة تعني 'يحافظ على'.",
+        "englishReason": "The word means 'keep'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 301
+      },
+      {
+        "word": "room",
+        "meaning": "غرفة",
+        "options": [
+          "غرفة",
+          "مدرسة",
+          "حديقة",
+          "سيارة"
+        ],
+        "arabicReason": "الكلمة تعني 'غرفة'.",
+        "englishReason": "The word means 'room'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 302
+      },
+      {
+        "word": "clean",
+        "meaning": "نظيف",
+        "options": [
+          "نظيف",
+          "متسخ",
+          "جديد",
+          "قديم"
+        ],
+        "arabicReason": "الكلمة تعني 'نظيف'.",
+        "englishReason": "The word means 'clean'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 303
+      },
+      {
+        "word": "study",
+        "meaning": "يذاكر",
+        "options": [
+          "يذاكر",
+          "يلعب",
+          "ينام",
+          "يسافر"
+        ],
+        "arabicReason": "الكلمة تعني 'يذاكر'.",
+        "englishReason": "The word means 'study'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 304
+      },
+      {
+        "word": "food",
+        "meaning": "طعام",
+        "options": [
+          "طعام",
+          "ماء",
+          "رياضة",
+          "كتاب"
+        ],
+        "arabicReason": "الكلمة تعني 'طعام'.",
+        "englishReason": "The word means 'food'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 305
+      },
+      {
+        "word": "sports",
+        "meaning": "رياضة",
+        "options": [
+          "رياضة",
+          "مدرسة",
+          "غرفة",
+          "سيارة"
+        ],
+        "arabicReason": "الكلمة تعني 'رياضة'.",
+        "englishReason": "The word means 'sports'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 306
+      },
+      {
+        "word": "week",
+        "meaning": "أسبوع",
+        "options": [
+          "أسبوع",
+          "شهر",
+          "يوم",
+          "ساعة"
+        ],
+        "arabicReason": "الكلمة تعني 'أسبوع'.",
+        "englishReason": "The word means 'week'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 307
+      },
+      {
+        "word": "kind",
+        "meaning": "لطيف",
+        "options": [
+          "لطيف",
+          "غاضب",
+          "كسول",
+          "سريع"
+        ],
+        "arabicReason": "الكلمة تعني 'لطيف'.",
+        "englishReason": "The word means 'kind'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 308
+      },
+      {
+        "word": "helpful",
+        "meaning": "متعاون",
+        "options": [
+          "متعاون",
+          "أناني",
+          "هادئ",
+          "مشغول"
+        ],
+        "arabicReason": "الكلمة تعني 'متعاون'.",
+        "englishReason": "The word means 'helpful'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 309
+      },
+      {
+        "word": "day",
+        "meaning": "يوم",
+        "options": [
+          "يوم",
+          "أسبوع",
+          "شهر",
+          "سنة"
+        ],
+        "arabicReason": "الكلمة تعني 'يوم'.",
+        "englishReason": "The word means 'day'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 310
+      },
+      {
+        "word": "eat",
+        "meaning": "يأكل",
+        "options": [
+          "يأكل",
+          "يشرب",
+          "ينام",
+          "يلعب"
+        ],
+        "arabicReason": "الكلمة تعني 'يأكل'.",
+        "englishReason": "The word means 'eat'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 311
+      },
+      {
+        "word": "kindness",
+        "meaning": "اللطف",
+        "options": [
+          "اللطف",
+          "القوة",
+          "الصداقة",
+          "النجاح"
+        ],
+        "arabicReason": "الكلمة تعني 'اللطف' وهو معاملة الآخرين بطريقة جيدة.",
+        "englishReason": "The word means 'kindness' - being nice and caring to others.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 312
+      },
+      {
+        "word": "means",
+        "meaning": "يعني",
+        "options": [
+          "يعني",
+          "يبني",
+          "ينشر",
+          "يساعد"
+        ],
+        "arabicReason": "الكلمة تعني 'يعني'.",
+        "englishReason": "The word means 'means'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 313
+      },
+      {
+        "word": "good",
+        "meaning": "جيد",
+        "options": [
+          "جيد",
+          "سيئ",
+          "قصير",
+          "ضعيف"
+        ],
+        "arabicReason": "الكلمة تعني 'جيد'.",
+        "englishReason": "The word means 'good'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 314
+      },
+      {
+        "word": "caring",
+        "meaning": "عطوف",
+        "options": [
+          "عطوف",
+          "غاضب",
+          "كسول",
+          "سريع"
+        ],
+        "arabicReason": "الكلمة تعني 'عطوف' أو 'مهتم بالآخرين'.",
+        "englishReason": "The word means 'caring' - showing kindness to others.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 315
+      },
+      {
+        "word": "others",
+        "meaning": "الآخرون",
+        "options": [
+          "الآخرون",
+          "الأطفال",
+          "الأصدقاء",
+          "المعلمون"
+        ],
+        "arabicReason": "الكلمة تعني 'الآخرون'.",
+        "englishReason": "The word means 'others'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 316
+      },
+      {
+        "word": "happy",
+        "meaning": "سعيد",
+        "options": [
+          "سعيد",
+          "حزين",
+          "متعب",
+          "جائع"
+        ],
+        "arabicReason": "الكلمة تعني 'سعيد'.",
+        "englishReason": "The word means 'happy'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 317
+      },
+      {
+        "word": "show",
+        "meaning": "يُظهر",
+        "options": [
+          "يُظهر",
+          "يخفي",
+          "ينام",
+          "يجري"
+        ],
+        "arabicReason": "الكلمة تعني 'يُظهر'.",
+        "englishReason": "The word means 'show'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 318
+      },
+      {
+        "word": "love",
+        "meaning": "الحب",
+        "options": [
+          "الحب",
+          "الخوف",
+          "الغضب",
+          "الملل"
+        ],
+        "arabicReason": "الكلمة تعني 'الحب'.",
+        "englishReason": "The word means 'love'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 319
+      },
+      {
+        "word": "respect",
+        "meaning": "الاحترام",
+        "options": [
+          "الاحترام",
+          "الكراهية",
+          "الكسل",
+          "الضحك"
+        ],
+        "arabicReason": "الكلمة تعني 'الاحترام'.",
+        "englishReason": "The word means 'respect'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 320
+      },
+      {
+        "word": "care",
+        "meaning": "الاهتمام",
+        "options": [
+          "الاهتمام",
+          "الإهمال",
+          "النجاح",
+          "الرياضة"
+        ],
+        "arabicReason": "الكلمة تعني 'الاهتمام'.",
+        "englishReason": "The word means 'care'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 321
+      },
+      {
+        "word": "builds",
+        "meaning": "يبني",
+        "options": [
+          "يبني",
+          "يهدم",
+          "يكتب",
+          "يلعب"
+        ],
+        "arabicReason": "الكلمة تعني 'يبني'.",
+        "englishReason": "The word means 'builds'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 322
+      },
+      {
+        "word": "strong",
+        "meaning": "قوي",
+        "options": [
+          "قوي",
+          "ضعيف",
+          "قصير",
+          "هادئ"
+        ],
+        "arabicReason": "الكلمة تعني 'قوي'.",
+        "englishReason": "The word means 'strong'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 323
+      },
+      {
+        "word": "friendship",
+        "meaning": "الصداقة",
+        "options": [
+          "الصداقة",
+          "المدرسة",
+          "العائلة",
+          "الرياضة"
+        ],
+        "arabicReason": "الكلمة تعني 'الصداقة'.",
+        "englishReason": "The word means 'friendship'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 324
+      },
+      {
+        "word": "free",
+        "meaning": "مجاني",
+        "options": [
+          "مجاني",
+          "غالي",
+          "سريع",
+          "قديم"
+        ],
+        "arabicReason": "الكلمة تعني 'مجاني'.",
+        "englishReason": "The word means 'free'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 325
+      },
+      {
+        "word": "spread",
+        "meaning": "ينشر",
+        "options": [
+          "ينشر",
+          "يجمع",
+          "يشتري",
+          "يغلق"
+        ],
+        "arabicReason": "الكلمة تعني 'ينشر'.",
+        "englishReason": "The word means 'spread'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 326
+      },
+      {
+        "word": "everywhere",
+        "meaning": "في كل مكان",
+        "options": [
+          "في كل مكان",
+          "في المنزل",
+          "في المدرسة",
+          "في الحديقة"
+        ],
+        "arabicReason": "الكلمة تعني 'في كل مكان'.",
+        "englishReason": "The word means 'everywhere'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 327
+      },
+      {
+        "word": "little",
+        "meaning": "صغير",
+        "options": [
+          "صغير",
+          "كبير",
+          "طويل",
+          "قصير"
+        ],
+        "arabicReason": "الكلمة تعني 'صغير'.",
+        "englishReason": "The word means 'little'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 328
+      },
+      {
+        "word": "difference",
+        "meaning": "فرق",
+        "options": [
+          "فرق",
+          "تشابه",
+          "لعبة",
+          "وقت"
+        ],
+        "arabicReason": "الكلمة تعني 'فرق'.",
+        "englishReason": "The word means 'difference'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 329
+      },
+      {
+        "word": "life",
+        "meaning": "حياة",
+        "options": [
+          "حياة",
+          "موت",
+          "مدينة",
+          "طريق"
+        ],
+        "arabicReason": "الكلمة تعني 'حياة'.",
+        "englishReason": "The word means 'life'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 330
+      },
+      {
+        "word": "action",
+        "meaning": "تصرف",
+        "options": [
+          "تصرف",
+          "هدية",
+          "مشكلة",
+          "درس"
+        ],
+        "arabicReason": "الكلمة تعني 'تصرف' أو 'عمل'.",
+        "englishReason": "The word means 'action' - something you do.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 331
       }
     ],
     "vocab_quiz": [
@@ -25770,6 +29163,686 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 314
+      },
+      {
+        "word": "good habits",
+        "meaning": "عادات جيدة",
+        "options": [
+          "عادات جيدة",
+          "طعام صحي",
+          "غرفة نظيفة",
+          "رياضة"
+        ],
+        "arabicReason": "الكلمة تعني 'عادات جيدة' وهي الأشياء التي نفعلها للحفاظ على صحتنا.",
+        "englishReason": "The phrase means 'good habits' - healthy things we do every day.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 315
+      },
+      {
+        "word": "always",
+        "meaning": "دائمًا",
+        "options": [
+          "دائمًا",
+          "أحيانًا",
+          "أبدًا",
+          "غدًا"
+        ],
+        "arabicReason": "الكلمة تعني 'دائمًا'.",
+        "englishReason": "The word means 'always'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 316
+      },
+      {
+        "word": "get up",
+        "meaning": "يستيقظ",
+        "options": [
+          "يستيقظ",
+          "ينام",
+          "يجلس",
+          "يجري"
+        ],
+        "arabicReason": "الكلمة تعني 'يستيقظ'.",
+        "englishReason": "The phrase means 'get up'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 317
+      },
+      {
+        "word": "early",
+        "meaning": "مبكرًا",
+        "options": [
+          "مبكرًا",
+          "متأخرًا",
+          "بسرعة",
+          "ببطء"
+        ],
+        "arabicReason": "الكلمة تعني 'مبكرًا'.",
+        "englishReason": "The word means 'early'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 318
+      },
+      {
+        "word": "helps",
+        "meaning": "يساعد",
+        "options": [
+          "يساعد",
+          "يلعب",
+          "يكتب",
+          "ينام"
+        ],
+        "arabicReason": "الكلمة تعني 'يساعد'.",
+        "englishReason": "The word means 'helps'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 319
+      },
+      {
+        "word": "fresh",
+        "meaning": "نشيط",
+        "options": [
+          "نشيط",
+          "متعب",
+          "جائع",
+          "حزين"
+        ],
+        "arabicReason": "الكلمة تعني 'نشيط' أو 'منتعش'.",
+        "englishReason": "The word means 'fresh' or 'energetic'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 320
+      },
+      {
+        "word": "brush",
+        "meaning": "يفرش",
+        "options": [
+          "يفرش",
+          "يغسل",
+          "يأكل",
+          "يشرب"
+        ],
+        "arabicReason": "الكلمة تعني 'يفرش' مثل تنظيف الأسنان.",
+        "englishReason": "The word means 'brush', as in brushing your teeth.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 321
+      },
+      {
+        "word": "teeth",
+        "meaning": "أسنان",
+        "options": [
+          "أسنان",
+          "يدان",
+          "عينان",
+          "قدمان"
+        ],
+        "arabicReason": "الكلمة تعني 'أسنان'.",
+        "englishReason": "The word means 'teeth'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 322
+      },
+      {
+        "word": "healthy",
+        "meaning": "صحي",
+        "options": [
+          "صحي",
+          "مريض",
+          "طويل",
+          "قصير"
+        ],
+        "arabicReason": "الكلمة تعني 'صحي'.",
+        "englishReason": "The word means 'healthy'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 323
+      },
+      {
+        "word": "keep",
+        "meaning": "يحافظ على",
+        "options": [
+          "يحافظ على",
+          "يفتح",
+          "يغلق",
+          "يبيع"
+        ],
+        "arabicReason": "الكلمة تعني 'يحافظ على'.",
+        "englishReason": "The word means 'keep'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 324
+      },
+      {
+        "word": "room",
+        "meaning": "غرفة",
+        "options": [
+          "غرفة",
+          "مدرسة",
+          "حديقة",
+          "سيارة"
+        ],
+        "arabicReason": "الكلمة تعني 'غرفة'.",
+        "englishReason": "The word means 'room'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 325
+      },
+      {
+        "word": "clean",
+        "meaning": "نظيف",
+        "options": [
+          "نظيف",
+          "متسخ",
+          "جديد",
+          "قديم"
+        ],
+        "arabicReason": "الكلمة تعني 'نظيف'.",
+        "englishReason": "The word means 'clean'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 326
+      },
+      {
+        "word": "study",
+        "meaning": "يذاكر",
+        "options": [
+          "يذاكر",
+          "يلعب",
+          "ينام",
+          "يسافر"
+        ],
+        "arabicReason": "الكلمة تعني 'يذاكر'.",
+        "englishReason": "The word means 'study'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 327
+      },
+      {
+        "word": "food",
+        "meaning": "طعام",
+        "options": [
+          "طعام",
+          "ماء",
+          "رياضة",
+          "كتاب"
+        ],
+        "arabicReason": "الكلمة تعني 'طعام'.",
+        "englishReason": "The word means 'food'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 328
+      },
+      {
+        "word": "sports",
+        "meaning": "رياضة",
+        "options": [
+          "رياضة",
+          "مدرسة",
+          "غرفة",
+          "سيارة"
+        ],
+        "arabicReason": "الكلمة تعني 'رياضة'.",
+        "englishReason": "The word means 'sports'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 329
+      },
+      {
+        "word": "week",
+        "meaning": "أسبوع",
+        "options": [
+          "أسبوع",
+          "شهر",
+          "يوم",
+          "ساعة"
+        ],
+        "arabicReason": "الكلمة تعني 'أسبوع'.",
+        "englishReason": "The word means 'week'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 330
+      },
+      {
+        "word": "kind",
+        "meaning": "لطيف",
+        "options": [
+          "لطيف",
+          "غاضب",
+          "كسول",
+          "سريع"
+        ],
+        "arabicReason": "الكلمة تعني 'لطيف'.",
+        "englishReason": "The word means 'kind'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 331
+      },
+      {
+        "word": "helpful",
+        "meaning": "متعاون",
+        "options": [
+          "متعاون",
+          "أناني",
+          "هادئ",
+          "مشغول"
+        ],
+        "arabicReason": "الكلمة تعني 'متعاون'.",
+        "englishReason": "The word means 'helpful'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 332
+      },
+      {
+        "word": "day",
+        "meaning": "يوم",
+        "options": [
+          "يوم",
+          "أسبوع",
+          "شهر",
+          "سنة"
+        ],
+        "arabicReason": "الكلمة تعني 'يوم'.",
+        "englishReason": "The word means 'day'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 333
+      },
+      {
+        "word": "eat",
+        "meaning": "يأكل",
+        "options": [
+          "يأكل",
+          "يشرب",
+          "ينام",
+          "يلعب"
+        ],
+        "arabicReason": "الكلمة تعني 'يأكل'.",
+        "englishReason": "The word means 'eat'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 334
+      },
+      {
+        "word": "kindness",
+        "meaning": "اللطف",
+        "options": [
+          "اللطف",
+          "القوة",
+          "الصداقة",
+          "النجاح"
+        ],
+        "arabicReason": "الكلمة تعني 'اللطف' وهو معاملة الآخرين بطريقة جيدة.",
+        "englishReason": "The word means 'kindness' - being nice and caring to others.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 335
+      },
+      {
+        "word": "means",
+        "meaning": "يعني",
+        "options": [
+          "يعني",
+          "يبني",
+          "ينشر",
+          "يساعد"
+        ],
+        "arabicReason": "الكلمة تعني 'يعني'.",
+        "englishReason": "The word means 'means'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 336
+      },
+      {
+        "word": "good",
+        "meaning": "جيد",
+        "options": [
+          "جيد",
+          "سيئ",
+          "قصير",
+          "ضعيف"
+        ],
+        "arabicReason": "الكلمة تعني 'جيد'.",
+        "englishReason": "The word means 'good'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 337
+      },
+      {
+        "word": "caring",
+        "meaning": "عطوف",
+        "options": [
+          "عطوف",
+          "غاضب",
+          "كسول",
+          "سريع"
+        ],
+        "arabicReason": "الكلمة تعني 'عطوف' أو 'مهتم بالآخرين'.",
+        "englishReason": "The word means 'caring' - showing kindness to others.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 338
+      },
+      {
+        "word": "others",
+        "meaning": "الآخرون",
+        "options": [
+          "الآخرون",
+          "الأطفال",
+          "الأصدقاء",
+          "المعلمون"
+        ],
+        "arabicReason": "الكلمة تعني 'الآخرون'.",
+        "englishReason": "The word means 'others'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 339
+      },
+      {
+        "word": "happy",
+        "meaning": "سعيد",
+        "options": [
+          "سعيد",
+          "حزين",
+          "متعب",
+          "جائع"
+        ],
+        "arabicReason": "الكلمة تعني 'سعيد'.",
+        "englishReason": "The word means 'happy'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 340
+      },
+      {
+        "word": "show",
+        "meaning": "يُظهر",
+        "options": [
+          "يُظهر",
+          "يخفي",
+          "ينام",
+          "يجري"
+        ],
+        "arabicReason": "الكلمة تعني 'يُظهر'.",
+        "englishReason": "The word means 'show'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 341
+      },
+      {
+        "word": "love",
+        "meaning": "الحب",
+        "options": [
+          "الحب",
+          "الخوف",
+          "الغضب",
+          "الملل"
+        ],
+        "arabicReason": "الكلمة تعني 'الحب'.",
+        "englishReason": "The word means 'love'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 342
+      },
+      {
+        "word": "respect",
+        "meaning": "الاحترام",
+        "options": [
+          "الاحترام",
+          "الكراهية",
+          "الكسل",
+          "الضحك"
+        ],
+        "arabicReason": "الكلمة تعني 'الاحترام'.",
+        "englishReason": "The word means 'respect'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 343
+      },
+      {
+        "word": "care",
+        "meaning": "الاهتمام",
+        "options": [
+          "الاهتمام",
+          "الإهمال",
+          "النجاح",
+          "الرياضة"
+        ],
+        "arabicReason": "الكلمة تعني 'الاهتمام'.",
+        "englishReason": "The word means 'care'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 344
+      },
+      {
+        "word": "builds",
+        "meaning": "يبني",
+        "options": [
+          "يبني",
+          "يهدم",
+          "يكتب",
+          "يلعب"
+        ],
+        "arabicReason": "الكلمة تعني 'يبني'.",
+        "englishReason": "The word means 'builds'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 345
+      },
+      {
+        "word": "strong",
+        "meaning": "قوي",
+        "options": [
+          "قوي",
+          "ضعيف",
+          "قصير",
+          "هادئ"
+        ],
+        "arabicReason": "الكلمة تعني 'قوي'.",
+        "englishReason": "The word means 'strong'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 346
+      },
+      {
+        "word": "friendship",
+        "meaning": "الصداقة",
+        "options": [
+          "الصداقة",
+          "المدرسة",
+          "العائلة",
+          "الرياضة"
+        ],
+        "arabicReason": "الكلمة تعني 'الصداقة'.",
+        "englishReason": "The word means 'friendship'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 347
+      },
+      {
+        "word": "free",
+        "meaning": "مجاني",
+        "options": [
+          "مجاني",
+          "غالي",
+          "سريع",
+          "قديم"
+        ],
+        "arabicReason": "الكلمة تعني 'مجاني'.",
+        "englishReason": "The word means 'free'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 348
+      },
+      {
+        "word": "spread",
+        "meaning": "ينشر",
+        "options": [
+          "ينشر",
+          "يجمع",
+          "يشتري",
+          "يغلق"
+        ],
+        "arabicReason": "الكلمة تعني 'ينشر'.",
+        "englishReason": "The word means 'spread'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 349
+      },
+      {
+        "word": "everywhere",
+        "meaning": "في كل مكان",
+        "options": [
+          "في كل مكان",
+          "في المنزل",
+          "في المدرسة",
+          "في الحديقة"
+        ],
+        "arabicReason": "الكلمة تعني 'في كل مكان'.",
+        "englishReason": "The word means 'everywhere'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 350
+      },
+      {
+        "word": "little",
+        "meaning": "صغير",
+        "options": [
+          "صغير",
+          "كبير",
+          "طويل",
+          "قصير"
+        ],
+        "arabicReason": "الكلمة تعني 'صغير'.",
+        "englishReason": "The word means 'little'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 351
+      },
+      {
+        "word": "difference",
+        "meaning": "فرق",
+        "options": [
+          "فرق",
+          "تشابه",
+          "لعبة",
+          "وقت"
+        ],
+        "arabicReason": "الكلمة تعني 'فرق'.",
+        "englishReason": "The word means 'difference'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 352
+      },
+      {
+        "word": "life",
+        "meaning": "حياة",
+        "options": [
+          "حياة",
+          "موت",
+          "مدينة",
+          "طريق"
+        ],
+        "arabicReason": "الكلمة تعني 'حياة'.",
+        "englishReason": "The word means 'life'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 353
+      },
+      {
+        "word": "action",
+        "meaning": "تصرف",
+        "options": [
+          "تصرف",
+          "هدية",
+          "مشكلة",
+          "درس"
+        ],
+        "arabicReason": "الكلمة تعني 'تصرف' أو 'عمل'.",
+        "englishReason": "The word means 'action' - something you do.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 354
       }
     ],
     "what_do_you_hear": [
@@ -28678,6 +32751,286 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 207
+      },
+      {
+        "sentence": "I always get up early.",
+        "options": [
+          "I always get up early.",
+          "I always go to bed early.",
+          "I always eat early.",
+          "I always study early."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 208
+      },
+      {
+        "sentence": "It helps me start my day fresh.",
+        "options": [
+          "It helps me start my day fresh.",
+          "It helps me finish my day early.",
+          "It helps me clean my room.",
+          "It helps me play sports."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 209
+      },
+      {
+        "sentence": "I brush my teeth every morning.",
+        "options": [
+          "I brush my teeth every morning.",
+          "I wash my hands every morning.",
+          "I clean my room every morning.",
+          "I eat breakfast every morning."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 210
+      },
+      {
+        "sentence": "It keeps me healthy.",
+        "options": [
+          "It keeps me healthy.",
+          "It keeps me busy.",
+          "It keeps me happy.",
+          "It keeps me tired."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 211
+      },
+      {
+        "sentence": "I keep my room clean.",
+        "options": [
+          "I keep my room clean.",
+          "I keep my room small.",
+          "I keep my room quiet.",
+          "I keep my room dark."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 212
+      },
+      {
+        "sentence": "I study every day.",
+        "options": [
+          "I study every day.",
+          "I play every day.",
+          "I sleep every day.",
+          "I travel every day."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 213
+      },
+      {
+        "sentence": "I eat healthy food.",
+        "options": [
+          "I eat healthy food.",
+          "I eat fast food.",
+          "I eat cold food.",
+          "I eat sweet food."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 214
+      },
+      {
+        "sentence": "I do sports three times a week.",
+        "options": [
+          "I do sports three times a week.",
+          "I do sports every month.",
+          "I do sports every year.",
+          "I do sports once a day."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 215
+      },
+      {
+        "sentence": "I am always kind and helpful.",
+        "options": [
+          "I am always kind and helpful.",
+          "I am always lazy and tired.",
+          "I am always noisy and angry.",
+          "I am always busy and sad."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 216
+      },
+      {
+        "sentence": "Good habits keep me healthy.",
+        "options": [
+          "Good habits keep me healthy.",
+          "Good habits make me sleepy.",
+          "Good habits waste my time.",
+          "Good habits make me late."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 217
+      },
+      {
+        "sentence": "Kindness means being good and caring to others.",
+        "options": [
+          "Kindness means being good and caring to others.",
+          "Kindness means being rich and famous.",
+          "Kindness means being funny at school.",
+          "Kindness means being fast and strong."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 218
+      },
+      {
+        "sentence": "Kindness makes everyone happy.",
+        "options": [
+          "Kindness makes everyone happy.",
+          "Kindness makes everyone tired.",
+          "Kindness makes everyone angry.",
+          "Kindness makes everyone busy."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 219
+      },
+      {
+        "sentence": "We show love, respect and care.",
+        "options": [
+          "We show love, respect and care.",
+          "We show food, games and toys.",
+          "We show books, pens and bags.",
+          "We show music, sports and art."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 220
+      },
+      {
+        "sentence": "Kindness builds strong friendship.",
+        "options": [
+          "Kindness builds strong friendship.",
+          "Kindness builds a new school.",
+          "Kindness builds big houses.",
+          "Kindness builds long roads."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 221
+      },
+      {
+        "sentence": "Kindness is free.",
+        "options": [
+          "Kindness is free.",
+          "Kindness is expensive.",
+          "Kindness is difficult.",
+          "Kindness is noisy."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 222
+      },
+      {
+        "sentence": "Spread kindness everywhere.",
+        "options": [
+          "Spread kindness everywhere.",
+          "Spread books everywhere.",
+          "Spread toys everywhere.",
+          "Spread homework everywhere."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 223
+      },
+      {
+        "sentence": "A little kind act can make a difference.",
+        "options": [
+          "A little kind act can make a difference.",
+          "A little game can make a difference.",
+          "A little gift can make a difference.",
+          "A little sport can make a difference."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 224
+      },
+      {
+        "sentence": "Kindness can change someone's life.",
+        "options": [
+          "Kindness can change someone's life.",
+          "Kindness can change someone's house.",
+          "Kindness can change someone's bag.",
+          "Kindness can change someone's book."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 225
+      },
+      {
+        "sentence": "I am kind and helpful every day.",
+        "options": [
+          "I am kind and helpful every day.",
+          "I am tired and sleepy every day.",
+          "I am noisy and angry every day.",
+          "I am late every day."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 226
+      },
+      {
+        "sentence": "Good people always respect others.",
+        "options": [
+          "Good people always respect others.",
+          "Good people always forget others.",
+          "Good people always laugh at others.",
+          "Good people always push others."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 227
       }
     ],
     "vocab_choose": [
@@ -31706,6 +36059,516 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 178
+      },
+      {
+        "question": "I always get up ______.",
+        "correctAnswer": "early",
+        "arabicReason": "نستخدم (early) لأننا نستيقظ مبكرًا.",
+        "englishReason": "We use 'early' because we get up early.",
+        "options": [
+          "early",
+          "healthy",
+          "clean",
+          "kind"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 179
+      },
+      {
+        "question": "I ______ my teeth every morning.",
+        "correctAnswer": "brush",
+        "arabicReason": "نستخدم (brush) لأننا نفرش أسناننا.",
+        "englishReason": "We use 'brush' because we brush our teeth.",
+        "options": [
+          "brush",
+          "eat",
+          "study",
+          "keep"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 180
+      },
+      {
+        "question": "Brushing my teeth keeps me ______.",
+        "correctAnswer": "healthy",
+        "arabicReason": "نستخدم (healthy) لأن تنظيف الأسنان يحافظ على الصحة.",
+        "englishReason": "We use 'healthy' because brushing teeth keeps us healthy.",
+        "options": [
+          "healthy",
+          "early",
+          "fresh",
+          "helpful"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 181
+      },
+      {
+        "question": "I keep my room ______.",
+        "correctAnswer": "clean",
+        "arabicReason": "نستخدم (clean) لأن الغرفة تكون نظيفة.",
+        "englishReason": "We use 'clean' because the room is clean.",
+        "options": [
+          "clean",
+          "kind",
+          "early",
+          "fresh"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 182
+      },
+      {
+        "question": "I ______ every day.",
+        "correctAnswer": "study",
+        "arabicReason": "نستخدم (study) لأننا نذاكر كل يوم.",
+        "englishReason": "We use 'study' because we study every day.",
+        "options": [
+          "study",
+          "eat",
+          "brush",
+          "keep"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 183
+      },
+      {
+        "question": "I eat healthy ______.",
+        "correctAnswer": "food",
+        "arabicReason": "نستخدم (food) لأننا نأكل طعامًا صحيًا.",
+        "englishReason": "We use 'food' because we eat healthy food.",
+        "options": [
+          "food",
+          "room",
+          "day",
+          "week"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 184
+      },
+      {
+        "question": "I do ______ three times a week.",
+        "correctAnswer": "sports",
+        "arabicReason": "نستخدم (sports) لأننا نمارس الرياضة.",
+        "englishReason": "We use 'sports' because we do sports.",
+        "options": [
+          "sports",
+          "teeth",
+          "food",
+          "habits"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 185
+      },
+      {
+        "question": "There are seven days in a ______.",
+        "correctAnswer": "week",
+        "arabicReason": "نستخدم (week) لأن الأسبوع يتكون من سبعة أيام.",
+        "englishReason": "We use 'week' because there are seven days in a week.",
+        "options": [
+          "week",
+          "day",
+          "room",
+          "habit"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 186
+      },
+      {
+        "question": "A good friend is ______ to everyone.",
+        "correctAnswer": "kind",
+        "arabicReason": "نستخدم (kind) لأن الشخص الطيب يعامل الجميع بلطف.",
+        "englishReason": "We use 'kind' because a good friend is kind to everyone.",
+        "options": [
+          "kind",
+          "clean",
+          "early",
+          "fresh"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 187
+      },
+      {
+        "question": "A good student is ______.",
+        "correctAnswer": "helpful",
+        "arabicReason": "نستخدم (helpful) لأن الطالب الجيد يساعد الآخرين.",
+        "englishReason": "We use 'helpful' because a good student helps others.",
+        "options": [
+          "helpful",
+          "healthy",
+          "early",
+          "fresh"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 188
+      },
+      {
+        "question": "Good ______ make our life better.",
+        "correctAnswer": "habits",
+        "arabicReason": "نستخدم (habits) لأن العادات الجيدة تجعل حياتنا أفضل.",
+        "englishReason": "We use 'habits' because good habits make life better.",
+        "options": [
+          "habits",
+          "sports",
+          "rooms",
+          "weeks"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 189
+      },
+      {
+        "question": "I ______ healthy food every day.",
+        "correctAnswer": "eat",
+        "arabicReason": "نستخدم (eat) لأننا نأكل الطعام الصحي.",
+        "englishReason": "We use 'eat' because we eat healthy food.",
+        "options": [
+          "eat",
+          "study",
+          "brush",
+          "keep"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 190
+      },
+      {
+        "question": "I feel ______ after getting up early.",
+        "correctAnswer": "fresh",
+        "arabicReason": "نستخدم (fresh) لأننا نشعر بالنشاط.",
+        "englishReason": "We use 'fresh' because we feel energetic.",
+        "options": [
+          "fresh",
+          "clean",
+          "kind",
+          "week"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 191
+      },
+      {
+        "question": "I ______ my room clean.",
+        "correctAnswer": "keep",
+        "arabicReason": "نستخدم (keep) لأننا نحافظ على الغرفة نظيفة.",
+        "englishReason": "We use 'keep' because we keep the room clean.",
+        "options": [
+          "keep",
+          "brush",
+          "study",
+          "eat"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 192
+      },
+      {
+        "question": "I study every ______.",
+        "correctAnswer": "day",
+        "arabicReason": "نستخدم (day) لأننا نذاكر كل يوم.",
+        "englishReason": "We use 'day' because we study every day.",
+        "options": [
+          "day",
+          "week",
+          "room",
+          "habit"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 193
+      },
+      {
+        "question": "______ means being good and caring to others.",
+        "correctAnswer": "Kindness",
+        "arabicReason": "نستخدم (Kindness) لأنها تعني اللطف مع الآخرين.",
+        "englishReason": "We use 'Kindness' because it means being good and caring to others.",
+        "options": [
+          "Kindness",
+          "Friendship",
+          "Life",
+          "Action"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 194
+      },
+      {
+        "question": "Kindness makes everyone ______.",
+        "correctAnswer": "happy",
+        "arabicReason": "اللطف يجعل الجميع سعداء.",
+        "englishReason": "Kindness makes everyone happy.",
+        "options": [
+          "happy",
+          "angry",
+          "tired",
+          "late"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 195
+      },
+      {
+        "question": "We show love and ______.",
+        "correctAnswer": "respect",
+        "arabicReason": "نستخدم (respect) لأنها تأتي مع الحب في القطعة.",
+        "englishReason": "We use 'respect' because it goes with love in the passage.",
+        "options": [
+          "respect",
+          "sport",
+          "food",
+          "home"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 196
+      },
+      {
+        "question": "Kindness builds strong ______.",
+        "correctAnswer": "friendship",
+        "arabicReason": "اللطف يبني الصداقة القوية.",
+        "englishReason": "Kindness builds strong friendship.",
+        "options": [
+          "friendship",
+          "rooms",
+          "schools",
+          "games"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 197
+      },
+      {
+        "question": "Kindness is ______.",
+        "correctAnswer": "free",
+        "arabicReason": "اللطف مجاني ولا يكلف شيئًا.",
+        "englishReason": "Kindness is free.",
+        "options": [
+          "free",
+          "expensive",
+          "heavy",
+          "slow"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 198
+      },
+      {
+        "question": "Spread kindness ______.",
+        "correctAnswer": "everywhere",
+        "arabicReason": "ننشر اللطف في كل مكان.",
+        "englishReason": "We spread kindness everywhere.",
+        "options": [
+          "everywhere",
+          "inside",
+          "outside",
+          "upstairs"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 199
+      },
+      {
+        "question": "A little kind ______ can make a difference.",
+        "correctAnswer": "act",
+        "arabicReason": "نستخدم (act) لأنها تعني عملًا أو تصرفًا طيبًا.",
+        "englishReason": "We use 'act' because it means a kind action.",
+        "options": [
+          "act",
+          "food",
+          "room",
+          "teacher"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 200
+      },
+      {
+        "question": "A little kind act can make a ______.",
+        "correctAnswer": "difference",
+        "arabicReason": "التعبير الصحيح هو make a difference.",
+        "englishReason": "The correct expression is 'make a difference'.",
+        "options": [
+          "difference",
+          "lesson",
+          "problem",
+          "game"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 201
+      },
+      {
+        "question": "Kindness can change someone's ______.",
+        "correctAnswer": "life",
+        "arabicReason": "اللطف قد يغير حياة شخص.",
+        "englishReason": "Kindness can change someone's life.",
+        "options": [
+          "life",
+          "book",
+          "chair",
+          "bag"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 202
+      },
+      {
+        "question": "We should ______ kindness with everyone.",
+        "correctAnswer": "spread",
+        "arabicReason": "نستخدم (spread) بمعنى ننشر.",
+        "englishReason": "We use 'spread' because it means share everywhere.",
+        "options": [
+          "spread",
+          "close",
+          "forget",
+          "break"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 203
+      },
+      {
+        "question": "A ______ person cares about others.",
+        "correctAnswer": "caring",
+        "arabicReason": "الشخص العطوف يهتم بالآخرين.",
+        "englishReason": "A caring person looks after others.",
+        "options": [
+          "caring",
+          "lazy",
+          "noisy",
+          "angry"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 204
+      },
+      {
+        "question": "We should care about ______.",
+        "correctAnswer": "others",
+        "arabicReason": "نستخدم (others) لأنها تعني الآخرين.",
+        "englishReason": "We use 'others' because it means other people.",
+        "options": [
+          "others",
+          "chairs",
+          "desks",
+          "books"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 205
+      },
+      {
+        "question": "Strong ______ is important.",
+        "correctAnswer": "friendship",
+        "arabicReason": "الصداقة القوية مهمة.",
+        "englishReason": "Strong friendship is important.",
+        "options": [
+          "friendship",
+          "weather",
+          "food",
+          "school"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 206
+      },
+      {
+        "question": "We ______ love and care.",
+        "correctAnswer": "show",
+        "arabicReason": "نستخدم (show) بمعنى نظهر.",
+        "englishReason": "We use 'show' because it means display.",
+        "options": [
+          "show",
+          "eat",
+          "buy",
+          "draw"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 207
+      },
+      {
+        "question": "Kindness is a good ______.",
+        "correctAnswer": "action",
+        "arabicReason": "اللطف يعتبر تصرفًا جيدًا.",
+        "englishReason": "Kindness is a good action.",
+        "options": [
+          "action",
+          "window",
+          "pencil",
+          "lesson"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "11",
+        "id": 208
       }
     ],
     "sentence": [],
