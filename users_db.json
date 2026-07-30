@@ -386,6 +386,26 @@
       "subscriptionPrice": 0,
       "customMessage": "",
       "broadcastMessage": ""
+    },
+    {
+      "id": "u1785439807115",
+      "role": "student",
+      "name": "Ethan",
+      "email": "ethan@marathon.com",
+      "pass": "23951a",
+      "isActive": true,
+      "joinDate": "2026-07-30",
+      "lastLogin": null,
+      "isPaid": true,
+      "duration": 30,
+      "level": "primary",
+      "grade": "1",
+      "type": "OL",
+      "status": "free",
+      "teacherId": null,
+      "subscriptionPrice": 0,
+      "customMessage": "",
+      "broadcastMessage": ""
     }
   ],
   "settings": {
