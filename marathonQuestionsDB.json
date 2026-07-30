@@ -1042,7 +1042,7 @@
       {
         "sentence": "Mona ate a egg for breakfast.",
         "errorWord": "a egg",
-        "correctWord": "a",
+        "correctWord": "an",
         "arabicReason": "لأن كلمة egg تبدأ بحرف متحرك، لذلك نستخدم an.",
         "englishReason": "Because 'egg' begins with a vowel sound, we use 'an'.",
         "id": 44,
@@ -1078,7 +1078,7 @@
       {
         "sentence": "My father drives an car.",
         "errorWord": "an car",
-        "correctWord": "an",
+        "correctWord": "a",
         "arabicReason": "لأن كلمة car تبدأ بحرف ساكن، لذلك نستخدم a.",
         "englishReason": "Because 'car' begins with a consonant sound, we use 'a'.",
         "id": 47,
@@ -2360,8 +2360,8 @@
         "id": 153
       },
       {
-        "sentence": "She respects everyone.",
-        "errorWord": "respects",
+        "sentence": "She respect everyone.",
+        "errorWord": "respect",
         "correctWord": "respects",
         "arabicReason": "لا يوجد خطأ، والصحيح هو (respects) مع (She).",
         "englishReason": "There is no mistake. 'Respects' is correct with 'She'.",
