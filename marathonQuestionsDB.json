@@ -510,6 +510,62 @@
         "curriculum": "OL",
         "unit": "11",
         "id": 20
+      },
+      {
+        "passage": "My mother is the most important person in my life. She is {blank1}, loving, and always caring about our {blank2}. Her smile makes our home warm and {blank3}. No matter how busy she is, she always finds time to listen, help, guide, and {blank4} when I need. She isn't only my parent, but she is also my first {blank5} and my best {blank6}. I love my mom so {blank7}.",
+        "options": [
+          "kind",
+          "family",
+          "happy",
+          "support",
+          "teacher",
+          "friend",
+          "much"
+        ],
+        "correctAnswer": [
+          "kind",
+          "family",
+          "happy",
+          "support",
+          "teacher",
+          "friend",
+          "much"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 21
+      },
+      {
+        "passage": "Water is very {blank1} for our {blank2}. We use water every day for {blank3}, cooking, bathing, cleaning and many other things. We should {blank4} water and turn off the {blank5}. Don't {blank6} water. Water is {blank7}, so use it {blank8}.",
+        "options": [
+          "important",
+          "life",
+          "drinking",
+          "save",
+          "tap",
+          "waste",
+          "limited",
+          "wisely"
+        ],
+        "correctAnswer": [
+          "important",
+          "life",
+          "drinking",
+          "save",
+          "tap",
+          "waste",
+          "limited",
+          "wisely"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 22
       }
     ],
     "correct": [
@@ -2394,6 +2450,246 @@
         "curriculum": "OL",
         "unit": "11",
         "id": 156
+      },
+      {
+        "sentence": "My mother care about our family.",
+        "errorWord": "care",
+        "correctWord": "cares",
+        "arabicReason": "نستخدم 'cares' مع الفاعل المفرد (My mother) في المضارع البسيط.",
+        "englishReason": "We use 'cares' with the singular subject 'My mother' in the simple present.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 157
+      },
+      {
+        "sentence": "She help me every day.",
+        "errorWord": "help",
+        "correctWord": "helps",
+        "arabicReason": "نضيف (s) إلى الفعل مع (She).",
+        "englishReason": "We add 's' to the verb with 'She'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 158
+      },
+      {
+        "sentence": "He support his family.",
+        "errorWord": "support",
+        "correctWord": "supports",
+        "arabicReason": "مع (He) نستخدم الفعل بإضافة (s).",
+        "englishReason": "With 'He', the verb takes 's'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 159
+      },
+      {
+        "sentence": "Her smile make our home happy.",
+        "errorWord": "make",
+        "correctWord": "makes",
+        "arabicReason": "الفاعل المفرد (Her smile) يحتاج إلى الفعل (makes).",
+        "englishReason": "The singular subject 'Her smile' takes the verb 'makes'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 160
+      },
+      {
+        "sentence": "She find time to listen.",
+        "errorWord": "find",
+        "correctWord": "finds",
+        "arabicReason": "مع (She) يصبح الفعل (finds).",
+        "englishReason": "With 'She', the verb becomes 'finds'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 161
+      },
+      {
+        "sentence": "My father guide me.",
+        "errorWord": "guide",
+        "correctWord": "guides",
+        "arabicReason": "مع الفاعل المفرد نضيف (s) إلى الفعل.",
+        "englishReason": "We add 's' to the verb with a singular subject.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 162
+      },
+      {
+        "sentence": "She love her children.",
+        "errorWord": "love",
+        "correctWord": "loves",
+        "arabicReason": "مع (She) نستخدم (loves).",
+        "englishReason": "With 'She', we use 'loves'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 163
+      },
+      {
+        "sentence": "My teacher explain the lesson well.",
+        "errorWord": "explain",
+        "correctWord": "explains",
+        "arabicReason": "الفاعل المفرد يحتاج إلى الفعل مع (s).",
+        "englishReason": "A singular subject takes the verb with 's'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 164
+      },
+      {
+        "sentence": "He listen to his mother.",
+        "errorWord": "listen",
+        "correctWord": "listens",
+        "arabicReason": "مع (He) نضيف (s) إلى الفعل.",
+        "englishReason": "With 'He', we add 's' to the verb.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 165
+      },
+      {
+        "sentence": "My friend respect everyone.",
+        "errorWord": "respect",
+        "correctWord": "respects",
+        "arabicReason": "مع الفاعل المفرد (My friend) نستخدم (respects).",
+        "englishReason": "With the singular subject 'My friend', we use 'respects'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 166
+      },
+      {
+        "sentence": "My mother use water for cooking.",
+        "errorWord": "use",
+        "correctWord": "uses",
+        "arabicReason": "مع الفاعل المفرد (My mother) نضيف (s) إلى الفعل.",
+        "englishReason": "With the singular subject 'My mother', we add 's' to the verb.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 167
+      },
+      {
+        "sentence": "He save water every day.",
+        "errorWord": "save",
+        "correctWord": "saves",
+        "arabicReason": "مع (He) نستخدم الفعل مع (s).",
+        "englishReason": "With 'He', the verb takes 's'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 168
+      },
+      {
+        "sentence": "She turns off the tap.",
+        "errorWord": "turns",
+        "correctWord": "turn",
+        "arabicReason": "بعد (doesn't) أو في صيغة السؤال نستخدم الفعل الأساسي، أما هنا إذا كان التصحيح المقصود على الفعل الأساسي فيمكن تعديل السياق. لكن للمضارع البسيط المفرد الصحيح هو turns.",
+        "englishReason": "In the simple present with a singular subject, the correct form is 'turns'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 169
+      },
+      {
+        "sentence": "My father drink water every morning.",
+        "errorWord": "drink",
+        "correctWord": "drinks",
+        "arabicReason": "مع الفاعل المفرد نضيف (s) إلى الفعل.",
+        "englishReason": "We add 's' to the verb with a singular subject.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 170
+      },
+      {
+        "sentence": "The tap need cleaning.",
+        "errorWord": "need",
+        "correctWord": "needs",
+        "arabicReason": "الفاعل المفرد (The tap) يحتاج إلى الفعل (needs).",
+        "englishReason": "The singular subject 'The tap' takes the verb 'needs'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 171
+      },
+      {
+        "sentence": "She don't waste water.",
+        "errorWord": "don't",
+        "correctWord": "doesn't",
+        "arabicReason": "مع (She) في النفي نستخدم (doesn't).",
+        "englishReason": "With 'She', we use 'doesn't' in the simple present negative.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 172
+      },
+      {
+        "sentence": "He don't leave the tap open.",
+        "errorWord": "don't",
+        "correctWord": "doesn't",
+        "arabicReason": "مع (He) نستخدم (doesn't) في النفي.",
+        "englishReason": "With 'He', we use 'doesn't' in negative sentences.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 173
+      },
+      {
+        "sentence": "Does she uses water wisely?",
+        "errorWord": "uses",
+        "correctWord": "use",
+        "arabicReason": "بعد (Does) نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "After 'Does', we use the base form of the verb.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 174
+      },
+      {
+        "sentence": "Do he save water every day?",
+        "errorWord": "Do",
+        "correctWord": "Does",
+        "arabicReason": "مع (he) في السؤال نستخدم (Does).",
+        "englishReason": "We use 'Does' with 'he' in questions.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 175
+      },
+      {
+        "sentence": "She have a bottle of water.",
+        "errorWord": "have",
+        "correctWord": "has",
+        "arabicReason": "مع (She) نستخدم (has) وليس (have).",
+        "englishReason": "With 'She', we use 'has' instead of 'have'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 176
       }
     ],
     "translate": [
@@ -5065,6 +5361,346 @@
         "curriculum": "OL",
         "unit": "11",
         "id": 157
+      },
+      {
+        "word": "My mother is the most important person in my life.",
+        "meaning": "أمي هي أهم شخص في حياتي.",
+        "options": [
+          "أمي هي أهم شخص في حياتي.",
+          "أبي هو أهم شخص في حياتي.",
+          "أختي هي أهم شخص في حياتي.",
+          "معلمي هو أهم شخص في حياتي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 158
+      },
+      {
+        "word": "She is kind, loving, and caring.",
+        "meaning": "هي طيبة ومحبة وتهتم بالآخرين.",
+        "options": [
+          "هي طيبة ومحبة وتهتم بالآخرين.",
+          "هي مشغولة ومتعبة دائمًا.",
+          "هي سريعة وقوية.",
+          "هي هادئة وخجولة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 159
+      },
+      {
+        "word": "She always cares about our family.",
+        "meaning": "هي تهتم دائمًا بعائلتنا.",
+        "options": [
+          "هي تهتم دائمًا بعائلتنا.",
+          "هي تزور عائلتنا كل أسبوع.",
+          "هي تلعب مع عائلتنا.",
+          "هي تطبخ لعائلتنا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 160
+      },
+      {
+        "word": "Her smile makes our home warm and happy.",
+        "meaning": "ابتسامتها تجعل منزلنا دافئًا وسعيدًا.",
+        "options": [
+          "ابتسامتها تجعل منزلنا دافئًا وسعيدًا.",
+          "ابتسامتها تجعل منزلنا كبيرًا.",
+          "ابتسامتها تجعل منزلنا هادئًا.",
+          "ابتسامتها تجعل منزلنا نظيفًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 161
+      },
+      {
+        "word": "She always finds time to listen.",
+        "meaning": "هي تجد دائمًا وقتًا للاستماع.",
+        "options": [
+          "هي تجد دائمًا وقتًا للاستماع.",
+          "هي تجد دائمًا وقتًا للنوم.",
+          "هي تجد دائمًا وقتًا للقراءة.",
+          "هي تجد دائمًا وقتًا للعب."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 162
+      },
+      {
+        "word": "She helps and guides me.",
+        "meaning": "هي تساعدني وترشدني.",
+        "options": [
+          "هي تساعدني وترشدني.",
+          "هي تتركني وحدي.",
+          "هي تزورني كل يوم.",
+          "هي تعلمني الرياضة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 163
+      },
+      {
+        "word": "She supports me when I need her.",
+        "meaning": "هي تدعمني عندما أحتاج إليها.",
+        "options": [
+          "هي تدعمني عندما أحتاج إليها.",
+          "هي تناديني عندما أحتاج إليها.",
+          "هي تسافر عندما أحتاج إليها.",
+          "هي تنام عندما أحتاج إليها."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 164
+      },
+      {
+        "word": "She is my first teacher.",
+        "meaning": "هي أول معلمة لي.",
+        "options": [
+          "هي أول معلمة لي.",
+          "هي أول صديقة لي.",
+          "هي أول جارتي.",
+          "هي أول طبيبة لي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 165
+      },
+      {
+        "word": "She is also my best friend.",
+        "meaning": "وهي أيضًا أفضل صديقة لي.",
+        "options": [
+          "وهي أيضًا أفضل صديقة لي.",
+          "وهي أيضًا أفضل معلمة لي.",
+          "وهي أيضًا أفضل أخت لي.",
+          "وهي أيضًا أفضل جارة لي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 166
+      },
+      {
+        "word": "I love my mom so much.",
+        "meaning": "أنا أحب أمي كثيرًا.",
+        "options": [
+          "أنا أحب أمي كثيرًا.",
+          "أنا أفتقد أمي كثيرًا.",
+          "أنا أزور أمي كثيرًا.",
+          "أنا أساعد أمي كثيرًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 167
+      },
+      {
+        "word": "Water is very important for our life.",
+        "meaning": "الماء مهم جدًا لحياتنا.",
+        "options": [
+          "الماء مهم جدًا لحياتنا.",
+          "الماء بارد جدًا.",
+          "الماء في الزجاجة.",
+          "الماء لونه أزرق."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 168
+      },
+      {
+        "word": "We use water every day.",
+        "meaning": "نستخدم الماء كل يوم.",
+        "options": [
+          "نستخدم الماء كل يوم.",
+          "نشرب العصير كل يوم.",
+          "نلعب كل يوم.",
+          "نذهب إلى المدرسة كل يوم."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 169
+      },
+      {
+        "word": "We use water for drinking.",
+        "meaning": "نستخدم الماء للشرب.",
+        "options": [
+          "نستخدم الماء للشرب.",
+          "نستخدم الماء للكتابة.",
+          "نستخدم الماء للغناء.",
+          "نستخدم الماء للرسم."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 170
+      },
+      {
+        "word": "My mother uses water for cooking.",
+        "meaning": "تستخدم أمي الماء في الطبخ.",
+        "options": [
+          "تستخدم أمي الماء في الطبخ.",
+          "تستخدم أمي الماء في الرسم.",
+          "تستخدم أمي الماء في اللعب.",
+          "تستخدم أمي الماء في الجري."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 171
+      },
+      {
+        "word": "We use water for bathing.",
+        "meaning": "نستخدم الماء للاستحمام.",
+        "options": [
+          "نستخدم الماء للاستحمام.",
+          "نستخدم الماء للنوم.",
+          "نستخدم الماء للقراءة.",
+          "نستخدم الماء للمذاكرة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 172
+      },
+      {
+        "word": "We use water for cleaning.",
+        "meaning": "نستخدم الماء للتنظيف.",
+        "options": [
+          "نستخدم الماء للتنظيف.",
+          "نستخدم الماء للكتابة.",
+          "نستخدم الماء للعب.",
+          "نستخدم الماء للجري."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 173
+      },
+      {
+        "word": "Water is limited.",
+        "meaning": "الماء محدود.",
+        "options": [
+          "الماء محدود.",
+          "الماء نظيف.",
+          "الماء ساخن.",
+          "الماء عذب."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 174
+      },
+      {
+        "word": "We should save water.",
+        "meaning": "يجب أن نوفر الماء.",
+        "options": [
+          "يجب أن نوفر الماء.",
+          "يجب أن نهدر الماء.",
+          "يجب أن نغلي الماء.",
+          "يجب أن نشتري الماء."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 175
+      },
+      {
+        "word": "Turn off the tap.",
+        "meaning": "أغلق الصنبور.",
+        "options": [
+          "أغلق الصنبور.",
+          "افتح الباب.",
+          "اغسل يديك.",
+          "افتح النافذة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 176
+      },
+      {
+        "word": "Don't waste water.",
+        "meaning": "لا تهدر الماء.",
+        "options": [
+          "لا تهدر الماء.",
+          "لا تشرب الماء.",
+          "لا تنظف الماء.",
+          "لا تحمل الماء."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 177
       }
     ],
     "find_the_vowel": [
@@ -7768,6 +8404,516 @@
         "curriculum": "OL",
         "unit": "11",
         "id": 158
+      },
+      {
+        "question": "My mother ______ kind and caring.",
+        "correctAnswer": "is",
+        "arabicReason": "مع الفاعل المفرد (My mother) نستخدم (is).",
+        "englishReason": "We use 'is' with the singular subject 'My mother'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "do"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 159
+      },
+      {
+        "question": "My parents ______ very supportive.",
+        "correctAnswer": "are",
+        "arabicReason": "مع الفاعل الجمع (My parents) نستخدم (are).",
+        "englishReason": "We use 'are' with the plural subject 'My parents'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "does"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 160
+      },
+      {
+        "question": "I ______ my mother very much.",
+        "correctAnswer": "love",
+        "arabicReason": "مع (I) نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With 'I', we use the base form of the verb.",
+        "options": [
+          "love",
+          "loves",
+          "loving",
+          "loved"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 161
+      },
+      {
+        "question": "She ______ about our family.",
+        "correctAnswer": "cares",
+        "arabicReason": "مع (She) نضيف (s) إلى الفعل في المضارع البسيط.",
+        "englishReason": "With 'She', we add 's' to the verb in the simple present.",
+        "options": [
+          "care",
+          "cares",
+          "caring",
+          "cared"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 162
+      },
+      {
+        "question": "They ______ time to help others.",
+        "correctAnswer": "find",
+        "arabicReason": "مع الفاعل الجمع نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With a plural subject, we use the base form of the verb.",
+        "options": [
+          "find",
+          "finds",
+          "finding",
+          "found"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 163
+      },
+      {
+        "question": "______ your mother help you every day?",
+        "correctAnswer": "Does",
+        "arabicReason": "نستخدم (Does) في السؤال مع الفاعل المفرد.",
+        "englishReason": "We use 'Does' in questions with a singular subject.",
+        "options": [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 164
+      },
+      {
+        "question": "______ your parents work together?",
+        "correctAnswer": "Do",
+        "arabicReason": "نستخدم (Do) مع الفاعل الجمع.",
+        "englishReason": "We use 'Do' with plural subjects.",
+        "options": [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 165
+      },
+      {
+        "question": "______ is your best friend?",
+        "correctAnswer": "Who",
+        "arabicReason": "نستخدم (Who) للسؤال عن الأشخاص.",
+        "englishReason": "We use 'Who' to ask about people.",
+        "options": [
+          "Who",
+          "Where",
+          "When",
+          "What"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 166
+      },
+      {
+        "question": "______ do you live?",
+        "correctAnswer": "Where",
+        "arabicReason": "نستخدم (Where) للسؤال عن المكان.",
+        "englishReason": "We use 'Where' to ask about place.",
+        "options": [
+          "Who",
+          "When",
+          "Where",
+          "What"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 167
+      },
+      {
+        "question": "______ do you help your mother?",
+        "correctAnswer": "When",
+        "arabicReason": "نستخدم (When) للسؤال عن الوقت.",
+        "englishReason": "We use 'When' to ask about time.",
+        "options": [
+          "Where",
+          "Who",
+          "When",
+          "What"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 168
+      },
+      {
+        "question": "______ makes your home happy?",
+        "correctAnswer": "What",
+        "arabicReason": "نستخدم (What) للسؤال عن الشيء.",
+        "englishReason": "We use 'What' to ask about things.",
+        "options": [
+          "Who",
+          "Where",
+          "When",
+          "What"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 169
+      },
+      {
+        "question": "Her smile ______ our home warm.",
+        "correctAnswer": "makes",
+        "arabicReason": "مع الفاعل المفرد (Her smile) نستخدم (makes).",
+        "englishReason": "We use 'makes' with the singular subject 'Her smile'.",
+        "options": [
+          "make",
+          "makes",
+          "making",
+          "made"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 170
+      },
+      {
+        "question": "We ______ our parents every day.",
+        "correctAnswer": "respect",
+        "arabicReason": "مع (We) نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With 'We', we use the base form of the verb.",
+        "options": [
+          "respect",
+          "respects",
+          "respecting",
+          "respected"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 171
+      },
+      {
+        "question": "She ______ busy every day.",
+        "correctAnswer": "is",
+        "arabicReason": "مع (She) نستخدم (is).",
+        "englishReason": "We use 'is' with 'She'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "do"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 172
+      },
+      {
+        "question": "My sisters ______ helpful.",
+        "correctAnswer": "are",
+        "arabicReason": "مع الفاعل الجمع (My sisters) نستخدم (are).",
+        "englishReason": "We use 'are' with the plural subject 'My sisters'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "does"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 173
+      },
+      {
+        "question": "Water ______ very important for our life.",
+        "correctAnswer": "is",
+        "arabicReason": "مع الفاعل المفرد (Water) نستخدم (is).",
+        "englishReason": "We use 'is' with the singular subject 'Water'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "do"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 174
+      },
+      {
+        "question": "We ______ water every day.",
+        "correctAnswer": "use",
+        "arabicReason": "مع (We) نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "With 'We', we use the base form of the verb.",
+        "options": [
+          "uses",
+          "use",
+          "using",
+          "used"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 175
+      },
+      {
+        "question": "My mother ______ water for cooking.",
+        "correctAnswer": "uses",
+        "arabicReason": "مع الفاعل المفرد نضيف (s) إلى الفعل.",
+        "englishReason": "With a singular subject, we add 's' to the verb.",
+        "options": [
+          "use",
+          "uses",
+          "using",
+          "used"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 176
+      },
+      {
+        "question": "They ______ save water.",
+        "correctAnswer": "should",
+        "arabicReason": "نستخدم (should) للنصيحة.",
+        "englishReason": "We use 'should' to give advice.",
+        "options": [
+          "should",
+          "does",
+          "is",
+          "am"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 177
+      },
+      {
+        "question": "She ______ waste water.",
+        "correctAnswer": "doesn't",
+        "arabicReason": "مع (She) في النفي نستخدم (doesn't).",
+        "englishReason": "With 'She', we use 'doesn't' in the simple present negative.",
+        "options": [
+          "don't",
+          "doesn't",
+          "isn't",
+          "aren't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 178
+      },
+      {
+        "question": "We ______ waste water.",
+        "correctAnswer": "don't",
+        "arabicReason": "مع (We) في النفي نستخدم (don't).",
+        "englishReason": "With 'We', we use 'don't' in the simple present negative.",
+        "options": [
+          "don't",
+          "doesn't",
+          "isn't",
+          "aren't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 179
+      },
+      {
+        "question": "My father ______ kind.",
+        "correctAnswer": "is",
+        "arabicReason": "مع الفاعل المفرد (My father) نستخدم (is).",
+        "englishReason": "We use 'is' with the singular subject 'My father'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "do"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 180
+      },
+      {
+        "question": "My parents ______ careful with water.",
+        "correctAnswer": "are",
+        "arabicReason": "مع الفاعل الجمع (My parents) نستخدم (are).",
+        "englishReason": "We use 'are' with the plural subject 'My parents'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "does"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 181
+      },
+      {
+        "question": "______ you save water every day?",
+        "correctAnswer": "Do",
+        "arabicReason": "مع (you) في السؤال نستخدم (Do).",
+        "englishReason": "We use 'Do' with 'you' in questions.",
+        "options": [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 182
+      },
+      {
+        "question": "______ she use water wisely?",
+        "correctAnswer": "Does",
+        "arabicReason": "مع (she) في السؤال نستخدم (Does).",
+        "englishReason": "We use 'Does' with 'she' in questions.",
+        "options": [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 183
+      },
+      {
+        "question": "He ______ clean the car every day.",
+        "correctAnswer": "doesn't",
+        "arabicReason": "مع (He) في النفي نستخدم (doesn't).",
+        "englishReason": "With 'He', we use 'doesn't' in the simple present negative.",
+        "options": [
+          "don't",
+          "doesn't",
+          "isn't",
+          "aren't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 184
+      },
+      {
+        "question": "The taps ______ clean.",
+        "correctAnswer": "are",
+        "arabicReason": "مع الفاعل الجمع (taps) نستخدم (are).",
+        "englishReason": "We use 'are' with the plural subject 'taps'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "does"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 185
+      },
+      {
+        "question": "I ______ careful with water.",
+        "correctAnswer": "am",
+        "arabicReason": "مع (I) نستخدم (am).",
+        "englishReason": "We use 'am' with 'I'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "do"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 186
+      },
+      {
+        "question": "The tap ______ open.",
+        "correctAnswer": "is",
+        "arabicReason": "مع الفاعل المفرد (The tap) نستخدم (is).",
+        "englishReason": "We use 'is' with the singular subject 'The tap'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "does"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 187
+      },
+      {
+        "question": "Children ______ waste water.",
+        "correctAnswer": "don't",
+        "arabicReason": "مع الفاعل الجمع (Children) نستخدم (don't).",
+        "englishReason": "With the plural subject 'Children', we use 'don't'.",
+        "options": [
+          "don't",
+          "doesn't",
+          "isn't",
+          "aren't"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 188
       }
     ],
     "justtalk": [
@@ -8745,6 +9891,132 @@
         "curriculum": "OL",
         "unit": "11",
         "id": 46
+      },
+      {
+        "sentences": [
+          {
+            "text": "My mother is the most important person in my life.",
+            "target": "My mother is the most important person in my life."
+          },
+          {
+            "text": "She is kind, loving, and caring.",
+            "target": "She is kind, loving, and caring."
+          },
+          {
+            "text": "She always cares about our family.",
+            "target": "She always cares about our family."
+          }
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 47
+      },
+      {
+        "sentences": [
+          {
+            "text": "Her smile makes our home warm and happy.",
+            "target": "Her smile makes our home warm and happy."
+          },
+          {
+            "text": "She always finds time to listen.",
+            "target": "She always finds time to listen."
+          },
+          {
+            "text": "She helps and guides me.",
+            "target": "She helps and guides me."
+          }
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 48
+      },
+      {
+        "sentences": [
+          {
+            "text": "She is my first teacher.",
+            "target": "She is my first teacher."
+          },
+          {
+            "text": "She is also my best friend.",
+            "target": "She is also my best friend."
+          },
+          {
+            "text": "I love my mom so much.",
+            "target": "I love my mom so much."
+          }
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 49
+      },
+      {
+        "sentences": [
+          {
+            "text": "Water is very important for our life.",
+            "target": "Water is very important for our life."
+          },
+          {
+            "text": "We use water every day.",
+            "target": "We use water every day."
+          },
+          {
+            "text": "We use water for drinking.",
+            "target": "We use water for drinking."
+          }
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 50
+      },
+      {
+        "sentences": [
+          {
+            "text": "My mother uses water for cooking.",
+            "target": "My mother uses water for cooking."
+          },
+          {
+            "text": "We use water for cleaning.",
+            "target": "We use water for cleaning."
+          },
+          {
+            "text": "Water is limited.",
+            "target": "Water is limited."
+          }
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 51
+      },
+      {
+        "sentences": [
+          {
+            "text": "We should save water.",
+            "target": "We should save water."
+          },
+          {
+            "text": "Turn off the tap.",
+            "target": "Turn off the tap."
+          },
+          {
+            "text": "Don't waste water.",
+            "target": "Don't waste water."
+          }
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 52
       }
     ],
     "Matching": [
@@ -10636,6 +11908,206 @@
         "curriculum": "OL",
         "unit": "11",
         "id": 184
+      },
+      {
+        "sentence": "my mother is the most important person in my life",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الخبر.",
+        "englishReason": "The correct order is: subject + verb to be + complement.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 185
+      },
+      {
+        "sentence": "she is kind loving and caring",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الصفات.",
+        "englishReason": "The correct order is: subject + verb to be + adjectives.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 186
+      },
+      {
+        "sentence": "she always cares about our family",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + ظرف التكرار + الفعل + المفعول به.",
+        "englishReason": "The correct order is: subject + adverb + verb + object.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 187
+      },
+      {
+        "sentence": "her smile makes our home warm and happy",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول به + الوصف.",
+        "englishReason": "The correct order is: subject + verb + object + description.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 188
+      },
+      {
+        "sentence": "she always finds time to listen",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + ظرف التكرار + الفعل + المفعول به.",
+        "englishReason": "The correct order is: subject + adverb + verb + object.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 189
+      },
+      {
+        "sentence": "she helps me when i need her",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is: subject + verb + object.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 190
+      },
+      {
+        "sentence": "she guides and supports me",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الأفعال + المفعول به.",
+        "englishReason": "The correct order is: subject + verbs + object.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 191
+      },
+      {
+        "sentence": "she is my first teacher",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الخبر.",
+        "englishReason": "The correct order is: subject + verb to be + complement.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 192
+      },
+      {
+        "sentence": "she is also my best friend",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الخبر.",
+        "englishReason": "The correct order is: subject + verb to be + complement.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 193
+      },
+      {
+        "sentence": "i love my mom so much",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is: subject + verb + object.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 194
+      },
+      {
+        "sentence": "water is very important for our life",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + فعل الكينونة + الخبر.",
+        "englishReason": "The correct order is subject + verb to be + complement.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 195
+      },
+      {
+        "sentence": "we use water every day",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + المفعول به + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb + object + time expression.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 196
+      },
+      {
+        "sentence": "we use water for drinking",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is subject + verb + object.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 197
+      },
+      {
+        "sentence": "my mother uses water for cooking",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is subject + verb + object.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 198
+      },
+      {
+        "sentence": "we use water for bathing",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is subject + verb + object.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 199
+      },
+      {
+        "sentence": "we use water for cleaning",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is subject + verb + object.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 200
+      },
+      {
+        "sentence": "water is limited",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + فعل الكينونة + الخبر.",
+        "englishReason": "The correct order is subject + verb to be + complement.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 201
+      },
+      {
+        "sentence": "we should save water",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل المساعد + الفعل + المفعول به.",
+        "englishReason": "The correct order is subject + modal verb + verb + object.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 202
+      },
+      {
+        "sentence": "turn off the tap",
+        "arabicReason": "الترتيب الصحيح هو الفعل + المفعول به.",
+        "englishReason": "The correct order is verb + object.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 203
+      },
+      {
+        "sentence": "don't waste water",
+        "arabicReason": "الترتيب الصحيح هو أداة النفي + الفعل + المفعول به.",
+        "englishReason": "The correct order is negative imperative + verb + object.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 204
       }
     ],
     "rewrite": [
@@ -11993,6 +13465,186 @@
         "curriculum": "OL",
         "unit": "11",
         "id": 112
+      },
+      {
+        "sentence": "My mother cares about our family.",
+        "targetWord": "father",
+        "correctAnswer": "My father cares about our family.",
+        "arabicReason": "استبدلنا كلمة (mother) بـ (father) مع بقاء الجملة في المضارع البسيط.",
+        "englishReason": "We replaced 'mother' with 'father' while keeping the sentence in the simple present.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 113
+      },
+      {
+        "sentence": "She helps me every day.",
+        "targetWord": "He",
+        "correctAnswer": "He helps me every day.",
+        "arabicReason": "غيّرنا الفاعل إلى (He)، ويبقى الفعل (helps) لأنه مفرد.",
+        "englishReason": "We changed the subject to 'He', and the verb remains 'helps' because it is singular.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 114
+      },
+      {
+        "sentence": "She supports me when I need her.",
+        "targetWord": "They",
+        "correctAnswer": "They support me when I need them.",
+        "arabicReason": "مع (They) نستخدم الفعل الأساسي (support)، ويتغير الضمير إلى (them).",
+        "englishReason": "With 'They', we use the base verb 'support' and change the pronoun to 'them'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 115
+      },
+      {
+        "sentence": "Her smile makes our home happy.",
+        "targetWord": "His",
+        "correctAnswer": "His smile makes our home happy.",
+        "arabicReason": "استبدلنا (Her) بـ (His) فقط.",
+        "englishReason": "We replaced 'Her' with 'His' only.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 116
+      },
+      {
+        "sentence": "She is my first teacher.",
+        "targetWord": "friend",
+        "correctAnswer": "She is my first friend.",
+        "arabicReason": "استبدلنا كلمة (teacher) بـ (friend).",
+        "englishReason": "We replaced 'teacher' with 'friend'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 117
+      },
+      {
+        "sentence": "She is my best friend.",
+        "targetWord": "teacher",
+        "correctAnswer": "She is my best teacher.",
+        "arabicReason": "استبدلنا كلمة (friend) بـ (teacher).",
+        "englishReason": "We replaced 'friend' with 'teacher'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 118
+      },
+      {
+        "sentence": "I love my mom very much.",
+        "targetWord": "dad",
+        "correctAnswer": "I love my dad very much.",
+        "arabicReason": "استبدلنا كلمة (mom) بـ (dad).",
+        "englishReason": "We replaced 'mom' with 'dad'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 119
+      },
+      {
+        "sentence": "My mother is kind and caring.",
+        "targetWord": "father",
+        "correctAnswer": "My father is kind and caring.",
+        "arabicReason": "استبدلنا كلمة (mother) بـ (father).",
+        "englishReason": "We replaced 'mother' with 'father'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 120
+      },
+      {
+        "sentence": "She always finds time to listen.",
+        "targetWord": "He",
+        "correctAnswer": "He always finds time to listen.",
+        "arabicReason": "غيّرنا الفاعل إلى (He)، ويبقى الفعل (finds).",
+        "englishReason": "We changed the subject to 'He', and the verb remains 'finds'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 121
+      },
+      {
+        "sentence": "My mother guides me every day.",
+        "targetWord": "teacher",
+        "correctAnswer": "My teacher guides me every day.",
+        "arabicReason": "استبدلنا كلمة (mother) بـ (teacher).",
+        "englishReason": "We replaced 'mother' with 'teacher'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 122
+      },
+      {
+        "sentence": "My mother uses water for cooking.",
+        "targetWord": "father",
+        "correctAnswer": "My father uses water for cooking.",
+        "arabicReason": "استبدلنا كلمة (mother) بـ (father) مع بقاء الجملة في المضارع البسيط.",
+        "englishReason": "We replaced 'mother' with 'father' while keeping the sentence in the simple present.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 123
+      },
+      {
+        "sentence": "She saves water every day.",
+        "targetWord": "They",
+        "correctAnswer": "They save water every day.",
+        "arabicReason": "مع (They) نستخدم الفعل الأساسي (save) بدون (s).",
+        "englishReason": "With 'They', we use the base verb 'save' without 's'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 124
+      },
+      {
+        "sentence": "He turns off the tap.",
+        "targetWord": "I",
+        "correctAnswer": "I turn off the tap.",
+        "arabicReason": "مع (I) نستخدم الفعل الأساسي (turn).",
+        "englishReason": "With 'I', we use the base verb 'turn'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 125
+      },
+      {
+        "sentence": "The tap is clean.",
+        "targetWord": "taps",
+        "correctAnswer": "The taps are clean.",
+        "arabicReason": "عند تحويل الفاعل إلى الجمع نستخدم (are) بدلًا من (is).",
+        "englishReason": "When the subject becomes plural, we use 'are' instead of 'is'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 126
+      },
+      {
+        "sentence": "She doesn't waste water.",
+        "targetWord": "We",
+        "correctAnswer": "We don't waste water.",
+        "arabicReason": "مع (We) نستخدم (don't) بدلًا من (doesn't).",
+        "englishReason": "With 'We', we use 'don't' instead of 'doesn't'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 127
       }
     ],
     "Scramble": [
@@ -14476,6 +16128,206 @@
         "curriculum": "OL",
         "unit": "11",
         "id": 310
+      },
+      {
+        "word": "mother",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 311
+      },
+      {
+        "word": "important",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 312
+      },
+      {
+        "word": "person",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 313
+      },
+      {
+        "word": "kind",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 314
+      },
+      {
+        "word": "loving",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 315
+      },
+      {
+        "word": "caring",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 316
+      },
+      {
+        "word": "family",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 317
+      },
+      {
+        "word": "smile",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 318
+      },
+      {
+        "word": "home",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 319
+      },
+      {
+        "word": "warm",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 320
+      },
+      {
+        "word": "happy",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 321
+      },
+      {
+        "word": "busy",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 322
+      },
+      {
+        "word": "guide",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 323
+      },
+      {
+        "word": "support",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 324
+      },
+      {
+        "word": "teacher",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 325
+      },
+      {
+        "word": "water",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 326
+      },
+      {
+        "word": "important",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 327
+      },
+      {
+        "word": "life",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 328
+      },
+      {
+        "word": "use",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 329
+      },
+      {
+        "word": "drinking",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 330
+      },
+      {
+        "word": "cooking",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 331
+      },
+      {
+        "word": "cleaning",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 332
+      },
+      {
+        "word": "save",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 333
+      },
+      {
+        "word": "tap",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 334
+      },
+      {
+        "word": "waste",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 335
       }
     ],
     "sequence": [
@@ -17267,6 +19119,206 @@
         "curriculum": "OL",
         "unit": "11",
         "id": 308
+      },
+      {
+        "word": "mother",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 309
+      },
+      {
+        "word": "important",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 310
+      },
+      {
+        "word": "person",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 311
+      },
+      {
+        "word": "kind",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 312
+      },
+      {
+        "word": "loving",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 313
+      },
+      {
+        "word": "caring",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 314
+      },
+      {
+        "word": "family",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 315
+      },
+      {
+        "word": "smile",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 316
+      },
+      {
+        "word": "home",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 317
+      },
+      {
+        "word": "warm",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 318
+      },
+      {
+        "word": "happy",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 319
+      },
+      {
+        "word": "busy",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 320
+      },
+      {
+        "word": "guide",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 321
+      },
+      {
+        "word": "support",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 322
+      },
+      {
+        "word": "teacher",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 323
+      },
+      {
+        "word": "water",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 324
+      },
+      {
+        "word": "important",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 325
+      },
+      {
+        "word": "life",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 326
+      },
+      {
+        "word": "use",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 327
+      },
+      {
+        "word": "drinking",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 328
+      },
+      {
+        "word": "cooking",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 329
+      },
+      {
+        "word": "cleaning",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 330
+      },
+      {
+        "word": "save",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 331
+      },
+      {
+        "word": "tap",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 332
+      },
+      {
+        "word": "waste",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 333
       }
     ],
     "Underline": [
@@ -18504,6 +20556,318 @@
         "curriculum": "OL",
         "unit": "11",
         "id": 86
+      },
+      {
+        "sentence": "My mother is the most important person in my life.",
+        "instruction": "Underline the adjectives:",
+        "correctWords": [
+          "important"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 102
+      },
+      {
+        "sentence": "She is kind, loving, and caring.",
+        "instruction": "Underline the adjectives:",
+        "correctWords": [
+          "kind",
+          "loving",
+          "caring"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 103
+      },
+      {
+        "sentence": "Her smile makes our home warm and happy.",
+        "instruction": "Underline the adjectives:",
+        "correctWords": [
+          "warm",
+          "happy"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 104
+      },
+      {
+        "sentence": "She is my first teacher.",
+        "instruction": "Underline the adjectives:",
+        "correctWords": [
+          "first"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 105
+      },
+      {
+        "sentence": "She is my best friend.",
+        "instruction": "Underline the adjectives:",
+        "correctWords": [
+          "best"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 106
+      },
+      {
+        "sentence": "My mother always helps me.",
+        "instruction": "Underline the verbs:",
+        "correctWords": [
+          "helps"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 107
+      },
+      {
+        "sentence": "She cares about our family.",
+        "instruction": "Underline the verbs:",
+        "correctWords": [
+          "cares"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 108
+      },
+      {
+        "sentence": "She finds time to listen.",
+        "instruction": "Underline the verbs:",
+        "correctWords": [
+          "finds",
+          "listen"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 109
+      },
+      {
+        "sentence": "She guides and supports me.",
+        "instruction": "Underline the verbs:",
+        "correctWords": [
+          "guides",
+          "supports"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 110
+      },
+      {
+        "sentence": "I love my mom so much.",
+        "instruction": "Underline the verbs:",
+        "correctWords": [
+          "love"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 111
+      },
+      {
+        "sentence": "My mother is kind and caring.",
+        "instruction": "Underline the pronouns:",
+        "correctWords": [],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 112
+      },
+      {
+        "sentence": "She always helps me.",
+        "instruction": "Underline the pronouns:",
+        "correctWords": [
+          "She",
+          "me"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 113
+      },
+      {
+        "sentence": "I love my mom.",
+        "instruction": "Underline the pronouns:",
+        "correctWords": [
+          "I",
+          "my"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 114
+      },
+      {
+        "sentence": "She is my best friend.",
+        "instruction": "Underline the pronouns:",
+        "correctWords": [
+          "She",
+          "my"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 115
+      },
+      {
+        "sentence": "She supports me when I need her.",
+        "instruction": "Underline the pronouns:",
+        "correctWords": [
+          "She",
+          "me",
+          "I",
+          "her"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 116
+      },
+      {
+        "sentence": "Water is very important for our life.",
+        "instruction": "Underline the adjectives:",
+        "correctWords": [
+          "important"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 117
+      },
+      {
+        "sentence": "Clean water is important.",
+        "instruction": "Underline the adjectives:",
+        "correctWords": [
+          "Clean",
+          "important"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 118
+      },
+      {
+        "sentence": "The small boy saves water.",
+        "instruction": "Underline the adjectives:",
+        "correctWords": [
+          "small"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 119
+      },
+      {
+        "sentence": "The blue bottle is full.",
+        "instruction": "Underline the adjectives:",
+        "correctWords": [
+          "blue",
+          "full"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 120
+      },
+      {
+        "sentence": "This clean room is beautiful.",
+        "instruction": "Underline the adjectives:",
+        "correctWords": [
+          "clean",
+          "beautiful"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 121
+      },
+      {
+        "sentence": "We use water every day.",
+        "instruction": "Underline the verbs:",
+        "correctWords": [
+          "use"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 122
+      },
+      {
+        "sentence": "My mother cooks every day.",
+        "instruction": "Underline the verbs:",
+        "correctWords": [
+          "cooks"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 123
+      },
+      {
+        "sentence": "She saves water at home.",
+        "instruction": "Underline the verbs:",
+        "correctWords": [
+          "saves"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 124
+      },
+      {
+        "sentence": "Turn off the tap.",
+        "instruction": "Underline the verbs:",
+        "correctWords": [
+          "Turn"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 125
+      },
+      {
+        "sentence": "Don't waste water.",
+        "instruction": "Underline the verbs:",
+        "correctWords": [
+          "waste"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 126
       }
     ],
     "vocab_listening_quiz": [
@@ -24134,6 +26498,431 @@
         "curriculum": "OL",
         "unit": "11",
         "id": 331
+      },
+      {
+        "word": "mother",
+        "meaning": "أم",
+        "options": [
+          "أم",
+          "أب",
+          "أخت",
+          "صديقة"
+        ],
+        "arabicReason": "الكلمة تعني 'أم'.",
+        "englishReason": "The word means 'mother'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 332
+      },
+      {
+        "word": "important",
+        "meaning": "مهم",
+        "options": [
+          "مهم",
+          "سريع",
+          "طويل",
+          "صغير"
+        ],
+        "arabicReason": "الكلمة تعني 'مهم'.",
+        "englishReason": "The word means 'important'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 333
+      },
+      {
+        "word": "person",
+        "meaning": "شخص",
+        "options": [
+          "شخص",
+          "مدينة",
+          "مدرسة",
+          "كتاب"
+        ],
+        "arabicReason": "الكلمة تعني 'شخص'.",
+        "englishReason": "The word means 'person'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 334
+      },
+      {
+        "word": "kind",
+        "meaning": "طيب",
+        "options": [
+          "طيب",
+          "غاضب",
+          "كسول",
+          "حزين"
+        ],
+        "arabicReason": "الكلمة تعني 'طيب'.",
+        "englishReason": "The word means 'kind'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 335
+      },
+      {
+        "word": "loving",
+        "meaning": "محب",
+        "options": [
+          "محب",
+          "مشغول",
+          "غني",
+          "قصير"
+        ],
+        "arabicReason": "الكلمة تعني 'محب'.",
+        "englishReason": "The word means 'loving'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 336
+      },
+      {
+        "word": "caring",
+        "meaning": "مهتم",
+        "options": [
+          "مهتم",
+          "مريض",
+          "جائع",
+          "ضعيف"
+        ],
+        "arabicReason": "الكلمة تعني 'مهتم'.",
+        "englishReason": "The word means 'caring'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 337
+      },
+      {
+        "word": "family",
+        "meaning": "عائلة",
+        "options": [
+          "عائلة",
+          "حديقة",
+          "شارع",
+          "فصل"
+        ],
+        "arabicReason": "الكلمة تعني 'عائلة'.",
+        "englishReason": "The word means 'family'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 338
+      },
+      {
+        "word": "smile",
+        "meaning": "ابتسامة",
+        "options": [
+          "ابتسامة",
+          "دمعة",
+          "ضحكة",
+          "هدية"
+        ],
+        "arabicReason": "الكلمة تعني 'ابتسامة'.",
+        "englishReason": "The word means 'smile'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 339
+      },
+      {
+        "word": "home",
+        "meaning": "منزل",
+        "options": [
+          "منزل",
+          "مدرسة",
+          "مستشفى",
+          "مكتبة"
+        ],
+        "arabicReason": "الكلمة تعني 'منزل'.",
+        "englishReason": "The word means 'home'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 340
+      },
+      {
+        "word": "warm",
+        "meaning": "دافئ",
+        "options": [
+          "دافئ",
+          "بارد",
+          "مظلم",
+          "مرتفع"
+        ],
+        "arabicReason": "الكلمة تعني 'دافئ'.",
+        "englishReason": "The word means 'warm'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 341
+      },
+      {
+        "word": "happy",
+        "meaning": "سعيد",
+        "options": [
+          "سعيد",
+          "غاضب",
+          "متعب",
+          "خائف"
+        ],
+        "arabicReason": "الكلمة تعني 'سعيد'.",
+        "englishReason": "The word means 'happy'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 342
+      },
+      {
+        "word": "busy",
+        "meaning": "مشغول",
+        "options": [
+          "مشغول",
+          "حر",
+          "بارد",
+          "هادئ"
+        ],
+        "arabicReason": "الكلمة تعني 'مشغول'.",
+        "englishReason": "The word means 'busy'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 343
+      },
+      {
+        "word": "guide",
+        "meaning": "يرشد",
+        "options": [
+          "يرشد",
+          "يجري",
+          "ينام",
+          "يضحك"
+        ],
+        "arabicReason": "الكلمة تعني 'يرشد'.",
+        "englishReason": "The word means 'guide'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 344
+      },
+      {
+        "word": "support",
+        "meaning": "يدعم",
+        "options": [
+          "يدعم",
+          "يترك",
+          "يكسر",
+          "يبيع"
+        ],
+        "arabicReason": "الكلمة تعني 'يدعم'.",
+        "englishReason": "The word means 'support'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 345
+      },
+      {
+        "word": "teacher",
+        "meaning": "معلم",
+        "options": [
+          "معلم",
+          "طبيب",
+          "مهندس",
+          "شرطي"
+        ],
+        "arabicReason": "الكلمة تعني 'معلم'.",
+        "englishReason": "The word means 'teacher'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 346
+      },
+      {
+        "word": "water",
+        "meaning": "ماء",
+        "options": [
+          "ماء",
+          "هواء",
+          "طعام",
+          "لبن"
+        ],
+        "arabicReason": "الكلمة تعني 'ماء' الذي نشربه كل يوم.",
+        "englishReason": "The word means 'water' - the liquid we drink every day.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 347
+      },
+      {
+        "word": "important",
+        "meaning": "مهم",
+        "options": [
+          "مهم",
+          "سريع",
+          "بارد",
+          "صغير"
+        ],
+        "arabicReason": "الكلمة تعني 'مهم' أي له قيمة كبيرة.",
+        "englishReason": "The word means 'important' - something of great value.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 348
+      },
+      {
+        "word": "life",
+        "meaning": "حياة",
+        "options": [
+          "حياة",
+          "مدرسة",
+          "مدينة",
+          "طريق"
+        ],
+        "arabicReason": "الكلمة تعني 'حياة'.",
+        "englishReason": "The word means 'life'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 349
+      },
+      {
+        "word": "use",
+        "meaning": "يستخدم",
+        "options": [
+          "يستخدم",
+          "يشرب",
+          "يلعب",
+          "يجري"
+        ],
+        "arabicReason": "الكلمة تعني 'يستخدم'.",
+        "englishReason": "The word means 'use'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 350
+      },
+      {
+        "word": "drinking",
+        "meaning": "الشرب",
+        "options": [
+          "الشرب",
+          "السباحة",
+          "الكتابة",
+          "القراءة"
+        ],
+        "arabicReason": "الكلمة تعني 'الشرب'.",
+        "englishReason": "The word means 'drinking'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 351
+      },
+      {
+        "word": "cooking",
+        "meaning": "الطبخ",
+        "options": [
+          "الطبخ",
+          "الغناء",
+          "الرسم",
+          "النوم"
+        ],
+        "arabicReason": "الكلمة تعني 'الطبخ'.",
+        "englishReason": "The word means 'cooking'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 352
+      },
+      {
+        "word": "cleaning",
+        "meaning": "التنظيف",
+        "options": [
+          "التنظيف",
+          "القراءة",
+          "اللعب",
+          "الجري"
+        ],
+        "arabicReason": "الكلمة تعني 'التنظيف'.",
+        "englishReason": "The word means 'cleaning'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 353
+      },
+      {
+        "word": "save",
+        "meaning": "يوفر",
+        "options": [
+          "يوفر",
+          "يهدر",
+          "يكسر",
+          "يغلق"
+        ],
+        "arabicReason": "الكلمة تعني 'يوفر' أو يحافظ على الشيء.",
+        "englishReason": "The word means 'save' - keep something and not waste it.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 354
+      },
+      {
+        "word": "tap",
+        "meaning": "صنبور",
+        "options": [
+          "صنبور",
+          "باب",
+          "نافذة",
+          "كرسي"
+        ],
+        "arabicReason": "الكلمة تعني 'صنبور الماء'.",
+        "englishReason": "The word means 'tap' - where water comes out.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 355
+      },
+      {
+        "word": "waste",
+        "meaning": "يهدر",
+        "options": [
+          "يهدر",
+          "يحافظ",
+          "ينظف",
+          "يشرب"
+        ],
+        "arabicReason": "الكلمة تعني 'يهدر' أي يستخدم بدون فائدة.",
+        "englishReason": "The word means 'waste' - use something carelessly.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 356
       }
     ],
     "vocab_quiz": [
@@ -29831,6 +32620,431 @@
         "curriculum": "OL",
         "unit": "11",
         "id": 354
+      },
+      {
+        "word": "mother",
+        "meaning": "أم",
+        "options": [
+          "أم",
+          "أب",
+          "أخت",
+          "صديقة"
+        ],
+        "arabicReason": "الكلمة تعني 'أم'.",
+        "englishReason": "The word means 'mother'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 355
+      },
+      {
+        "word": "important",
+        "meaning": "مهم",
+        "options": [
+          "مهم",
+          "سريع",
+          "طويل",
+          "صغير"
+        ],
+        "arabicReason": "الكلمة تعني 'مهم'.",
+        "englishReason": "The word means 'important'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 356
+      },
+      {
+        "word": "person",
+        "meaning": "شخص",
+        "options": [
+          "شخص",
+          "مدينة",
+          "مدرسة",
+          "كتاب"
+        ],
+        "arabicReason": "الكلمة تعني 'شخص'.",
+        "englishReason": "The word means 'person'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 357
+      },
+      {
+        "word": "kind",
+        "meaning": "طيب",
+        "options": [
+          "طيب",
+          "غاضب",
+          "كسول",
+          "حزين"
+        ],
+        "arabicReason": "الكلمة تعني 'طيب'.",
+        "englishReason": "The word means 'kind'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 358
+      },
+      {
+        "word": "loving",
+        "meaning": "محب",
+        "options": [
+          "محب",
+          "مشغول",
+          "غني",
+          "قصير"
+        ],
+        "arabicReason": "الكلمة تعني 'محب'.",
+        "englishReason": "The word means 'loving'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 359
+      },
+      {
+        "word": "caring",
+        "meaning": "مهتم",
+        "options": [
+          "مهتم",
+          "مريض",
+          "جائع",
+          "ضعيف"
+        ],
+        "arabicReason": "الكلمة تعني 'مهتم'.",
+        "englishReason": "The word means 'caring'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 360
+      },
+      {
+        "word": "family",
+        "meaning": "عائلة",
+        "options": [
+          "عائلة",
+          "حديقة",
+          "شارع",
+          "فصل"
+        ],
+        "arabicReason": "الكلمة تعني 'عائلة'.",
+        "englishReason": "The word means 'family'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 361
+      },
+      {
+        "word": "smile",
+        "meaning": "ابتسامة",
+        "options": [
+          "ابتسامة",
+          "دمعة",
+          "ضحكة",
+          "هدية"
+        ],
+        "arabicReason": "الكلمة تعني 'ابتسامة'.",
+        "englishReason": "The word means 'smile'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 362
+      },
+      {
+        "word": "home",
+        "meaning": "منزل",
+        "options": [
+          "منزل",
+          "مدرسة",
+          "مستشفى",
+          "مكتبة"
+        ],
+        "arabicReason": "الكلمة تعني 'منزل'.",
+        "englishReason": "The word means 'home'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 363
+      },
+      {
+        "word": "warm",
+        "meaning": "دافئ",
+        "options": [
+          "دافئ",
+          "بارد",
+          "مظلم",
+          "مرتفع"
+        ],
+        "arabicReason": "الكلمة تعني 'دافئ'.",
+        "englishReason": "The word means 'warm'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 364
+      },
+      {
+        "word": "happy",
+        "meaning": "سعيد",
+        "options": [
+          "سعيد",
+          "غاضب",
+          "متعب",
+          "خائف"
+        ],
+        "arabicReason": "الكلمة تعني 'سعيد'.",
+        "englishReason": "The word means 'happy'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 365
+      },
+      {
+        "word": "busy",
+        "meaning": "مشغول",
+        "options": [
+          "مشغول",
+          "حر",
+          "بارد",
+          "هادئ"
+        ],
+        "arabicReason": "الكلمة تعني 'مشغول'.",
+        "englishReason": "The word means 'busy'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 366
+      },
+      {
+        "word": "guide",
+        "meaning": "يرشد",
+        "options": [
+          "يرشد",
+          "يجري",
+          "ينام",
+          "يضحك"
+        ],
+        "arabicReason": "الكلمة تعني 'يرشد'.",
+        "englishReason": "The word means 'guide'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 367
+      },
+      {
+        "word": "support",
+        "meaning": "يدعم",
+        "options": [
+          "يدعم",
+          "يترك",
+          "يكسر",
+          "يبيع"
+        ],
+        "arabicReason": "الكلمة تعني 'يدعم'.",
+        "englishReason": "The word means 'support'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 368
+      },
+      {
+        "word": "teacher",
+        "meaning": "معلم",
+        "options": [
+          "معلم",
+          "طبيب",
+          "مهندس",
+          "شرطي"
+        ],
+        "arabicReason": "الكلمة تعني 'معلم'.",
+        "englishReason": "The word means 'teacher'.",
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 369
+      },
+      {
+        "word": "water",
+        "meaning": "ماء",
+        "options": [
+          "ماء",
+          "هواء",
+          "طعام",
+          "لبن"
+        ],
+        "arabicReason": "الكلمة تعني 'ماء' الذي نشربه كل يوم.",
+        "englishReason": "The word means 'water' - the liquid we drink every day.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 370
+      },
+      {
+        "word": "important",
+        "meaning": "مهم",
+        "options": [
+          "مهم",
+          "سريع",
+          "بارد",
+          "صغير"
+        ],
+        "arabicReason": "الكلمة تعني 'مهم' أي له قيمة كبيرة.",
+        "englishReason": "The word means 'important' - something of great value.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 371
+      },
+      {
+        "word": "life",
+        "meaning": "حياة",
+        "options": [
+          "حياة",
+          "مدرسة",
+          "مدينة",
+          "طريق"
+        ],
+        "arabicReason": "الكلمة تعني 'حياة'.",
+        "englishReason": "The word means 'life'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 372
+      },
+      {
+        "word": "use",
+        "meaning": "يستخدم",
+        "options": [
+          "يستخدم",
+          "يشرب",
+          "يلعب",
+          "يجري"
+        ],
+        "arabicReason": "الكلمة تعني 'يستخدم'.",
+        "englishReason": "The word means 'use'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 373
+      },
+      {
+        "word": "drinking",
+        "meaning": "الشرب",
+        "options": [
+          "الشرب",
+          "السباحة",
+          "الكتابة",
+          "القراءة"
+        ],
+        "arabicReason": "الكلمة تعني 'الشرب'.",
+        "englishReason": "The word means 'drinking'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 374
+      },
+      {
+        "word": "cooking",
+        "meaning": "الطبخ",
+        "options": [
+          "الطبخ",
+          "الغناء",
+          "الرسم",
+          "النوم"
+        ],
+        "arabicReason": "الكلمة تعني 'الطبخ'.",
+        "englishReason": "The word means 'cooking'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 375
+      },
+      {
+        "word": "cleaning",
+        "meaning": "التنظيف",
+        "options": [
+          "التنظيف",
+          "القراءة",
+          "اللعب",
+          "الجري"
+        ],
+        "arabicReason": "الكلمة تعني 'التنظيف'.",
+        "englishReason": "The word means 'cleaning'.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 376
+      },
+      {
+        "word": "save",
+        "meaning": "يوفر",
+        "options": [
+          "يوفر",
+          "يهدر",
+          "يكسر",
+          "يغلق"
+        ],
+        "arabicReason": "الكلمة تعني 'يوفر' أو يحافظ على الشيء.",
+        "englishReason": "The word means 'save' - keep something and not waste it.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 377
+      },
+      {
+        "word": "tap",
+        "meaning": "صنبور",
+        "options": [
+          "صنبور",
+          "باب",
+          "نافذة",
+          "كرسي"
+        ],
+        "arabicReason": "الكلمة تعني 'صنبور الماء'.",
+        "englishReason": "The word means 'tap' - where water comes out.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 378
+      },
+      {
+        "word": "waste",
+        "meaning": "يهدر",
+        "options": [
+          "يهدر",
+          "يحافظ",
+          "ينظف",
+          "يشرب"
+        ],
+        "arabicReason": "الكلمة تعني 'يهدر' أي يستخدم بدون فائدة.",
+        "englishReason": "The word means 'waste' - use something carelessly.",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 379
       }
     ],
     "what_do_you_hear": [
@@ -33019,6 +36233,286 @@
         "curriculum": "OL",
         "unit": "11",
         "id": 227
+      },
+      {
+        "sentence": "My mother is the most important person in my life.",
+        "options": [
+          "My mother is the most important person in my life.",
+          "My father is the most important person in my life.",
+          "My teacher is the most important person in my life.",
+          "My friend is the most important person in my life."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 228
+      },
+      {
+        "sentence": "She is kind, loving, and caring.",
+        "options": [
+          "She is kind, loving, and caring.",
+          "She is kind, funny, and caring.",
+          "She is kind, busy, and caring.",
+          "She is kind, strong, and caring."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 229
+      },
+      {
+        "sentence": "She always cares about our family.",
+        "options": [
+          "She always cares about our family.",
+          "She always cares about our school.",
+          "She always cares about our pets.",
+          "She always cares about our friends."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 230
+      },
+      {
+        "sentence": "Her smile makes our home warm and happy.",
+        "options": [
+          "Her smile makes our home warm and happy.",
+          "Her smile makes our home clean and quiet.",
+          "Her smile makes our home big and beautiful.",
+          "Her smile makes our home cold and dark."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 231
+      },
+      {
+        "sentence": "She always finds time to listen.",
+        "options": [
+          "She always finds time to listen.",
+          "She always finds time to sleep.",
+          "She always finds time to travel.",
+          "She always finds time to cook."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 232
+      },
+      {
+        "sentence": "She helps me when I need her.",
+        "options": [
+          "She helps me when I need her.",
+          "She calls me when I need her.",
+          "She visits me when I need her.",
+          "She thanks me when I need her."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 233
+      },
+      {
+        "sentence": "She is my first teacher.",
+        "options": [
+          "She is my first teacher.",
+          "She is my first doctor.",
+          "She is my first neighbor.",
+          "She is my first classmate."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 234
+      },
+      {
+        "sentence": "She is also my best friend.",
+        "options": [
+          "She is also my best friend.",
+          "She is also my best sister.",
+          "She is also my best cousin.",
+          "She is also my best teacher."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 235
+      },
+      {
+        "sentence": "I love my mom so much.",
+        "options": [
+          "I love my mom so much.",
+          "I miss my mom so much.",
+          "I call my mom every day.",
+          "I visit my mom every week."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 236
+      },
+      {
+        "sentence": "Kindness makes everyone happy.",
+        "options": [
+          "Kindness makes everyone happy.",
+          "Kindness makes everyone busy.",
+          "Kindness makes everyone tired.",
+          "Kindness makes everyone quiet."
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 237
+      },
+      {
+        "sentence": "Water is very important for our life.",
+        "options": [
+          "Water is very important for our life.",
+          "Water is very important for our school.",
+          "Water is very cold in our life.",
+          "Water is very clean for our family."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 238
+      },
+      {
+        "sentence": "We use water every day.",
+        "options": [
+          "We use water every day.",
+          "We drink milk every day.",
+          "We clean our room every day.",
+          "We play football every day."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 239
+      },
+      {
+        "sentence": "We use water for drinking.",
+        "options": [
+          "We use water for drinking.",
+          "We use water for sleeping.",
+          "We use water for reading.",
+          "We use water for drawing."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 240
+      },
+      {
+        "sentence": "My mother uses water for cooking.",
+        "options": [
+          "My mother uses water for cooking.",
+          "My mother uses water for washing.",
+          "My mother uses water for painting.",
+          "My mother uses water for dancing."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 241
+      },
+      {
+        "sentence": "We use water for cleaning.",
+        "options": [
+          "We use water for cleaning.",
+          "We use water for running.",
+          "We use water for singing.",
+          "We use water for writing."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 242
+      },
+      {
+        "sentence": "Water is limited.",
+        "options": [
+          "Water is limited.",
+          "Water is dirty.",
+          "Water is expensive.",
+          "Water is blue."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 243
+      },
+      {
+        "sentence": "We should save water.",
+        "options": [
+          "We should save water.",
+          "We should waste water.",
+          "We should drink juice.",
+          "We should wash cars."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 244
+      },
+      {
+        "sentence": "Turn off the tap.",
+        "options": [
+          "Turn off the tap.",
+          "Open the window.",
+          "Close the door.",
+          "Wash your hands."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 245
+      },
+      {
+        "sentence": "Don't waste water.",
+        "options": [
+          "Don't waste water.",
+          "Don't drink water.",
+          "Don't clean water.",
+          "Don't buy water."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 246
+      },
+      {
+        "sentence": "When you save water, you save your life.",
+        "options": [
+          "When you save water, you save your life.",
+          "When you drink water, you save money.",
+          "When you clean water, you save time.",
+          "When you waste water, you save your life."
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 247
       }
     ],
     "vocab_choose": [
@@ -36557,6 +40051,516 @@
         "curriculum": "OL",
         "unit": "11",
         "id": 208
+      },
+      {
+        "question": "My ______ is the most important person in my life.",
+        "correctAnswer": "mother",
+        "arabicReason": "نستخدم (mother) لأن الجملة تتحدث عن الأم.",
+        "englishReason": "We use 'mother' because the sentence is about a mother.",
+        "options": [
+          "mother",
+          "teacher",
+          "friend",
+          "doctor"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 209
+      },
+      {
+        "question": "She is a very ______ woman.",
+        "correctAnswer": "kind",
+        "arabicReason": "نستخدم (kind) لوصف الشخص الطيب.",
+        "englishReason": "We use 'kind' to describe a nice person.",
+        "options": [
+          "kind",
+          "cold",
+          "small",
+          "fast"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 210
+      },
+      {
+        "question": "She always cares about our ______.",
+        "correctAnswer": "family",
+        "arabicReason": "نستخدم (family) لأن الأم تهتم بعائلتها.",
+        "englishReason": "We use 'family' because a mother cares about her family.",
+        "options": [
+          "family",
+          "school",
+          "car",
+          "garden"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 211
+      },
+      {
+        "question": "Her ______ makes our home happy.",
+        "correctAnswer": "smile",
+        "arabicReason": "نستخدم (smile) لأن الابتسامة تجعل البيت سعيدًا.",
+        "englishReason": "We use 'smile' because a smile makes the home happy.",
+        "options": [
+          "smile",
+          "bag",
+          "chair",
+          "book"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 212
+      },
+      {
+        "question": "Our home is warm and ______.",
+        "correctAnswer": "happy",
+        "arabicReason": "نستخدم (happy) لأن الجملة تصف المنزل.",
+        "englishReason": "We use 'happy' to describe the home.",
+        "options": [
+          "happy",
+          "hungry",
+          "short",
+          "old"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 213
+      },
+      {
+        "question": "My mother is always ______ about our family.",
+        "correctAnswer": "caring",
+        "arabicReason": "نستخدم (caring) لأنها تهتم بعائلتها.",
+        "englishReason": "We use 'caring' because she cares about her family.",
+        "options": [
+          "caring",
+          "sleeping",
+          "driving",
+          "jumping"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 214
+      },
+      {
+        "question": "She finds time to ______ to me.",
+        "correctAnswer": "listen",
+        "arabicReason": "نستخدم (listen) لأنها تستمع إلي.",
+        "englishReason": "We use 'listen' because she listens to me.",
+        "options": [
+          "listen",
+          "paint",
+          "dance",
+          "climb"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 215
+      },
+      {
+        "question": "My mother always ______ me.",
+        "correctAnswer": "helps",
+        "arabicReason": "نستخدم (helps) لأن الأم تساعد أبناءها.",
+        "englishReason": "We use 'helps' because a mother helps her children.",
+        "options": [
+          "helps",
+          "breaks",
+          "throws",
+          "closes"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 216
+      },
+      {
+        "question": "She can ______ me when I am confused.",
+        "correctAnswer": "guide",
+        "arabicReason": "نستخدم (guide) لأنها ترشدني.",
+        "englishReason": "We use 'guide' because she shows me the right way.",
+        "options": [
+          "guide",
+          "kick",
+          "draw",
+          "wash"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 217
+      },
+      {
+        "question": "My parents always ______ me.",
+        "correctAnswer": "support",
+        "arabicReason": "نستخدم (support) لأن الوالدين يدعمان أبناءهما.",
+        "englishReason": "We use 'support' because parents support their children.",
+        "options": [
+          "support",
+          "forget",
+          "drop",
+          "carry"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 218
+      },
+      {
+        "question": "She is my first ______.",
+        "correctAnswer": "teacher",
+        "arabicReason": "نستخدم (teacher) لأن الأم هي أول معلم.",
+        "englishReason": "We use 'teacher' because a mother is our first teacher.",
+        "options": [
+          "teacher",
+          "pilot",
+          "farmer",
+          "driver"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 219
+      },
+      {
+        "question": "She is also my best ______.",
+        "correctAnswer": "friend",
+        "arabicReason": "نستخدم (friend) لأن الأم صديقة أيضًا.",
+        "englishReason": "We use 'friend' because she is also a friend.",
+        "options": [
+          "friend",
+          "brother",
+          "uncle",
+          "neighbor"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 220
+      },
+      {
+        "question": "I ______ my mom so much.",
+        "correctAnswer": "love",
+        "arabicReason": "نستخدم (love) لأننا نحب أمنا.",
+        "englishReason": "We use 'love' because we love our mothers.",
+        "options": [
+          "love",
+          "hate",
+          "clean",
+          "call"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 221
+      },
+      {
+        "question": "My mother is very ______, but she always finds time for me.",
+        "correctAnswer": "busy",
+        "arabicReason": "نستخدم (busy) لأنها مشغولة.",
+        "englishReason": "We use 'busy' because she has many things to do.",
+        "options": [
+          "busy",
+          "empty",
+          "late",
+          "weak"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 222
+      },
+      {
+        "question": "She is the most ______ person in my life.",
+        "correctAnswer": "important",
+        "arabicReason": "نستخدم (important) لأنها أهم شخص في حياتي.",
+        "englishReason": "We use 'important' because she is the most important person.",
+        "options": [
+          "important",
+          "expensive",
+          "slow",
+          "dirty"
+        ],
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 223
+      },
+      {
+        "question": "Water is very ______ for our life.",
+        "correctAnswer": "important",
+        "arabicReason": "نستخدم 'important' لأن الماء مهم لحياتنا.",
+        "englishReason": "We use 'important' because water is important for our life.",
+        "options": [
+          "important",
+          "small",
+          "cold",
+          "slow"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 224
+      },
+      {
+        "question": "We ______ water every day.",
+        "correctAnswer": "use",
+        "arabicReason": "نستخدم 'use' لأننا نستخدم الماء كل يوم.",
+        "englishReason": "We use 'use' because we use water every day.",
+        "options": [
+          "use",
+          "draw",
+          "paint",
+          "carry"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 225
+      },
+      {
+        "question": "We use water for ______.",
+        "correctAnswer": "drinking",
+        "arabicReason": "نستخدم 'drinking' لأن الماء يُشرب.",
+        "englishReason": "We use 'drinking' because water is for drinking.",
+        "options": [
+          "drinking",
+          "sleeping",
+          "running",
+          "reading"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 226
+      },
+      {
+        "question": "My mother uses water for ______.",
+        "correctAnswer": "cooking",
+        "arabicReason": "نستخدم 'cooking' لأن الماء يُستخدم في الطبخ.",
+        "englishReason": "We use 'cooking' because water is used for cooking.",
+        "options": [
+          "cooking",
+          "singing",
+          "drawing",
+          "jumping"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 227
+      },
+      {
+        "question": "We use water for ______ our hands.",
+        "correctAnswer": "cleaning",
+        "arabicReason": "نستخدم 'cleaning' لأن الماء يستخدم للتنظيف.",
+        "englishReason": "We use 'cleaning' because water is used for cleaning.",
+        "options": [
+          "cleaning",
+          "watching",
+          "playing",
+          "writing"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 228
+      },
+      {
+        "question": "Water is ______.",
+        "correctAnswer": "limited",
+        "arabicReason": "نستخدم 'limited' لأن كمية الماء ليست بلا نهاية.",
+        "englishReason": "We use 'limited' because water is not unlimited.",
+        "options": [
+          "limited",
+          "funny",
+          "cheap",
+          "empty"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 229
+      },
+      {
+        "question": "We should ______ water.",
+        "correctAnswer": "save",
+        "arabicReason": "نستخدم 'save' لأن علينا الحفاظ على الماء.",
+        "englishReason": "We use 'save' because we should save water.",
+        "options": [
+          "save",
+          "waste",
+          "throw",
+          "lose"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 230
+      },
+      {
+        "question": "Turn off the ______.",
+        "correctAnswer": "tap",
+        "arabicReason": "نستخدم 'tap' لأنها التي نغلقها لتوفير الماء.",
+        "englishReason": "We use 'tap' because we turn it off to save water.",
+        "options": [
+          "tap",
+          "chair",
+          "window",
+          "door"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 231
+      },
+      {
+        "question": "Don't ______ water.",
+        "correctAnswer": "waste",
+        "arabicReason": "نستخدم 'waste' لأننا لا يجب أن نهدر الماء.",
+        "englishReason": "We use 'waste' because we shouldn't waste water.",
+        "options": [
+          "waste",
+          "save",
+          "drink",
+          "clean"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 232
+      },
+      {
+        "question": "Use water ______.",
+        "correctAnswer": "wisely",
+        "arabicReason": "نستخدم 'wisely' لأن علينا استخدام الماء بحكمة.",
+        "englishReason": "We use 'wisely' because we should use water wisely.",
+        "options": [
+          "wisely",
+          "quickly",
+          "sadly",
+          "slowly"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 233
+      },
+      {
+        "question": "We need water every ______.",
+        "correctAnswer": "day",
+        "arabicReason": "نستخدم 'day' لأننا نحتاج الماء كل يوم.",
+        "englishReason": "We use 'day' because we need water every day.",
+        "options": [
+          "day",
+          "month",
+          "year",
+          "night"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 234
+      },
+      {
+        "question": "Water is important for our ______.",
+        "correctAnswer": "life",
+        "arabicReason": "نستخدم 'life' لأن الماء مهم للحياة.",
+        "englishReason": "We use 'life' because water is important for life.",
+        "options": [
+          "life",
+          "bag",
+          "table",
+          "pen"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 235
+      },
+      {
+        "question": "We use water for ______.",
+        "correctAnswer": "bathing",
+        "arabicReason": "نستخدم 'bathing' لأن الماء يستخدم للاستحمام.",
+        "englishReason": "We use 'bathing' because water is used for bathing.",
+        "options": [
+          "bathing",
+          "sleeping",
+          "reading",
+          "drawing"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 236
+      },
+      {
+        "question": "We use water for our daily ______.",
+        "correctAnswer": "needs",
+        "arabicReason": "نستخدم 'needs' لأن الماء ضروري لاحتياجاتنا اليومية.",
+        "englishReason": "We use 'needs' because water is needed for our daily needs.",
+        "options": [
+          "needs",
+          "games",
+          "songs",
+          "pictures"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 237
+      },
+      {
+        "question": "When you save water, you save your ______.",
+        "correctAnswer": "life",
+        "arabicReason": "نستخدم 'life' لأن توفير الماء يحافظ على الحياة.",
+        "englishReason": "We use 'life' because saving water helps save life.",
+        "options": [
+          "life",
+          "car",
+          "phone",
+          "book"
+        ],
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 238
       }
     ],
     "sentence": [],
