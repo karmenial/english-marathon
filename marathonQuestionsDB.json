@@ -2690,6 +2690,246 @@
         "curriculum": "OL",
         "unit": "12",
         "id": 176
+      },
+      {
+        "sentence": "She were happy yesterday.",
+        "errorWord": "were",
+        "correctWord": "was",
+        "arabicReason": "مع (She) نستخدم (was) وليس (were).",
+        "englishReason": "We use 'was' with 'She', not 'were'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 177
+      },
+      {
+        "sentence": "They was at home yesterday.",
+        "errorWord": "was",
+        "correctWord": "were",
+        "arabicReason": "مع (They) نستخدم (were).",
+        "englishReason": "We use 'were' with 'They'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 178
+      },
+      {
+        "sentence": "He didn't went to school yesterday.",
+        "errorWord": "went",
+        "correctWord": "go",
+        "arabicReason": "بعد (didn't) نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "After 'didn't', we use the base form of the verb.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 179
+      },
+      {
+        "sentence": "Did she visited her grandmother yesterday?",
+        "errorWord": "visited",
+        "correctWord": "visit",
+        "arabicReason": "بعد (Did) نستخدم الفعل في المصدر.",
+        "englishReason": "After 'Did', we use the base form of the verb.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 180
+      },
+      {
+        "sentence": "I were tired yesterday.",
+        "errorWord": "were",
+        "correctWord": "was",
+        "arabicReason": "مع (I) نستخدم (was).",
+        "englishReason": "We use 'was' with 'I'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 181
+      },
+      {
+        "sentence": "We was at the park yesterday.",
+        "errorWord": "was",
+        "correctWord": "were",
+        "arabicReason": "مع (We) نستخدم (were).",
+        "englishReason": "We use 'were' with 'We'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 182
+      },
+      {
+        "sentence": "He wasn't went to school yesterday.",
+        "errorWord": "went",
+        "correctWord": "at",
+        "arabicReason": "لا نستخدم wasn't مع فعل ماضٍ، بل مع الاسم أو المكان. الصحيح: He wasn't at school yesterday.",
+        "englishReason": "We don't use 'wasn't' with a past verb. The correct sentence is: He wasn't at school yesterday.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 183
+      },
+      {
+        "sentence": "Were she at home yesterday?",
+        "errorWord": "Were",
+        "correctWord": "Was",
+        "arabicReason": "مع (She) في السؤال نستخدم (Was).",
+        "englishReason": "We use 'Was' with 'She' in questions.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 184
+      },
+      {
+        "sentence": "Yesterday I go to the zoo.",
+        "errorWord": "go",
+        "correctWord": "went",
+        "arabicReason": "وجود yesterday يعني أن الجملة في الماضي.",
+        "englishReason": "'Yesterday' shows that the sentence should be in the simple past.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 185
+      },
+      {
+        "sentence": "My father travel last month.",
+        "errorWord": "travel",
+        "correctWord": "traveled",
+        "arabicReason": "مع last month نستخدم الفعل في الماضي.",
+        "englishReason": "With 'last month', we use the past form of the verb.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 186
+      },
+      {
+        "sentence": "She were happy yesterday.",
+        "errorWord": "were",
+        "correctWord": "was",
+        "arabicReason": "مع (She) نستخدم (was) وليس (were).",
+        "englishReason": "We use 'was' with 'She', not 'were'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 187
+      },
+      {
+        "sentence": "They was at home yesterday.",
+        "errorWord": "was",
+        "correctWord": "were",
+        "arabicReason": "مع (They) نستخدم (were).",
+        "englishReason": "We use 'were' with 'They'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 188
+      },
+      {
+        "sentence": "He didn't went to school yesterday.",
+        "errorWord": "went",
+        "correctWord": "go",
+        "arabicReason": "بعد (didn't) نستخدم الفعل في صورته الأساسية.",
+        "englishReason": "After 'didn't', we use the base form of the verb.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 189
+      },
+      {
+        "sentence": "Did she visited her grandmother yesterday?",
+        "errorWord": "visited",
+        "correctWord": "visit",
+        "arabicReason": "بعد (Did) نستخدم الفعل في المصدر.",
+        "englishReason": "After 'Did', we use the base form of the verb.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 190
+      },
+      {
+        "sentence": "I were tired yesterday.",
+        "errorWord": "were",
+        "correctWord": "was",
+        "arabicReason": "مع (I) نستخدم (was).",
+        "englishReason": "We use 'was' with 'I'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 191
+      },
+      {
+        "sentence": "We was at the park yesterday.",
+        "errorWord": "was",
+        "correctWord": "were",
+        "arabicReason": "مع (We) نستخدم (were).",
+        "englishReason": "We use 'were' with 'We'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 192
+      },
+      {
+        "sentence": "He wasn't went to school yesterday.",
+        "errorWord": "went",
+        "correctWord": "at",
+        "arabicReason": "لا نستخدم wasn't مع فعل ماضٍ، بل مع الاسم أو المكان. الصحيح: He wasn't at school yesterday.",
+        "englishReason": "We don't use 'wasn't' with a past verb. The correct sentence is: He wasn't at school yesterday.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 193
+      },
+      {
+        "sentence": "Were she at home yesterday?",
+        "errorWord": "Were",
+        "correctWord": "Was",
+        "arabicReason": "مع (She) في السؤال نستخدم (Was).",
+        "englishReason": "We use 'Was' with 'She' in questions.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 194
+      },
+      {
+        "sentence": "Yesterday I go to the zoo.",
+        "errorWord": "go",
+        "correctWord": "went",
+        "arabicReason": "وجود yesterday يعني أن الجملة في الماضي.",
+        "englishReason": "'Yesterday' shows that the sentence should be in the simple past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 195
+      },
+      {
+        "sentence": "My father travel last month.",
+        "errorWord": "travel",
+        "correctWord": "traveled",
+        "arabicReason": "مع last month نستخدم الفعل في الماضي.",
+        "englishReason": "With 'last month', we use the past form of the verb.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 196
       }
     ],
     "translate": [
@@ -5701,6 +5941,346 @@
         "curriculum": "OL",
         "unit": "12",
         "id": 177
+      },
+      {
+        "word": "I visited my grandmother yesterday.",
+        "meaning": "زرت جدتي أمس.",
+        "options": [
+          "زرت جدتي أمس.",
+          "زرت جدي أمس.",
+          "سأزور جدتي غدًا.",
+          "ذهبت إلى المدرسة أمس."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 178
+      },
+      {
+        "word": "We played football last week.",
+        "meaning": "لعبنا كرة القدم الأسبوع الماضي.",
+        "options": [
+          "لعبنا كرة القدم الأسبوع الماضي.",
+          "لعبنا كرة السلة الأسبوع الماضي.",
+          "نلعب كرة القدم كل أسبوع.",
+          "سنلعب كرة القدم الأسبوع القادم."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 179
+      },
+      {
+        "word": "He finished his homework two hours ago.",
+        "meaning": "أنهى واجبه منذ ساعتين.",
+        "options": [
+          "أنهى واجبه منذ ساعتين.",
+          "بدأ واجبه منذ ساعتين.",
+          "أنهى مشروعه أمس.",
+          "سينهي واجبه غدًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 180
+      },
+      {
+        "word": "People traveled by horses in the past.",
+        "meaning": "كان الناس يسافرون على الخيول في الماضي.",
+        "options": [
+          "كان الناس يسافرون على الخيول في الماضي.",
+          "يسافر الناس بالسيارات اليوم.",
+          "كان الناس يسافرون بالطائرات.",
+          "كان الناس يركبون الدراجات."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 181
+      },
+      {
+        "word": "I was very happy yesterday.",
+        "meaning": "كنت سعيدًا جدًا أمس.",
+        "options": [
+          "كنت سعيدًا جدًا أمس.",
+          "كنت متعبًا جدًا أمس.",
+          "أنا سعيد جدًا اليوم.",
+          "سأكون سعيدًا غدًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 182
+      },
+      {
+        "word": "They were at home yesterday.",
+        "meaning": "كانوا في المنزل أمس.",
+        "options": [
+          "كانوا في المنزل أمس.",
+          "كانوا في المدرسة أمس.",
+          "هم في المنزل الآن.",
+          "سيكونون في المنزل غدًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 183
+      },
+      {
+        "word": "He wasn't at home yesterday.",
+        "meaning": "لم يكن في المنزل أمس.",
+        "options": [
+          "لم يكن في المنزل أمس.",
+          "كان في المنزل أمس.",
+          "لم يكن في المدرسة أمس.",
+          "لن يكون في المنزل غدًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 184
+      },
+      {
+        "word": "Did you play football last week?",
+        "meaning": "هل لعبت كرة القدم الأسبوع الماضي؟",
+        "options": [
+          "هل لعبت كرة القدم الأسبوع الماضي؟",
+          "هل تلعب كرة القدم كل أسبوع؟",
+          "هل شاهدت كرة القدم الأسبوع الماضي؟",
+          "هل ستلعب كرة القدم الأسبوع القادم؟"
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 185
+      },
+      {
+        "word": "My father traveled last month.",
+        "meaning": "سافر والدي الشهر الماضي.",
+        "options": [
+          "سافر والدي الشهر الماضي.",
+          "سيُسافر والدي الشهر القادم.",
+          "يُسافر والدي كل شهر.",
+          "عمل والدي الشهر الماضي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 186
+      },
+      {
+        "word": "Dinosaurs lived in the past.",
+        "meaning": "عاشت الديناصورات في الماضي.",
+        "options": [
+          "عاشت الديناصورات في الماضي.",
+          "تعيش الديناصورات اليوم.",
+          "عاشت الديناصورات في الغابة.",
+          "عاشت الديناصورات العام الماضي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 187
+      },
+      {
+        "word": "I visited my grandmother yesterday.",
+        "meaning": "زرت جدتي أمس.",
+        "options": [
+          "زرت جدتي أمس.",
+          "زرت جدي أمس.",
+          "سأزور جدتي غدًا.",
+          "ذهبت إلى المدرسة أمس."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 188
+      },
+      {
+        "word": "We played football last week.",
+        "meaning": "لعبنا كرة القدم الأسبوع الماضي.",
+        "options": [
+          "لعبنا كرة القدم الأسبوع الماضي.",
+          "لعبنا كرة السلة الأسبوع الماضي.",
+          "نلعب كرة القدم كل أسبوع.",
+          "سنلعب كرة القدم الأسبوع القادم."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 189
+      },
+      {
+        "word": "He finished his homework two hours ago.",
+        "meaning": "أنهى واجبه منذ ساعتين.",
+        "options": [
+          "أنهى واجبه منذ ساعتين.",
+          "بدأ واجبه منذ ساعتين.",
+          "أنهى مشروعه أمس.",
+          "سينهي واجبه غدًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 190
+      },
+      {
+        "word": "People traveled by horses in the past.",
+        "meaning": "كان الناس يسافرون على الخيول في الماضي.",
+        "options": [
+          "كان الناس يسافرون على الخيول في الماضي.",
+          "يسافر الناس بالسيارات اليوم.",
+          "كان الناس يسافرون بالطائرات.",
+          "كان الناس يركبون الدراجات."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 191
+      },
+      {
+        "word": "I was very happy yesterday.",
+        "meaning": "كنت سعيدًا جدًا أمس.",
+        "options": [
+          "كنت سعيدًا جدًا أمس.",
+          "كنت متعبًا جدًا أمس.",
+          "أنا سعيد جدًا اليوم.",
+          "سأكون سعيدًا غدًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 192
+      },
+      {
+        "word": "They were at home yesterday.",
+        "meaning": "كانوا في المنزل أمس.",
+        "options": [
+          "كانوا في المنزل أمس.",
+          "كانوا في المدرسة أمس.",
+          "هم في المنزل الآن.",
+          "سيكونون في المنزل غدًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 193
+      },
+      {
+        "word": "He wasn't at home yesterday.",
+        "meaning": "لم يكن في المنزل أمس.",
+        "options": [
+          "لم يكن في المنزل أمس.",
+          "كان في المنزل أمس.",
+          "لم يكن في المدرسة أمس.",
+          "لن يكون في المنزل غدًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 194
+      },
+      {
+        "word": "Did you play football last week?",
+        "meaning": "هل لعبت كرة القدم الأسبوع الماضي؟",
+        "options": [
+          "هل لعبت كرة القدم الأسبوع الماضي؟",
+          "هل تلعب كرة القدم كل أسبوع؟",
+          "هل شاهدت كرة القدم الأسبوع الماضي؟",
+          "هل ستلعب كرة القدم الأسبوع القادم؟"
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 195
+      },
+      {
+        "word": "My father traveled last month.",
+        "meaning": "سافر والدي الشهر الماضي.",
+        "options": [
+          "سافر والدي الشهر الماضي.",
+          "سيُسافر والدي الشهر القادم.",
+          "يُسافر والدي كل شهر.",
+          "عمل والدي الشهر الماضي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 196
+      },
+      {
+        "word": "Dinosaurs lived in the past.",
+        "meaning": "عاشت الديناصورات في الماضي.",
+        "options": [
+          "عاشت الديناصورات في الماضي.",
+          "تعيش الديناصورات اليوم.",
+          "عاشت الديناصورات في الغابة.",
+          "عاشت الديناصورات العام الماضي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 197
       }
     ],
     "find_the_vowel": [
@@ -8914,6 +9494,516 @@
         "curriculum": "OL",
         "unit": "12",
         "id": 188
+      },
+      {
+        "question": "I ______ happy yesterday.",
+        "correctAnswer": "was",
+        "arabicReason": "مع (I) في الماضي نستخدم (was).",
+        "englishReason": "We use 'was' with 'I' in the simple past.",
+        "options": [
+          "am",
+          "is",
+          "was",
+          "were"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 189
+      },
+      {
+        "question": "They ______ at home yesterday.",
+        "correctAnswer": "were",
+        "arabicReason": "مع (They) نستخدم (were).",
+        "englishReason": "We use 'were' with 'They'.",
+        "options": [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 190
+      },
+      {
+        "question": "She ______ at school yesterday.",
+        "correctAnswer": "was",
+        "arabicReason": "مع (She) نستخدم (was).",
+        "englishReason": "We use 'was' with 'She'.",
+        "options": [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 191
+      },
+      {
+        "question": "We ______ very tired after the match.",
+        "correctAnswer": "were",
+        "arabicReason": "مع (We) نستخدم (were).",
+        "englishReason": "We use 'were' with 'We'.",
+        "options": [
+          "was",
+          "were",
+          "am",
+          "is"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 192
+      },
+      {
+        "question": "He ______ at home yesterday.",
+        "correctAnswer": "wasn't",
+        "arabicReason": "نستخدم (wasn't) لنفي was.",
+        "englishReason": "We use 'wasn't' to make a negative sentence.",
+        "options": [
+          "wasn't",
+          "weren't",
+          "didn't",
+          "don't"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 193
+      },
+      {
+        "question": "They ______ at school yesterday.",
+        "correctAnswer": "weren't",
+        "arabicReason": "نستخدم (weren't) مع الجمع.",
+        "englishReason": "We use 'weren't' with plural subjects.",
+        "options": [
+          "wasn't",
+          "weren't",
+          "didn't",
+          "doesn't"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 194
+      },
+      {
+        "question": "______ you at the zoo yesterday?",
+        "correctAnswer": "Were",
+        "arabicReason": "مع (you) نستخدم (Were) في السؤال.",
+        "englishReason": "We use 'Were' with 'you' in questions.",
+        "options": [
+          "Was",
+          "Were",
+          "Did",
+          "Do"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 195
+      },
+      {
+        "question": "______ she happy yesterday?",
+        "correctAnswer": "Was",
+        "arabicReason": "مع (she) نستخدم (Was) في السؤال.",
+        "englishReason": "We use 'Was' with 'she' in questions.",
+        "options": [
+          "Was",
+          "Were",
+          "Did",
+          "Do"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 196
+      },
+      {
+        "question": "______ you visit your grandmother yesterday?",
+        "correctAnswer": "Did",
+        "arabicReason": "نستخدم (Did) للسؤال في الماضي البسيط.",
+        "englishReason": "We use 'Did' to ask questions in the simple past.",
+        "options": [
+          "Did",
+          "Do",
+          "Does",
+          "Were"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 197
+      },
+      {
+        "question": "He ______ play football yesterday.",
+        "correctAnswer": "didn't",
+        "arabicReason": "نستخدم (didn't) مع الفعل الأساسي.",
+        "englishReason": "We use 'didn't' with the base verb.",
+        "options": [
+          "didn't",
+          "doesn't",
+          "wasn't",
+          "weren't"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 198
+      },
+      {
+        "question": "She visited her aunt ______.",
+        "correctAnswer": "yesterday",
+        "arabicReason": "Yesterday من علامات الماضي البسيط.",
+        "englishReason": "'Yesterday' is a signal word for the simple past.",
+        "options": [
+          "yesterday",
+          "tomorrow",
+          "today",
+          "now"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 199
+      },
+      {
+        "question": "My father traveled ______ month.",
+        "correctAnswer": "last",
+        "arabicReason": "نستخدم last مع month.",
+        "englishReason": "We use 'last' with 'month'.",
+        "options": [
+          "last",
+          "next",
+          "this",
+          "every"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 200
+      },
+      {
+        "question": "We finished the lesson two hours ______.",
+        "correctAnswer": "ago",
+        "arabicReason": "نستخدم ago مع مدة زمنية.",
+        "englishReason": "We use 'ago' with a period of time.",
+        "options": [
+          "ago",
+          "later",
+          "tomorrow",
+          "before"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 201
+      },
+      {
+        "question": "People traveled by horses ______.",
+        "correctAnswer": "in the past",
+        "arabicReason": "تستخدم in the past للحديث عن الماضي.",
+        "englishReason": "We use 'in the past' to talk about the past.",
+        "options": [
+          "in the past",
+          "today",
+          "tomorrow",
+          "every day"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 202
+      },
+      {
+        "question": "______ they play football last week?",
+        "correctAnswer": "Did",
+        "arabicReason": "نستخدم (Did) للسؤال عن فعل في الماضي.",
+        "englishReason": "We use 'Did' to ask about past actions.",
+        "options": [
+          "Did",
+          "Do",
+          "Does",
+          "Were"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 203
+      },
+      {
+        "question": "I ______ happy yesterday.",
+        "correctAnswer": "was",
+        "arabicReason": "مع (I) في الماضي نستخدم (was).",
+        "englishReason": "We use 'was' with 'I' in the simple past.",
+        "options": [
+          "am",
+          "is",
+          "was",
+          "were"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 204
+      },
+      {
+        "question": "They ______ at home yesterday.",
+        "correctAnswer": "were",
+        "arabicReason": "مع (They) نستخدم (were).",
+        "englishReason": "We use 'were' with 'They'.",
+        "options": [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 205
+      },
+      {
+        "question": "She ______ at school yesterday.",
+        "correctAnswer": "was",
+        "arabicReason": "مع (She) نستخدم (was).",
+        "englishReason": "We use 'was' with 'She'.",
+        "options": [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 206
+      },
+      {
+        "question": "We ______ very tired after the match.",
+        "correctAnswer": "were",
+        "arabicReason": "مع (We) نستخدم (were).",
+        "englishReason": "We use 'were' with 'We'.",
+        "options": [
+          "was",
+          "were",
+          "am",
+          "is"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 207
+      },
+      {
+        "question": "He ______ at home yesterday.",
+        "correctAnswer": "wasn't",
+        "arabicReason": "نستخدم (wasn't) لنفي was.",
+        "englishReason": "We use 'wasn't' to make a negative sentence.",
+        "options": [
+          "wasn't",
+          "weren't",
+          "didn't",
+          "don't"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 208
+      },
+      {
+        "question": "They ______ at school yesterday.",
+        "correctAnswer": "weren't",
+        "arabicReason": "نستخدم (weren't) مع الجمع.",
+        "englishReason": "We use 'weren't' with plural subjects.",
+        "options": [
+          "wasn't",
+          "weren't",
+          "didn't",
+          "doesn't"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 209
+      },
+      {
+        "question": "______ you at the zoo yesterday?",
+        "correctAnswer": "Were",
+        "arabicReason": "مع (you) نستخدم (Were) في السؤال.",
+        "englishReason": "We use 'Were' with 'you' in questions.",
+        "options": [
+          "Was",
+          "Were",
+          "Did",
+          "Do"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 210
+      },
+      {
+        "question": "______ she happy yesterday?",
+        "correctAnswer": "Was",
+        "arabicReason": "مع (she) نستخدم (Was) في السؤال.",
+        "englishReason": "We use 'Was' with 'she' in questions.",
+        "options": [
+          "Was",
+          "Were",
+          "Did",
+          "Do"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 211
+      },
+      {
+        "question": "______ you visit your grandmother yesterday?",
+        "correctAnswer": "Did",
+        "arabicReason": "نستخدم (Did) للسؤال في الماضي البسيط.",
+        "englishReason": "We use 'Did' to ask questions in the simple past.",
+        "options": [
+          "Did",
+          "Do",
+          "Does",
+          "Were"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 212
+      },
+      {
+        "question": "He ______ play football yesterday.",
+        "correctAnswer": "didn't",
+        "arabicReason": "نستخدم (didn't) مع الفعل الأساسي.",
+        "englishReason": "We use 'didn't' with the base verb.",
+        "options": [
+          "didn't",
+          "doesn't",
+          "wasn't",
+          "weren't"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 213
+      },
+      {
+        "question": "She visited her aunt ______.",
+        "correctAnswer": "yesterday",
+        "arabicReason": "Yesterday من علامات الماضي البسيط.",
+        "englishReason": "'Yesterday' is a signal word for the simple past.",
+        "options": [
+          "yesterday",
+          "tomorrow",
+          "today",
+          "now"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 214
+      },
+      {
+        "question": "My father traveled ______ month.",
+        "correctAnswer": "last",
+        "arabicReason": "نستخدم last مع month.",
+        "englishReason": "We use 'last' with 'month'.",
+        "options": [
+          "last",
+          "next",
+          "this",
+          "every"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 215
+      },
+      {
+        "question": "We finished the lesson two hours ______.",
+        "correctAnswer": "ago",
+        "arabicReason": "نستخدم ago مع مدة زمنية.",
+        "englishReason": "We use 'ago' with a period of time.",
+        "options": [
+          "ago",
+          "later",
+          "tomorrow",
+          "before"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 216
+      },
+      {
+        "question": "People traveled by horses ______.",
+        "correctAnswer": "in the past",
+        "arabicReason": "تستخدم in the past للحديث عن الماضي.",
+        "englishReason": "We use 'in the past' to talk about the past.",
+        "options": [
+          "in the past",
+          "today",
+          "tomorrow",
+          "every day"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 217
+      },
+      {
+        "question": "______ they play football last week?",
+        "correctAnswer": "Did",
+        "arabicReason": "نستخدم (Did) للسؤال عن فعل في الماضي.",
+        "englishReason": "We use 'Did' to ask about past actions.",
+        "options": [
+          "Did",
+          "Do",
+          "Does",
+          "Were"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 218
       }
     ],
     "justtalk": [
@@ -10017,6 +11107,132 @@
         "curriculum": "OL",
         "unit": "12",
         "id": 52
+      },
+      {
+        "sentences": [
+          {
+            "text": "I visited my grandmother yesterday.",
+            "target": "I visited my grandmother yesterday."
+          },
+          {
+            "text": "We played football last week.",
+            "target": "We played football last week."
+          },
+          {
+            "text": "He finished his homework two hours ago.",
+            "target": "He finished his homework two hours ago."
+          }
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 53
+      },
+      {
+        "sentences": [
+          {
+            "text": "People traveled by horses in the past.",
+            "target": "People traveled by horses in the past."
+          },
+          {
+            "text": "I was very happy yesterday.",
+            "target": "I was very happy yesterday."
+          },
+          {
+            "text": "They were at home yesterday.",
+            "target": "They were at home yesterday."
+          }
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 54
+      },
+      {
+        "sentences": [
+          {
+            "text": "He wasn't at home yesterday.",
+            "target": "He wasn't at home yesterday."
+          },
+          {
+            "text": "My father traveled last month.",
+            "target": "My father traveled last month."
+          },
+          {
+            "text": "Dinosaurs lived in the past.",
+            "target": "Dinosaurs lived in the past."
+          }
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 55
+      },
+      {
+        "sentences": [
+          {
+            "text": "I visited my grandmother yesterday.",
+            "target": "I visited my grandmother yesterday."
+          },
+          {
+            "text": "We played football last week.",
+            "target": "We played football last week."
+          },
+          {
+            "text": "He finished his homework two hours ago.",
+            "target": "He finished his homework two hours ago."
+          }
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 56
+      },
+      {
+        "sentences": [
+          {
+            "text": "People traveled by horses in the past.",
+            "target": "People traveled by horses in the past."
+          },
+          {
+            "text": "I was very happy yesterday.",
+            "target": "I was very happy yesterday."
+          },
+          {
+            "text": "They were at home yesterday.",
+            "target": "They were at home yesterday."
+          }
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 57
+      },
+      {
+        "sentences": [
+          {
+            "text": "He wasn't at home yesterday.",
+            "target": "He wasn't at home yesterday."
+          },
+          {
+            "text": "My father traveled last month.",
+            "target": "My father traveled last month."
+          },
+          {
+            "text": "Dinosaurs lived in the past.",
+            "target": "Dinosaurs lived in the past."
+          }
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 58
       }
     ],
     "Matching": [
@@ -12108,6 +13324,206 @@
         "curriculum": "OL",
         "unit": "12",
         "id": 204
+      },
+      {
+        "sentence": "i visited my grandmother yesterday",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + المفعول به + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb + object + time expression.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 205
+      },
+      {
+        "sentence": "we played football last week",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + المفعول به + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb + object + time expression.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 206
+      },
+      {
+        "sentence": "he finished his homework two hours ago",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + المفعول به + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb + object + time expression.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 207
+      },
+      {
+        "sentence": "people traveled by horses in the past",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + شبه الجملة + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb + prepositional phrase + time expression.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 208
+      },
+      {
+        "sentence": "i was very happy yesterday",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + فعل الكينونة + الخبر + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb to be + complement + time expression.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 209
+      },
+      {
+        "sentence": "they were at home yesterday",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + فعل الكينونة + شبه الجملة + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb to be + place + time expression.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 210
+      },
+      {
+        "sentence": "he wasn't at home yesterday",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + فعل الكينونة المنفي + شبه الجملة + ظرف الزمان.",
+        "englishReason": "The correct order is subject + negative verb to be + place + time expression.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 211
+      },
+      {
+        "sentence": "did you play football last week",
+        "arabicReason": "في السؤال نبدأ بالفعل المساعد ثم الفاعل ثم الفعل الأساسي.",
+        "englishReason": "In questions, the auxiliary verb comes first, then the subject, then the base verb.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 212
+      },
+      {
+        "sentence": "my father traveled last month",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb + time expression.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 213
+      },
+      {
+        "sentence": "dinosaurs lived in the past",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb + time expression.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 214
+      },
+      {
+        "sentence": "i visited my grandmother yesterday",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + المفعول به + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb + object + time expression.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 215
+      },
+      {
+        "sentence": "we played football last week",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + المفعول به + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb + object + time expression.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 216
+      },
+      {
+        "sentence": "he finished his homework two hours ago",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + المفعول به + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb + object + time expression.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 217
+      },
+      {
+        "sentence": "people traveled by horses in the past",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + شبه الجملة + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb + prepositional phrase + time expression.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 218
+      },
+      {
+        "sentence": "i was very happy yesterday",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + فعل الكينونة + الخبر + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb to be + complement + time expression.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 219
+      },
+      {
+        "sentence": "they were at home yesterday",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + فعل الكينونة + شبه الجملة + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb to be + place + time expression.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 220
+      },
+      {
+        "sentence": "he wasn't at home yesterday",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + فعل الكينونة المنفي + شبه الجملة + ظرف الزمان.",
+        "englishReason": "The correct order is subject + negative verb to be + place + time expression.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 221
+      },
+      {
+        "sentence": "did you play football last week",
+        "arabicReason": "في السؤال نبدأ بالفعل المساعد ثم الفاعل ثم الفعل الأساسي.",
+        "englishReason": "In questions, the auxiliary verb comes first, then the subject, then the base verb.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 222
+      },
+      {
+        "sentence": "my father traveled last month",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb + time expression.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 223
+      },
+      {
+        "sentence": "dinosaurs lived in the past",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + الفعل + ظرف الزمان.",
+        "englishReason": "The correct order is subject + verb + time expression.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 224
       }
     ],
     "rewrite": [
@@ -13645,6 +15061,126 @@
         "curriculum": "OL",
         "unit": "12",
         "id": 127
+      },
+      {
+        "sentence": "She visits her grandmother every week.",
+        "targetWord": "visited",
+        "correctAnswer": "She visited her grandmother last week.",
+        "arabicReason": "نستخدم الفعل الماضي (visited) مع علامة الماضي (last week).",
+        "englishReason": "We use the past verb 'visited' with the past time marker 'last week'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 128
+      },
+      {
+        "sentence": "They are at home today.",
+        "targetWord": "were",
+        "correctAnswer": "They were at home yesterday.",
+        "arabicReason": "نستخدم (were) لأن الجملة أصبحت في الماضي مع الفاعل الجمع.",
+        "englishReason": "We use 'were' because the sentence is now in the past with a plural subject.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 129
+      },
+      {
+        "sentence": "He goes to school every day.",
+        "targetWord": "went",
+        "correctAnswer": "He went to school yesterday.",
+        "arabicReason": "نستخدم (went) بدلاً من (goes) لأن الجملة أصبحت في الماضي.",
+        "englishReason": "We use 'went' instead of 'goes' because the sentence is now in the past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 130
+      },
+      {
+        "sentence": "I am very happy today.",
+        "targetWord": "was",
+        "correctAnswer": "I was very happy yesterday.",
+        "arabicReason": "نستخدم (was) مع (I) عند تحويل الجملة إلى الماضي.",
+        "englishReason": "We use 'was' with 'I' when changing the sentence to the past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 131
+      },
+      {
+        "sentence": "We play football every Friday.",
+        "targetWord": "played",
+        "correctAnswer": "We played football last Friday.",
+        "arabicReason": "نستخدم (played) مع علامة الماضي (last Friday).",
+        "englishReason": "We use 'played' with the past time marker 'last Friday'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 132
+      },
+      {
+        "sentence": "She visits her grandmother every week.",
+        "targetWord": "visited",
+        "correctAnswer": "She visited her grandmother last week.",
+        "arabicReason": "نستخدم الفعل الماضي (visited) مع علامة الماضي (last week).",
+        "englishReason": "We use the past verb 'visited' with the past time marker 'last week'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 133
+      },
+      {
+        "sentence": "They are at home today.",
+        "targetWord": "were",
+        "correctAnswer": "They were at home yesterday.",
+        "arabicReason": "نستخدم (were) لأن الجملة أصبحت في الماضي مع الفاعل الجمع.",
+        "englishReason": "We use 'were' because the sentence is now in the past with a plural subject.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 134
+      },
+      {
+        "sentence": "He goes to school every day.",
+        "targetWord": "went",
+        "correctAnswer": "He went to school yesterday.",
+        "arabicReason": "نستخدم (went) بدلاً من (goes) لأن الجملة أصبحت في الماضي.",
+        "englishReason": "We use 'went' instead of 'goes' because the sentence is now in the past.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 135
+      },
+      {
+        "sentence": "I am very happy today.",
+        "targetWord": "was",
+        "correctAnswer": "I was very happy yesterday.",
+        "arabicReason": "نستخدم (was) مع (I) عند تحويل الجملة إلى الماضي.",
+        "englishReason": "We use 'was' with 'I' when changing the sentence to the past.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 136
+      },
+      {
+        "sentence": "We play football every Friday.",
+        "targetWord": "played",
+        "correctAnswer": "We played football last Friday.",
+        "arabicReason": "نستخدم (played) مع علامة الماضي (last Friday).",
+        "englishReason": "We use 'played' with the past time marker 'last Friday'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 137
       }
     ],
     "Scramble": [
@@ -16328,6 +17864,438 @@
         "curriculum": "OL",
         "unit": "12",
         "id": 335
+      },
+      {
+        "word": "go",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 336
+      },
+      {
+        "word": "went",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 337
+      },
+      {
+        "word": "eat",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 338
+      },
+      {
+        "word": "ate",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 339
+      },
+      {
+        "word": "drink",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 340
+      },
+      {
+        "word": "drank",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 341
+      },
+      {
+        "word": "read",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 342
+      },
+      {
+        "word": "write",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 343
+      },
+      {
+        "word": "wrote",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 344
+      },
+      {
+        "word": "come",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 345
+      },
+      {
+        "word": "came",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 346
+      },
+      {
+        "word": "help",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 347
+      },
+      {
+        "word": "helped",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 348
+      },
+      {
+        "word": "sleep",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 349
+      },
+      {
+        "word": "slept",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 350
+      },
+      {
+        "word": "see",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 351
+      },
+      {
+        "word": "saw",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 352
+      },
+      {
+        "word": "take",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 353
+      },
+      {
+        "word": "took",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 354
+      },
+      {
+        "word": "give",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 355
+      },
+      {
+        "word": "gave",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 356
+      },
+      {
+        "word": "learn",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 357
+      },
+      {
+        "word": "learned",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 358
+      },
+      {
+        "word": "yesterday",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 359
+      },
+      {
+        "word": "last",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 360
+      },
+      {
+        "word": "ago",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 361
+      },
+      {
+        "word": "past",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 362
+      },
+      {
+        "word": "go",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 363
+      },
+      {
+        "word": "went",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 364
+      },
+      {
+        "word": "eat",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 365
+      },
+      {
+        "word": "ate",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 366
+      },
+      {
+        "word": "drink",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 367
+      },
+      {
+        "word": "drank",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 368
+      },
+      {
+        "word": "read",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 369
+      },
+      {
+        "word": "write",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 370
+      },
+      {
+        "word": "wrote",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 371
+      },
+      {
+        "word": "come",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 372
+      },
+      {
+        "word": "came",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 373
+      },
+      {
+        "word": "help",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 374
+      },
+      {
+        "word": "helped",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 375
+      },
+      {
+        "word": "sleep",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 376
+      },
+      {
+        "word": "slept",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 377
+      },
+      {
+        "word": "see",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 378
+      },
+      {
+        "word": "saw",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 379
+      },
+      {
+        "word": "take",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 380
+      },
+      {
+        "word": "took",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 381
+      },
+      {
+        "word": "give",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 382
+      },
+      {
+        "word": "gave",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 383
+      },
+      {
+        "word": "learn",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 384
+      },
+      {
+        "word": "learned",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 385
+      },
+      {
+        "word": "yesterday",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 386
+      },
+      {
+        "word": "last",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 387
+      },
+      {
+        "word": "ago",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 388
+      },
+      {
+        "word": "past",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 389
       }
     ],
     "sequence": [
@@ -19319,6 +21287,438 @@
         "curriculum": "OL",
         "unit": "12",
         "id": 333
+      },
+      {
+        "word": "go",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 334
+      },
+      {
+        "word": "went",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 335
+      },
+      {
+        "word": "eat",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 336
+      },
+      {
+        "word": "ate",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 337
+      },
+      {
+        "word": "drink",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 338
+      },
+      {
+        "word": "drank",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 339
+      },
+      {
+        "word": "read",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 340
+      },
+      {
+        "word": "write",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 341
+      },
+      {
+        "word": "wrote",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 342
+      },
+      {
+        "word": "come",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 343
+      },
+      {
+        "word": "came",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 344
+      },
+      {
+        "word": "help",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 345
+      },
+      {
+        "word": "helped",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 346
+      },
+      {
+        "word": "sleep",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 347
+      },
+      {
+        "word": "slept",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 348
+      },
+      {
+        "word": "see",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 349
+      },
+      {
+        "word": "saw",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 350
+      },
+      {
+        "word": "take",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 351
+      },
+      {
+        "word": "took",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 352
+      },
+      {
+        "word": "give",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 353
+      },
+      {
+        "word": "gave",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 354
+      },
+      {
+        "word": "learn",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 355
+      },
+      {
+        "word": "learned",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 356
+      },
+      {
+        "word": "yesterday",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 357
+      },
+      {
+        "word": "last",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 358
+      },
+      {
+        "word": "ago",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 359
+      },
+      {
+        "word": "past",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 360
+      },
+      {
+        "word": "go",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 361
+      },
+      {
+        "word": "went",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 362
+      },
+      {
+        "word": "eat",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 363
+      },
+      {
+        "word": "ate",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 364
+      },
+      {
+        "word": "drink",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 365
+      },
+      {
+        "word": "drank",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 366
+      },
+      {
+        "word": "read",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 367
+      },
+      {
+        "word": "write",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 368
+      },
+      {
+        "word": "wrote",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 369
+      },
+      {
+        "word": "come",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 370
+      },
+      {
+        "word": "came",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 371
+      },
+      {
+        "word": "help",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 372
+      },
+      {
+        "word": "helped",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 373
+      },
+      {
+        "word": "sleep",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 374
+      },
+      {
+        "word": "slept",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 375
+      },
+      {
+        "word": "see",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 376
+      },
+      {
+        "word": "saw",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 377
+      },
+      {
+        "word": "take",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 378
+      },
+      {
+        "word": "took",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 379
+      },
+      {
+        "word": "give",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 380
+      },
+      {
+        "word": "gave",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 381
+      },
+      {
+        "word": "learn",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 382
+      },
+      {
+        "word": "learned",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 383
+      },
+      {
+        "word": "yesterday",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 384
+      },
+      {
+        "word": "last",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 385
+      },
+      {
+        "word": "ago",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 386
+      },
+      {
+        "word": "past",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 387
       }
     ],
     "Underline": [
@@ -20868,6 +23268,246 @@
         "curriculum": "OL",
         "unit": "12",
         "id": 126
+      },
+      {
+        "sentence": "I go to school every day.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "go"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 127
+      },
+      {
+        "sentence": "She went to the zoo yesterday.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "went"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 128
+      },
+      {
+        "sentence": "They eat healthy food every day.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "eat"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 129
+      },
+      {
+        "sentence": "We drank cold water after the game.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "drank"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 130
+      },
+      {
+        "sentence": "He reads a story every night.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "reads"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 131
+      },
+      {
+        "sentence": "My father wrote a letter yesterday.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "wrote"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 132
+      },
+      {
+        "sentence": "The teacher helps the students every day.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "helps"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 133
+      },
+      {
+        "sentence": "The baby slept for two hours.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "slept"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 134
+      },
+      {
+        "sentence": "I see my friends at school every morning.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "see"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 135
+      },
+      {
+        "sentence": "She took her bag before she left.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "took"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 136
+      },
+      {
+        "sentence": "I go to school every day.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "go"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 137
+      },
+      {
+        "sentence": "She went to the zoo yesterday.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "went"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 138
+      },
+      {
+        "sentence": "They eat healthy food every day.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "eat"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 139
+      },
+      {
+        "sentence": "We drank cold water after the game.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "drank"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 140
+      },
+      {
+        "sentence": "He reads a story every night.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "reads"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 141
+      },
+      {
+        "sentence": "My father wrote a letter yesterday.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "wrote"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 142
+      },
+      {
+        "sentence": "The teacher helps the students every day.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "helps"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 143
+      },
+      {
+        "sentence": "The baby slept for two hours.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "slept"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 144
+      },
+      {
+        "sentence": "I see my friends at school every morning.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "see"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 145
+      },
+      {
+        "sentence": "She took her bag before she left.",
+        "instruction": "Underline the verb:",
+        "correctWords": [
+          "took"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 146
       }
     ],
     "vocab_listening_quiz": [
@@ -26923,6 +29563,822 @@
         "curriculum": "OL",
         "unit": "12",
         "id": 356
+      },
+      {
+        "word": "go",
+        "meaning": "يذهب",
+        "options": [
+          "يذهب",
+          "يأكل",
+          "يشرب",
+          "يقرأ"
+        ],
+        "arabicReason": "الفعل يعني 'يذهب'.",
+        "englishReason": "The verb means 'go'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 357
+      },
+      {
+        "word": "went",
+        "meaning": "ذهب",
+        "options": [
+          "ذهب",
+          "أكل",
+          "شرب",
+          "قرأ"
+        ],
+        "arabicReason": "الفعل الماضي من go هو 'ذهب'.",
+        "englishReason": "The past form of 'go' means 'went'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 358
+      },
+      {
+        "word": "eat",
+        "meaning": "يأكل",
+        "options": [
+          "يأكل",
+          "يشرب",
+          "يكتب",
+          "ينام"
+        ],
+        "arabicReason": "الفعل يعني 'يأكل'.",
+        "englishReason": "The verb means 'eat'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 359
+      },
+      {
+        "word": "ate",
+        "meaning": "أكل",
+        "options": [
+          "أكل",
+          "شرب",
+          "نام",
+          "ساعد"
+        ],
+        "arabicReason": "الفعل الماضي من eat هو 'أكل'.",
+        "englishReason": "The past form of 'eat' means 'ate'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 360
+      },
+      {
+        "word": "drink",
+        "meaning": "يشرب",
+        "options": [
+          "يشرب",
+          "يأكل",
+          "يقرأ",
+          "يأتي"
+        ],
+        "arabicReason": "الفعل يعني 'يشرب'.",
+        "englishReason": "The verb means 'drink'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 361
+      },
+      {
+        "word": "drank",
+        "meaning": "شرب",
+        "options": [
+          "شرب",
+          "أكل",
+          "جاء",
+          "تعلم"
+        ],
+        "arabicReason": "الفعل الماضي من drink هو 'شرب'.",
+        "englishReason": "The past form of 'drink' means 'drank'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 362
+      },
+      {
+        "word": "read",
+        "meaning": "يقرأ",
+        "options": [
+          "يقرأ",
+          "يكتب",
+          "ينام",
+          "يرى"
+        ],
+        "arabicReason": "الفعل يعني 'يقرأ'.",
+        "englishReason": "The verb means 'read'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 363
+      },
+      {
+        "word": "read",
+        "meaning": "قرأ",
+        "options": [
+          "قرأ",
+          "كتب",
+          "رأى",
+          "أخذ"
+        ],
+        "arabicReason": "الفعل الماضي من read يُكتب بنفس الطريقة ويعني 'قرأ'.",
+        "englishReason": "The past form of 'read' is spelled the same and means 'read'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 364
+      },
+      {
+        "word": "write",
+        "meaning": "يكتب",
+        "options": [
+          "يكتب",
+          "يقرأ",
+          "يعطي",
+          "يأخذ"
+        ],
+        "arabicReason": "الفعل يعني 'يكتب'.",
+        "englishReason": "The verb means 'write'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 365
+      },
+      {
+        "word": "wrote",
+        "meaning": "كتب",
+        "options": [
+          "كتب",
+          "قرأ",
+          "أعطى",
+          "تعلم"
+        ],
+        "arabicReason": "الفعل الماضي من write هو 'كتب'.",
+        "englishReason": "The past form of 'write' means 'wrote'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 366
+      },
+      {
+        "word": "come",
+        "meaning": "يأتي",
+        "options": [
+          "يأتي",
+          "يذهب",
+          "ينام",
+          "يساعد"
+        ],
+        "arabicReason": "الفعل يعني 'يأتي'.",
+        "englishReason": "The verb means 'come'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 367
+      },
+      {
+        "word": "came",
+        "meaning": "جاء",
+        "options": [
+          "جاء",
+          "ذهب",
+          "نام",
+          "ساعد"
+        ],
+        "arabicReason": "الفعل الماضي من come هو 'جاء'.",
+        "englishReason": "The past form of 'come' means 'came'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 368
+      },
+      {
+        "word": "help",
+        "meaning": "يساعد",
+        "options": [
+          "يساعد",
+          "يعطي",
+          "يرى",
+          "يتعلم"
+        ],
+        "arabicReason": "الفعل يعني 'يساعد'.",
+        "englishReason": "The verb means 'help'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 369
+      },
+      {
+        "word": "helped",
+        "meaning": "ساعد",
+        "options": [
+          "ساعد",
+          "أعطى",
+          "رأى",
+          "تعلم"
+        ],
+        "arabicReason": "الفعل الماضي من help هو 'ساعد'.",
+        "englishReason": "The past form of 'help' means 'helped'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 370
+      },
+      {
+        "word": "sleep",
+        "meaning": "ينام",
+        "options": [
+          "ينام",
+          "يشرب",
+          "يكتب",
+          "يأكل"
+        ],
+        "arabicReason": "الفعل يعني 'ينام'.",
+        "englishReason": "The verb means 'sleep'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 371
+      },
+      {
+        "word": "slept",
+        "meaning": "نام",
+        "options": [
+          "نام",
+          "شرب",
+          "كتب",
+          "أكل"
+        ],
+        "arabicReason": "الفعل الماضي من sleep هو 'نام'.",
+        "englishReason": "The past form of 'sleep' means 'slept'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 372
+      },
+      {
+        "word": "see",
+        "meaning": "يرى",
+        "options": [
+          "يرى",
+          "يأتي",
+          "يقرأ",
+          "يشرب"
+        ],
+        "arabicReason": "الفعل يعني 'يرى'.",
+        "englishReason": "The verb means 'see'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 373
+      },
+      {
+        "word": "saw",
+        "meaning": "رأى",
+        "options": [
+          "رأى",
+          "جاء",
+          "قرأ",
+          "شرب"
+        ],
+        "arabicReason": "الفعل الماضي من see هو 'رأى'.",
+        "englishReason": "The past form of 'see' means 'saw'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 374
+      },
+      {
+        "word": "take",
+        "meaning": "يأخذ",
+        "options": [
+          "يأخذ",
+          "يعطي",
+          "يتعلم",
+          "يكتب"
+        ],
+        "arabicReason": "الفعل يعني 'يأخذ'.",
+        "englishReason": "The verb means 'take'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 375
+      },
+      {
+        "word": "took",
+        "meaning": "أخذ",
+        "options": [
+          "أخذ",
+          "أعطى",
+          "تعلم",
+          "كتب"
+        ],
+        "arabicReason": "الفعل الماضي من take هو 'أخذ'.",
+        "englishReason": "The past form of 'take' means 'took'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 376
+      },
+      {
+        "word": "give",
+        "meaning": "يعطي",
+        "options": [
+          "يعطي",
+          "يأخذ",
+          "يساعد",
+          "يرى"
+        ],
+        "arabicReason": "الفعل يعني 'يعطي'.",
+        "englishReason": "The verb means 'give'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 377
+      },
+      {
+        "word": "gave",
+        "meaning": "أعطى",
+        "options": [
+          "أعطى",
+          "أخذ",
+          "ساعد",
+          "رأى"
+        ],
+        "arabicReason": "الفعل الماضي من give هو 'أعطى'.",
+        "englishReason": "The past form of 'give' means 'gave'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 378
+      },
+      {
+        "word": "learn",
+        "meaning": "يتعلم",
+        "options": [
+          "يتعلم",
+          "يعطي",
+          "ينام",
+          "يذهب"
+        ],
+        "arabicReason": "الفعل يعني 'يتعلم'.",
+        "englishReason": "The verb means 'learn'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 379
+      },
+      {
+        "word": "learned",
+        "meaning": "تعلم",
+        "options": [
+          "تعلم",
+          "أعطى",
+          "نام",
+          "ذهب"
+        ],
+        "arabicReason": "الفعل الماضي من learn هو 'تعلم'.",
+        "englishReason": "The past form of 'learn' means 'learned'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 380
+      },
+      {
+        "word": "go",
+        "meaning": "يذهب",
+        "options": [
+          "يذهب",
+          "يأكل",
+          "يشرب",
+          "يقرأ"
+        ],
+        "arabicReason": "الفعل يعني 'يذهب'.",
+        "englishReason": "The verb means 'go'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 381
+      },
+      {
+        "word": "went",
+        "meaning": "ذهب",
+        "options": [
+          "ذهب",
+          "أكل",
+          "شرب",
+          "قرأ"
+        ],
+        "arabicReason": "الفعل الماضي من go هو 'ذهب'.",
+        "englishReason": "The past form of 'go' means 'went'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 382
+      },
+      {
+        "word": "eat",
+        "meaning": "يأكل",
+        "options": [
+          "يأكل",
+          "يشرب",
+          "يكتب",
+          "ينام"
+        ],
+        "arabicReason": "الفعل يعني 'يأكل'.",
+        "englishReason": "The verb means 'eat'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 383
+      },
+      {
+        "word": "ate",
+        "meaning": "أكل",
+        "options": [
+          "أكل",
+          "شرب",
+          "نام",
+          "ساعد"
+        ],
+        "arabicReason": "الفعل الماضي من eat هو 'أكل'.",
+        "englishReason": "The past form of 'eat' means 'ate'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 384
+      },
+      {
+        "word": "drink",
+        "meaning": "يشرب",
+        "options": [
+          "يشرب",
+          "يأكل",
+          "يقرأ",
+          "يأتي"
+        ],
+        "arabicReason": "الفعل يعني 'يشرب'.",
+        "englishReason": "The verb means 'drink'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 385
+      },
+      {
+        "word": "drank",
+        "meaning": "شرب",
+        "options": [
+          "شرب",
+          "أكل",
+          "جاء",
+          "تعلم"
+        ],
+        "arabicReason": "الفعل الماضي من drink هو 'شرب'.",
+        "englishReason": "The past form of 'drink' means 'drank'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 386
+      },
+      {
+        "word": "read",
+        "meaning": "يقرأ",
+        "options": [
+          "يقرأ",
+          "يكتب",
+          "ينام",
+          "يرى"
+        ],
+        "arabicReason": "الفعل يعني 'يقرأ'.",
+        "englishReason": "The verb means 'read'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 387
+      },
+      {
+        "word": "read",
+        "meaning": "قرأ",
+        "options": [
+          "قرأ",
+          "كتب",
+          "رأى",
+          "أخذ"
+        ],
+        "arabicReason": "الفعل الماضي من read يُكتب بنفس الطريقة ويعني 'قرأ'.",
+        "englishReason": "The past form of 'read' is spelled the same and means 'read'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 388
+      },
+      {
+        "word": "write",
+        "meaning": "يكتب",
+        "options": [
+          "يكتب",
+          "يقرأ",
+          "يعطي",
+          "يأخذ"
+        ],
+        "arabicReason": "الفعل يعني 'يكتب'.",
+        "englishReason": "The verb means 'write'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 389
+      },
+      {
+        "word": "wrote",
+        "meaning": "كتب",
+        "options": [
+          "كتب",
+          "قرأ",
+          "أعطى",
+          "تعلم"
+        ],
+        "arabicReason": "الفعل الماضي من write هو 'كتب'.",
+        "englishReason": "The past form of 'write' means 'wrote'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 390
+      },
+      {
+        "word": "come",
+        "meaning": "يأتي",
+        "options": [
+          "يأتي",
+          "يذهب",
+          "ينام",
+          "يساعد"
+        ],
+        "arabicReason": "الفعل يعني 'يأتي'.",
+        "englishReason": "The verb means 'come'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 391
+      },
+      {
+        "word": "came",
+        "meaning": "جاء",
+        "options": [
+          "جاء",
+          "ذهب",
+          "نام",
+          "ساعد"
+        ],
+        "arabicReason": "الفعل الماضي من come هو 'جاء'.",
+        "englishReason": "The past form of 'come' means 'came'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 392
+      },
+      {
+        "word": "help",
+        "meaning": "يساعد",
+        "options": [
+          "يساعد",
+          "يعطي",
+          "يرى",
+          "يتعلم"
+        ],
+        "arabicReason": "الفعل يعني 'يساعد'.",
+        "englishReason": "The verb means 'help'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 393
+      },
+      {
+        "word": "helped",
+        "meaning": "ساعد",
+        "options": [
+          "ساعد",
+          "أعطى",
+          "رأى",
+          "تعلم"
+        ],
+        "arabicReason": "الفعل الماضي من help هو 'ساعد'.",
+        "englishReason": "The past form of 'help' means 'helped'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 394
+      },
+      {
+        "word": "sleep",
+        "meaning": "ينام",
+        "options": [
+          "ينام",
+          "يشرب",
+          "يكتب",
+          "يأكل"
+        ],
+        "arabicReason": "الفعل يعني 'ينام'.",
+        "englishReason": "The verb means 'sleep'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 395
+      },
+      {
+        "word": "slept",
+        "meaning": "نام",
+        "options": [
+          "نام",
+          "شرب",
+          "كتب",
+          "أكل"
+        ],
+        "arabicReason": "الفعل الماضي من sleep هو 'نام'.",
+        "englishReason": "The past form of 'sleep' means 'slept'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 396
+      },
+      {
+        "word": "see",
+        "meaning": "يرى",
+        "options": [
+          "يرى",
+          "يأتي",
+          "يقرأ",
+          "يشرب"
+        ],
+        "arabicReason": "الفعل يعني 'يرى'.",
+        "englishReason": "The verb means 'see'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 397
+      },
+      {
+        "word": "saw",
+        "meaning": "رأى",
+        "options": [
+          "رأى",
+          "جاء",
+          "قرأ",
+          "شرب"
+        ],
+        "arabicReason": "الفعل الماضي من see هو 'رأى'.",
+        "englishReason": "The past form of 'see' means 'saw'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 398
+      },
+      {
+        "word": "take",
+        "meaning": "يأخذ",
+        "options": [
+          "يأخذ",
+          "يعطي",
+          "يتعلم",
+          "يكتب"
+        ],
+        "arabicReason": "الفعل يعني 'يأخذ'.",
+        "englishReason": "The verb means 'take'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 399
+      },
+      {
+        "word": "took",
+        "meaning": "أخذ",
+        "options": [
+          "أخذ",
+          "أعطى",
+          "تعلم",
+          "كتب"
+        ],
+        "arabicReason": "الفعل الماضي من take هو 'أخذ'.",
+        "englishReason": "The past form of 'take' means 'took'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 400
+      },
+      {
+        "word": "give",
+        "meaning": "يعطي",
+        "options": [
+          "يعطي",
+          "يأخذ",
+          "يساعد",
+          "يرى"
+        ],
+        "arabicReason": "الفعل يعني 'يعطي'.",
+        "englishReason": "The verb means 'give'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 401
+      },
+      {
+        "word": "gave",
+        "meaning": "أعطى",
+        "options": [
+          "أعطى",
+          "أخذ",
+          "ساعد",
+          "رأى"
+        ],
+        "arabicReason": "الفعل الماضي من give هو 'أعطى'.",
+        "englishReason": "The past form of 'give' means 'gave'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 402
+      },
+      {
+        "word": "learn",
+        "meaning": "يتعلم",
+        "options": [
+          "يتعلم",
+          "يعطي",
+          "ينام",
+          "يذهب"
+        ],
+        "arabicReason": "الفعل يعني 'يتعلم'.",
+        "englishReason": "The verb means 'learn'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 403
+      },
+      {
+        "word": "learned",
+        "meaning": "تعلم",
+        "options": [
+          "تعلم",
+          "أعطى",
+          "نام",
+          "ذهب"
+        ],
+        "arabicReason": "الفعل الماضي من learn هو 'تعلم'.",
+        "englishReason": "The past form of 'learn' means 'learned'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 404
       }
     ],
     "vocab_quiz": [
@@ -33045,6 +36501,822 @@
         "curriculum": "OL",
         "unit": "12",
         "id": 379
+      },
+      {
+        "word": "go",
+        "meaning": "يذهب",
+        "options": [
+          "يذهب",
+          "يأكل",
+          "يشرب",
+          "يقرأ"
+        ],
+        "arabicReason": "الفعل يعني 'يذهب'.",
+        "englishReason": "The verb means 'go'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 380
+      },
+      {
+        "word": "went",
+        "meaning": "ذهب",
+        "options": [
+          "ذهب",
+          "أكل",
+          "شرب",
+          "قرأ"
+        ],
+        "arabicReason": "الفعل الماضي من go هو 'ذهب'.",
+        "englishReason": "The past form of 'go' means 'went'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 381
+      },
+      {
+        "word": "eat",
+        "meaning": "يأكل",
+        "options": [
+          "يأكل",
+          "يشرب",
+          "يكتب",
+          "ينام"
+        ],
+        "arabicReason": "الفعل يعني 'يأكل'.",
+        "englishReason": "The verb means 'eat'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 382
+      },
+      {
+        "word": "ate",
+        "meaning": "أكل",
+        "options": [
+          "أكل",
+          "شرب",
+          "نام",
+          "ساعد"
+        ],
+        "arabicReason": "الفعل الماضي من eat هو 'أكل'.",
+        "englishReason": "The past form of 'eat' means 'ate'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 383
+      },
+      {
+        "word": "drink",
+        "meaning": "يشرب",
+        "options": [
+          "يشرب",
+          "يأكل",
+          "يقرأ",
+          "يأتي"
+        ],
+        "arabicReason": "الفعل يعني 'يشرب'.",
+        "englishReason": "The verb means 'drink'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 384
+      },
+      {
+        "word": "drank",
+        "meaning": "شرب",
+        "options": [
+          "شرب",
+          "أكل",
+          "جاء",
+          "تعلم"
+        ],
+        "arabicReason": "الفعل الماضي من drink هو 'شرب'.",
+        "englishReason": "The past form of 'drink' means 'drank'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 385
+      },
+      {
+        "word": "read",
+        "meaning": "يقرأ",
+        "options": [
+          "يقرأ",
+          "يكتب",
+          "ينام",
+          "يرى"
+        ],
+        "arabicReason": "الفعل يعني 'يقرأ'.",
+        "englishReason": "The verb means 'read'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 386
+      },
+      {
+        "word": "read",
+        "meaning": "قرأ",
+        "options": [
+          "قرأ",
+          "كتب",
+          "رأى",
+          "أخذ"
+        ],
+        "arabicReason": "الفعل الماضي من read يُكتب بنفس الطريقة ويعني 'قرأ'.",
+        "englishReason": "The past form of 'read' is spelled the same and means 'read'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 387
+      },
+      {
+        "word": "write",
+        "meaning": "يكتب",
+        "options": [
+          "يكتب",
+          "يقرأ",
+          "يعطي",
+          "يأخذ"
+        ],
+        "arabicReason": "الفعل يعني 'يكتب'.",
+        "englishReason": "The verb means 'write'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 388
+      },
+      {
+        "word": "wrote",
+        "meaning": "كتب",
+        "options": [
+          "كتب",
+          "قرأ",
+          "أعطى",
+          "تعلم"
+        ],
+        "arabicReason": "الفعل الماضي من write هو 'كتب'.",
+        "englishReason": "The past form of 'write' means 'wrote'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 389
+      },
+      {
+        "word": "come",
+        "meaning": "يأتي",
+        "options": [
+          "يأتي",
+          "يذهب",
+          "ينام",
+          "يساعد"
+        ],
+        "arabicReason": "الفعل يعني 'يأتي'.",
+        "englishReason": "The verb means 'come'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 390
+      },
+      {
+        "word": "came",
+        "meaning": "جاء",
+        "options": [
+          "جاء",
+          "ذهب",
+          "نام",
+          "ساعد"
+        ],
+        "arabicReason": "الفعل الماضي من come هو 'جاء'.",
+        "englishReason": "The past form of 'come' means 'came'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 391
+      },
+      {
+        "word": "help",
+        "meaning": "يساعد",
+        "options": [
+          "يساعد",
+          "يعطي",
+          "يرى",
+          "يتعلم"
+        ],
+        "arabicReason": "الفعل يعني 'يساعد'.",
+        "englishReason": "The verb means 'help'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 392
+      },
+      {
+        "word": "helped",
+        "meaning": "ساعد",
+        "options": [
+          "ساعد",
+          "أعطى",
+          "رأى",
+          "تعلم"
+        ],
+        "arabicReason": "الفعل الماضي من help هو 'ساعد'.",
+        "englishReason": "The past form of 'help' means 'helped'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 393
+      },
+      {
+        "word": "sleep",
+        "meaning": "ينام",
+        "options": [
+          "ينام",
+          "يشرب",
+          "يكتب",
+          "يأكل"
+        ],
+        "arabicReason": "الفعل يعني 'ينام'.",
+        "englishReason": "The verb means 'sleep'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 394
+      },
+      {
+        "word": "slept",
+        "meaning": "نام",
+        "options": [
+          "نام",
+          "شرب",
+          "كتب",
+          "أكل"
+        ],
+        "arabicReason": "الفعل الماضي من sleep هو 'نام'.",
+        "englishReason": "The past form of 'sleep' means 'slept'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 395
+      },
+      {
+        "word": "see",
+        "meaning": "يرى",
+        "options": [
+          "يرى",
+          "يأتي",
+          "يقرأ",
+          "يشرب"
+        ],
+        "arabicReason": "الفعل يعني 'يرى'.",
+        "englishReason": "The verb means 'see'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 396
+      },
+      {
+        "word": "saw",
+        "meaning": "رأى",
+        "options": [
+          "رأى",
+          "جاء",
+          "قرأ",
+          "شرب"
+        ],
+        "arabicReason": "الفعل الماضي من see هو 'رأى'.",
+        "englishReason": "The past form of 'see' means 'saw'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 397
+      },
+      {
+        "word": "take",
+        "meaning": "يأخذ",
+        "options": [
+          "يأخذ",
+          "يعطي",
+          "يتعلم",
+          "يكتب"
+        ],
+        "arabicReason": "الفعل يعني 'يأخذ'.",
+        "englishReason": "The verb means 'take'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 398
+      },
+      {
+        "word": "took",
+        "meaning": "أخذ",
+        "options": [
+          "أخذ",
+          "أعطى",
+          "تعلم",
+          "كتب"
+        ],
+        "arabicReason": "الفعل الماضي من take هو 'أخذ'.",
+        "englishReason": "The past form of 'take' means 'took'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 399
+      },
+      {
+        "word": "give",
+        "meaning": "يعطي",
+        "options": [
+          "يعطي",
+          "يأخذ",
+          "يساعد",
+          "يرى"
+        ],
+        "arabicReason": "الفعل يعني 'يعطي'.",
+        "englishReason": "The verb means 'give'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 400
+      },
+      {
+        "word": "gave",
+        "meaning": "أعطى",
+        "options": [
+          "أعطى",
+          "أخذ",
+          "ساعد",
+          "رأى"
+        ],
+        "arabicReason": "الفعل الماضي من give هو 'أعطى'.",
+        "englishReason": "The past form of 'give' means 'gave'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 401
+      },
+      {
+        "word": "learn",
+        "meaning": "يتعلم",
+        "options": [
+          "يتعلم",
+          "يعطي",
+          "ينام",
+          "يذهب"
+        ],
+        "arabicReason": "الفعل يعني 'يتعلم'.",
+        "englishReason": "The verb means 'learn'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 402
+      },
+      {
+        "word": "learned",
+        "meaning": "تعلم",
+        "options": [
+          "تعلم",
+          "أعطى",
+          "نام",
+          "ذهب"
+        ],
+        "arabicReason": "الفعل الماضي من learn هو 'تعلم'.",
+        "englishReason": "The past form of 'learn' means 'learned'.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 403
+      },
+      {
+        "word": "go",
+        "meaning": "يذهب",
+        "options": [
+          "يذهب",
+          "يأكل",
+          "يشرب",
+          "يقرأ"
+        ],
+        "arabicReason": "الفعل يعني 'يذهب'.",
+        "englishReason": "The verb means 'go'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 404
+      },
+      {
+        "word": "went",
+        "meaning": "ذهب",
+        "options": [
+          "ذهب",
+          "أكل",
+          "شرب",
+          "قرأ"
+        ],
+        "arabicReason": "الفعل الماضي من go هو 'ذهب'.",
+        "englishReason": "The past form of 'go' means 'went'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 405
+      },
+      {
+        "word": "eat",
+        "meaning": "يأكل",
+        "options": [
+          "يأكل",
+          "يشرب",
+          "يكتب",
+          "ينام"
+        ],
+        "arabicReason": "الفعل يعني 'يأكل'.",
+        "englishReason": "The verb means 'eat'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 406
+      },
+      {
+        "word": "ate",
+        "meaning": "أكل",
+        "options": [
+          "أكل",
+          "شرب",
+          "نام",
+          "ساعد"
+        ],
+        "arabicReason": "الفعل الماضي من eat هو 'أكل'.",
+        "englishReason": "The past form of 'eat' means 'ate'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 407
+      },
+      {
+        "word": "drink",
+        "meaning": "يشرب",
+        "options": [
+          "يشرب",
+          "يأكل",
+          "يقرأ",
+          "يأتي"
+        ],
+        "arabicReason": "الفعل يعني 'يشرب'.",
+        "englishReason": "The verb means 'drink'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 408
+      },
+      {
+        "word": "drank",
+        "meaning": "شرب",
+        "options": [
+          "شرب",
+          "أكل",
+          "جاء",
+          "تعلم"
+        ],
+        "arabicReason": "الفعل الماضي من drink هو 'شرب'.",
+        "englishReason": "The past form of 'drink' means 'drank'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 409
+      },
+      {
+        "word": "read",
+        "meaning": "يقرأ",
+        "options": [
+          "يقرأ",
+          "يكتب",
+          "ينام",
+          "يرى"
+        ],
+        "arabicReason": "الفعل يعني 'يقرأ'.",
+        "englishReason": "The verb means 'read'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 410
+      },
+      {
+        "word": "read",
+        "meaning": "قرأ",
+        "options": [
+          "قرأ",
+          "كتب",
+          "رأى",
+          "أخذ"
+        ],
+        "arabicReason": "الفعل الماضي من read يُكتب بنفس الطريقة ويعني 'قرأ'.",
+        "englishReason": "The past form of 'read' is spelled the same and means 'read'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 411
+      },
+      {
+        "word": "write",
+        "meaning": "يكتب",
+        "options": [
+          "يكتب",
+          "يقرأ",
+          "يعطي",
+          "يأخذ"
+        ],
+        "arabicReason": "الفعل يعني 'يكتب'.",
+        "englishReason": "The verb means 'write'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 412
+      },
+      {
+        "word": "wrote",
+        "meaning": "كتب",
+        "options": [
+          "كتب",
+          "قرأ",
+          "أعطى",
+          "تعلم"
+        ],
+        "arabicReason": "الفعل الماضي من write هو 'كتب'.",
+        "englishReason": "The past form of 'write' means 'wrote'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 413
+      },
+      {
+        "word": "come",
+        "meaning": "يأتي",
+        "options": [
+          "يأتي",
+          "يذهب",
+          "ينام",
+          "يساعد"
+        ],
+        "arabicReason": "الفعل يعني 'يأتي'.",
+        "englishReason": "The verb means 'come'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 414
+      },
+      {
+        "word": "came",
+        "meaning": "جاء",
+        "options": [
+          "جاء",
+          "ذهب",
+          "نام",
+          "ساعد"
+        ],
+        "arabicReason": "الفعل الماضي من come هو 'جاء'.",
+        "englishReason": "The past form of 'come' means 'came'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 415
+      },
+      {
+        "word": "help",
+        "meaning": "يساعد",
+        "options": [
+          "يساعد",
+          "يعطي",
+          "يرى",
+          "يتعلم"
+        ],
+        "arabicReason": "الفعل يعني 'يساعد'.",
+        "englishReason": "The verb means 'help'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 416
+      },
+      {
+        "word": "helped",
+        "meaning": "ساعد",
+        "options": [
+          "ساعد",
+          "أعطى",
+          "رأى",
+          "تعلم"
+        ],
+        "arabicReason": "الفعل الماضي من help هو 'ساعد'.",
+        "englishReason": "The past form of 'help' means 'helped'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 417
+      },
+      {
+        "word": "sleep",
+        "meaning": "ينام",
+        "options": [
+          "ينام",
+          "يشرب",
+          "يكتب",
+          "يأكل"
+        ],
+        "arabicReason": "الفعل يعني 'ينام'.",
+        "englishReason": "The verb means 'sleep'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 418
+      },
+      {
+        "word": "slept",
+        "meaning": "نام",
+        "options": [
+          "نام",
+          "شرب",
+          "كتب",
+          "أكل"
+        ],
+        "arabicReason": "الفعل الماضي من sleep هو 'نام'.",
+        "englishReason": "The past form of 'sleep' means 'slept'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 419
+      },
+      {
+        "word": "see",
+        "meaning": "يرى",
+        "options": [
+          "يرى",
+          "يأتي",
+          "يقرأ",
+          "يشرب"
+        ],
+        "arabicReason": "الفعل يعني 'يرى'.",
+        "englishReason": "The verb means 'see'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 420
+      },
+      {
+        "word": "saw",
+        "meaning": "رأى",
+        "options": [
+          "رأى",
+          "جاء",
+          "قرأ",
+          "شرب"
+        ],
+        "arabicReason": "الفعل الماضي من see هو 'رأى'.",
+        "englishReason": "The past form of 'see' means 'saw'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 421
+      },
+      {
+        "word": "take",
+        "meaning": "يأخذ",
+        "options": [
+          "يأخذ",
+          "يعطي",
+          "يتعلم",
+          "يكتب"
+        ],
+        "arabicReason": "الفعل يعني 'يأخذ'.",
+        "englishReason": "The verb means 'take'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 422
+      },
+      {
+        "word": "took",
+        "meaning": "أخذ",
+        "options": [
+          "أخذ",
+          "أعطى",
+          "تعلم",
+          "كتب"
+        ],
+        "arabicReason": "الفعل الماضي من take هو 'أخذ'.",
+        "englishReason": "The past form of 'take' means 'took'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 423
+      },
+      {
+        "word": "give",
+        "meaning": "يعطي",
+        "options": [
+          "يعطي",
+          "يأخذ",
+          "يساعد",
+          "يرى"
+        ],
+        "arabicReason": "الفعل يعني 'يعطي'.",
+        "englishReason": "The verb means 'give'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 424
+      },
+      {
+        "word": "gave",
+        "meaning": "أعطى",
+        "options": [
+          "أعطى",
+          "أخذ",
+          "ساعد",
+          "رأى"
+        ],
+        "arabicReason": "الفعل الماضي من give هو 'أعطى'.",
+        "englishReason": "The past form of 'give' means 'gave'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 425
+      },
+      {
+        "word": "learn",
+        "meaning": "يتعلم",
+        "options": [
+          "يتعلم",
+          "يعطي",
+          "ينام",
+          "يذهب"
+        ],
+        "arabicReason": "الفعل يعني 'يتعلم'.",
+        "englishReason": "The verb means 'learn'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 426
+      },
+      {
+        "word": "learned",
+        "meaning": "تعلم",
+        "options": [
+          "تعلم",
+          "أعطى",
+          "نام",
+          "ذهب"
+        ],
+        "arabicReason": "الفعل الماضي من learn هو 'تعلم'.",
+        "englishReason": "The past form of 'learn' means 'learned'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 427
       }
     ],
     "what_do_you_hear": [
@@ -36513,6 +40785,286 @@
         "curriculum": "OL",
         "unit": "12",
         "id": 247
+      },
+      {
+        "sentence": "I visited my grandmother yesterday.",
+        "options": [
+          "I visited my grandmother yesterday.",
+          "I visited my grandfather yesterday.",
+          "I visited my grandmother today.",
+          "I visited my teacher yesterday."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 248
+      },
+      {
+        "sentence": "We played football last week.",
+        "options": [
+          "We played football last week.",
+          "We played basketball last week.",
+          "We play football every week.",
+          "We played football yesterday."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 249
+      },
+      {
+        "sentence": "He finished his homework two hours ago.",
+        "options": [
+          "He finished his homework two hours ago.",
+          "He finished his homework yesterday.",
+          "He started his homework two hours ago.",
+          "He finished his project two hours ago."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 250
+      },
+      {
+        "sentence": "People traveled by horses in the past.",
+        "options": [
+          "People traveled by horses in the past.",
+          "People traveled by cars in the past.",
+          "People travel by horses today.",
+          "People traveled by buses in the past."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 251
+      },
+      {
+        "sentence": "I was very happy yesterday.",
+        "options": [
+          "I was very happy yesterday.",
+          "I was very tired yesterday.",
+          "I am very happy today.",
+          "I was very sad yesterday."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 252
+      },
+      {
+        "sentence": "They were at home yesterday.",
+        "options": [
+          "They were at home yesterday.",
+          "They were at school yesterday.",
+          "They are at home today.",
+          "They were at the park yesterday."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 253
+      },
+      {
+        "sentence": "He wasn't at home yesterday.",
+        "options": [
+          "He wasn't at home yesterday.",
+          "He was at home yesterday.",
+          "He wasn't at school yesterday.",
+          "He isn't at home today."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 254
+      },
+      {
+        "sentence": "Did you play football last week?",
+        "options": [
+          "Did you play football last week?",
+          "Did you play basketball last week?",
+          "Do you play football every week?",
+          "Did you watch football last week?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 255
+      },
+      {
+        "sentence": "My father traveled last month.",
+        "options": [
+          "My father traveled last month.",
+          "My father traveled last year.",
+          "My father travels every month.",
+          "My father worked last month."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 256
+      },
+      {
+        "sentence": "Dinosaurs lived in the past.",
+        "options": [
+          "Dinosaurs lived in the past.",
+          "Dinosaurs live in the past.",
+          "Dinosaurs lived in the forest.",
+          "Dinosaurs lived last year."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 257
+      },
+      {
+        "sentence": "I visited my grandmother yesterday.",
+        "options": [
+          "I visited my grandmother yesterday.",
+          "I visited my grandfather yesterday.",
+          "I visited my grandmother today.",
+          "I visited my teacher yesterday."
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 258
+      },
+      {
+        "sentence": "We played football last week.",
+        "options": [
+          "We played football last week.",
+          "We played basketball last week.",
+          "We play football every week.",
+          "We played football yesterday."
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 259
+      },
+      {
+        "sentence": "He finished his homework two hours ago.",
+        "options": [
+          "He finished his homework two hours ago.",
+          "He finished his homework yesterday.",
+          "He started his homework two hours ago.",
+          "He finished his project two hours ago."
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 260
+      },
+      {
+        "sentence": "People traveled by horses in the past.",
+        "options": [
+          "People traveled by horses in the past.",
+          "People traveled by cars in the past.",
+          "People travel by horses today.",
+          "People traveled by buses in the past."
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 261
+      },
+      {
+        "sentence": "I was very happy yesterday.",
+        "options": [
+          "I was very happy yesterday.",
+          "I was very tired yesterday.",
+          "I am very happy today.",
+          "I was very sad yesterday."
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 262
+      },
+      {
+        "sentence": "They were at home yesterday.",
+        "options": [
+          "They were at home yesterday.",
+          "They were at school yesterday.",
+          "They are at home today.",
+          "They were at the park yesterday."
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 263
+      },
+      {
+        "sentence": "He wasn't at home yesterday.",
+        "options": [
+          "He wasn't at home yesterday.",
+          "He was at home yesterday.",
+          "He wasn't at school yesterday.",
+          "He isn't at home today."
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 264
+      },
+      {
+        "sentence": "Did you play football last week?",
+        "options": [
+          "Did you play football last week?",
+          "Did you play basketball last week?",
+          "Do you play football every week?",
+          "Did you watch football last week?"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 265
+      },
+      {
+        "sentence": "My father traveled last month.",
+        "options": [
+          "My father traveled last month.",
+          "My father traveled last year.",
+          "My father travels every month.",
+          "My father worked last month."
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 266
+      },
+      {
+        "sentence": "Dinosaurs lived in the past.",
+        "options": [
+          "Dinosaurs lived in the past.",
+          "Dinosaurs live in the past.",
+          "Dinosaurs lived in the forest.",
+          "Dinosaurs lived last year."
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 267
       }
     ],
     "vocab_choose": [
@@ -40561,6 +45113,686 @@
         "curriculum": "OL",
         "unit": "12",
         "id": 238
+      },
+      {
+        "question": "I visited my grandmother ______.",
+        "correctAnswer": "yesterday",
+        "arabicReason": "نستخدم yesterday للدلالة على الماضي البسيط.",
+        "englishReason": "We use 'yesterday' as a simple past time marker.",
+        "options": [
+          "yesterday",
+          "tomorrow",
+          "now",
+          "today"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 239
+      },
+      {
+        "question": "We played football ______ week.",
+        "correctAnswer": "last",
+        "arabicReason": "نستخدم last مع كلمات الزمن مثل week و month.",
+        "englishReason": "We use 'last' with time expressions like week or month.",
+        "options": [
+          "last",
+          "next",
+          "this",
+          "every"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 240
+      },
+      {
+        "question": "He finished his homework two hours ______.",
+        "correctAnswer": "ago",
+        "arabicReason": "نستخدم ago مع فترة زمنية للدلالة على الماضي.",
+        "englishReason": "We use 'ago' with a period of time in the simple past.",
+        "options": [
+          "ago",
+          "later",
+          "next",
+          "before"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 241
+      },
+      {
+        "question": "People traveled by horses ______.",
+        "correctAnswer": "in the past",
+        "arabicReason": "تستخدم in the past للحديث عن الماضي.",
+        "englishReason": "We use 'in the past' to talk about the past.",
+        "options": [
+          "in the past",
+          "tomorrow",
+          "today",
+          "now"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 242
+      },
+      {
+        "question": "______ you visit your uncle yesterday?",
+        "correctAnswer": "Did",
+        "arabicReason": "نستخدم Did في السؤال في الماضي البسيط.",
+        "englishReason": "We use 'Did' to ask questions in the simple past.",
+        "options": [
+          "Did",
+          "Do",
+          "Does",
+          "Are"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 243
+      },
+      {
+        "question": "She ______ go to school yesterday.",
+        "correctAnswer": "didn't",
+        "arabicReason": "نستخدم didn't للنفي في الماضي البسيط.",
+        "englishReason": "We use 'didn't' for negative sentences in the simple past.",
+        "options": [
+          "didn't",
+          "doesn't",
+          "don't",
+          "isn't"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 244
+      },
+      {
+        "question": "I ______ very happy yesterday.",
+        "correctAnswer": "was",
+        "arabicReason": "مع I نستخدم was في الماضي.",
+        "englishReason": "We use 'was' with 'I' in the past.",
+        "options": [
+          "was",
+          "were",
+          "am",
+          "is"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 245
+      },
+      {
+        "question": "They ______ at home yesterday.",
+        "correctAnswer": "were",
+        "arabicReason": "مع They نستخدم were.",
+        "englishReason": "We use 'were' with 'They'.",
+        "options": [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 246
+      },
+      {
+        "question": "He ______ at school yesterday.",
+        "correctAnswer": "was",
+        "arabicReason": "مع He نستخدم was.",
+        "englishReason": "We use 'was' with 'He'.",
+        "options": [
+          "was",
+          "were",
+          "am",
+          "are"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 247
+      },
+      {
+        "question": "We ______ tired after the match.",
+        "correctAnswer": "were",
+        "arabicReason": "مع We نستخدم were.",
+        "englishReason": "We use 'were' with 'We'.",
+        "options": [
+          "were",
+          "was",
+          "is",
+          "am"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 248
+      },
+      {
+        "question": "She ______ happy yesterday.",
+        "correctAnswer": "was",
+        "arabicReason": "مع She نستخدم was.",
+        "englishReason": "We use 'was' with 'She'.",
+        "options": [
+          "was",
+          "were",
+          "are",
+          "do"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 249
+      },
+      {
+        "question": "______ they at the zoo last Friday?",
+        "correctAnswer": "Were",
+        "arabicReason": "نستخدم Were للسؤال مع الجمع.",
+        "englishReason": "We use 'Were' to ask about plural subjects in the past.",
+        "options": [
+          "Were",
+          "Was",
+          "Did",
+          "Are"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 250
+      },
+      {
+        "question": "______ he sick yesterday?",
+        "correctAnswer": "Was",
+        "arabicReason": "نستخدم Was للسؤال مع المفرد.",
+        "englishReason": "We use 'Was' to ask about a singular subject.",
+        "options": [
+          "Was",
+          "Were",
+          "Did",
+          "Is"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 251
+      },
+      {
+        "question": "They ______ at school yesterday.",
+        "correctAnswer": "weren't",
+        "arabicReason": "نستخدم weren't للنفي مع الجمع.",
+        "englishReason": "We use 'weren't' with plural subjects.",
+        "options": [
+          "weren't",
+          "wasn't",
+          "didn't",
+          "don't"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 252
+      },
+      {
+        "question": "He ______ at home yesterday.",
+        "correctAnswer": "wasn't",
+        "arabicReason": "نستخدم wasn't للنفي مع المفرد.",
+        "englishReason": "We use 'wasn't' with singular subjects.",
+        "options": [
+          "wasn't",
+          "weren't",
+          "didn't",
+          "doesn't"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 253
+      },
+      {
+        "question": "______ you play football last week?",
+        "correctAnswer": "Did",
+        "arabicReason": "نستخدم Did للسؤال عن فعل في الماضي.",
+        "englishReason": "We use 'Did' to ask about past actions.",
+        "options": [
+          "Did",
+          "Do",
+          "Does",
+          "Was"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 254
+      },
+      {
+        "question": "My father traveled ______ month.",
+        "correctAnswer": "last",
+        "arabicReason": "نستخدم last مع month.",
+        "englishReason": "We use 'last' with month.",
+        "options": [
+          "last",
+          "next",
+          "this",
+          "every"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 255
+      },
+      {
+        "question": "She cleaned her room three days ______.",
+        "correctAnswer": "ago",
+        "arabicReason": "نستخدم ago مع مدة زمنية.",
+        "englishReason": "We use 'ago' with a period of time.",
+        "options": [
+          "ago",
+          "later",
+          "tomorrow",
+          "before"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 256
+      },
+      {
+        "question": "Dinosaurs lived ______.",
+        "correctAnswer": "in the past",
+        "arabicReason": "الديناصورات عاشت في الماضي.",
+        "englishReason": "Dinosaurs lived in the past.",
+        "options": [
+          "in the past",
+          "today",
+          "tomorrow",
+          "now"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 257
+      },
+      {
+        "question": "I ______ see my friend yesterday.",
+        "correctAnswer": "didn't",
+        "arabicReason": "نستخدم didn't مع الفعل الأساسي للنفي.",
+        "englishReason": "We use 'didn't' with the base verb in negative sentences.",
+        "options": [
+          "didn't",
+          "doesn't",
+          "wasn't",
+          "weren't"
+        ],
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 258
+      },
+      {
+        "question": "I visited my grandmother ______.",
+        "correctAnswer": "yesterday",
+        "arabicReason": "نستخدم yesterday للدلالة على الماضي البسيط.",
+        "englishReason": "We use 'yesterday' as a simple past time marker.",
+        "options": [
+          "yesterday",
+          "tomorrow",
+          "now",
+          "today"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 259
+      },
+      {
+        "question": "We played football ______ week.",
+        "correctAnswer": "last",
+        "arabicReason": "نستخدم last مع كلمات الزمن مثل week و month.",
+        "englishReason": "We use 'last' with time expressions like week or month.",
+        "options": [
+          "last",
+          "next",
+          "this",
+          "every"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 260
+      },
+      {
+        "question": "He finished his homework two hours ______.",
+        "correctAnswer": "ago",
+        "arabicReason": "نستخدم ago مع فترة زمنية للدلالة على الماضي.",
+        "englishReason": "We use 'ago' with a period of time in the simple past.",
+        "options": [
+          "ago",
+          "later",
+          "next",
+          "before"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 261
+      },
+      {
+        "question": "People traveled by horses ______.",
+        "correctAnswer": "in the past",
+        "arabicReason": "تستخدم in the past للحديث عن الماضي.",
+        "englishReason": "We use 'in the past' to talk about the past.",
+        "options": [
+          "in the past",
+          "tomorrow",
+          "today",
+          "now"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 262
+      },
+      {
+        "question": "______ you visit your uncle yesterday?",
+        "correctAnswer": "Did",
+        "arabicReason": "نستخدم Did في السؤال في الماضي البسيط.",
+        "englishReason": "We use 'Did' to ask questions in the simple past.",
+        "options": [
+          "Did",
+          "Do",
+          "Does",
+          "Are"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 263
+      },
+      {
+        "question": "She ______ go to school yesterday.",
+        "correctAnswer": "didn't",
+        "arabicReason": "نستخدم didn't للنفي في الماضي البسيط.",
+        "englishReason": "We use 'didn't' for negative sentences in the simple past.",
+        "options": [
+          "didn't",
+          "doesn't",
+          "don't",
+          "isn't"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 264
+      },
+      {
+        "question": "I ______ very happy yesterday.",
+        "correctAnswer": "was",
+        "arabicReason": "مع I نستخدم was في الماضي.",
+        "englishReason": "We use 'was' with 'I' in the past.",
+        "options": [
+          "was",
+          "were",
+          "am",
+          "is"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 265
+      },
+      {
+        "question": "They ______ at home yesterday.",
+        "correctAnswer": "were",
+        "arabicReason": "مع They نستخدم were.",
+        "englishReason": "We use 'were' with 'They'.",
+        "options": [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 266
+      },
+      {
+        "question": "He ______ at school yesterday.",
+        "correctAnswer": "was",
+        "arabicReason": "مع He نستخدم was.",
+        "englishReason": "We use 'was' with 'He'.",
+        "options": [
+          "was",
+          "were",
+          "am",
+          "are"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 267
+      },
+      {
+        "question": "We ______ tired after the match.",
+        "correctAnswer": "were",
+        "arabicReason": "مع We نستخدم were.",
+        "englishReason": "We use 'were' with 'We'.",
+        "options": [
+          "were",
+          "was",
+          "is",
+          "am"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 268
+      },
+      {
+        "question": "She ______ happy yesterday.",
+        "correctAnswer": "was",
+        "arabicReason": "مع She نستخدم was.",
+        "englishReason": "We use 'was' with 'She'.",
+        "options": [
+          "was",
+          "were",
+          "are",
+          "do"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 269
+      },
+      {
+        "question": "______ they at the zoo last Friday?",
+        "correctAnswer": "Were",
+        "arabicReason": "نستخدم Were للسؤال مع الجمع.",
+        "englishReason": "We use 'Were' to ask about plural subjects in the past.",
+        "options": [
+          "Were",
+          "Was",
+          "Did",
+          "Are"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 270
+      },
+      {
+        "question": "______ he sick yesterday?",
+        "correctAnswer": "Was",
+        "arabicReason": "نستخدم Was للسؤال مع المفرد.",
+        "englishReason": "We use 'Was' to ask about a singular subject.",
+        "options": [
+          "Was",
+          "Were",
+          "Did",
+          "Is"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 271
+      },
+      {
+        "question": "They ______ at school yesterday.",
+        "correctAnswer": "weren't",
+        "arabicReason": "نستخدم weren't للنفي مع الجمع.",
+        "englishReason": "We use 'weren't' with plural subjects.",
+        "options": [
+          "weren't",
+          "wasn't",
+          "didn't",
+          "don't"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 272
+      },
+      {
+        "question": "He ______ at home yesterday.",
+        "correctAnswer": "wasn't",
+        "arabicReason": "نستخدم wasn't للنفي مع المفرد.",
+        "englishReason": "We use 'wasn't' with singular subjects.",
+        "options": [
+          "wasn't",
+          "weren't",
+          "didn't",
+          "doesn't"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 273
+      },
+      {
+        "question": "______ you play football last week?",
+        "correctAnswer": "Did",
+        "arabicReason": "نستخدم Did للسؤال عن فعل في الماضي.",
+        "englishReason": "We use 'Did' to ask about past actions.",
+        "options": [
+          "Did",
+          "Do",
+          "Does",
+          "Was"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 274
+      },
+      {
+        "question": "My father traveled ______ month.",
+        "correctAnswer": "last",
+        "arabicReason": "نستخدم last مع month.",
+        "englishReason": "We use 'last' with month.",
+        "options": [
+          "last",
+          "next",
+          "this",
+          "every"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 275
+      },
+      {
+        "question": "She cleaned her room three days ______.",
+        "correctAnswer": "ago",
+        "arabicReason": "نستخدم ago مع مدة زمنية.",
+        "englishReason": "We use 'ago' with a period of time.",
+        "options": [
+          "ago",
+          "later",
+          "tomorrow",
+          "before"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 276
+      },
+      {
+        "question": "Dinosaurs lived ______.",
+        "correctAnswer": "in the past",
+        "arabicReason": "الديناصورات عاشت في الماضي.",
+        "englishReason": "Dinosaurs lived in the past.",
+        "options": [
+          "in the past",
+          "today",
+          "tomorrow",
+          "now"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 277
+      },
+      {
+        "question": "I ______ see my friend yesterday.",
+        "correctAnswer": "didn't",
+        "arabicReason": "نستخدم didn't مع الفعل الأساسي للنفي.",
+        "englishReason": "We use 'didn't' with the base verb in negative sentences.",
+        "options": [
+          "didn't",
+          "doesn't",
+          "wasn't",
+          "weren't"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 278
       }
     ],
     "sentence": [],
