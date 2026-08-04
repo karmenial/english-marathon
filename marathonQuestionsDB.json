@@ -566,6 +566,64 @@
         "curriculum": "OL",
         "unit": "12",
         "id": 22
+      },
+      {
+        "passage": "Yesterday was a very busy and happy day for me. In the morning, I {blank1} up early and {blank2} to the living room. My mom {blank3} me to eat my breakfast and drink a cup of milk. Then, I {blank4} a nice storybook and {blank5} new words. In the afternoon, I {blank6} to the park. I {blank7} my best friend, and he {blank8} me a sweet candy.",
+        "options": [
+          "woke",
+          "came",
+          "helped",
+          "read",
+          "learned",
+          "went",
+          "saw",
+          "gave"
+        ],
+        "correctAnswer": [
+          "woke",
+          "came",
+          "helped",
+          "read",
+          "learned",
+          "went",
+          "saw",
+          "gave"
+        ],
+        "reason": "Complete the passage using the correct simple past verbs.",
+        "level": "preparatory",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 23
+      },
+      {
+        "passage": "Yesterday was a very busy and happy day for me. In the morning, I {blank1} up early and {blank2} to the living room. My mom {blank3} me to eat my breakfast and drink a cup of milk. Then, I {blank4} a nice storybook and {blank5} new words. In the afternoon, I {blank6} to the park. I {blank7} my best friend, and he {blank8} me a sweet candy.",
+        "options": [
+          "woke",
+          "came",
+          "helped",
+          "read",
+          "learned",
+          "went",
+          "saw",
+          "gave"
+        ],
+        "correctAnswer": [
+          "woke",
+          "came",
+          "helped",
+          "read",
+          "learned",
+          "went",
+          "saw",
+          "gave"
+        ],
+        "reason": "Complete the passage using the correct simple past verbs.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "1",
+        "id": 24
       }
     ],
     "correct": [
@@ -1082,114 +1140,6 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "4"
-      },
-      {
-        "sentence": "I have a apple.",
-        "errorWord": "a apple",
-        "correctWord": "an",
-        "arabicReason": "لأن كلمة apple تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'apple' begins with a vowel sound, we use 'an'.",
-        "id": 43,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "sentence": "Mona ate a egg for breakfast.",
-        "errorWord": "a egg",
-        "correctWord": "a",
-        "arabicReason": "لأن كلمة egg تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'egg' begins with a vowel sound, we use 'an'.",
-        "id": 44,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "sentence": "I have an pen in my bag.",
-        "errorWord": "an pen",
-        "correctWord": "a",
-        "arabicReason": "لأن كلمة pen تبدأ بحرف ساكن، لذلك نستخدم a.",
-        "englishReason": "Because 'pen' begins with a consonant sound, we use 'a'.",
-        "id": 45,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "sentence": "Sara wants to be a engineer.",
-        "errorWord": "a engineer",
-        "correctWord": "an",
-        "arabicReason": "لأن كلمة engineer تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'engineer' begins with a vowel sound, we use 'an'.",
-        "id": 46,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "sentence": "My father drives an car.",
-        "errorWord": "an car",
-        "correctWord": "an",
-        "arabicReason": "لأن كلمة car تبدأ بحرف ساكن، لذلك نستخدم a.",
-        "englishReason": "Because 'car' begins with a consonant sound, we use 'a'.",
-        "id": 47,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "sentence": "We saw a elephant at the zoo.",
-        "errorWord": "a elephant",
-        "correctWord": "an",
-        "arabicReason": "لأن كلمة elephant تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'elephant' begins with a vowel sound, we use 'an'.",
-        "id": 48,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "sentence": "Ali reads about a elephant.",
-        "errorWord": "a elephant",
-        "correctWord": "an",
-        "arabicReason": "لأن كلمة umbrella تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'umbrella' begins with a vowel sound, we use 'an'.",
-        "id": 49,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "sentence": "This is an book.",
-        "errorWord": "an book",
-        "correctWord": "a",
-        "arabicReason": "لأن كلمة book تبدأ بحرف ساكن، لذلك نستخدم a.",
-        "englishReason": "Because 'book' begins with a consonant sound, we use 'a'.",
-        "id": 50,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "sentence": "He is eating a orange.",
-        "errorWord": "a orange",
-        "correctWord": "an",
-        "arabicReason": "لأن كلمة orange تبدأ بحرف متحرك، لذلك نستخدم an.",
-        "englishReason": "Because 'orange' begins with a vowel sound, we use 'an'.",
-        "id": 51,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
       },
       {
         "sentence": "I aren't happy in my living room.",
@@ -2930,6 +2880,114 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 196
+      },
+      {
+        "sentence": "I have a apple.",
+        "errorWord": "a apple",
+        "correctWord": "an",
+        "arabicReason": "لأن كلمة apple تبدأ بحرف متحرك، لذلك نستخدم an.",
+        "englishReason": "Because 'apple' begins with a vowel sound, we use 'an'.",
+        "id": 43,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "sentence": "Mona ate a egg for breakfast.",
+        "errorWord": "a egg",
+        "correctWord": "a",
+        "arabicReason": "لأن كلمة egg تبدأ بحرف متحرك، لذلك نستخدم an.",
+        "englishReason": "Because 'egg' begins with a vowel sound, we use 'an'.",
+        "id": 44,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "sentence": "I have an pen in my bag.",
+        "errorWord": "an pen",
+        "correctWord": "a",
+        "arabicReason": "لأن كلمة pen تبدأ بحرف ساكن، لذلك نستخدم a.",
+        "englishReason": "Because 'pen' begins with a consonant sound, we use 'a'.",
+        "id": 45,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "sentence": "Sara wants to be a engineer.",
+        "errorWord": "a engineer",
+        "correctWord": "an",
+        "arabicReason": "لأن كلمة engineer تبدأ بحرف متحرك، لذلك نستخدم an.",
+        "englishReason": "Because 'engineer' begins with a vowel sound, we use 'an'.",
+        "id": 46,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "sentence": "My father drives an car.",
+        "errorWord": "an car",
+        "correctWord": "a",
+        "arabicReason": "لأن كلمة car تبدأ بحرف ساكن، لذلك نستخدم a.",
+        "englishReason": "Because 'car' begins with a consonant sound, we use 'a'.",
+        "id": 47,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "sentence": "We saw a elephant at the zoo.",
+        "errorWord": "a elephant",
+        "correctWord": "an",
+        "arabicReason": "لأن كلمة elephant تبدأ بحرف متحرك، لذلك نستخدم an.",
+        "englishReason": "Because 'elephant' begins with a vowel sound, we use 'an'.",
+        "id": 48,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "sentence": "Ali reads about a elephant.",
+        "errorWord": "a elephant",
+        "correctWord": "an",
+        "arabicReason": "لأن كلمة umbrella تبدأ بحرف متحرك، لذلك نستخدم an.",
+        "englishReason": "Because 'umbrella' begins with a vowel sound, we use 'an'.",
+        "id": 49,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "sentence": "This is an book.",
+        "errorWord": "an book",
+        "correctWord": "a",
+        "arabicReason": "لأن كلمة book تبدأ بحرف ساكن، لذلك نستخدم a.",
+        "englishReason": "Because 'book' begins with a consonant sound, we use 'a'.",
+        "id": 50,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "sentence": "He is eating a orange.",
+        "errorWord": "a orange",
+        "correctWord": "an",
+        "arabicReason": "لأن كلمة orange تبدأ بحرف متحرك، لذلك نستخدم an.",
+        "englishReason": "Because 'orange' begins with a vowel sound, we use 'an'.",
+        "id": 51,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
       }
     ],
     "translate": [
@@ -18713,86 +18771,6 @@
         "unit": "1"
       },
       {
-        "word": "hello",
-        "id": 12,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "shake hands",
-        "id": 13,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "good bye",
-        "id": 14,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "friend",
-        "id": 15,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "play",
-        "id": 16,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "meet",
-        "id": 17,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "name",
-        "id": 18,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "want",
-        "id": 19,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "nice to meet you",
-        "id": 20,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "hi",
-        "id": 21,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
         "word": "Sunday",
         "id": 22,
         "level": "primary",
@@ -21209,86 +21187,6 @@
         "id": 323
       },
       {
-        "word": "water",
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "12",
-        "id": 324
-      },
-      {
-        "word": "important",
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "12",
-        "id": 325
-      },
-      {
-        "word": "life",
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "12",
-        "id": 326
-      },
-      {
-        "word": "use",
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "12",
-        "id": 327
-      },
-      {
-        "word": "drinking",
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "12",
-        "id": 328
-      },
-      {
-        "word": "cooking",
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "12",
-        "id": 329
-      },
-      {
-        "word": "cleaning",
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "12",
-        "id": 330
-      },
-      {
-        "word": "save",
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "12",
-        "id": 331
-      },
-      {
-        "word": "tap",
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "12",
-        "id": 332
-      },
-      {
-        "word": "waste",
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "12",
-        "id": 333
-      },
-      {
         "word": "go",
         "level": "primary",
         "grade": "4",
@@ -21719,6 +21617,166 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 387
+      },
+      {
+        "word": "hello",
+        "id": 12,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "shakehands",
+        "id": 13,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "goodbye",
+        "id": 14,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "friend",
+        "id": 15,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "play",
+        "id": 16,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "meet",
+        "id": 17,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "name",
+        "id": 18,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "want",
+        "id": 19,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "nicetomeetyou",
+        "id": 20,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "hi",
+        "id": 21,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "water",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 324
+      },
+      {
+        "word": "important",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 325
+      },
+      {
+        "word": "life",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 326
+      },
+      {
+        "word": "use",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 327
+      },
+      {
+        "word": "drinking",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 328
+      },
+      {
+        "word": "cooking",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 329
+      },
+      {
+        "word": "cleaning",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 330
+      },
+      {
+        "word": "save",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 331
+      },
+      {
+        "word": "tap",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 332
+      },
+      {
+        "word": "waste",
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "12",
+        "id": 333
       }
     ],
     "Underline": [
@@ -23527,176 +23585,6 @@
         "grade": "3",
         "curriculum": "AL",
         "unit": "5"
-      },
-      {
-        "word": "hello",
-        "meaning": "مرحبا",
-        "options": [
-          "مرحبا",
-          "يريد",
-          "مع السلامة",
-          "صباح الخير"
-        ],
-        "arabicReason": "الكلمة تعني 'أهلا' أو 'مرحبا' وهي تحية ودية وغير رسمية.",
-        "englishReason": "The word means 'hi' - a friendly and informal greeting.",
-        "id": 2,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "nice to meet you",
-        "meaning": "تشرفت بلقائك",
-        "options": [
-          "اريد رؤيتك",
-          "سعيد بلقائك",
-          "أهلاً بك",
-          "السلام عليكم"
-        ],
-        "arabicReason": "العبارة تعني 'تشرفت بلقائك' وتقال عند التعارف بشخص لأول مرة.",
-        "englishReason": "The phrase means 'nice to meet you' - said when being introduced to someone.",
-        "id": 3,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "want",
-        "meaning": "يريد",
-        "options": [
-          "يريد",
-          "يري",
-          "يعمل",
-          "ينام"
-        ],
-        "arabicReason": "الكلمة تعني 'يريد' وهي التعبير عن الرغبة في الحصول على شيء.",
-        "englishReason": "The word means 'want' - expressing a desire to have something.",
-        "id": 4,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "name",
-        "meaning": "اسم",
-        "options": [
-          "اسم",
-          "عمل",
-          "مدرسة",
-          "نادة"
-        ],
-        "arabicReason": "الكلمة تعني 'اسم' وهو ما ننادي به الشخص للتعرف عليه.",
-        "englishReason": "The word means 'name' - what we call a person to identify them.",
-        "id": 5,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "meet",
-        "meaning": "يلتقي",
-        "options": [
-          "يري",
-          "يتكلم",
-          "يتقابل",
-          "يصاحب"
-        ],
-        "arabicReason": "الكلمة تعني 'يلتقي' أو 'يقابل' شخصاً ما في مكان ما.",
-        "englishReason": "The word means 'meet' - to come together with someone.",
-        "id": 6,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "play",
-        "meaning": "يلعب",
-        "options": [
-          "يلعب",
-          "يركض",
-          "يقفز",
-          "يسبح"
-        ],
-        "arabicReason": "الكلمة تعني 'يلعب' وهي فعل نقوم به للاستمتاع والحركة.",
-        "englishReason": "The word means 'play' - an action we do for fun and movement.",
-        "id": 7,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "friend",
-        "meaning": "صديق",
-        "options": [
-          "صديق",
-          "اخت",
-          "جار",
-          "أخ"
-        ],
-        "arabicReason": "الكلمة تعني 'صديق' وهو الشخص الذي تحبه وتلعب معه.",
-        "englishReason": "The word means 'friend' - a person you like and play with.",
-        "id": 8,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "good bye",
-        "meaning": "مع السلامة",
-        "options": [
-          "مع السلامة",
-          "مرحبا",
-          "تعالي",
-          "تصبح على خير"
-        ],
-        "arabicReason": "العبارة تعني 'مع السلامة' وتستخدم عند المغادرة أو الوداع.",
-        "englishReason": "The phrase means 'goodbye' - used when leaving or saying farewell.",
-        "id": 9,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "shake hands",
-        "meaning": "يصافح",
-        "options": [
-          "يصافح",
-          "يعانق",
-          "يقبّل",
-          "يلوح"
-        ],
-        "arabicReason": "العبارة تعني 'يصافح' وهي طريقة للترحيب بالآخرين بالمصافحة.",
-        "englishReason": "The phrase means 'shake hands' - a way to greet others by holding hands.",
-        "id": 10,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "hi",
-        "meaning": "أهلا",
-        "options": [
-          "أهلا",
-          "من",
-          "الي",
-          "علي"
-        ],
-        "arabicReason": "الكلمة تعني 'مرحبا' وتستخدم للتحية عند مقابلة شخص.",
-        "englishReason": "The word means 'hello' - used as a greeting when meeting someone.",
-        "id": 11,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
       },
       {
         "word": "go",
@@ -30379,6 +30267,176 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 404
+      },
+      {
+        "word": "hello",
+        "meaning": "مرحبا",
+        "options": [
+          "مرحبا",
+          "يريد",
+          "مع السلامة",
+          "صباح الخير"
+        ],
+        "arabicReason": "الكلمة تعني 'أهلا' أو 'مرحبا' وهي تحية ودية وغير رسمية.",
+        "englishReason": "The word means 'hi' - a friendly and informal greeting.",
+        "id": 2,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "nice to meet you",
+        "meaning": "سعيد بلقائك",
+        "options": [
+          "اريد رؤيتك",
+          "سعيد بلقائك",
+          "أهلاً بك",
+          "السلام عليكم"
+        ],
+        "arabicReason": "العبارة تعني 'سعيد بلقائك' وتقال عند التعارف بشخص لأول مرة.",
+        "englishReason": "The phrase means 'nice to meet you' - said when being introduced to someone.",
+        "id": 3,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "want",
+        "meaning": "يريد",
+        "options": [
+          "يريد",
+          "يري",
+          "يعمل",
+          "ينام"
+        ],
+        "arabicReason": "الكلمة تعني 'يريد' وهي التعبير عن الرغبة في الحصول على شيء.",
+        "englishReason": "The word means 'want' - expressing a desire to have something.",
+        "id": 4,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "name",
+        "meaning": "اسم",
+        "options": [
+          "اسم",
+          "عمل",
+          "مدرسة",
+          "نادة"
+        ],
+        "arabicReason": "الكلمة تعني 'اسم' وهو ما ننادي به الشخص للتعرف عليه.",
+        "englishReason": "The word means 'name' - what we call a person to identify them.",
+        "id": 5,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "meet",
+        "meaning": "يتقابل",
+        "options": [
+          "يري",
+          "يتكلم",
+          "يتقابل",
+          "يصاحب"
+        ],
+        "arabicReason": "الكلمة تعني 'يتقابل' أو 'يقابل' شخصاً ما في مكان ما.",
+        "englishReason": "The word means 'meet' - to come together with someone.",
+        "id": 6,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "play",
+        "meaning": "يلعب",
+        "options": [
+          "يلعب",
+          "يركض",
+          "يقفز",
+          "يسبح"
+        ],
+        "arabicReason": "الكلمة تعني 'يلعب' وهي فعل نقوم به للاستمتاع والحركة.",
+        "englishReason": "The word means 'play' - an action we do for fun and movement.",
+        "id": 7,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "friend",
+        "meaning": "صديق",
+        "options": [
+          "صديق",
+          "اخت",
+          "جار",
+          "أخ"
+        ],
+        "arabicReason": "الكلمة تعني 'صديق' وهو الشخص الذي تحبه وتلعب معه.",
+        "englishReason": "The word means 'friend' - a person you like and play with.",
+        "id": 8,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "good bye",
+        "meaning": "مع السلامة",
+        "options": [
+          "مع السلامة",
+          "مرحبا",
+          "تعالي",
+          "تصبح على خير"
+        ],
+        "arabicReason": "العبارة تعني 'مع السلامة' وتستخدم عند المغادرة أو الوداع.",
+        "englishReason": "The phrase means 'goodbye' - used when leaving or saying farewell.",
+        "id": 9,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "shake hands",
+        "meaning": "يصافح",
+        "options": [
+          "يصافح",
+          "يعانق",
+          "يقبّل",
+          "يلوح"
+        ],
+        "arabicReason": "العبارة تعني 'يصافح' وهي طريقة للترحيب بالآخرين بالمصافحة.",
+        "englishReason": "The phrase means 'shake hands' - a way to greet others by holding hands.",
+        "id": 10,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "hi",
+        "meaning": "أهلا",
+        "options": [
+          "أهلا",
+          "من",
+          "الي",
+          "علي"
+        ],
+        "arabicReason": "الكلمة تعني 'مرحبا' وتستخدم للتحية عند مقابلة شخص.",
+        "englishReason": "The word means 'hello' - used as a greeting when meeting someone.",
+        "id": 11,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
       }
     ],
     "vocab_quiz": [
@@ -30398,176 +30456,6 @@
         "grade": "3",
         "curriculum": "AL",
         "unit": "3"
-      },
-      {
-        "word": "hello",
-        "meaning": "مرحبا",
-        "options": [
-          "مرحبا",
-          "يريد",
-          "مع السلامة",
-          "صباح الخير"
-        ],
-        "arabicReason": "الكلمة تعني 'مرحبا' وتستخدم للتحية عند مقابلة شخص.",
-        "englishReason": "The word means 'hello' - used as a greeting when meeting someone.",
-        "id": 2,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "shake hands",
-        "meaning": "يصافح",
-        "options": [
-          "يصافح",
-          "يعانق",
-          "يقبّل",
-          "يلوح"
-        ],
-        "arabicReason": "العبارة تعني 'يصافح' وهي طريقة للترحيب بالآخرين بالمصافحة.",
-        "englishReason": "The phrase means 'shake hands' - a way to greet others by holding hands.",
-        "id": 3,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "good bye",
-        "meaning": "مع السلامة",
-        "options": [
-          "مع السلامة",
-          "مرحبا",
-          "تعالي",
-          "تصبح على خير"
-        ],
-        "arabicReason": "العبارة تعني 'مع السلامة' وتستخدم عند المغادرة أو الوداع.",
-        "englishReason": "The phrase means 'goodbye' - used when leaving or saying farewell.",
-        "id": 4,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "friend",
-        "meaning": "صديق",
-        "options": [
-          "صديق",
-          "اخت",
-          "جار",
-          "أخ"
-        ],
-        "arabicReason": "الكلمة تعني 'صديق' وهو الشخص الذي تحبه وتلعب معه.",
-        "englishReason": "The word means 'friend' - a person you like and play with.",
-        "id": 5,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "play",
-        "meaning": "يلعب",
-        "options": [
-          "يلعب",
-          "يركض",
-          "يقفز",
-          "يسبح"
-        ],
-        "arabicReason": "الكلمة تعني 'يلعب' وهي فعل نقوم به للاستمتاع والحركة.",
-        "englishReason": "The word means 'play' - an action we do for fun and movement.",
-        "id": 6,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "meet",
-        "meaning": "يلتقي",
-        "options": [
-          "يري",
-          "يتكلم",
-          "يتقابل",
-          "يصاحب"
-        ],
-        "arabicReason": "الكلمة تعني 'يلتقي' أو 'يقابل' شخصاً ما في مكان ما.",
-        "englishReason": "The word means 'meet' - to come together with someone.",
-        "id": 7,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "name",
-        "meaning": "اسم",
-        "options": [
-          "اسم",
-          "عمل",
-          "مدرسة",
-          "نادة"
-        ],
-        "arabicReason": "الكلمة تعني 'اسم' وهو ما ننادي به الشخص للتعرف عليه.",
-        "englishReason": "The word means 'name' - what we call a person to identify them.",
-        "id": 8,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "want",
-        "meaning": "يريد",
-        "options": [
-          "يريد",
-          "يري",
-          "يعمل",
-          "ينام"
-        ],
-        "arabicReason": "الكلمة تعني 'يريد' وهي التعبير عن الرغبة في الحصول على شيء.",
-        "englishReason": "The word means 'want' - expressing a desire to have something.",
-        "id": 9,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "nice to meet you",
-        "meaning": "تشرفت بلقائك",
-        "options": [
-          "اريد رؤيتك",
-          "سعيد بلقائك",
-          "أهلاً بك",
-          "السلام عليكم"
-        ],
-        "arabicReason": "العبارة تعني 'تشرفت بلقائك' وتقال عند التعارف بشخص لأول مرة.",
-        "englishReason": "The phrase means 'nice to meet you' - said when being introduced to someone.",
-        "id": 10,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "word": "hi",
-        "meaning": "أهلا",
-        "options": [
-          "أهلا",
-          "من",
-          "الي",
-          "علي"
-        ],
-        "arabicReason": "الكلمة تعني 'أهلا' أو 'مرحبا' وهي تحية ودية وغير رسمية.",
-        "englishReason": "The word means 'hi' - a friendly and informal greeting.",
-        "id": 11,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "2"
       },
       {
         "word": "go",
@@ -30974,176 +30862,6 @@
         "id": 35,
         "level": "primary",
         "grade": "2",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "word": "wake up",
-        "meaning": "يستيقظ",
-        "options": [
-          "يستيقظ",
-          "ينام",
-          "يجلس",
-          "يأتي"
-        ],
-        "arabicReason": "الفعل (wake up) يعني يستيقظ من النوم.",
-        "englishReason": "The verb 'wake up' means to stop sleeping.",
-        "id": 36,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "word": "look at",
-        "meaning": "ينظر إلى",
-        "options": [
-          "ينظر إلى",
-          "يشاهد",
-          "يقرأ",
-          "يقف"
-        ],
-        "arabicReason": "الفعل (look at) يعني ينظر إلى شيء أو شخص.",
-        "englishReason": "The verb 'look at' means to direct your eyes toward something.",
-        "id": 37,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "word": "wash",
-        "meaning": "يغسل",
-        "options": [
-          "يغسل",
-          "ينظف",
-          "يفتح",
-          "ينام"
-        ],
-        "arabicReason": "الفعل (wash) يعني يغسل بالماء.",
-        "englishReason": "The verb 'wash' means to clean something with water.",
-        "id": 38,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "word": "watch",
-        "meaning": "يشاهد",
-        "options": [
-          "يشاهد",
-          "يسمع",
-          "ينظر إلى",
-          "يغلق"
-        ],
-        "arabicReason": "الفعل (watch) يعني يشاهد شيئًا باهتمام.",
-        "englishReason": "The verb 'watch' means to look at something carefully.",
-        "id": 39,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "word": "read",
-        "meaning": "يقرأ",
-        "options": [
-          "يقرأ",
-          "يكتب",
-          "يشاهد",
-          "يفتح"
-        ],
-        "arabicReason": "الفعل (read) يعني يقرأ كتابًا أو قصة.",
-        "englishReason": "The verb 'read' means to look at and understand written words.",
-        "id": 40,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "word": "sleep",
-        "meaning": "ينام",
-        "options": [
-          "ينام",
-          "يستيقظ",
-          "يقرأ",
-          "يقف"
-        ],
-        "arabicReason": "الفعل (sleep) يعني ينام للراحة.",
-        "englishReason": "The verb 'sleep' means to rest with your eyes closed.",
-        "id": 41,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "word": "close",
-        "meaning": "يغلق",
-        "options": [
-          "يغلق",
-          "يفتح",
-          "يشاهد",
-          "يغسل"
-        ],
-        "arabicReason": "الفعل (close) يعني يغلق شيئًا مثل الباب أو النافذة.",
-        "englishReason": "The verb 'close' means to shut something.",
-        "id": 42,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "word": "open",
-        "meaning": "يفتح",
-        "options": [
-          "يفتح",
-          "يغلق",
-          "يقرأ",
-          "ينظر إلى"
-        ],
-        "arabicReason": "الفعل (open) يعني يفتح شيئًا مثل الباب أو الكتاب.",
-        "englishReason": "The verb 'open' means to make something not closed.",
-        "id": 43,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "word": "stand up",
-        "meaning": "يقف",
-        "options": [
-          "يقف",
-          "يجلس",
-          "ينام",
-          "يجري"
-        ],
-        "arabicReason": "الفعل (stand up) يعني يقف بعد الجلوس.",
-        "englishReason": "The verb 'stand up' means to rise to a standing position.",
-        "id": 44,
-        "level": "primary",
-        "grade": "1",
-        "curriculum": "OL",
-        "unit": "3"
-      },
-      {
-        "word": "come",
-        "meaning": "يأتي",
-        "options": [
-          "يأتي",
-          "يذهب",
-          "يجري",
-          "يقف"
-        ],
-        "arabicReason": "الفعل (come) يعني يأتي أو يحضر إلى مكان.",
-        "englishReason": "The verb 'come' means to move toward a place or a person.",
-        "id": 45,
-        "level": "primary",
-        "grade": "1",
         "curriculum": "OL",
         "unit": "3"
       },
@@ -37317,6 +37035,346 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 427
+      },
+      {
+        "word": "hello",
+        "meaning": "مرحبا",
+        "options": [
+          "مرحبا",
+          "يريد",
+          "مع السلامة",
+          "صباح الخير"
+        ],
+        "arabicReason": "الكلمة تعني 'مرحبا' وتستخدم للتحية عند مقابلة شخص.",
+        "englishReason": "The word means 'hello' - used as a greeting when meeting someone.",
+        "id": 2,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "shake hands",
+        "meaning": "يصافح",
+        "options": [
+          "يصافح",
+          "يعانق",
+          "يقبّل",
+          "يلوح"
+        ],
+        "arabicReason": "العبارة تعني 'يصافح' وهي طريقة للترحيب بالآخرين بالمصافحة.",
+        "englishReason": "The phrase means 'shake hands' - a way to greet others by holding hands.",
+        "id": 3,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "good bye",
+        "meaning": "مع السلامة",
+        "options": [
+          "مع السلامة",
+          "مرحبا",
+          "تعالي",
+          "تصبح على خير"
+        ],
+        "arabicReason": "العبارة تعني 'مع السلامة' وتستخدم عند المغادرة أو الوداع.",
+        "englishReason": "The phrase means 'goodbye' - used when leaving or saying farewell.",
+        "id": 4,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "friend",
+        "meaning": "صديق",
+        "options": [
+          "صديق",
+          "اخت",
+          "جار",
+          "أخ"
+        ],
+        "arabicReason": "الكلمة تعني 'صديق' وهو الشخص الذي تحبه وتلعب معه.",
+        "englishReason": "The word means 'friend' - a person you like and play with.",
+        "id": 5,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "play",
+        "meaning": "يلعب",
+        "options": [
+          "يلعب",
+          "يركض",
+          "يقفز",
+          "يسبح"
+        ],
+        "arabicReason": "الكلمة تعني 'يلعب' وهي فعل نقوم به للاستمتاع والحركة.",
+        "englishReason": "The word means 'play' - an action we do for fun and movement.",
+        "id": 6,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "meet",
+        "meaning": "يتقابل",
+        "options": [
+          "يري",
+          "يتكلم",
+          "يتقابل",
+          "يصاحب"
+        ],
+        "arabicReason": "الكلمة تعني 'يتقابل' أو 'يقابل' شخصاً ما في مكان ما.",
+        "englishReason": "The word means 'meet' - to come together with someone.",
+        "id": 7,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "name",
+        "meaning": "اسم",
+        "options": [
+          "اسم",
+          "عمل",
+          "مدرسة",
+          "نادة"
+        ],
+        "arabicReason": "الكلمة تعني 'اسم' وهو ما ننادي به الشخص للتعرف عليه.",
+        "englishReason": "The word means 'name' - what we call a person to identify them.",
+        "id": 8,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "want",
+        "meaning": "يريد",
+        "options": [
+          "يريد",
+          "يري",
+          "يعمل",
+          "ينام"
+        ],
+        "arabicReason": "الكلمة تعني 'يريد' وهي التعبير عن الرغبة في الحصول على شيء.",
+        "englishReason": "The word means 'want' - expressing a desire to have something.",
+        "id": 9,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "nice to meet you",
+        "meaning": "سعيد بلقائك",
+        "options": [
+          "اريد رؤيتك",
+          "سعيد بلقائك",
+          "أهلاً بك",
+          "السلام عليكم"
+        ],
+        "arabicReason": "العبارة تعني 'سعيد بلقائك' وتقال عند التعارف بشخص لأول مرة.",
+        "englishReason": "The phrase means 'nice to meet you' - said when being introduced to someone.",
+        "id": 10,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "hi",
+        "meaning": "أهلا",
+        "options": [
+          "أهلا",
+          "من",
+          "الي",
+          "علي"
+        ],
+        "arabicReason": "الكلمة تعني 'أهلا' أو 'مرحبا' وهي تحية ودية وغير رسمية.",
+        "englishReason": "The word means 'hi' - a friendly and informal greeting.",
+        "id": 11,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "word": "wake up",
+        "meaning": "يستيقظ",
+        "options": [
+          "يستيقظ",
+          "ينام",
+          "يجلس",
+          "يأتي"
+        ],
+        "arabicReason": "الفعل (wake up) يعني يستيقظ من النوم.",
+        "englishReason": "The verb 'wake up' means to stop sleeping.",
+        "id": 36,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "word": "look at",
+        "meaning": "ينظر إلى",
+        "options": [
+          "ينظر إلى",
+          "يشاهد",
+          "يقرأ",
+          "يقف"
+        ],
+        "arabicReason": "الفعل (look at) يعني ينظر إلى شيء أو شخص.",
+        "englishReason": "The verb 'look at' means to direct your eyes toward something.",
+        "id": 37,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "word": "wash",
+        "meaning": "يغسل",
+        "options": [
+          "يغسل",
+          "ينظف",
+          "يفتح",
+          "ينام"
+        ],
+        "arabicReason": "الفعل (wash) يعني يغسل بالماء.",
+        "englishReason": "The verb 'wash' means to clean something with water.",
+        "id": 38,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "word": "watch",
+        "meaning": "يشاهد",
+        "options": [
+          "يشاهد",
+          "يسمع",
+          "ينظر إلى",
+          "يغلق"
+        ],
+        "arabicReason": "الفعل (watch) يعني يشاهد شيئًا باهتمام.",
+        "englishReason": "The verb 'watch' means to look at something carefully.",
+        "id": 39,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "word": "read",
+        "meaning": "يقرأ",
+        "options": [
+          "يقرأ",
+          "يكتب",
+          "يشاهد",
+          "يفتح"
+        ],
+        "arabicReason": "الفعل (read) يعني يقرأ كتابًا أو قصة.",
+        "englishReason": "The verb 'read' means to look at and understand written words.",
+        "id": 40,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "word": "sleep",
+        "meaning": "ينام",
+        "options": [
+          "ينام",
+          "يستيقظ",
+          "يقرأ",
+          "يقف"
+        ],
+        "arabicReason": "الفعل (sleep) يعني ينام للراحة.",
+        "englishReason": "The verb 'sleep' means to rest with your eyes closed.",
+        "id": 41,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "word": "close",
+        "meaning": "يغلق",
+        "options": [
+          "يغلق",
+          "يفتح",
+          "يشاهد",
+          "يغسل"
+        ],
+        "arabicReason": "الفعل (close) يعني يغلق شيئًا مثل الباب أو النافذة.",
+        "englishReason": "The verb 'close' means to shut something.",
+        "id": 42,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "word": "open",
+        "meaning": "يفتح",
+        "options": [
+          "يفتح",
+          "يغلق",
+          "يقرأ",
+          "ينظر إلى"
+        ],
+        "arabicReason": "الفعل (open) يعني يفتح شيئًا مثل الباب أو الكتاب.",
+        "englishReason": "The verb 'open' means to make something not closed.",
+        "id": 43,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "word": "stand up",
+        "meaning": "يقف",
+        "options": [
+          "يقف",
+          "يجلس",
+          "ينام",
+          "يجري"
+        ],
+        "arabicReason": "الفعل (stand up) يعني يقف بعد الجلوس.",
+        "englishReason": "The verb 'stand up' means to rise to a standing position.",
+        "id": 44,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
+      },
+      {
+        "word": "come",
+        "meaning": "يأتي",
+        "options": [
+          "يأتي",
+          "يذهب",
+          "يجري",
+          "يقف"
+        ],
+        "arabicReason": "الفعل (come) يعني يأتي أو يحضر إلى مكان.",
+        "englishReason": "The verb 'come' means to move toward a place or a person.",
+        "id": 45,
+        "level": "primary",
+        "grade": "1",
+        "curriculum": "OL",
+        "unit": "3"
       }
     ],
     "what_do_you_hear": [
