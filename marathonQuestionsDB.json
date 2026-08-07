@@ -647,6 +647,60 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 25
+      },
+      {
+        "passage": "Plants are very important in our lives. They give us {blank1}, vegetables, and grains to eat. Plants help us {blank2} by giving us oxygen. They make the air {blank3} and fresh. They also give {blank4} to many animals. When we plant trees and take care of plants, we help the {blank5}. We should always {blank6} plants.",
+        "options": [
+          "fruits",
+          "breathe",
+          "clean",
+          "homes",
+          "Earth",
+          "protect"
+        ],
+        "correctAnswer": [
+          "fruits",
+          "breathe",
+          "clean",
+          "homes",
+          "Earth",
+          "protect"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 26
+      },
+      {
+        "passage": "There are twelve months in a year. {blank1} is the first month, and {blank2} is the last month. The last six months are July, August, September, October, November, and December. {blank3} comes after July, and October comes before {blank4}. Summer is {blank5}, but winter is {blank6}. In fall, the wind is {blank7}, and in spring, the weather is {blank8}.",
+        "options": [
+          "January",
+          "December",
+          "August",
+          "November",
+          "hot",
+          "cold",
+          "strong",
+          "warm"
+        ],
+        "correctAnswer": [
+          "January",
+          "December",
+          "August",
+          "November",
+          "hot",
+          "cold",
+          "strong",
+          "warm"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 27
       }
     ],
     "correct": [
@@ -3131,6 +3185,246 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 206
+      },
+      {
+        "sentence": "She is watering the plants now.",
+        "errorWord": "watering",
+        "correctWord": "watering",
+        "arabicReason": "لا يوجد خطأ في الفعل، لكن يجب أن تكون الجملة: She is watering the plants now.",
+        "englishReason": "The correct present continuous form is 'She is watering the plants now'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 207
+      },
+      {
+        "sentence": "He are planting a tree.",
+        "errorWord": "are",
+        "correctWord": "is",
+        "arabicReason": "مع He نستخدم is وليس are.",
+        "englishReason": "We use 'is' with 'He', not 'are'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 208
+      },
+      {
+        "sentence": "They is cleaning the garden.",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "مع They نستخدم are.",
+        "englishReason": "We use 'are' with 'They'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 209
+      },
+      {
+        "sentence": "We am taking care of the plants.",
+        "errorWord": "am",
+        "correctWord": "are",
+        "arabicReason": "مع We نستخدم are.",
+        "englishReason": "We use 'are' with 'We'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 210
+      },
+      {
+        "sentence": "I is reading about plants.",
+        "errorWord": "is",
+        "correctWord": "am",
+        "arabicReason": "مع I نستخدم am.",
+        "englishReason": "We use 'am' with 'I'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 211
+      },
+      {
+        "sentence": "She is planting flowers now.",
+        "errorWord": "planting",
+        "correctWord": "planting",
+        "arabicReason": "صيغة الفعل صحيحة في المضارع المستمر.",
+        "englishReason": "The verb form is correct in the present continuous.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 212
+      },
+      {
+        "sentence": "The boys is watering the trees.",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "The boys فاعل جمع، لذلك نستخدم are.",
+        "englishReason": "'The boys' is plural, so we use 'are'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 213
+      },
+      {
+        "sentence": "My mother are growing vegetables.",
+        "errorWord": "are",
+        "correctWord": "is",
+        "arabicReason": "My mother مفرد، لذلك نستخدم is.",
+        "englishReason": "'My mother' is singular, so we use 'is'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 214
+      },
+      {
+        "sentence": "The children is helping their teacher.",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "The children جمع، لذلك نستخدم are.",
+        "englishReason": "'The children' is plural, so we use 'are'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 215
+      },
+      {
+        "sentence": "You is protecting the plants.",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "مع You نستخدم are.",
+        "englishReason": "We use 'are' with 'You'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 216
+      },
+      {
+        "sentence": "August comes before July.",
+        "errorWord": "before",
+        "correctWord": "after",
+        "arabicReason": "أغسطس يأتي بعد يوليو وليس قبله.",
+        "englishReason": "August comes after July, not before.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 217
+      },
+      {
+        "sentence": "October comes after November.",
+        "errorWord": "after",
+        "correctWord": "before",
+        "arabicReason": "أكتوبر يأتي قبل نوفمبر.",
+        "englishReason": "October comes before November.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 218
+      },
+      {
+        "sentence": "November comes before October.",
+        "errorWord": "before",
+        "correctWord": "after",
+        "arabicReason": "نوفمبر يأتي بعد أكتوبر.",
+        "englishReason": "November comes after October.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 219
+      },
+      {
+        "sentence": "December comes before November.",
+        "errorWord": "before",
+        "correctWord": "after",
+        "arabicReason": "ديسمبر يأتي بعد نوفمبر.",
+        "englishReason": "December comes after November.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 220
+      },
+      {
+        "sentence": "September comes after October.",
+        "errorWord": "after",
+        "correctWord": "before",
+        "arabicReason": "سبتمبر يأتي قبل أكتوبر.",
+        "englishReason": "September comes before October.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 221
+      },
+      {
+        "sentence": "July comes after August.",
+        "errorWord": "after",
+        "correctWord": "before",
+        "arabicReason": "يوليو يأتي قبل أغسطس.",
+        "englishReason": "July comes before August.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 222
+      },
+      {
+        "sentence": "Fall comes before Summer.",
+        "errorWord": "before",
+        "correctWord": "after",
+        "arabicReason": "الخريف يأتي بعد الصيف.",
+        "englishReason": "Fall comes after Summer.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 223
+      },
+      {
+        "sentence": "Winter comes before Fall.",
+        "errorWord": "before",
+        "correctWord": "after",
+        "arabicReason": "الشتاء يأتي بعد الخريف.",
+        "englishReason": "Winter comes after Fall.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 224
+      },
+      {
+        "sentence": "Spring comes before Winter.",
+        "errorWord": "before",
+        "correctWord": "after",
+        "arabicReason": "الربيع يأتي بعد الشتاء.",
+        "englishReason": "Spring comes after Winter.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 225
+      },
+      {
+        "sentence": "Summer comes after Fall.",
+        "errorWord": "after",
+        "correctWord": "before",
+        "arabicReason": "الصيف يأتي قبل الخريف.",
+        "englishReason": "Summer comes before Fall.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 226
       }
     ],
     "find_the_vowel": [
@@ -7109,6 +7403,176 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 233
+      },
+      {
+        "question": "The children ______ planting trees now.",
+        "correctAnswer": "are",
+        "arabicReason": "مع الفاعل الجمع (The children) نستخدم are في المضارع المستمر.",
+        "englishReason": "With the plural subject (The children), we use 'are' in the present continuous.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 234
+      },
+      {
+        "question": "She ______ watering the flowers now.",
+        "correctAnswer": "is",
+        "arabicReason": "مع She نستخدم is في المضارع المستمر.",
+        "englishReason": "With 'She', we use 'is' in the present continuous.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 235
+      },
+      {
+        "question": "We ______ cleaning the garden at the moment.",
+        "correctAnswer": "are",
+        "arabicReason": "مع We نستخدم are.",
+        "englishReason": "With 'We', we use 'are'.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 236
+      },
+      {
+        "question": "They ______ playing in the park now.",
+        "correctAnswer": "aren't",
+        "arabicReason": "للنفي مع They في المضارع المستمر نستخدم aren't.",
+        "englishReason": "For the negative with 'They' in the present continuous, we use 'aren't'.",
+        "options": [
+          "isn't",
+          "aren't",
+          "don't",
+          "doesn't"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 237
+      },
+      {
+        "question": "He ______ helping his father now.",
+        "correctAnswer": "isn't",
+        "arabicReason": "للنفي مع He نستخدم isn't.",
+        "englishReason": "For the negative with 'He', we use 'isn't'.",
+        "options": [
+          "aren't",
+          "don't",
+          "isn't",
+          "doesn't"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 238
+      },
+      {
+        "question": "______ she planting a tree now?",
+        "correctAnswer": "Is",
+        "arabicReason": "في السؤال مع She نبدأ بـ Is.",
+        "englishReason": "In a question with 'She', we begin with 'Is'.",
+        "options": [
+          "Am",
+          "Is",
+          "Are",
+          "Do"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 239
+      },
+      {
+        "question": "______ they watering the plants?",
+        "correctAnswer": "Are",
+        "arabicReason": "في السؤال مع They نستخدم Are.",
+        "englishReason": "In a question with 'They', we use 'Are'.",
+        "options": [
+          "Am",
+          "Is",
+          "Are",
+          "Does"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 240
+      },
+      {
+        "question": "I ______ reading about plants now.",
+        "correctAnswer": "am",
+        "arabicReason": "مع I نستخدم am في المضارع المستمر.",
+        "englishReason": "With 'I', we use 'am' in the present continuous.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 241
+      },
+      {
+        "question": "We ______ watching TV now. We are planting trees.",
+        "correctAnswer": "aren't",
+        "arabicReason": "الجملة منفية لأنهم يزرعون الأشجار الآن.",
+        "englishReason": "The sentence is negative because they are planting trees now.",
+        "options": [
+          "isn't",
+          "aren't",
+          "don't",
+          "doesn't"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 242
+      },
+      {
+        "question": "______ you taking care of the plants now?",
+        "correctAnswer": "Are",
+        "arabicReason": "في السؤال مع You نستخدم Are.",
+        "englishReason": "In a question with 'You', we use 'Are'.",
+        "options": [
+          "Am",
+          "Is",
+          "Are",
+          "Do"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 243
       }
     ],
     "justtalk": [
@@ -8464,6 +8928,69 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 64
+      },
+      {
+        "sentences": [
+          {
+            "text": "Plants are very important in our lives.",
+            "target": "Plants are very important in our lives."
+          },
+          {
+            "text": "Plants give us fruits to eat.",
+            "target": "Plants give us fruits to eat."
+          },
+          {
+            "text": "Many animals eat plants.",
+            "target": "Many animals eat plants."
+          }
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 65
+      },
+      {
+        "sentences": [
+          {
+            "text": "Plants help us breathe.",
+            "target": "Plants help us breathe."
+          },
+          {
+            "text": "We need oxygen to stay alive.",
+            "target": "We need oxygen to stay alive."
+          },
+          {
+            "text": "Plants make the air clean and fresh.",
+            "target": "Plants make the air clean and fresh."
+          }
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 66
+      },
+      {
+        "sentences": [
+          {
+            "text": "Plants give homes to many animals.",
+            "target": "Plants give homes to many animals."
+          },
+          {
+            "text": "We should take care of plants.",
+            "target": "We should take care of plants."
+          },
+          {
+            "text": "We should protect every plant.",
+            "target": "We should protect every plant."
+          }
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 67
       }
     ],
     "Matching": [
@@ -10955,6 +11482,206 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 244
+      },
+      {
+        "sentence": "plants are very important in our lives",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + بقية الجملة.",
+        "englishReason": "The correct order is: subject + verb + the rest of the sentence.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 245
+      },
+      {
+        "sentence": "plants give us fruits to eat",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول + الغرض.",
+        "englishReason": "The correct order is: subject + verb + object + purpose.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 246
+      },
+      {
+        "sentence": "many animals eat plants",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is: subject + verb + object.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 247
+      },
+      {
+        "sentence": "plants help us breathe",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول + الفعل.",
+        "englishReason": "The correct order is: subject + verb + object + verb.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 248
+      },
+      {
+        "sentence": "we need oxygen to stay alive",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول + الغرض.",
+        "englishReason": "The correct order is: subject + verb + object + purpose.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 249
+      },
+      {
+        "sentence": "plants make the air clean and fresh",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول + الصفات.",
+        "englishReason": "The correct order is: subject + verb + object + adjectives.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 250
+      },
+      {
+        "sentence": "plants give homes to many animals",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول + بقية الجملة.",
+        "englishReason": "The correct order is: subject + verb + object + the rest of the sentence.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 251
+      },
+      {
+        "sentence": "plants make our world green and beautiful",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + المفعول + الصفات.",
+        "englishReason": "The correct order is: subject + verb + object + adjectives.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 252
+      },
+      {
+        "sentence": "we should take care of plants",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + should + الفعل + بقية الجملة.",
+        "englishReason": "The correct order is: subject + should + verb + the rest of the sentence.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 253
+      },
+      {
+        "sentence": "we should protect every plant",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + should + الفعل + المفعول به.",
+        "englishReason": "The correct order is: subject + should + verb + object.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 254
+      },
+      {
+        "sentence": "january is the first month of the year",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + بقية الجملة.",
+        "englishReason": "The correct order is: subject + verb + the rest of the sentence.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 255
+      },
+      {
+        "sentence": "december is the last month of the year",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + بقية الجملة.",
+        "englishReason": "The correct order is: subject + verb + the rest of the sentence.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 256
+      },
+      {
+        "sentence": "august comes after july",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + بقية الجملة.",
+        "englishReason": "The correct order is: subject + verb + the rest of the sentence.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 257
+      },
+      {
+        "sentence": "october comes before november",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل + بقية الجملة.",
+        "englishReason": "The correct order is: subject + verb + the rest of the sentence.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 258
+      },
+      {
+        "sentence": "there are twelve months in a year",
+        "arabicReason": "الترتيب الصحيح هو: There + الفعل + العدد + الاسم + بقية الجملة.",
+        "englishReason": "The correct order is: There + verb + number + noun + the rest of the sentence.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 259
+      },
+      {
+        "sentence": "there are four seasons in a year",
+        "arabicReason": "الترتيب الصحيح هو: There + الفعل + العدد + الاسم + بقية الجملة.",
+        "englishReason": "The correct order is: There + verb + number + noun + the rest of the sentence.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 260
+      },
+      {
+        "sentence": "summer is hot",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الصفة.",
+        "englishReason": "The correct order is: subject + be verb + adjective.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 261
+      },
+      {
+        "sentence": "winter is cold",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الصفة.",
+        "englishReason": "The correct order is: subject + be verb + adjective.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 262
+      },
+      {
+        "sentence": "spring is warm",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الصفة.",
+        "englishReason": "The correct order is: subject + be verb + adjective.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 263
+      },
+      {
+        "sentence": "the wind is strong in fall",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + فعل الكينونة + الصفة + بقية الجملة.",
+        "englishReason": "The correct order is: subject + be verb + adjective + the rest of the sentence.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 264
       }
     ],
     "rewrite": [
@@ -12672,6 +13399,66 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 142
+      },
+      {
+        "sentence": "She is watering the plants now.",
+        "targetWord": "isn't",
+        "correctAnswer": "She isn't watering the plants now.",
+        "arabicReason": "حوّلنا الجملة من الإثبات إلى النفي باستخدام isn't.",
+        "englishReason": "We changed the sentence from affirmative to negative using isn't.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 143
+      },
+      {
+        "sentence": "They are planting trees now.",
+        "targetWord": "aren't",
+        "correctAnswer": "They aren't planting trees now.",
+        "arabicReason": "استخدمنا aren't لنفي الجملة مع الفاعل الجمع.",
+        "englishReason": "We used aren't to make the plural sentence negative.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 144
+      },
+      {
+        "sentence": "He is cleaning the garden now.",
+        "targetWord": "Is",
+        "correctAnswer": "Is he cleaning the garden now?",
+        "arabicReason": "حوّلنا الجملة إلى سؤال بوضع Is في بداية الجملة.",
+        "englishReason": "We changed the sentence into a question by putting Is at the beginning.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 145
+      },
+      {
+        "sentence": "We are taking care of the plants.",
+        "targetWord": "Are",
+        "correctAnswer": "Are we taking care of the plants?",
+        "arabicReason": "استخدمنا Are في بداية الجملة لتكوين السؤال.",
+        "englishReason": "We used Are at the beginning to form the question.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 146
+      },
+      {
+        "sentence": "I am reading about plants now.",
+        "targetWord": "aren't",
+        "correctAnswer": "We aren't reading about plants now.",
+        "arabicReason": "غيّرنا الفاعل من I إلى We، لذلك تغيّر الفعل المساعد من am إلى aren't.",
+        "englishReason": "We changed the subject from I to We, so the helping verb changed from am to aren't.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 147
       }
     ],
     "Scramble": [
@@ -15955,6 +16742,302 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 410
+      },
+      {
+        "word": "plants",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 411
+      },
+      {
+        "word": "important",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 412
+      },
+      {
+        "word": "fruits",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 413
+      },
+      {
+        "word": "vegetables",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 414
+      },
+      {
+        "word": "grains",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 415
+      },
+      {
+        "word": "animals",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 416
+      },
+      {
+        "word": "breathe",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 417
+      },
+      {
+        "word": "oxygen",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 418
+      },
+      {
+        "word": "clean",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 419
+      },
+      {
+        "word": "fresh",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 420
+      },
+      {
+        "word": "homes",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 421
+      },
+      {
+        "word": "Earth",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 422
+      },
+      {
+        "word": "protect",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 423
+      },
+      {
+        "word": "alive",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 424
+      },
+      {
+        "word": "chance",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 425
+      },
+      {
+        "word": "January",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 426
+      },
+      {
+        "word": "July",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 427
+      },
+      {
+        "word": "August",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 428
+      },
+      {
+        "word": "September",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 429
+      },
+      {
+        "word": "October",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 430
+      },
+      {
+        "word": "November",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 431
+      },
+      {
+        "word": "December",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 432
+      },
+      {
+        "word": "spring",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 433
+      },
+      {
+        "word": "summer",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 434
+      },
+      {
+        "word": "fall",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 435
+      },
+      {
+        "word": "winter",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 436
+      },
+      {
+        "word": "month",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 437
+      },
+      {
+        "word": "season",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 438
+      },
+      {
+        "word": "first",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 439
+      },
+      {
+        "word": "last",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 440
+      },
+      {
+        "word": "before",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 441
+      },
+      {
+        "word": "after",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 442
+      },
+      {
+        "word": "hot",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 443
+      },
+      {
+        "word": "cold",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 444
+      },
+      {
+        "word": "warm",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 445
+      },
+      {
+        "word": "strong",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 446
+      },
+      {
+        "word": "wind",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 447
       }
     ],
     "sequence": [
@@ -16279,6 +17362,44 @@
         "curriculum": "OL",
         "unit": "10",
         "id": 5
+      },
+      {
+        "title": "Sort the words: Months or Seasons?",
+        "categories": [
+          {
+            "id": "months",
+            "name": "📅 Months"
+          },
+          {
+            "id": "seasons",
+            "name": "🌦️ Seasons"
+          }
+        ],
+        "wordList": [
+          "July",
+          "winter",
+          "October",
+          "summer",
+          "December",
+          "fall",
+          "August",
+          "spring"
+        ],
+        "answerKey": {
+          "July": "months",
+          "October": "months",
+          "December": "months",
+          "August": "months",
+          "winter": "seasons",
+          "summer": "seasons",
+          "fall": "seasons",
+          "spring": "seasons"
+        },
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 6
       }
     ],
     "spilling": [
@@ -19546,6 +20667,302 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 408
+      },
+      {
+        "word": "plants",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 409
+      },
+      {
+        "word": "important",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 410
+      },
+      {
+        "word": "fruits",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 411
+      },
+      {
+        "word": "vegetables",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 412
+      },
+      {
+        "word": "grains",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 413
+      },
+      {
+        "word": "animals",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 414
+      },
+      {
+        "word": "breathe",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 415
+      },
+      {
+        "word": "oxygen",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 416
+      },
+      {
+        "word": "clean",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 417
+      },
+      {
+        "word": "fresh",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 418
+      },
+      {
+        "word": "homes",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 419
+      },
+      {
+        "word": "Earth",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 420
+      },
+      {
+        "word": "protect",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 421
+      },
+      {
+        "word": "alive",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 422
+      },
+      {
+        "word": "chance",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 423
+      },
+      {
+        "word": "January",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 424
+      },
+      {
+        "word": "July",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 425
+      },
+      {
+        "word": "August",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 426
+      },
+      {
+        "word": "September",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 427
+      },
+      {
+        "word": "October",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 428
+      },
+      {
+        "word": "November",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 429
+      },
+      {
+        "word": "December",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 430
+      },
+      {
+        "word": "spring",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 431
+      },
+      {
+        "word": "summer",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 432
+      },
+      {
+        "word": "fall",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 433
+      },
+      {
+        "word": "winter",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 434
+      },
+      {
+        "word": "month",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 435
+      },
+      {
+        "word": "season",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 436
+      },
+      {
+        "word": "first",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 437
+      },
+      {
+        "word": "last",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 438
+      },
+      {
+        "word": "before",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 439
+      },
+      {
+        "word": "after",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 440
+      },
+      {
+        "word": "hot",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 441
+      },
+      {
+        "word": "cold",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 442
+      },
+      {
+        "word": "warm",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 443
+      },
+      {
+        "word": "strong",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 444
+      },
+      {
+        "word": "wind",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 445
       }
     ],
     "Underline": [
@@ -28308,6 +29725,635 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 410
+      },
+      {
+        "word": "plants",
+        "meaning": "النباتات",
+        "options": [
+          "النباتات",
+          "الحيوانات",
+          "الأشجار",
+          "الأزهار"
+        ],
+        "arabicReason": "Plants تعني النباتات.",
+        "englishReason": "The word means 'plants'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 411
+      },
+      {
+        "word": "important",
+        "meaning": "مهم",
+        "options": [
+          "مهم",
+          "سريع",
+          "قصير",
+          "صغير"
+        ],
+        "arabicReason": "Important تعني مهم.",
+        "englishReason": "The word means 'important'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 412
+      },
+      {
+        "word": "fruits",
+        "meaning": "الفواكه",
+        "options": [
+          "الفواكه",
+          "الخضروات",
+          "الحبوب",
+          "الزهور"
+        ],
+        "arabicReason": "Fruits تعني الفواكه.",
+        "englishReason": "The word means 'fruits'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 413
+      },
+      {
+        "word": "vegetables",
+        "meaning": "الخضروات",
+        "options": [
+          "الخضروات",
+          "الفواكه",
+          "الحبوب",
+          "المكسرات"
+        ],
+        "arabicReason": "Vegetables تعني الخضروات.",
+        "englishReason": "The word means 'vegetables'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 414
+      },
+      {
+        "word": "grains",
+        "meaning": "الحبوب",
+        "options": [
+          "الحبوب",
+          "الخضروات",
+          "الفواكه",
+          "البذور"
+        ],
+        "arabicReason": "Grains تعني الحبوب.",
+        "englishReason": "The word means 'grains'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 415
+      },
+      {
+        "word": "animals",
+        "meaning": "الحيوانات",
+        "options": [
+          "الحيوانات",
+          "النباتات",
+          "الطيور",
+          "الأسماك"
+        ],
+        "arabicReason": "Animals تعني الحيوانات.",
+        "englishReason": "The word means 'animals'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 416
+      },
+      {
+        "word": "breathe",
+        "meaning": "يتنفس",
+        "options": [
+          "يتنفس",
+          "يجري",
+          "يأكل",
+          "يشرب"
+        ],
+        "arabicReason": "Breathe تعني يتنفس.",
+        "englishReason": "The word means 'breathe'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 417
+      },
+      {
+        "word": "oxygen",
+        "meaning": "الأكسجين",
+        "options": [
+          "الأكسجين",
+          "الماء",
+          "الهواء",
+          "التراب"
+        ],
+        "arabicReason": "Oxygen تعني الأكسجين.",
+        "englishReason": "The word means 'oxygen'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 418
+      },
+      {
+        "word": "clean",
+        "meaning": "نظيف",
+        "options": [
+          "نظيف",
+          "قذر",
+          "بارد",
+          "دافئ"
+        ],
+        "arabicReason": "Clean تعني نظيف.",
+        "englishReason": "The word means 'clean'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 419
+      },
+      {
+        "word": "fresh",
+        "meaning": "نقي",
+        "options": [
+          "نقي",
+          "قديم",
+          "ساخن",
+          "ثقيل"
+        ],
+        "arabicReason": "Fresh تعني نقي أو منعش.",
+        "englishReason": "The word means 'fresh'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 420
+      },
+      {
+        "word": "homes",
+        "meaning": "منازل",
+        "options": [
+          "منازل",
+          "مدارس",
+          "حدائق",
+          "غرف"
+        ],
+        "arabicReason": "Homes تعني منازل.",
+        "englishReason": "The word means 'homes'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 421
+      },
+      {
+        "word": "Earth",
+        "meaning": "الأرض",
+        "options": [
+          "الأرض",
+          "القمر",
+          "الشمس",
+          "السماء"
+        ],
+        "arabicReason": "Earth تعني كوكب الأرض.",
+        "englishReason": "The word means 'Earth'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 422
+      },
+      {
+        "word": "protect",
+        "meaning": "يحمي",
+        "options": [
+          "يحمي",
+          "يزرع",
+          "يقطع",
+          "يبني"
+        ],
+        "arabicReason": "Protect تعني يحمي.",
+        "englishReason": "The word means 'protect'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 423
+      },
+      {
+        "word": "alive",
+        "meaning": "حي",
+        "options": [
+          "حي",
+          "ميت",
+          "مريض",
+          "قوي"
+        ],
+        "arabicReason": "Alive تعني حي.",
+        "englishReason": "The word means 'alive'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 424
+      },
+      {
+        "word": "chance",
+        "meaning": "فرصة",
+        "options": [
+          "فرصة",
+          "لعبة",
+          "هدية",
+          "قصة"
+        ],
+        "arabicReason": "Chance تعني فرصة.",
+        "englishReason": "The word means 'chance'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 425
+      },
+      {
+        "word": "January",
+        "meaning": "يناير",
+        "options": [
+          "يناير",
+          "يوليو",
+          "أغسطس",
+          "ديسمبر"
+        ],
+        "arabicReason": "January هو أول شهر في السنة.",
+        "englishReason": "January is the first month of the year.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 426
+      },
+      {
+        "word": "July",
+        "meaning": "يوليو",
+        "options": [
+          "يونيو",
+          "يوليو",
+          "أغسطس",
+          "سبتمبر"
+        ],
+        "arabicReason": "July هو أول شهر من النصف الثاني من السنة.",
+        "englishReason": "July is the first month of the second half of the year.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 427
+      },
+      {
+        "word": "August",
+        "meaning": "أغسطس",
+        "options": [
+          "أكتوبر",
+          "أغسطس",
+          "نوفمبر",
+          "ديسمبر"
+        ],
+        "arabicReason": "August يأتي بعد July.",
+        "englishReason": "August comes after July.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 428
+      },
+      {
+        "word": "September",
+        "meaning": "سبتمبر",
+        "options": [
+          "سبتمبر",
+          "أغسطس",
+          "ديسمبر",
+          "يوليو"
+        ],
+        "arabicReason": "September هو الشهر التاسع.",
+        "englishReason": "September is the ninth month.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 429
+      },
+      {
+        "word": "October",
+        "meaning": "أكتوبر",
+        "options": [
+          "أكتوبر",
+          "نوفمبر",
+          "يوليو",
+          "يناير"
+        ],
+        "arabicReason": "October يأتي قبل November.",
+        "englishReason": "October comes before November.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 430
+      },
+      {
+        "word": "November",
+        "meaning": "نوفمبر",
+        "options": [
+          "ديسمبر",
+          "نوفمبر",
+          "أغسطس",
+          "سبتمبر"
+        ],
+        "arabicReason": "November يأتي بعد October.",
+        "englishReason": "November comes after October.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 431
+      },
+      {
+        "word": "December",
+        "meaning": "ديسمبر",
+        "options": [
+          "ديسمبر",
+          "يوليو",
+          "سبتمبر",
+          "أكتوبر"
+        ],
+        "arabicReason": "December هو آخر شهر في السنة.",
+        "englishReason": "December is the last month of the year.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 432
+      },
+      {
+        "word": "spring",
+        "meaning": "الربيع",
+        "options": [
+          "الصيف",
+          "الخريف",
+          "الربيع",
+          "الشتاء"
+        ],
+        "arabicReason": "Spring هو فصل الربيع.",
+        "englishReason": "Spring is the season of spring.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 433
+      },
+      {
+        "word": "summer",
+        "meaning": "الصيف",
+        "options": [
+          "الصيف",
+          "الشتاء",
+          "الخريف",
+          "الربيع"
+        ],
+        "arabicReason": "Summer هو فصل الصيف.",
+        "englishReason": "Summer is the season of summer.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 434
+      },
+      {
+        "word": "fall",
+        "meaning": "الخريف",
+        "options": [
+          "الخريف",
+          "الصيف",
+          "الشتاء",
+          "الربيع"
+        ],
+        "arabicReason": "Fall هو الاسم الشائع لفصل الخريف.",
+        "englishReason": "Fall is the common name for autumn.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 435
+      },
+      {
+        "word": "winter",
+        "meaning": "الشتاء",
+        "options": [
+          "الصيف",
+          "الربيع",
+          "الشتاء",
+          "الخريف"
+        ],
+        "arabicReason": "Winter هو فصل الشتاء.",
+        "englishReason": "Winter is the season of winter.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 436
+      },
+      {
+        "word": "month",
+        "meaning": "شهر",
+        "options": [
+          "شهر",
+          "أسبوع",
+          "يوم",
+          "سنة"
+        ],
+        "arabicReason": "Month تعني شهر.",
+        "englishReason": "The word means 'month'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 437
+      },
+      {
+        "word": "season",
+        "meaning": "فصل",
+        "options": [
+          "شهر",
+          "فصل",
+          "سنة",
+          "أسبوع"
+        ],
+        "arabicReason": "Season تعني فصل من فصول السنة.",
+        "englishReason": "The word means 'season'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 438
+      },
+      {
+        "word": "first",
+        "meaning": "الأول",
+        "options": [
+          "الأخير",
+          "الأول",
+          "التالي",
+          "السابق"
+        ],
+        "arabicReason": "First تعني الأول.",
+        "englishReason": "The word means 'first'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 439
+      },
+      {
+        "word": "last",
+        "meaning": "الأخير",
+        "options": [
+          "الأول",
+          "الأخير",
+          "الثاني",
+          "المنتصف"
+        ],
+        "arabicReason": "Last تعني الأخير.",
+        "englishReason": "The word means 'last'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 440
+      },
+      {
+        "word": "before",
+        "meaning": "قبل",
+        "options": [
+          "بعد",
+          "قبل",
+          "بين",
+          "أمام"
+        ],
+        "arabicReason": "Before تعني قبل.",
+        "englishReason": "The word means 'before'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 441
+      },
+      {
+        "word": "after",
+        "meaning": "بعد",
+        "options": [
+          "قبل",
+          "بعد",
+          "فوق",
+          "تحت"
+        ],
+        "arabicReason": "After تعني بعد.",
+        "englishReason": "The word means 'after'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 442
+      },
+      {
+        "word": "hot",
+        "meaning": "حار",
+        "options": [
+          "حار",
+          "بارد",
+          "دافئ",
+          "قوي"
+        ],
+        "arabicReason": "Hot تعني حار.",
+        "englishReason": "The word means 'hot'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 443
+      },
+      {
+        "word": "cold",
+        "meaning": "بارد",
+        "options": [
+          "دافئ",
+          "بارد",
+          "حار",
+          "منعش"
+        ],
+        "arabicReason": "Cold تعني بارد.",
+        "englishReason": "The word means 'cold'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 444
+      },
+      {
+        "word": "warm",
+        "meaning": "دافئ",
+        "options": [
+          "دافئ",
+          "بارد",
+          "حار",
+          "عاصف"
+        ],
+        "arabicReason": "Warm تعني دافئ.",
+        "englishReason": "The word means 'warm'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 445
+      },
+      {
+        "word": "strong",
+        "meaning": "قوي",
+        "options": [
+          "قوي",
+          "ضعيف",
+          "بارد",
+          "حار"
+        ],
+        "arabicReason": "Strong تعني قوي.",
+        "englishReason": "The word means 'strong'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 446
+      },
+      {
+        "word": "wind",
+        "meaning": "رياح",
+        "options": [
+          "رياح",
+          "مطر",
+          "ثلج",
+          "شمس"
+        ],
+        "arabicReason": "Wind تعني الرياح.",
+        "englishReason": "The word means 'wind'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 447
       }
     ],
     "vocab_quiz": [
@@ -35858,6 +37904,635 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 463
+      },
+      {
+        "word": "plants",
+        "meaning": "النباتات",
+        "options": [
+          "النباتات",
+          "الحيوانات",
+          "الأشجار",
+          "الأزهار"
+        ],
+        "arabicReason": "Plants تعني النباتات.",
+        "englishReason": "The word means 'plants'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 464
+      },
+      {
+        "word": "important",
+        "meaning": "مهم",
+        "options": [
+          "مهم",
+          "سريع",
+          "قصير",
+          "صغير"
+        ],
+        "arabicReason": "Important تعني مهم.",
+        "englishReason": "The word means 'important'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 465
+      },
+      {
+        "word": "fruits",
+        "meaning": "الفواكه",
+        "options": [
+          "الفواكه",
+          "الخضروات",
+          "الحبوب",
+          "الزهور"
+        ],
+        "arabicReason": "Fruits تعني الفواكه.",
+        "englishReason": "The word means 'fruits'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 466
+      },
+      {
+        "word": "vegetables",
+        "meaning": "الخضروات",
+        "options": [
+          "الخضروات",
+          "الفواكه",
+          "الحبوب",
+          "المكسرات"
+        ],
+        "arabicReason": "Vegetables تعني الخضروات.",
+        "englishReason": "The word means 'vegetables'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 467
+      },
+      {
+        "word": "grains",
+        "meaning": "الحبوب",
+        "options": [
+          "الحبوب",
+          "الخضروات",
+          "الفواكه",
+          "البذور"
+        ],
+        "arabicReason": "Grains تعني الحبوب.",
+        "englishReason": "The word means 'grains'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 468
+      },
+      {
+        "word": "animals",
+        "meaning": "الحيوانات",
+        "options": [
+          "الحيوانات",
+          "النباتات",
+          "الطيور",
+          "الأسماك"
+        ],
+        "arabicReason": "Animals تعني الحيوانات.",
+        "englishReason": "The word means 'animals'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 469
+      },
+      {
+        "word": "breathe",
+        "meaning": "يتنفس",
+        "options": [
+          "يتنفس",
+          "يجري",
+          "يأكل",
+          "يشرب"
+        ],
+        "arabicReason": "Breathe تعني يتنفس.",
+        "englishReason": "The word means 'breathe'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 470
+      },
+      {
+        "word": "oxygen",
+        "meaning": "الأكسجين",
+        "options": [
+          "الأكسجين",
+          "الماء",
+          "الهواء",
+          "التراب"
+        ],
+        "arabicReason": "Oxygen تعني الأكسجين.",
+        "englishReason": "The word means 'oxygen'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 471
+      },
+      {
+        "word": "clean",
+        "meaning": "نظيف",
+        "options": [
+          "نظيف",
+          "قذر",
+          "بارد",
+          "دافئ"
+        ],
+        "arabicReason": "Clean تعني نظيف.",
+        "englishReason": "The word means 'clean'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 472
+      },
+      {
+        "word": "fresh",
+        "meaning": "نقي",
+        "options": [
+          "نقي",
+          "قديم",
+          "ساخن",
+          "ثقيل"
+        ],
+        "arabicReason": "Fresh تعني نقي أو منعش.",
+        "englishReason": "The word means 'fresh'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 473
+      },
+      {
+        "word": "homes",
+        "meaning": "منازل",
+        "options": [
+          "منازل",
+          "مدارس",
+          "حدائق",
+          "غرف"
+        ],
+        "arabicReason": "Homes تعني منازل.",
+        "englishReason": "The word means 'homes'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 474
+      },
+      {
+        "word": "Earth",
+        "meaning": "الأرض",
+        "options": [
+          "الأرض",
+          "القمر",
+          "الشمس",
+          "السماء"
+        ],
+        "arabicReason": "Earth تعني كوكب الأرض.",
+        "englishReason": "The word means 'Earth'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 475
+      },
+      {
+        "word": "protect",
+        "meaning": "يحمي",
+        "options": [
+          "يحمي",
+          "يزرع",
+          "يقطع",
+          "يبني"
+        ],
+        "arabicReason": "Protect تعني يحمي.",
+        "englishReason": "The word means 'protect'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 476
+      },
+      {
+        "word": "alive",
+        "meaning": "حي",
+        "options": [
+          "حي",
+          "ميت",
+          "مريض",
+          "قوي"
+        ],
+        "arabicReason": "Alive تعني حي.",
+        "englishReason": "The word means 'alive'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 477
+      },
+      {
+        "word": "chance",
+        "meaning": "فرصة",
+        "options": [
+          "فرصة",
+          "لعبة",
+          "هدية",
+          "قصة"
+        ],
+        "arabicReason": "Chance تعني فرصة.",
+        "englishReason": "The word means 'chance'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 478
+      },
+      {
+        "word": "January",
+        "meaning": "يناير",
+        "options": [
+          "يناير",
+          "يوليو",
+          "أغسطس",
+          "ديسمبر"
+        ],
+        "arabicReason": "January هو أول شهر في السنة.",
+        "englishReason": "January is the first month of the year.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 479
+      },
+      {
+        "word": "July",
+        "meaning": "يوليو",
+        "options": [
+          "يونيو",
+          "يوليو",
+          "أغسطس",
+          "سبتمبر"
+        ],
+        "arabicReason": "July هو أول شهر من النصف الثاني من السنة.",
+        "englishReason": "July is the first month of the second half of the year.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 480
+      },
+      {
+        "word": "August",
+        "meaning": "أغسطس",
+        "options": [
+          "أكتوبر",
+          "أغسطس",
+          "نوفمبر",
+          "ديسمبر"
+        ],
+        "arabicReason": "August يأتي بعد July.",
+        "englishReason": "August comes after July.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 481
+      },
+      {
+        "word": "September",
+        "meaning": "سبتمبر",
+        "options": [
+          "سبتمبر",
+          "أغسطس",
+          "ديسمبر",
+          "يوليو"
+        ],
+        "arabicReason": "September هو الشهر التاسع.",
+        "englishReason": "September is the ninth month.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 482
+      },
+      {
+        "word": "October",
+        "meaning": "أكتوبر",
+        "options": [
+          "أكتوبر",
+          "نوفمبر",
+          "يوليو",
+          "يناير"
+        ],
+        "arabicReason": "October يأتي قبل November.",
+        "englishReason": "October comes before November.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 483
+      },
+      {
+        "word": "November",
+        "meaning": "نوفمبر",
+        "options": [
+          "ديسمبر",
+          "نوفمبر",
+          "أغسطس",
+          "سبتمبر"
+        ],
+        "arabicReason": "November يأتي بعد October.",
+        "englishReason": "November comes after October.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 484
+      },
+      {
+        "word": "December",
+        "meaning": "ديسمبر",
+        "options": [
+          "ديسمبر",
+          "يوليو",
+          "سبتمبر",
+          "أكتوبر"
+        ],
+        "arabicReason": "December هو آخر شهر في السنة.",
+        "englishReason": "December is the last month of the year.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 485
+      },
+      {
+        "word": "spring",
+        "meaning": "الربيع",
+        "options": [
+          "الصيف",
+          "الخريف",
+          "الربيع",
+          "الشتاء"
+        ],
+        "arabicReason": "Spring هو فصل الربيع.",
+        "englishReason": "Spring is the season of spring.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 486
+      },
+      {
+        "word": "summer",
+        "meaning": "الصيف",
+        "options": [
+          "الصيف",
+          "الشتاء",
+          "الخريف",
+          "الربيع"
+        ],
+        "arabicReason": "Summer هو فصل الصيف.",
+        "englishReason": "Summer is the season of summer.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 487
+      },
+      {
+        "word": "fall",
+        "meaning": "الخريف",
+        "options": [
+          "الخريف",
+          "الصيف",
+          "الشتاء",
+          "الربيع"
+        ],
+        "arabicReason": "Fall هو الاسم الشائع لفصل الخريف.",
+        "englishReason": "Fall is the common name for autumn.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 488
+      },
+      {
+        "word": "winter",
+        "meaning": "الشتاء",
+        "options": [
+          "الصيف",
+          "الربيع",
+          "الشتاء",
+          "الخريف"
+        ],
+        "arabicReason": "Winter هو فصل الشتاء.",
+        "englishReason": "Winter is the season of winter.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 489
+      },
+      {
+        "word": "month",
+        "meaning": "شهر",
+        "options": [
+          "شهر",
+          "أسبوع",
+          "يوم",
+          "سنة"
+        ],
+        "arabicReason": "Month تعني شهر.",
+        "englishReason": "The word means 'month'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 490
+      },
+      {
+        "word": "season",
+        "meaning": "فصل",
+        "options": [
+          "شهر",
+          "فصل",
+          "سنة",
+          "أسبوع"
+        ],
+        "arabicReason": "Season تعني فصل من فصول السنة.",
+        "englishReason": "The word means 'season'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 491
+      },
+      {
+        "word": "first",
+        "meaning": "الأول",
+        "options": [
+          "الأخير",
+          "الأول",
+          "التالي",
+          "السابق"
+        ],
+        "arabicReason": "First تعني الأول.",
+        "englishReason": "The word means 'first'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 492
+      },
+      {
+        "word": "last",
+        "meaning": "الأخير",
+        "options": [
+          "الأول",
+          "الأخير",
+          "الثاني",
+          "المنتصف"
+        ],
+        "arabicReason": "Last تعني الأخير.",
+        "englishReason": "The word means 'last'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 493
+      },
+      {
+        "word": "before",
+        "meaning": "قبل",
+        "options": [
+          "بعد",
+          "قبل",
+          "بين",
+          "أمام"
+        ],
+        "arabicReason": "Before تعني قبل.",
+        "englishReason": "The word means 'before'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 494
+      },
+      {
+        "word": "after",
+        "meaning": "بعد",
+        "options": [
+          "قبل",
+          "بعد",
+          "فوق",
+          "تحت"
+        ],
+        "arabicReason": "After تعني بعد.",
+        "englishReason": "The word means 'after'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 495
+      },
+      {
+        "word": "hot",
+        "meaning": "حار",
+        "options": [
+          "حار",
+          "بارد",
+          "دافئ",
+          "قوي"
+        ],
+        "arabicReason": "Hot تعني حار.",
+        "englishReason": "The word means 'hot'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 496
+      },
+      {
+        "word": "cold",
+        "meaning": "بارد",
+        "options": [
+          "دافئ",
+          "بارد",
+          "حار",
+          "منعش"
+        ],
+        "arabicReason": "Cold تعني بارد.",
+        "englishReason": "The word means 'cold'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 497
+      },
+      {
+        "word": "warm",
+        "meaning": "دافئ",
+        "options": [
+          "دافئ",
+          "بارد",
+          "حار",
+          "عاصف"
+        ],
+        "arabicReason": "Warm تعني دافئ.",
+        "englishReason": "The word means 'warm'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 498
+      },
+      {
+        "word": "strong",
+        "meaning": "قوي",
+        "options": [
+          "قوي",
+          "ضعيف",
+          "بارد",
+          "حار"
+        ],
+        "arabicReason": "Strong تعني قوي.",
+        "englishReason": "The word means 'strong'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 499
+      },
+      {
+        "word": "wind",
+        "meaning": "رياح",
+        "options": [
+          "رياح",
+          "مطر",
+          "ثلج",
+          "شمس"
+        ],
+        "arabicReason": "Wind تعني الرياح.",
+        "englishReason": "The word means 'wind'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 500
       }
     ],
     "what_do_you_hear": [
@@ -39886,6 +42561,426 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 287
+      },
+      {
+        "sentence": "Plants are very important in our lives.",
+        "options": [
+          "Plants are very important in our lives.",
+          "Animals are very important in our lives.",
+          "Plants are very beautiful in our gardens.",
+          "People are very important in our school."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 288
+      },
+      {
+        "sentence": "Plants give us fruits to eat.",
+        "options": [
+          "Plants give us fruits to eat.",
+          "Plants give us books to read.",
+          "Plants give us toys to play.",
+          "Plants give us water to drink."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 289
+      },
+      {
+        "sentence": "Many animals eat plants.",
+        "options": [
+          "Many animals eat plants.",
+          "Many people eat trees.",
+          "Many birds drink milk.",
+          "Many fish climb trees."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 290
+      },
+      {
+        "sentence": "Plants help us breathe.",
+        "options": [
+          "Plants help us breathe.",
+          "Plants help us swim.",
+          "Plants help us sleep.",
+          "Plants help us write."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 291
+      },
+      {
+        "sentence": "We need oxygen to stay alive.",
+        "options": [
+          "We need oxygen to stay alive.",
+          "We need water to stay alive.",
+          "We need books to stay alive.",
+          "We need toys to stay alive."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 292
+      },
+      {
+        "sentence": "Plants make the air clean and fresh.",
+        "options": [
+          "Plants make the air clean and fresh.",
+          "Plants make the air hot and dry.",
+          "Plants make the water clean and fresh.",
+          "Plants make the room clean and fresh."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 293
+      },
+      {
+        "sentence": "Plants give homes to many animals.",
+        "options": [
+          "Plants give homes to many animals.",
+          "Plants give food to many teachers.",
+          "Plants give cars to many people.",
+          "Plants give books to many children."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 294
+      },
+      {
+        "sentence": "Plants make our world green and beautiful.",
+        "options": [
+          "Plants make our world green and beautiful.",
+          "Plants make our world cold and snowy.",
+          "Plants make our world small and quiet.",
+          "Plants make our world dark and empty."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 295
+      },
+      {
+        "sentence": "We should plant more trees.",
+        "options": [
+          "We should plant more trees.",
+          "We should cut more trees.",
+          "We should burn more trees.",
+          "We should sell more trees."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 296
+      },
+      {
+        "sentence": "We should take care of plants.",
+        "options": [
+          "We should take care of plants.",
+          "We should forget the plants.",
+          "We should throw away plants.",
+          "We should break the plants."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 297
+      },
+      {
+        "sentence": "Plants help people and animals.",
+        "options": [
+          "Plants help people and animals.",
+          "Plants help cars and buses.",
+          "Plants help tables and chairs.",
+          "Plants help pencils and books."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 298
+      },
+      {
+        "sentence": "Every plant is important.",
+        "options": [
+          "Every plant is important.",
+          "Every plant is dangerous.",
+          "Every plant is dirty.",
+          "Every plant is expensive."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 299
+      },
+      {
+        "sentence": "We should protect every plant.",
+        "options": [
+          "We should protect every plant.",
+          "We should destroy every plant.",
+          "We should ignore every plant.",
+          "We should sell every plant."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 300
+      },
+      {
+        "sentence": "Plants give us oxygen every day.",
+        "options": [
+          "Plants give us oxygen every day.",
+          "Plants give us homework every day.",
+          "Plants give us pencils every day.",
+          "Plants give us chairs every day."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 301
+      },
+      {
+        "sentence": "Plants are good for the Earth.",
+        "options": [
+          "Plants are good for the Earth.",
+          "Plants are bad for the Earth.",
+          "Plants are good for the Moon.",
+          "Plants are good for the Sun."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 302
+      },
+      {
+        "sentence": "January is the first month of the year.",
+        "options": [
+          "January is the first month of the year.",
+          "December is the first month of the year.",
+          "July is the first month of the year.",
+          "January is the last month of the year."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 303
+      },
+      {
+        "sentence": "December is the last month of the year.",
+        "options": [
+          "December is the last month of the year.",
+          "November is the last month of the year.",
+          "December is the first month of the year.",
+          "July is the last month of the year."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 304
+      },
+      {
+        "sentence": "August comes after July.",
+        "options": [
+          "August comes after July.",
+          "August comes before July.",
+          "September comes after July.",
+          "July comes after August."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 305
+      },
+      {
+        "sentence": "October comes before November.",
+        "options": [
+          "October comes before November.",
+          "October comes after November.",
+          "September comes before November.",
+          "November comes before October."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 306
+      },
+      {
+        "sentence": "November comes after October.",
+        "options": [
+          "November comes after October.",
+          "November comes before October.",
+          "December comes before October.",
+          "October comes after November."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 307
+      },
+      {
+        "sentence": "There are twelve months in a year.",
+        "options": [
+          "There are twelve months in a year.",
+          "There are ten months in a year.",
+          "There are six months in a year.",
+          "There are eight months in a year."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 308
+      },
+      {
+        "sentence": "There are four seasons in a year.",
+        "options": [
+          "There are four seasons in a year.",
+          "There are three seasons in a year.",
+          "There are five seasons in a year.",
+          "There are two seasons in a year."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 309
+      },
+      {
+        "sentence": "Summer is hot.",
+        "options": [
+          "Summer is hot.",
+          "Summer is cold.",
+          "Summer is windy.",
+          "Summer is snowy."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 310
+      },
+      {
+        "sentence": "Winter is cold.",
+        "options": [
+          "Winter is cold.",
+          "Winter is hot.",
+          "Winter is warm.",
+          "Winter is dry."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 311
+      },
+      {
+        "sentence": "Spring is warm.",
+        "options": [
+          "Spring is warm.",
+          "Spring is cold.",
+          "Spring is hot.",
+          "Spring is windy."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 312
+      },
+      {
+        "sentence": "The wind is strong in fall.",
+        "options": [
+          "The wind is strong in fall.",
+          "The wind is strong in summer.",
+          "The wind is strong in winter.",
+          "The wind is strong in spring."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 313
+      },
+      {
+        "sentence": "Fall comes after summer.",
+        "options": [
+          "Fall comes after summer.",
+          "Fall comes before summer.",
+          "Winter comes after summer.",
+          "Spring comes after summer."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 314
+      },
+      {
+        "sentence": "Winter comes after fall.",
+        "options": [
+          "Winter comes after fall.",
+          "Winter comes before fall.",
+          "Summer comes after fall.",
+          "Spring comes after fall."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 315
+      },
+      {
+        "sentence": "July and August are in summer.",
+        "options": [
+          "July and August are in summer.",
+          "July and August are in winter.",
+          "July and August are in spring.",
+          "July and August are in fall."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 316
+      },
+      {
+        "sentence": "September comes before October.",
+        "options": [
+          "September comes before October.",
+          "September comes after October.",
+          "October comes before September.",
+          "November comes before October."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 317
       }
     ],
     "vocab_choose": [
@@ -45039,6 +48134,516 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 303
+      },
+      {
+        "question": "Plants give us ______ to eat.",
+        "correctAnswer": "fruits",
+        "arabicReason": "النباتات تعطينا الفواكه لنأكلها.",
+        "englishReason": "Plants give us fruits to eat.",
+        "options": [
+          "fruits",
+          "homes",
+          "oxygen",
+          "animals"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 304
+      },
+      {
+        "question": "Many ______ eat plants.",
+        "correctAnswer": "animals",
+        "arabicReason": "العديد من الحيوانات تأكل النباتات.",
+        "englishReason": "Many animals eat plants.",
+        "options": [
+          "animals",
+          "grains",
+          "people",
+          "trees"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 305
+      },
+      {
+        "question": "We need ______ to stay alive.",
+        "correctAnswer": "oxygen",
+        "arabicReason": "نحتاج إلى الأكسجين لنظل أحياء.",
+        "englishReason": "We need oxygen to stay alive.",
+        "options": [
+          "oxygen",
+          "water",
+          "fruits",
+          "vegetables"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 306
+      },
+      {
+        "question": "Plants help us ______ every day.",
+        "correctAnswer": "breathe",
+        "arabicReason": "النباتات تساعدنا على التنفس.",
+        "englishReason": "Plants help us breathe.",
+        "options": [
+          "breathe",
+          "sleep",
+          "write",
+          "swim"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 307
+      },
+      {
+        "question": "Plants make the air ______.",
+        "correctAnswer": "clean",
+        "arabicReason": "النباتات تجعل الهواء نظيفًا.",
+        "englishReason": "Plants make the air clean.",
+        "options": [
+          "clean",
+          "hot",
+          "dirty",
+          "small"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 308
+      },
+      {
+        "question": "The air is clean and ______.",
+        "correctAnswer": "fresh",
+        "arabicReason": "التعبير الصحيح هو clean and fresh.",
+        "englishReason": "The correct expression is clean and fresh.",
+        "options": [
+          "fresh",
+          "old",
+          "weak",
+          "dark"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 309
+      },
+      {
+        "question": "Plants give ______ to many animals.",
+        "correctAnswer": "homes",
+        "arabicReason": "النباتات توفر منازل للعديد من الحيوانات.",
+        "englishReason": "Plants give homes to many animals.",
+        "options": [
+          "homes",
+          "books",
+          "cars",
+          "chairs"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 310
+      },
+      {
+        "question": "We should ______ plants.",
+        "correctAnswer": "protect",
+        "arabicReason": "يجب أن نحمي النباتات.",
+        "englishReason": "We should protect plants.",
+        "options": [
+          "protect",
+          "break",
+          "throw",
+          "forget"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 311
+      },
+      {
+        "question": "Plants help the ______.",
+        "correctAnswer": "Earth",
+        "arabicReason": "النباتات تساعد كوكب الأرض.",
+        "englishReason": "Plants help the Earth.",
+        "options": [
+          "Earth",
+          "Moon",
+          "Sun",
+          "Sky"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 312
+      },
+      {
+        "question": "Every plant is a ______ to stay alive.",
+        "correctAnswer": "chance",
+        "arabicReason": "كل نبات هو فرصة للحياة.",
+        "englishReason": "Every plant is a chance to stay alive.",
+        "options": [
+          "chance",
+          "problem",
+          "lesson",
+          "game"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 313
+      },
+      {
+        "question": "Plants are very ______ in our lives.",
+        "correctAnswer": "important",
+        "arabicReason": "النباتات مهمة جدًا في حياتنا.",
+        "englishReason": "Plants are very important in our lives.",
+        "options": [
+          "important",
+          "slow",
+          "late",
+          "empty"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 314
+      },
+      {
+        "question": "We eat fruits, vegetables, and ______.",
+        "correctAnswer": "grains",
+        "arabicReason": "الحبوب من الأطعمة التي نحصل عليها من النباتات.",
+        "englishReason": "Grains are foods we get from plants.",
+        "options": [
+          "grains",
+          "stones",
+          "cars",
+          "toys"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 315
+      },
+      {
+        "question": "Plants help people stay ______.",
+        "correctAnswer": "alive",
+        "arabicReason": "النباتات تساعد الناس على البقاء أحياء.",
+        "englishReason": "Plants help people stay alive.",
+        "options": [
+          "alive",
+          "angry",
+          "late",
+          "short"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 316
+      },
+      {
+        "question": "Trees and flowers are kinds of ______.",
+        "correctAnswer": "plants",
+        "arabicReason": "الأشجار والزهور من أنواع النباتات.",
+        "englishReason": "Trees and flowers are kinds of plants.",
+        "options": [
+          "plants",
+          "animals",
+          "houses",
+          "rivers"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 317
+      },
+      {
+        "question": "We should plant trees and take ______ of plants.",
+        "correctAnswer": "care",
+        "arabicReason": "التعبير الصحيح هو take care of.",
+        "englishReason": "The correct expression is take care of.",
+        "options": [
+          "care",
+          "food",
+          "time",
+          "water"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 318
+      },
+      {
+        "question": "______ comes after July.",
+        "correctAnswer": "August",
+        "arabicReason": "شهر أغسطس يأتي بعد يوليو.",
+        "englishReason": "August comes after July.",
+        "options": [
+          "August",
+          "June",
+          "October",
+          "January"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 319
+      },
+      {
+        "question": "______ comes before November.",
+        "correctAnswer": "October",
+        "arabicReason": "شهر أكتوبر يأتي قبل نوفمبر.",
+        "englishReason": "October comes before November.",
+        "options": [
+          "October",
+          "December",
+          "September",
+          "July"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 320
+      },
+      {
+        "question": "______ comes after November.",
+        "correctAnswer": "December",
+        "arabicReason": "شهر ديسمبر يأتي بعد نوفمبر.",
+        "englishReason": "December comes after November.",
+        "options": [
+          "December",
+          "October",
+          "August",
+          "July"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 321
+      },
+      {
+        "question": "______ is the first month of the year.",
+        "correctAnswer": "January",
+        "arabicReason": "يناير هو أول شهر في السنة.",
+        "englishReason": "January is the first month of the year.",
+        "options": [
+          "January",
+          "December",
+          "July",
+          "November"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 322
+      },
+      {
+        "question": "______ is the last month of the year.",
+        "correctAnswer": "December",
+        "arabicReason": "ديسمبر هو آخر شهر في السنة.",
+        "englishReason": "December is the last month of the year.",
+        "options": [
+          "December",
+          "January",
+          "August",
+          "October"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 323
+      },
+      {
+        "question": "There are ______ months in a year.",
+        "correctAnswer": "twelve",
+        "arabicReason": "يوجد اثنا عشر شهرًا في السنة.",
+        "englishReason": "There are twelve months in a year.",
+        "options": [
+          "twelve",
+          "ten",
+          "eight",
+          "six"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 324
+      },
+      {
+        "question": "There are ______ seasons in a year.",
+        "correctAnswer": "four",
+        "arabicReason": "يوجد أربعة فصول في السنة.",
+        "englishReason": "There are four seasons in a year.",
+        "options": [
+          "four",
+          "three",
+          "five",
+          "six"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 325
+      },
+      {
+        "question": "Summer is ______.",
+        "correctAnswer": "hot",
+        "arabicReason": "فصل الصيف يكون حارًا.",
+        "englishReason": "Summer is hot.",
+        "options": [
+          "hot",
+          "cold",
+          "windy",
+          "snowy"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 326
+      },
+      {
+        "question": "Winter is ______.",
+        "correctAnswer": "cold",
+        "arabicReason": "فصل الشتاء يكون باردًا.",
+        "englishReason": "Winter is cold.",
+        "options": [
+          "cold",
+          "hot",
+          "dry",
+          "sunny"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 327
+      },
+      {
+        "question": "Spring is ______.",
+        "correctAnswer": "warm",
+        "arabicReason": "فصل الربيع يكون دافئًا.",
+        "englishReason": "Spring is warm.",
+        "options": [
+          "warm",
+          "cold",
+          "hot",
+          "stormy"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 328
+      },
+      {
+        "question": "In fall, the wind is ______.",
+        "correctAnswer": "strong",
+        "arabicReason": "في فصل الخريف تكون الرياح قوية.",
+        "englishReason": "In fall, the wind is strong.",
+        "options": [
+          "strong",
+          "hot",
+          "cold",
+          "small"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 329
+      },
+      {
+        "question": "Fall comes after ______.",
+        "correctAnswer": "summer",
+        "arabicReason": "الخريف يأتي بعد الصيف.",
+        "englishReason": "Fall comes after summer.",
+        "options": [
+          "summer",
+          "winter",
+          "spring",
+          "December"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 330
+      },
+      {
+        "question": "Winter comes after ______.",
+        "correctAnswer": "fall",
+        "arabicReason": "الشتاء يأتي بعد الخريف.",
+        "englishReason": "Winter comes after fall.",
+        "options": [
+          "fall",
+          "summer",
+          "spring",
+          "July"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 331
+      },
+      {
+        "question": "Spring comes after ______.",
+        "correctAnswer": "winter",
+        "arabicReason": "الربيع يأتي بعد الشتاء.",
+        "englishReason": "Spring comes after winter.",
+        "options": [
+          "winter",
+          "summer",
+          "fall",
+          "October"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 332
+      },
+      {
+        "question": "July and August are in ______.",
+        "correctAnswer": "summer",
+        "arabicReason": "شهرا يوليو وأغسطس من فصل الصيف.",
+        "englishReason": "July and August are in summer.",
+        "options": [
+          "summer",
+          "winter",
+          "spring",
+          "fall"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 333
       }
     ],
     "translate": [
@@ -49070,6 +52675,686 @@
         "curriculum": "OL",
         "unit": "1",
         "id": 237
+      },
+      {
+        "word": "Plants are very important in our lives.",
+        "meaning": "النباتات مهمة جدًا في حياتنا.",
+        "options": [
+          "النباتات مهمة جدًا في حياتنا.",
+          "النباتات صغيرة جدًا.",
+          "الحيوانات مهمة جدًا.",
+          "النباتات في الحديقة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 238
+      },
+      {
+        "word": "Plants give us fruits to eat.",
+        "meaning": "النباتات تعطينا الفواكه لنأكلها.",
+        "options": [
+          "النباتات تعطينا الفواكه لنأكلها.",
+          "النباتات تعطينا الماء.",
+          "النباتات تعطينا الكتب.",
+          "النباتات تعطينا الألعاب."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 239
+      },
+      {
+        "word": "Many animals eat plants.",
+        "meaning": "العديد من الحيوانات تأكل النباتات.",
+        "options": [
+          "العديد من الحيوانات تأكل النباتات.",
+          "العديد من الناس يزرعون الأشجار.",
+          "العديد من الطيور تطير.",
+          "العديد من الأطفال يدرسون."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 240
+      },
+      {
+        "word": "Plants help us breathe.",
+        "meaning": "النباتات تساعدنا على التنفس.",
+        "options": [
+          "النباتات تساعدنا على التنفس.",
+          "النباتات تساعدنا على النوم.",
+          "النباتات تساعدنا على الجري.",
+          "النباتات تساعدنا على السباحة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 241
+      },
+      {
+        "word": "We need oxygen to stay alive.",
+        "meaning": "نحن نحتاج إلى الأكسجين لنظل أحياء.",
+        "options": [
+          "نحن نحتاج إلى الأكسجين لنظل أحياء.",
+          "نحن نحتاج إلى الماء فقط.",
+          "نحن نحتاج إلى الكتب.",
+          "نحن نحتاج إلى الألعاب."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 242
+      },
+      {
+        "word": "Plants make the air clean and fresh.",
+        "meaning": "النباتات تجعل الهواء نظيفًا ونقيًا.",
+        "options": [
+          "النباتات تجعل الهواء نظيفًا ونقيًا.",
+          "النباتات تجعل الهواء ساخنًا.",
+          "النباتات تجعل الماء نظيفًا.",
+          "النباتات تجعل السماء زرقاء."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 243
+      },
+      {
+        "word": "Plants give homes to many animals.",
+        "meaning": "النباتات توفر منازل للعديد من الحيوانات.",
+        "options": [
+          "النباتات توفر منازل للعديد من الحيوانات.",
+          "النباتات تعطي الطعام للمعلمين.",
+          "النباتات تبني المدارس.",
+          "النباتات تبيع الفواكه."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 244
+      },
+      {
+        "word": "Plants make our world green and beautiful.",
+        "meaning": "النباتات تجعل عالمنا أخضر وجميلًا.",
+        "options": [
+          "النباتات تجعل عالمنا أخضر وجميلًا.",
+          "النباتات تجعل عالمنا مظلمًا.",
+          "النباتات تجعل عالمنا صغيرًا.",
+          "النباتات تجعل عالمنا باردًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 245
+      },
+      {
+        "word": "We should take care of plants.",
+        "meaning": "يجب أن نعتني بالنباتات.",
+        "options": [
+          "يجب أن نعتني بالنباتات.",
+          "يجب أن نقطع النباتات.",
+          "يجب أن ننسى النباتات.",
+          "يجب أن نحرق النباتات."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 246
+      },
+      {
+        "word": "We should protect every plant.",
+        "meaning": "يجب أن نحمي كل نبات.",
+        "options": [
+          "يجب أن نحمي كل نبات.",
+          "يجب أن نكسر كل نبات.",
+          "يجب أن نبيع كل نبات.",
+          "يجب أن نرمي كل نبات."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 247
+      },
+      {
+        "word": "النباتات مهمة جدًا في حياتنا.",
+        "meaning": "Plants are very important in our lives.",
+        "options": [
+          "Plants are very important in our lives.",
+          "Plants are very small.",
+          "Animals are very important.",
+          "Plants are in the garden."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 248
+      },
+      {
+        "word": "النباتات تعطينا الفواكه لنأكلها.",
+        "meaning": "Plants give us fruits to eat.",
+        "options": [
+          "Plants give us fruits to eat.",
+          "Plants give us water.",
+          "Plants give us books.",
+          "Plants give us toys."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 249
+      },
+      {
+        "word": "العديد من الحيوانات تأكل النباتات.",
+        "meaning": "Many animals eat plants.",
+        "options": [
+          "Many animals eat plants.",
+          "Many people plant trees.",
+          "Many birds fly.",
+          "Many children study."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 250
+      },
+      {
+        "word": "النباتات تساعدنا على التنفس.",
+        "meaning": "Plants help us breathe.",
+        "options": [
+          "Plants help us breathe.",
+          "Plants help us sleep.",
+          "Plants help us run.",
+          "Plants help us swim."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 251
+      },
+      {
+        "word": "نحن نحتاج إلى الأكسجين لنظل أحياء.",
+        "meaning": "We need oxygen to stay alive.",
+        "options": [
+          "We need oxygen to stay alive.",
+          "We need water to stay alive.",
+          "We need books to stay alive.",
+          "We need toys to stay alive."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 252
+      },
+      {
+        "word": "النباتات تجعل الهواء نظيفًا ونقيًا.",
+        "meaning": "Plants make the air clean and fresh.",
+        "options": [
+          "Plants make the air clean and fresh.",
+          "Plants make the air hot.",
+          "Plants make the water clean.",
+          "Plants make the sky blue."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 253
+      },
+      {
+        "word": "النباتات توفر منازل للعديد من الحيوانات.",
+        "meaning": "Plants give homes to many animals.",
+        "options": [
+          "Plants give homes to many animals.",
+          "Plants give food to teachers.",
+          "Plants build schools.",
+          "Plants sell fruits."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 254
+      },
+      {
+        "word": "النباتات تجعل عالمنا أخضر وجميلًا.",
+        "meaning": "Plants make our world green and beautiful.",
+        "options": [
+          "Plants make our world green and beautiful.",
+          "Plants make our world dark.",
+          "Plants make our world small.",
+          "Plants make our world cold."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 255
+      },
+      {
+        "word": "يجب أن نعتني بالنباتات.",
+        "meaning": "We should take care of plants.",
+        "options": [
+          "We should take care of plants.",
+          "We should cut plants.",
+          "We should forget plants.",
+          "We should burn plants."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 256
+      },
+      {
+        "word": "يجب أن نحمي كل نبات.",
+        "meaning": "We should protect every plant.",
+        "options": [
+          "We should protect every plant.",
+          "We should break every plant.",
+          "We should sell every plant.",
+          "We should throw away every plant."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 257
+      },
+      {
+        "word": "January is the first month of the year.",
+        "meaning": "يناير هو أول شهر في السنة.",
+        "options": [
+          "يناير هو أول شهر في السنة.",
+          "ديسمبر هو أول شهر في السنة.",
+          "يوليو هو أول شهر في السنة.",
+          "يناير هو آخر شهر في السنة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 258
+      },
+      {
+        "word": "December is the last month of the year.",
+        "meaning": "ديسمبر هو آخر شهر في السنة.",
+        "options": [
+          "ديسمبر هو آخر شهر في السنة.",
+          "نوفمبر هو آخر شهر في السنة.",
+          "ديسمبر هو أول شهر في السنة.",
+          "أكتوبر هو آخر شهر في السنة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 259
+      },
+      {
+        "word": "August comes after July.",
+        "meaning": "أغسطس يأتي بعد يوليو.",
+        "options": [
+          "أغسطس يأتي بعد يوليو.",
+          "أغسطس يأتي قبل يوليو.",
+          "سبتمبر يأتي بعد يوليو.",
+          "يوليو يأتي بعد أغسطس."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 260
+      },
+      {
+        "word": "October comes before November.",
+        "meaning": "أكتوبر يأتي قبل نوفمبر.",
+        "options": [
+          "أكتوبر يأتي قبل نوفمبر.",
+          "أكتوبر يأتي بعد نوفمبر.",
+          "سبتمبر يأتي قبل نوفمبر.",
+          "نوفمبر يأتي قبل أكتوبر."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 261
+      },
+      {
+        "word": "There are twelve months in a year.",
+        "meaning": "يوجد اثنا عشر شهرًا في السنة.",
+        "options": [
+          "يوجد اثنا عشر شهرًا في السنة.",
+          "يوجد عشرة أشهر في السنة.",
+          "يوجد ستة أشهر في السنة.",
+          "يوجد أربعة أشهر في السنة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 262
+      },
+      {
+        "word": "There are four seasons in a year.",
+        "meaning": "يوجد أربعة فصول في السنة.",
+        "options": [
+          "يوجد أربعة فصول في السنة.",
+          "يوجد ثلاثة فصول في السنة.",
+          "يوجد خمسة فصول في السنة.",
+          "يوجد فصلان في السنة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 263
+      },
+      {
+        "word": "Summer is hot.",
+        "meaning": "الصيف حار.",
+        "options": [
+          "الصيف حار.",
+          "الصيف بارد.",
+          "الشتاء حار.",
+          "الربيع حار."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 264
+      },
+      {
+        "word": "Winter is cold.",
+        "meaning": "الشتاء بارد.",
+        "options": [
+          "الشتاء بارد.",
+          "الشتاء حار.",
+          "الخريف بارد.",
+          "الصيف بارد."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 265
+      },
+      {
+        "word": "Spring is warm.",
+        "meaning": "الربيع دافئ.",
+        "options": [
+          "الربيع دافئ.",
+          "الربيع بارد.",
+          "الصيف دافئ.",
+          "الخريف دافئ."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 266
+      },
+      {
+        "word": "The wind is strong in fall.",
+        "meaning": "الرياح قوية في الخريف.",
+        "options": [
+          "الرياح قوية في الخريف.",
+          "الرياح قوية في الصيف.",
+          "الرياح قوية في الشتاء.",
+          "الرياح قوية في الربيع."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 267
+      },
+      {
+        "word": "يناير هو أول شهر في السنة.",
+        "meaning": "January is the first month of the year.",
+        "options": [
+          "January is the first month of the year.",
+          "December is the first month of the year.",
+          "July is the first month of the year.",
+          "January is the last month of the year."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 268
+      },
+      {
+        "word": "ديسمبر هو آخر شهر في السنة.",
+        "meaning": "December is the last month of the year.",
+        "options": [
+          "December is the last month of the year.",
+          "November is the last month of the year.",
+          "December is the first month of the year.",
+          "October is the last month of the year."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 269
+      },
+      {
+        "word": "أغسطس يأتي بعد يوليو.",
+        "meaning": "August comes after July.",
+        "options": [
+          "August comes after July.",
+          "August comes before July.",
+          "September comes after July.",
+          "July comes after August."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 270
+      },
+      {
+        "word": "أكتوبر يأتي قبل نوفمبر.",
+        "meaning": "October comes before November.",
+        "options": [
+          "October comes before November.",
+          "October comes after November.",
+          "September comes before November.",
+          "November comes before October."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 271
+      },
+      {
+        "word": "يوجد اثنا عشر شهرًا في السنة.",
+        "meaning": "There are twelve months in a year.",
+        "options": [
+          "There are twelve months in a year.",
+          "There are ten months in a year.",
+          "There are six months in a year.",
+          "There are four months in a year."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 272
+      },
+      {
+        "word": "يوجد أربعة فصول في السنة.",
+        "meaning": "There are four seasons in a year.",
+        "options": [
+          "There are four seasons in a year.",
+          "There are three seasons in a year.",
+          "There are five seasons in a year.",
+          "There are two seasons in a year."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 273
+      },
+      {
+        "word": "الصيف حار.",
+        "meaning": "Summer is hot.",
+        "options": [
+          "Summer is hot.",
+          "Summer is cold.",
+          "Winter is hot.",
+          "Spring is hot."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 274
+      },
+      {
+        "word": "الشتاء بارد.",
+        "meaning": "Winter is cold.",
+        "options": [
+          "Winter is cold.",
+          "Winter is hot.",
+          "Fall is cold.",
+          "Summer is cold."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 275
+      },
+      {
+        "word": "الربيع دافئ.",
+        "meaning": "Spring is warm.",
+        "options": [
+          "Spring is warm.",
+          "Spring is cold.",
+          "Summer is warm.",
+          "Fall is warm."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 276
+      },
+      {
+        "word": "الرياح قوية في الخريف.",
+        "meaning": "The wind is strong in fall.",
+        "options": [
+          "The wind is strong in fall.",
+          "The wind is strong in summer.",
+          "The wind is strong in winter.",
+          "The wind is strong in spring."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "2",
+        "id": 277
       }
     ]
   }
