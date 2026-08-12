@@ -701,6 +701,29 @@
         "curriculum": "OL",
         "unit": "2",
         "id": 27
+      },
+      {
+        "passage": "My name is Kareem. I am {blank1} years old. I live in {blank2}. I go to {blank3} School. My favorite subject is {blank4}. My favorite sport is {blank5}.",
+        "options": [
+          "7",
+          "Cairo",
+          "Al-Azhar",
+          "English",
+          "football"
+        ],
+        "correctAnswer": [
+          "7",
+          "Cairo",
+          "Al-Azhar",
+          "English",
+          "football"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 28
       }
     ],
     "correct": [
@@ -3425,6 +3448,126 @@
         "curriculum": "OL",
         "unit": "2",
         "id": 226
+      },
+      {
+        "sentence": "There are 12 months in a week.",
+        "errorWord": "week",
+        "correctWord": "year",
+        "arabicReason": "السنة تحتوي على 12 شهرًا، وليس الأسبوع.",
+        "englishReason": "A year has 12 months, not a week.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 227
+      },
+      {
+        "sentence": "There are 7 months in a week.",
+        "errorWord": "months",
+        "correctWord": "days",
+        "arabicReason": "الأسبوع يحتوي على 7 أيام، وليس 7 شهور.",
+        "englishReason": "A week has 7 days, not 7 months.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 228
+      },
+      {
+        "sentence": "A year has 7 days.",
+        "errorWord": "7 days",
+        "correctWord": "12 months",
+        "arabicReason": "السنة تحتوي على 12 شهرًا.",
+        "englishReason": "A year has 12 months.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 229
+      },
+      {
+        "sentence": "A week has 12 days.",
+        "errorWord": "12 days",
+        "correctWord": "7 days",
+        "arabicReason": "الأسبوع يحتوي على 7 أيام.",
+        "englishReason": "A week has 7 days.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 230
+      },
+      {
+        "sentence": "There are 12 weeks in a year.",
+        "errorWord": "12 weeks",
+        "correctWord": "12 months",
+        "arabicReason": "السنة تحتوي على 12 شهرًا.",
+        "englishReason": "A year has 12 months.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 231
+      },
+      {
+        "sentence": "There are 7 days in a month.",
+        "errorWord": "month",
+        "correctWord": "week",
+        "arabicReason": "الأسبوع يحتوي على 7 أيام.",
+        "englishReason": "A week has 7 days.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 232
+      },
+      {
+        "sentence": "A month is part of a week.",
+        "errorWord": "week",
+        "correctWord": "year",
+        "arabicReason": "الشهر جزء من السنة، وليس الأسبوع.",
+        "englishReason": "A month is part of a year, not a week.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 233
+      },
+      {
+        "sentence": "A week is part of a month.",
+        "errorWord": "month",
+        "correctWord": "year",
+        "arabicReason": "الأسبوع جزء من السنة.",
+        "englishReason": "A week is part of a year.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 234
+      },
+      {
+        "sentence": "There are 12 days in a year.",
+        "errorWord": "days",
+        "correctWord": "months",
+        "arabicReason": "السنة تحتوي على 12 شهرًا.",
+        "englishReason": "A year has 12 months.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 235
+      },
+      {
+        "sentence": "There are 7 months in a year.",
+        "errorWord": "7",
+        "correctWord": "12",
+        "arabicReason": "يوجد 12 شهرًا في السنة.",
+        "englishReason": "There are 12 months in a year.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 236
       }
     ],
     "find_the_vowel": [
@@ -7573,6 +7716,856 @@
         "curriculum": "OL",
         "unit": "2",
         "id": 243
+      },
+      {
+        "question": "How many ______ are there in a week? There are 7.",
+        "correctAnswer": "days",
+        "arabicReason": "الأسبوع يحتوي على 7 أيام.",
+        "englishReason": "A week has 7 days.",
+        "options": [
+          "days",
+          "months",
+          "weeks",
+          "years"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 244
+      },
+      {
+        "question": "There are 7 ______ in a week.",
+        "correctAnswer": "days",
+        "arabicReason": "نستخدم 'days' لأن الأسبوع يحتوي على 7 أيام.",
+        "englishReason": "We use 'days' because a week has 7 days.",
+        "options": [
+          "days",
+          "months",
+          "weeks",
+          "years"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 245
+      },
+      {
+        "question": "How many ______ are there in a year? There are 12.",
+        "correctAnswer": "months",
+        "arabicReason": "السنة تحتوي على 12 شهرًا.",
+        "englishReason": "A year has 12 months.",
+        "options": [
+          "months",
+          "days",
+          "weeks",
+          "years"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 246
+      },
+      {
+        "question": "There are 12 ______ in a year.",
+        "correctAnswer": "months",
+        "arabicReason": "نستخدم 'months' لأن السنة تحتوي على 12 شهرًا.",
+        "englishReason": "We use 'months' because a year has 12 months.",
+        "options": [
+          "months",
+          "days",
+          "weeks",
+          "years"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 247
+      },
+      {
+        "question": "A ______ has 7 days.",
+        "correctAnswer": "week",
+        "arabicReason": "الأسبوع يحتوي على 7 أيام.",
+        "englishReason": "A week has 7 days.",
+        "options": [
+          "week",
+          "month",
+          "year",
+          "day"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 248
+      },
+      {
+        "question": "A ______ has 12 months.",
+        "correctAnswer": "year",
+        "arabicReason": "السنة تحتوي على 12 شهرًا.",
+        "englishReason": "A year has 12 months.",
+        "options": [
+          "year",
+          "month",
+          "week",
+          "day"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 249
+      },
+      {
+        "question": "How many ______ are there in a week? There are 7.",
+        "correctAnswer": "days",
+        "arabicReason": "السؤال عن عدد أيام الأسبوع.",
+        "englishReason": "The question asks about the number of days in a week.",
+        "options": [
+          "days",
+          "months",
+          "weeks",
+          "years"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 250
+      },
+      {
+        "question": "How many ______ are there in a year? There are 12.",
+        "correctAnswer": "months",
+        "arabicReason": "السؤال عن عدد الشهور في السنة.",
+        "englishReason": "The question asks about the number of months in a year.",
+        "options": [
+          "months",
+          "days",
+          "weeks",
+          "years"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 251
+      },
+      {
+        "question": "There are 7 days in a ______.",
+        "correctAnswer": "week",
+        "arabicReason": "7 أيام تكوّن أسبوعًا.",
+        "englishReason": "7 days make a week.",
+        "options": [
+          "week",
+          "month",
+          "year",
+          "day"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 252
+      },
+      {
+        "question": "There are 12 months in a ______.",
+        "correctAnswer": "year",
+        "arabicReason": "12 شهرًا تكوّن سنة.",
+        "englishReason": "12 months make a year.",
+        "options": [
+          "year",
+          "month",
+          "week",
+          "day"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 253
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "She goes to school every day.",
+        "arabicReason": "الجملة الصحيحة في المضارع البسيط مع She هي: goes، و every day علامة على المضارع البسيط.",
+        "englishReason": "The present simple is used with 'every day', and 'goes' is correct with 'she'.",
+        "options": [
+          "She go to school every day.",
+          "She goes to school every day.",
+          "She is go to school every day.",
+          "She going to school every day."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 254
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "They are playing football now.",
+        "arabicReason": "نستخدم المضارع المستمر مع now، ويأتي بعد are الفعل مع ing.",
+        "englishReason": "We use the present continuous with 'now': are + verb-ing.",
+        "options": [
+          "They play football now.",
+          "They are play football now.",
+          "They are playing football now.",
+          "They is playing football now."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 255
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "He doesn't like apples.",
+        "arabicReason": "مع He في نفي المضارع البسيط نستخدم doesn't، وبعدها يأتي الفعل في صورته الأصلية like.",
+        "englishReason": "With 'he', we use 'doesn't' for negative present simple, followed by the base verb.",
+        "options": [
+          "He don't likes apples.",
+          "He doesn't likes apples.",
+          "He doesn't like apples.",
+          "He isn't like apples."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 256
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "Is she reading a book now?",
+        "arabicReason": "في سؤال المضارع المستمر نبدأ بـ Is، ثم الفاعل، ثم الفعل مع ing، و now علامة على المضارع المستمر.",
+        "englishReason": "A present continuous question starts with 'Is', followed by the subject and verb-ing.",
+        "options": [
+          "Does she reading a book now?",
+          "Is she read a book now?",
+          "Is she reading a book now?",
+          "She is reading a book now?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 257
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "I always drink milk.",
+        "arabicReason": "always علامة على المضارع البسيط، ومع I نستخدم الفعل في صورته الأصلية drink.",
+        "englishReason": "'Always' is used with the present simple, and with 'I' we use the base verb 'drink'.",
+        "options": [
+          "I always drinks milk.",
+          "I am always drink milk.",
+          "I always drinking milk.",
+          "I always drink milk."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 258
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "Are they watching TV at the moment?",
+        "arabicReason": "at the moment علامة على المضارع المستمر، والسؤال يبدأ بـ Are ثم الفاعل ثم الفعل مع ing.",
+        "englishReason": "'At the moment' signals the present continuous, so the question uses 'Are + subject + verb-ing'.",
+        "options": [
+          "Do they watching TV at the moment?",
+          "Are they watching TV at the moment?",
+          "Are they watch TV at the moment?",
+          "They are watching TV at the moment?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 259
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "She doesn't play tennis every day.",
+        "arabicReason": "every day علامة على المضارع البسيط، ومع She في النفي نستخدم doesn't ثم الفعل الأصلي play.",
+        "englishReason": "'Every day' signals the present simple. With 'she', negative sentences use 'doesn't + base verb'.",
+        "options": [
+          "She doesn't plays tennis every day.",
+          "She don't play tennis every day.",
+          "She doesn't play tennis every day.",
+          "She isn't play tennis every day."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 260
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "We are studying English now.",
+        "arabicReason": "now علامة على المضارع المستمر، ومع We نستخدم are ثم الفعل مع ing.",
+        "englishReason": "'Now' signals the present continuous, so we use 'are studying' with 'we'.",
+        "options": [
+          "We are study English now.",
+          "We is studying English now.",
+          "We studying English now.",
+          "We are studying English now."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 261
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "Does he always help his mother?",
+        "arabicReason": "في سؤال المضارع البسيط مع He نستخدم Does، وبعدها يأتي الفعل في صورته الأصلية help، و always علامة على المضارع البسيط.",
+        "englishReason": "For a present simple question with 'he', we use 'Does + subject + base verb'.",
+        "options": [
+          "Does he always helps his mother?",
+          "Do he always help his mother?",
+          "Does he always help his mother?",
+          "Is he always help his mother?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 262
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "They don't eat vegetables every day.",
+        "arabicReason": "every day علامة على المضارع البسيط، ومع They نستخدم don't ثم الفعل الأصلي eat.",
+        "englishReason": "'Every day' signals the present simple. With 'they', we use 'don't + base verb'.",
+        "options": [
+          "They doesn't eat vegetables every day.",
+          "They don't eats vegetables every day.",
+          "They aren't eat vegetables every day.",
+          "They don't eat vegetables every day."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 263
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "He always gets up early.",
+        "arabicReason": "always علامة على المضارع البسيط، ومع He نضيف s إلى الفعل get.",
+        "englishReason": "'Always' signals the present simple, and 'gets' is correct with 'he'.",
+        "options": [
+          "He always get up early.",
+          "He always gets up early.",
+          "He is always get up early.",
+          "He always getting up early."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 264
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "I am doing my homework now.",
+        "arabicReason": "now علامة على المضارع المستمر، ومع I نستخدم am ثم الفعل مع ing.",
+        "englishReason": "'Now' signals the present continuous, so we use 'am + verb-ing' with 'I'.",
+        "options": [
+          "I am do my homework now.",
+          "I do my homework now.",
+          "I am doing my homework now.",
+          "I is doing my homework now."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 265
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "Does she play tennis every day?",
+        "arabicReason": "في سؤال المضارع البسيط مع She نستخدم Does، وبعدها الفعل في صورته الأصلية play.",
+        "englishReason": "With 'she', a present simple question uses 'Does + subject + base verb'.",
+        "options": [
+          "Does she plays tennis every day?",
+          "Do she play tennis every day?",
+          "Does she play tennis every day?",
+          "Is she play tennis every day?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 266
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "We don't watch TV every day.",
+        "arabicReason": "every day علامة على المضارع البسيط، ومع We نستخدم don't ثم الفعل الأصلي watch.",
+        "englishReason": "'Every day' signals the present simple, and with 'we' we use 'don't + base verb'.",
+        "options": [
+          "We doesn't watch TV every day.",
+          "We don't watches TV every day.",
+          "We aren't watch TV every day.",
+          "We don't watch TV every day."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 267
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "She is cooking dinner at the moment.",
+        "arabicReason": "at the moment علامة على المضارع المستمر، ومع She نستخدم is ثم الفعل مع ing.",
+        "englishReason": "'At the moment' signals the present continuous, so we use 'is + verb-ing' with 'she'.",
+        "options": [
+          "She is cook dinner at the moment.",
+          "She cooks dinner at the moment.",
+          "She is cooking dinner at the moment.",
+          "She are cooking dinner at the moment."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 268
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "Do they always clean their room?",
+        "arabicReason": "always علامة على المضارع البسيط، وفي السؤال مع They نستخدم Do ثم الفعل الأصلي clean.",
+        "englishReason": "'Always' signals the present simple, and questions with 'they' use 'Do + subject + base verb'.",
+        "options": [
+          "Does they always clean their room?",
+          "Do they always cleans their room?",
+          "Do they always clean their room?",
+          "Are they always clean their room?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 269
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "He isn't sleeping now.",
+        "arabicReason": "now علامة على المضارع المستمر، وفي النفي مع He نستخدم isn't ثم الفعل مع ing.",
+        "englishReason": "'Now' signals the present continuous, and the negative form with 'he' is 'isn't + verb-ing'.",
+        "options": [
+          "He doesn't sleeping now.",
+          "He isn't sleeping now.",
+          "He isn't sleep now.",
+          "He don't sleep now."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 270
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "My brother plays football every day.",
+        "arabicReason": "every day علامة على المضارع البسيط، ومع My brother نستخدم الفعل plays بإضافة s.",
+        "englishReason": "'Every day' signals the present simple, and 'plays' agrees with the singular subject.",
+        "options": [
+          "My brother play football every day.",
+          "My brother is play football every day.",
+          "My brother plays football every day.",
+          "My brother playing football every day."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 271
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "Are you studying now?",
+        "arabicReason": "now علامة على المضارع المستمر، وفي السؤال مع You نستخدم Are ثم الفاعل ثم الفعل مع ing.",
+        "englishReason": "'Now' signals the present continuous, so the question uses 'Are + subject + verb-ing'.",
+        "options": [
+          "Do you studying now?",
+          "Are you study now?",
+          "Are you studying now?",
+          "Is you studying now?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 272
+      },
+      {
+        "question": "Choose the correct sentence:",
+        "correctAnswer": "She doesn't always eat breakfast.",
+        "arabicReason": "always علامة على المضارع البسيط، ومع She في النفي نستخدم doesn't ثم الفعل الأصلي eat.",
+        "englishReason": "'Always' signals the present simple. With 'she', negative sentences use 'doesn't + base verb'.",
+        "options": [
+          "She don't always eat breakfast.",
+          "She doesn't always eats breakfast.",
+          "She doesn't always eat breakfast.",
+          "She isn't always eat breakfast."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 273
+      },
+      {
+        "question": "My dad ........... the car now.",
+        "correctAnswer": "is washing",
+        "arabicReason": "كلمة now تدل على المضارع المستمر، ومع My dad نستخدم is + washing.",
+        "englishReason": "'Now' signals the present continuous, so we use 'is + verb-ing'.",
+        "options": [
+          "is washing",
+          "washing",
+          "wash",
+          "washes"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 274
+      },
+      {
+        "question": "Sara ........... her homework every day.",
+        "correctAnswer": "does",
+        "arabicReason": "كلمة every day تدل على المضارع البسيط، ومع Sara نستخدم does.",
+        "englishReason": "'Every day' signals the present simple, and 'does' agrees with Sara.",
+        "options": [
+          "is doing",
+          "doing",
+          "do",
+          "does"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 275
+      },
+      {
+        "question": "They ........... football at the moment.",
+        "correctAnswer": "are playing",
+        "arabicReason": "كلمة at the moment تدل على المضارع المستمر، ومع They نستخدم are + playing.",
+        "englishReason": "'At the moment' signals the present continuous, so we use 'are + verb-ing'.",
+        "options": [
+          "play",
+          "plays",
+          "are playing",
+          "playing"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 276
+      },
+      {
+        "question": "Ali ........... to school every day.",
+        "correctAnswer": "goes",
+        "arabicReason": "كلمة every day تدل على المضارع البسيط، ومع Ali نضيف s إلى الفعل go.",
+        "englishReason": "'Every day' signals the present simple, and 'goes' is used with Ali.",
+        "options": [
+          "is going",
+          "go",
+          "goes",
+          "going"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 277
+      },
+      {
+        "question": "Look! The baby ........... now.",
+        "correctAnswer": "is sleeping",
+        "arabicReason": "كلمة now تدل على المضارع المستمر، ومع The baby نستخدم is + sleeping.",
+        "englishReason": "'Now' signals the present continuous, so we use 'is sleeping'.",
+        "options": [
+          "sleep",
+          "sleeps",
+          "sleeping",
+          "is sleeping"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 278
+      },
+      {
+        "question": "We ........... English every day.",
+        "correctAnswer": "study",
+        "arabicReason": "كلمة every day تدل على المضارع البسيط، ومع We نستخدم الفعل في صورته الأصلية study.",
+        "englishReason": "'Every day' signals the present simple, and with 'we' we use the base verb 'study'.",
+        "options": [
+          "are studying",
+          "study",
+          "studies",
+          "studying"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 279
+      },
+      {
+        "question": "Mona ........... dinner at the moment.",
+        "correctAnswer": "is cooking",
+        "arabicReason": "كلمة at the moment تدل على المضارع المستمر، ومع Mona نستخدم is + cooking.",
+        "englishReason": "'At the moment' signals the present continuous, so we use 'is cooking'.",
+        "options": [
+          "cook",
+          "cooks",
+          "cooking",
+          "is cooking"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 280
+      },
+      {
+        "question": "My brothers ........... TV every day.",
+        "correctAnswer": "watch",
+        "arabicReason": "كلمة every day تدل على المضارع البسيط، ومع My brothers نستخدم الفعل في صورته الأصلية watch.",
+        "englishReason": "'Every day' signals the present simple, and the plural subject takes the base verb.",
+        "options": [
+          "watches",
+          "are watching",
+          "watch",
+          "watching"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 281
+      },
+      {
+        "question": "The children ........... in the garden now.",
+        "correctAnswer": "are playing",
+        "arabicReason": "كلمة now تدل على المضارع المستمر، ومع The children نستخدم are + playing.",
+        "englishReason": "'Now' signals the present continuous, so we use 'are + verb-ing'.",
+        "options": [
+          "play",
+          "plays",
+          "playing",
+          "are playing"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 282
+      },
+      {
+        "question": "He ........... his room every day.",
+        "correctAnswer": "cleans",
+        "arabicReason": "كلمة every day تدل على المضارع البسيط، ومع He نضيف s إلى الفعل clean.",
+        "englishReason": "'Every day' signals the present simple, and 'cleans' is used with 'he'.",
+        "options": [
+          "clean",
+          "cleans",
+          "is cleaning",
+          "cleaning"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 283
+      },
+      {
+        "question": "My dad ........... the car now.",
+        "correctAnswer": "is washing",
+        "arabicReason": "كلمة now تدل على المضارع المستمر، ومع My dad نستخدم is + washing.",
+        "englishReason": "'Now' signals the present continuous, so we use 'is + verb-ing'.",
+        "options": [
+          "is washing",
+          "washing",
+          "wash",
+          "washes"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 284
+      },
+      {
+        "question": "Sara ........... her homework every day.",
+        "correctAnswer": "does",
+        "arabicReason": "كلمة every day تدل على المضارع البسيط، ومع Sara نستخدم does.",
+        "englishReason": "'Every day' signals the present simple, and 'does' agrees with Sara.",
+        "options": [
+          "is doing",
+          "doing",
+          "do",
+          "does"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 285
+      },
+      {
+        "question": "They ........... football at the moment.",
+        "correctAnswer": "are playing",
+        "arabicReason": "كلمة at the moment تدل على المضارع المستمر، ومع They نستخدم are + playing.",
+        "englishReason": "'At the moment' signals the present continuous, so we use 'are + verb-ing'.",
+        "options": [
+          "play",
+          "plays",
+          "are playing",
+          "playing"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 286
+      },
+      {
+        "question": "Ali ........... to school every day.",
+        "correctAnswer": "goes",
+        "arabicReason": "كلمة every day تدل على المضارع البسيط، ومع Ali نضيف s إلى الفعل go.",
+        "englishReason": "'Every day' signals the present simple, and 'goes' is used with Ali.",
+        "options": [
+          "is going",
+          "go",
+          "goes",
+          "going"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 287
+      },
+      {
+        "question": "Look! The baby ........... now.",
+        "correctAnswer": "is sleeping",
+        "arabicReason": "كلمة now تدل على المضارع المستمر، ومع The baby نستخدم is + sleeping.",
+        "englishReason": "'Now' signals the present continuous, so we use 'is sleeping'.",
+        "options": [
+          "sleep",
+          "sleeps",
+          "sleeping",
+          "is sleeping"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 288
+      },
+      {
+        "question": "We ........... English every day.",
+        "correctAnswer": "study",
+        "arabicReason": "كلمة every day تدل على المضارع البسيط، ومع We نستخدم الفعل في صورته الأصلية study.",
+        "englishReason": "'Every day' signals the present simple, and with 'we' we use the base verb 'study'.",
+        "options": [
+          "are studying",
+          "study",
+          "studies",
+          "studying"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 289
+      },
+      {
+        "question": "Mona ........... dinner at the moment.",
+        "correctAnswer": "is cooking",
+        "arabicReason": "كلمة at the moment تدل على المضارع المستمر، ومع Mona نستخدم is + cooking.",
+        "englishReason": "'At the moment' signals the present continuous, so we use 'is cooking'.",
+        "options": [
+          "cook",
+          "cooks",
+          "cooking",
+          "is cooking"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 290
+      },
+      {
+        "question": "My brothers ........... TV every day.",
+        "correctAnswer": "watch",
+        "arabicReason": "كلمة every day تدل على المضارع البسيط، ومع My brothers نستخدم الفعل في صورته الأصلية watch.",
+        "englishReason": "'Every day' signals the present simple, and the plural subject takes the base verb.",
+        "options": [
+          "watches",
+          "are watching",
+          "watch",
+          "watching"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 291
+      },
+      {
+        "question": "The children ........... in the garden now.",
+        "correctAnswer": "are playing",
+        "arabicReason": "كلمة now تدل على المضارع المستمر، ومع The children نستخدم are + playing.",
+        "englishReason": "'Now' signals the present continuous, so we use 'are + verb-ing'.",
+        "options": [
+          "play",
+          "plays",
+          "playing",
+          "are playing"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 292
+      },
+      {
+        "question": "He ........... his room every day.",
+        "correctAnswer": "cleans",
+        "arabicReason": "كلمة every day تدل على المضارع البسيط، ومع He نضيف s إلى الفعل clean.",
+        "englishReason": "'Every day' signals the present simple, and 'cleans' is used with 'he'.",
+        "options": [
+          "clean",
+          "cleans",
+          "is cleaning",
+          "cleaning"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 293
       }
     ],
     "justtalk": [
@@ -8991,6 +9984,69 @@
         "curriculum": "OL",
         "unit": "2",
         "id": 67
+      },
+      {
+        "sentences": [
+          {
+            "text": "My name is Kareem.",
+            "target": "My name is Kareem."
+          },
+          {
+            "text": "I am seven years old.",
+            "target": "I am seven years old."
+          },
+          {
+            "text": "I live in Cairo.",
+            "target": "I live in Cairo."
+          }
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 68
+      },
+      {
+        "sentences": [
+          {
+            "text": "I go to Al-Azhar School.",
+            "target": "I go to Al-Azhar School."
+          },
+          {
+            "text": "My favorite subject is English.",
+            "target": "My favorite subject is English."
+          },
+          {
+            "text": "My favorite sport is football.",
+            "target": "My favorite sport is football."
+          }
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 69
+      },
+      {
+        "sentences": [
+          {
+            "text": "I like fruits and vegetables.",
+            "target": "I like fruits and vegetables."
+          },
+          {
+            "text": "My favorite dish is chicken with rice.",
+            "target": "My favorite dish is chicken with rice."
+          },
+          {
+            "text": "I have one brother and one sister.",
+            "target": "I have one brother and one sister."
+          }
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 70
       }
     ],
     "Matching": [
@@ -11682,6 +12738,106 @@
         "curriculum": "OL",
         "unit": "2",
         "id": 264
+      },
+      {
+        "sentence": "my name is kareem",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + فعل الكينونة + باقي الجملة.",
+        "englishReason": "The correct order is subject + be verb + the rest of the sentence.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 265
+      },
+      {
+        "sentence": "i am seven years old",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + فعل الكينونة + العمر.",
+        "englishReason": "The correct order is subject + be verb + age.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 266
+      },
+      {
+        "sentence": "i live in cairo",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المكان.",
+        "englishReason": "The correct order is subject + verb + place.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 267
+      },
+      {
+        "sentence": "i go to al-azhar school",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المكان.",
+        "englishReason": "The correct order is subject + verb + place.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 268
+      },
+      {
+        "sentence": "my favorite subject is english",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + فعل الكينونة + المعلومة.",
+        "englishReason": "The correct order is subject + be verb + information.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 269
+      },
+      {
+        "sentence": "my favorite sport is football",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + فعل الكينونة + المعلومة.",
+        "englishReason": "The correct order is subject + be verb + information.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 270
+      },
+      {
+        "sentence": "i like fruits and vegetables",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is subject + verb + object.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 271
+      },
+      {
+        "sentence": "my favorite dish is chicken with rice",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + فعل الكينونة + باقي الجملة.",
+        "englishReason": "The correct order is subject + be verb + the rest of the sentence.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 272
+      },
+      {
+        "sentence": "i have one brother and one sister",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به.",
+        "englishReason": "The correct order is subject + verb + object.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 273
+      },
+      {
+        "sentence": "i love my family very much",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به + بقية الجملة.",
+        "englishReason": "The correct order is subject + verb + object + the rest of the sentence.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 274
       }
     ],
     "rewrite": [
@@ -17038,6 +18194,126 @@
         "curriculum": "OL",
         "unit": "2",
         "id": 447
+      },
+      {
+        "word": "name",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 448
+      },
+      {
+        "word": "years old",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 449
+      },
+      {
+        "word": "live",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 450
+      },
+      {
+        "word": "Cairo",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 451
+      },
+      {
+        "word": "school",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 452
+      },
+      {
+        "word": "subject",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 453
+      },
+      {
+        "word": "English",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 454
+      },
+      {
+        "word": "favorite",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 455
+      },
+      {
+        "word": "sport",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 456
+      },
+      {
+        "word": "football",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 457
+      },
+      {
+        "word": "fruits",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 458
+      },
+      {
+        "word": "vegetables",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 459
+      },
+      {
+        "word": "dish",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 460
+      },
+      {
+        "word": "chicken",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 461
+      },
+      {
+        "word": "rice",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 462
       }
     ],
     "sequence": [
@@ -20963,6 +22239,126 @@
         "curriculum": "OL",
         "unit": "2",
         "id": 445
+      },
+      {
+        "word": "name",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 446
+      },
+      {
+        "word": "yearsold",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 447
+      },
+      {
+        "word": "live",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 448
+      },
+      {
+        "word": "Cairo",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 449
+      },
+      {
+        "word": "school",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 450
+      },
+      {
+        "word": "subject",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 451
+      },
+      {
+        "word": "English",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 452
+      },
+      {
+        "word": "favorite",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 453
+      },
+      {
+        "word": "sport",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 454
+      },
+      {
+        "word": "football",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 455
+      },
+      {
+        "word": "fruits",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 456
+      },
+      {
+        "word": "vegetables",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 457
+      },
+      {
+        "word": "dish",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 458
+      },
+      {
+        "word": "chicken",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 459
+      },
+      {
+        "word": "rice",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 460
       }
     ],
     "Underline": [
@@ -30354,6 +31750,261 @@
         "curriculum": "OL",
         "unit": "2",
         "id": 447
+      },
+      {
+        "word": "name",
+        "meaning": "اسم",
+        "options": [
+          "اسم",
+          "عمر",
+          "مدرسة",
+          "رياضة"
+        ],
+        "arabicReason": "الكلمة تعني 'اسم'.",
+        "englishReason": "The word means 'name'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 448
+      },
+      {
+        "word": "years old",
+        "meaning": "عمره / عمرها",
+        "options": [
+          "عمره / عمرها",
+          "اسمه / اسمها",
+          "مدرسته",
+          "رياضته"
+        ],
+        "arabicReason": "العبارة تُستخدم للتحدث عن العمر.",
+        "englishReason": "The phrase is used to talk about age.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 449
+      },
+      {
+        "word": "live",
+        "meaning": "يعيش",
+        "options": [
+          "يعيش",
+          "يدرس",
+          "يحب",
+          "يلعب"
+        ],
+        "arabicReason": "الكلمة تعني 'يعيش'، مثل: I live in Cairo.",
+        "englishReason": "The word means 'live', as in: I live in Cairo.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 450
+      },
+      {
+        "word": "Cairo",
+        "meaning": "القاهرة",
+        "options": [
+          "القاهرة",
+          "الإسكندرية",
+          "الجيزة",
+          "أسوان"
+        ],
+        "arabicReason": "Cairo هو اسم مدينة القاهرة.",
+        "englishReason": "Cairo is the name of a city in Egypt.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 451
+      },
+      {
+        "word": "school",
+        "meaning": "مدرسة",
+        "options": [
+          "مدرسة",
+          "منزل",
+          "حديقة",
+          "ملعب"
+        ],
+        "arabicReason": "الكلمة تعني 'مدرسة'.",
+        "englishReason": "The word means 'school'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 452
+      },
+      {
+        "word": "subject",
+        "meaning": "مادة دراسية",
+        "options": [
+          "مادة دراسية",
+          "رياضة",
+          "وجبة",
+          "عائلة"
+        ],
+        "arabicReason": "Subject تعني مادة دراسية مثل English أو Math.",
+        "englishReason": "A subject is something students study at school.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 453
+      },
+      {
+        "word": "English",
+        "meaning": "اللغة الإنجليزية",
+        "options": [
+          "اللغة الإنجليزية",
+          "اللغة العربية",
+          "الرياضيات",
+          "العلوم"
+        ],
+        "arabicReason": "English تعني اللغة الإنجليزية.",
+        "englishReason": "English is the English language.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 454
+      },
+      {
+        "word": "favorite",
+        "meaning": "المفضل",
+        "options": [
+          "المفضل",
+          "الجديد",
+          "الكبير",
+          "الصغير"
+        ],
+        "arabicReason": "Favorite تعني الشيء الذي نحبه أكثر من غيره.",
+        "englishReason": "Favorite means the thing you like the most.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 455
+      },
+      {
+        "word": "sport",
+        "meaning": "رياضة",
+        "options": [
+          "رياضة",
+          "مادة",
+          "وجبة",
+          "فاكهة"
+        ],
+        "arabicReason": "الكلمة تعني 'رياضة'.",
+        "englishReason": "The word means 'sport'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 456
+      },
+      {
+        "word": "football",
+        "meaning": "كرة القدم",
+        "options": [
+          "كرة القدم",
+          "كرة السلة",
+          "التنس",
+          "السباحة"
+        ],
+        "arabicReason": "Football تعني كرة القدم.",
+        "englishReason": "Football is a sport played with a ball and goals.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 457
+      },
+      {
+        "word": "fruits",
+        "meaning": "فواكه",
+        "options": [
+          "فواكه",
+          "خضروات",
+          "لحوم",
+          "مشروبات"
+        ],
+        "arabicReason": "Fruits تعني الفواكه.",
+        "englishReason": "Fruits are foods such as apples, bananas, and oranges.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 458
+      },
+      {
+        "word": "vegetables",
+        "meaning": "خضروات",
+        "options": [
+          "خضروات",
+          "فواكه",
+          "حلويات",
+          "مشروبات"
+        ],
+        "arabicReason": "Vegetables تعني الخضروات.",
+        "englishReason": "Vegetables are foods such as carrots, potatoes, and tomatoes.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 459
+      },
+      {
+        "word": "dish",
+        "meaning": "طبق / وجبة",
+        "options": [
+          "طبق / وجبة",
+          "رياضة",
+          "مادة",
+          "مدرسة"
+        ],
+        "arabicReason": "Dish تعني طبقًا أو وجبة من الطعام.",
+        "englishReason": "A dish is a type of food or meal.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 460
+      },
+      {
+        "word": "chicken",
+        "meaning": "دجاج",
+        "options": [
+          "دجاج",
+          "أرز",
+          "لحم",
+          "سمك"
+        ],
+        "arabicReason": "Chicken تعني الدجاج.",
+        "englishReason": "Chicken is a type of meat from a chicken.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 461
+      },
+      {
+        "word": "rice",
+        "meaning": "أرز",
+        "options": [
+          "أرز",
+          "دجاج",
+          "خبز",
+          "بطاطس"
+        ],
+        "arabicReason": "Rice تعني الأرز.",
+        "englishReason": "Rice is a common type of food.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 462
       }
     ],
     "vocab_quiz": [
@@ -38533,6 +40184,261 @@
         "curriculum": "OL",
         "unit": "2",
         "id": 500
+      },
+      {
+        "word": "name",
+        "meaning": "اسم",
+        "options": [
+          "اسم",
+          "عمر",
+          "مدرسة",
+          "رياضة"
+        ],
+        "arabicReason": "الكلمة تعني 'اسم'.",
+        "englishReason": "The word means 'name'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 501
+      },
+      {
+        "word": "years old",
+        "meaning": "عمره / عمرها",
+        "options": [
+          "عمره / عمرها",
+          "اسمه / اسمها",
+          "مدرسته",
+          "رياضته"
+        ],
+        "arabicReason": "العبارة تُستخدم للتحدث عن العمر.",
+        "englishReason": "The phrase is used to talk about age.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 502
+      },
+      {
+        "word": "live",
+        "meaning": "يعيش",
+        "options": [
+          "يعيش",
+          "يدرس",
+          "يحب",
+          "يلعب"
+        ],
+        "arabicReason": "الكلمة تعني 'يعيش'، مثل: I live in Cairo.",
+        "englishReason": "The word means 'live', as in: I live in Cairo.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 503
+      },
+      {
+        "word": "Cairo",
+        "meaning": "القاهرة",
+        "options": [
+          "القاهرة",
+          "الإسكندرية",
+          "الجيزة",
+          "أسوان"
+        ],
+        "arabicReason": "Cairo هو اسم مدينة القاهرة.",
+        "englishReason": "Cairo is the name of a city in Egypt.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 504
+      },
+      {
+        "word": "school",
+        "meaning": "مدرسة",
+        "options": [
+          "مدرسة",
+          "منزل",
+          "حديقة",
+          "ملعب"
+        ],
+        "arabicReason": "الكلمة تعني 'مدرسة'.",
+        "englishReason": "The word means 'school'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 505
+      },
+      {
+        "word": "subject",
+        "meaning": "مادة دراسية",
+        "options": [
+          "مادة دراسية",
+          "رياضة",
+          "وجبة",
+          "عائلة"
+        ],
+        "arabicReason": "Subject تعني مادة دراسية مثل English أو Math.",
+        "englishReason": "A subject is something students study at school.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 506
+      },
+      {
+        "word": "English",
+        "meaning": "اللغة الإنجليزية",
+        "options": [
+          "اللغة الإنجليزية",
+          "اللغة العربية",
+          "الرياضيات",
+          "العلوم"
+        ],
+        "arabicReason": "English تعني اللغة الإنجليزية.",
+        "englishReason": "English is the English language.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 507
+      },
+      {
+        "word": "favorite",
+        "meaning": "المفضل",
+        "options": [
+          "المفضل",
+          "الجديد",
+          "الكبير",
+          "الصغير"
+        ],
+        "arabicReason": "Favorite تعني الشيء الذي نحبه أكثر من غيره.",
+        "englishReason": "Favorite means the thing you like the most.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 508
+      },
+      {
+        "word": "sport",
+        "meaning": "رياضة",
+        "options": [
+          "رياضة",
+          "مادة",
+          "وجبة",
+          "فاكهة"
+        ],
+        "arabicReason": "الكلمة تعني 'رياضة'.",
+        "englishReason": "The word means 'sport'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 509
+      },
+      {
+        "word": "football",
+        "meaning": "كرة القدم",
+        "options": [
+          "كرة القدم",
+          "كرة السلة",
+          "التنس",
+          "السباحة"
+        ],
+        "arabicReason": "Football تعني كرة القدم.",
+        "englishReason": "Football is a sport played with a ball and goals.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 510
+      },
+      {
+        "word": "fruits",
+        "meaning": "فواكه",
+        "options": [
+          "فواكه",
+          "خضروات",
+          "لحوم",
+          "مشروبات"
+        ],
+        "arabicReason": "Fruits تعني الفواكه.",
+        "englishReason": "Fruits are foods such as apples, bananas, and oranges.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 511
+      },
+      {
+        "word": "vegetables",
+        "meaning": "خضروات",
+        "options": [
+          "خضروات",
+          "فواكه",
+          "حلويات",
+          "مشروبات"
+        ],
+        "arabicReason": "Vegetables تعني الخضروات.",
+        "englishReason": "Vegetables are foods such as carrots, potatoes, and tomatoes.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 512
+      },
+      {
+        "word": "dish",
+        "meaning": "طبق / وجبة",
+        "options": [
+          "طبق / وجبة",
+          "رياضة",
+          "مادة",
+          "مدرسة"
+        ],
+        "arabicReason": "Dish تعني طبقًا أو وجبة من الطعام.",
+        "englishReason": "A dish is a type of food or meal.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 513
+      },
+      {
+        "word": "chicken",
+        "meaning": "دجاج",
+        "options": [
+          "دجاج",
+          "أرز",
+          "لحم",
+          "سمك"
+        ],
+        "arabicReason": "Chicken تعني الدجاج.",
+        "englishReason": "Chicken is a type of meat from a chicken.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 514
+      },
+      {
+        "word": "rice",
+        "meaning": "أرز",
+        "options": [
+          "أرز",
+          "دجاج",
+          "خبز",
+          "بطاطس"
+        ],
+        "arabicReason": "Rice تعني الأرز.",
+        "englishReason": "Rice is a common type of food.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 515
       }
     ],
     "what_do_you_hear": [
@@ -42981,6 +44887,146 @@
         "curriculum": "OL",
         "unit": "2",
         "id": 317
+      },
+      {
+        "sentence": "My name is Kareem.",
+        "options": [
+          "My name is Kareem.",
+          "My name is Ahmed.",
+          "My name is Omar.",
+          "My name is Ali."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 318
+      },
+      {
+        "sentence": "I am 7 years old.",
+        "options": [
+          "I am 7 years old.",
+          "I am 8 years old.",
+          "I am 6 years old.",
+          "I am 10 years old."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 319
+      },
+      {
+        "sentence": "I live in Cairo.",
+        "options": [
+          "I live in Cairo.",
+          "I live in Giza.",
+          "I live in Alexandria.",
+          "I live in Aswan."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 320
+      },
+      {
+        "sentence": "I go to Al-Azhar School.",
+        "options": [
+          "I go to Al-Azhar School.",
+          "I go to Cairo School.",
+          "I go to English School.",
+          "I go to Al-Nasr School."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 321
+      },
+      {
+        "sentence": "My favorite subject is English.",
+        "options": [
+          "My favorite subject is English.",
+          "My favorite subject is Math.",
+          "My favorite subject is Science.",
+          "My favorite subject is Arabic."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 322
+      },
+      {
+        "sentence": "My favorite sport is football.",
+        "options": [
+          "My favorite sport is football.",
+          "My favorite sport is tennis.",
+          "My favorite sport is swimming.",
+          "My favorite sport is basketball."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 323
+      },
+      {
+        "sentence": "I like fruits and vegetables.",
+        "options": [
+          "I like fruits and vegetables.",
+          "I like chicken and rice.",
+          "I like fruits and chicken.",
+          "I like vegetables and rice."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 324
+      },
+      {
+        "sentence": "My favorite dish is chicken with rice.",
+        "options": [
+          "My favorite dish is chicken with rice.",
+          "My favorite dish is fish with rice.",
+          "My favorite dish is chicken with vegetables.",
+          "My favorite dish is rice with vegetables."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 325
+      },
+      {
+        "sentence": "I have one brother and one sister.",
+        "options": [
+          "I have one brother and one sister.",
+          "I have two brothers and one sister.",
+          "I have one brother and two sisters.",
+          "I have two brothers and two sisters."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 326
+      },
+      {
+        "sentence": "I love my family very much.",
+        "options": [
+          "I love my family very much.",
+          "I like my school very much.",
+          "I love football very much.",
+          "I like fruits very much."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 327
       }
     ],
     "vocab_choose": [
@@ -48644,6 +50690,261 @@
         "curriculum": "OL",
         "unit": "2",
         "id": 333
+      },
+      {
+        "question": "My ______ is Kareem.",
+        "correctAnswer": "name",
+        "arabicReason": "نستخدم 'name' لأننا نتحدث عن اسم الشخص.",
+        "englishReason": "We use 'name' because we are talking about a person's name.",
+        "options": [
+          "name",
+          "sport",
+          "dish",
+          "school"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 334
+      },
+      {
+        "question": "I am 7 ______ old.",
+        "correctAnswer": "years",
+        "arabicReason": "نستخدم 'years' للتعبير عن العمر.",
+        "englishReason": "We use 'years' to talk about age.",
+        "options": [
+          "years",
+          "months",
+          "subjects",
+          "sports"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 335
+      },
+      {
+        "question": "I ______ in Cairo.",
+        "correctAnswer": "live",
+        "arabicReason": "نستخدم 'live' للتعبير عن المكان الذي نعيش فيه.",
+        "englishReason": "We use 'live' to say where we live.",
+        "options": [
+          "live",
+          "love",
+          "like",
+          "study"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 336
+      },
+      {
+        "question": "I go to ______ School.",
+        "correctAnswer": "Al-Azhar",
+        "arabicReason": "نستخدم 'Al-Azhar' لأنه اسم المدرسة.",
+        "englishReason": "We use 'Al-Azhar' because it is the name of the school.",
+        "options": [
+          "Al-Azhar",
+          "Cairo",
+          "English",
+          "football"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 337
+      },
+      {
+        "question": "My favorite ______ is English.",
+        "correctAnswer": "subject",
+        "arabicReason": "نستخدم 'subject' لأن English مادة دراسية.",
+        "englishReason": "We use 'subject' because English is a school subject.",
+        "options": [
+          "subject",
+          "sport",
+          "dish",
+          "fruit"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 338
+      },
+      {
+        "question": "My favorite ______ is football.",
+        "correctAnswer": "sport",
+        "arabicReason": "نستخدم 'sport' لأن football رياضة.",
+        "englishReason": "We use 'sport' because football is a sport.",
+        "options": [
+          "sport",
+          "subject",
+          "dish",
+          "school"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 339
+      },
+      {
+        "question": "I like ______ and vegetables.",
+        "correctAnswer": "fruits",
+        "arabicReason": "نستخدم 'fruits' لأن الجملة تتحدث عن الفواكه والخضروات.",
+        "englishReason": "We use 'fruits' because the sentence talks about fruits and vegetables.",
+        "options": [
+          "fruits",
+          "sports",
+          "subjects",
+          "dishes"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 340
+      },
+      {
+        "question": "I like fruits and ______.",
+        "correctAnswer": "vegetables",
+        "arabicReason": "نستخدم 'vegetables' لأنها تأتي مع fruits في الجملة.",
+        "englishReason": "We use 'vegetables' because they are mentioned with fruits.",
+        "options": [
+          "vegetables",
+          "football",
+          "English",
+          "rice"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 341
+      },
+      {
+        "question": "My favorite ______ is chicken with rice.",
+        "correctAnswer": "dish",
+        "arabicReason": "نستخدم 'dish' لأن chicken with rice وجبة مفضلة.",
+        "englishReason": "We use 'dish' because chicken with rice is a favorite meal.",
+        "options": [
+          "dish",
+          "sport",
+          "subject",
+          "school"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 342
+      },
+      {
+        "question": "My favorite dish is ______ with rice.",
+        "correctAnswer": "chicken",
+        "arabicReason": "نستخدم 'chicken' لأن الوجبة هي chicken with rice.",
+        "englishReason": "We use 'chicken' because the dish is chicken with rice.",
+        "options": [
+          "chicken",
+          "football",
+          "English",
+          "fruits"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 343
+      },
+      {
+        "question": "My favorite dish is chicken with ______.",
+        "correctAnswer": "rice",
+        "arabicReason": "نستخدم 'rice' لإكمال اسم الوجبة.",
+        "englishReason": "We use 'rice' to complete the name of the dish.",
+        "options": [
+          "rice",
+          "chicken",
+          "fruit",
+          "football"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 344
+      },
+      {
+        "question": "I live with my ______.",
+        "correctAnswer": "family",
+        "arabicReason": "نستخدم 'family' لأن كريم يعيش مع عائلته.",
+        "englishReason": "We use 'family' because Kareem lives with his family.",
+        "options": [
+          "family",
+          "school",
+          "subject",
+          "sport"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 345
+      },
+      {
+        "question": "I have one ______.",
+        "correctAnswer": "brother",
+        "arabicReason": "نستخدم 'brother' لأن كريم لديه أخ واحد.",
+        "englishReason": "We use 'brother' because Kareem has one brother.",
+        "options": [
+          "brother",
+          "school",
+          "dish",
+          "sport"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 346
+      },
+      {
+        "question": "I have one brother and one ______.",
+        "correctAnswer": "sister",
+        "arabicReason": "نستخدم 'sister' لأن كريم لديه أخت واحدة.",
+        "englishReason": "We use 'sister' because Kareem has one sister.",
+        "options": [
+          "sister",
+          "subject",
+          "fruit",
+          "dish"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 347
+      },
+      {
+        "question": "I ______ my family.",
+        "correctAnswer": "love",
+        "arabicReason": "نستخدم 'love' لأن كريم يقول إنه يحب عائلته.",
+        "englishReason": "We use 'love' because Kareem says he loves his family.",
+        "options": [
+          "love",
+          "live",
+          "study",
+          "play"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 348
       }
     ],
     "translate": [
@@ -53355,6 +55656,346 @@
         "curriculum": "OL",
         "unit": "2",
         "id": 277
+      },
+      {
+        "word": "My name is Kareem.",
+        "meaning": "اسمي كريم.",
+        "options": [
+          "اسمي كريم.",
+          "عمري سبع سنوات.",
+          "أنا أعيش في القاهرة.",
+          "أنا أحب عائلتي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 278
+      },
+      {
+        "word": "I am seven years old.",
+        "meaning": "عمري سبع سنوات.",
+        "options": [
+          "عمري سبع سنوات.",
+          "اسمي كريم.",
+          "أنا أعيش في القاهرة.",
+          "أنا أذهب إلى المدرسة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 279
+      },
+      {
+        "word": "I live in Cairo.",
+        "meaning": "أنا أعيش في القاهرة.",
+        "options": [
+          "أنا أعيش في القاهرة.",
+          "أنا أذهب إلى المدرسة.",
+          "أنا أحب كرة القدم.",
+          "أنا أحب عائلتي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 280
+      },
+      {
+        "word": "I go to Al-Azhar School.",
+        "meaning": "أنا أذهب إلى مدرسة الأزهر.",
+        "options": [
+          "أنا أذهب إلى مدرسة الأزهر.",
+          "أنا أعيش في القاهرة.",
+          "مادتي المفضلة هي الإنجليزية.",
+          "رياضتي المفضلة هي كرة القدم."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 281
+      },
+      {
+        "word": "My favorite subject is English.",
+        "meaning": "مادتي المفضلة هي اللغة الإنجليزية.",
+        "options": [
+          "مادتي المفضلة هي اللغة الإنجليزية.",
+          "رياضتي المفضلة هي كرة القدم.",
+          "أنا أحب الفواكه والخضروات.",
+          "أنا أذهب إلى مدرسة الأزهر."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 282
+      },
+      {
+        "word": "My favorite sport is football.",
+        "meaning": "رياضتي المفضلة هي كرة القدم.",
+        "options": [
+          "رياضتي المفضلة هي كرة القدم.",
+          "مادتي المفضلة هي اللغة الإنجليزية.",
+          "أنا أحب الفواكه والخضروات.",
+          "أنا أحب عائلتي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 283
+      },
+      {
+        "word": "I like fruits and vegetables.",
+        "meaning": "أنا أحب الفواكه والخضروات.",
+        "options": [
+          "أنا أحب الفواكه والخضروات.",
+          "أنا أحب الدجاج والأرز.",
+          "رياضتي المفضلة هي كرة القدم.",
+          "أنا أعيش مع عائلتي."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 284
+      },
+      {
+        "word": "My favorite dish is chicken with rice.",
+        "meaning": "وجبتي المفضلة هي الدجاج مع الأرز.",
+        "options": [
+          "وجبتي المفضلة هي الدجاج مع الأرز.",
+          "أنا أحب الفواكه والخضروات.",
+          "رياضتي المفضلة هي كرة القدم.",
+          "مادتي المفضلة هي الإنجليزية."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 285
+      },
+      {
+        "word": "I have one brother and one sister.",
+        "meaning": "لدي أخ واحد وأخت واحدة.",
+        "options": [
+          "لدي أخ واحد وأخت واحدة.",
+          "لدي أخوان وأخت واحدة.",
+          "لدي أختان وأخ واحد.",
+          "ليس لدي إخوة أو أخوات."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 286
+      },
+      {
+        "word": "I love my family very much.",
+        "meaning": "أنا أحب عائلتي كثيرًا.",
+        "options": [
+          "أنا أحب عائلتي كثيرًا.",
+          "أنا أحب مدرستي كثيرًا.",
+          "أنا أحب كرة القدم كثيرًا.",
+          "أنا أحب الفواكه كثيرًا."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 287
+      },
+      {
+        "word": "اسمي كريم.",
+        "meaning": "My name is Kareem.",
+        "options": [
+          "My name is Kareem.",
+          "I am seven years old.",
+          "I live in Cairo.",
+          "I love my family."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 288
+      },
+      {
+        "word": "عمري سبع سنوات.",
+        "meaning": "I am seven years old.",
+        "options": [
+          "I am seven years old.",
+          "My name is Kareem.",
+          "I live in Cairo.",
+          "I go to school."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 289
+      },
+      {
+        "word": "أنا أعيش في القاهرة.",
+        "meaning": "I live in Cairo.",
+        "options": [
+          "I live in Cairo.",
+          "I go to school.",
+          "I like football.",
+          "I love my family."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 290
+      },
+      {
+        "word": "أنا أذهب إلى مدرسة الأزهر.",
+        "meaning": "I go to Al-Azhar School.",
+        "options": [
+          "I go to Al-Azhar School.",
+          "I live in Cairo.",
+          "My favorite subject is English.",
+          "My favorite sport is football."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 291
+      },
+      {
+        "word": "مادتي المفضلة هي اللغة الإنجليزية.",
+        "meaning": "My favorite subject is English.",
+        "options": [
+          "My favorite subject is English.",
+          "My favorite sport is football.",
+          "I like fruits and vegetables.",
+          "I go to Al-Azhar School."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 292
+      },
+      {
+        "word": "رياضتي المفضلة هي كرة القدم.",
+        "meaning": "My favorite sport is football.",
+        "options": [
+          "My favorite sport is football.",
+          "My favorite subject is English.",
+          "I like fruits and vegetables.",
+          "I love my family."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 293
+      },
+      {
+        "word": "أنا أحب الفواكه والخضروات.",
+        "meaning": "I like fruits and vegetables.",
+        "options": [
+          "I like fruits and vegetables.",
+          "I like chicken and rice.",
+          "My favorite sport is football.",
+          "I live with my family."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 294
+      },
+      {
+        "word": "وجبتي المفضلة هي الدجاج مع الأرز.",
+        "meaning": "My favorite dish is chicken with rice.",
+        "options": [
+          "My favorite dish is chicken with rice.",
+          "I like fruits and vegetables.",
+          "My favorite sport is football.",
+          "My favorite subject is English."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 295
+      },
+      {
+        "word": "لدي أخ واحد وأخت واحدة.",
+        "meaning": "I have one brother and one sister.",
+        "options": [
+          "I have one brother and one sister.",
+          "I have two brothers and one sister.",
+          "I have one brother and two sisters.",
+          "I have no brothers or sisters."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 296
+      },
+      {
+        "word": "أنا أحب عائلتي كثيرًا.",
+        "meaning": "I love my family very much.",
+        "options": [
+          "I love my family very much.",
+          "I love my school very much.",
+          "I love football very much.",
+          "I love fruits very much."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "3",
+        "id": 297
       }
     ]
   }
