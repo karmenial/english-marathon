@@ -19473,7 +19473,7 @@
         "unit": "5"
       },
       {
-        "word": "living room",
+        "word": "livingroom",
         "id": 80,
         "level": "primary",
         "grade": "2",
@@ -20169,7 +20169,7 @@
         "id": 166
       },
       {
-        "word": "a lot",
+        "word": "alot",
         "level": "primary",
         "grade": "2",
         "curriculum": "OL",
@@ -20329,7 +20329,7 @@
         "id": 186
       },
       {
-        "word": "police officer",
+        "word": "policeofficer",
         "level": "primary",
         "grade": "2",
         "curriculum": "OL",
@@ -20353,7 +20353,7 @@
         "id": 189
       },
       {
-        "word": "garbage collector",
+        "word": "garbagecollector",
         "level": "primary",
         "grade": "2",
         "curriculum": "OL",
@@ -20513,7 +20513,7 @@
         "id": 209
       },
       {
-        "word": "living room",
+        "word": "livingroom",
         "level": "primary",
         "grade": "1",
         "curriculum": "OL",
@@ -20529,7 +20529,7 @@
         "id": 211
       },
       {
-        "word": "watch TV",
+        "word": "watchTV",
         "level": "primary",
         "grade": "1",
         "curriculum": "OL",
@@ -20537,7 +20537,7 @@
         "id": 212
       },
       {
-        "word": "dining room",
+        "word": "diningroom",
         "level": "primary",
         "grade": "1",
         "curriculum": "OL",
@@ -22105,7 +22105,7 @@
         "id": 398
       },
       {
-        "word": "living room",
+        "word": "livingroom",
         "level": "primary",
         "grade": "4",
         "curriculum": "OL",
@@ -22887,21 +22887,9 @@
         "sentence": "Please sit down.",
         "instruction": "Underline the verbs:",
         "correctWords": [
-          "sit down"
+          "sit"
         ],
         "id": 24,
-        "level": "primary",
-        "grade": "2",
-        "curriculum": "OL",
-        "unit": "2"
-      },
-      {
-        "sentence": "Please stand up.",
-        "instruction": "Underline the verbs:",
-        "correctWords": [
-          "stand up"
-        ],
-        "id": 25,
         "level": "primary",
         "grade": "2",
         "curriculum": "OL",
@@ -22920,14 +22908,12 @@
         "unit": "2"
       },
       {
-        "sentence": "You give them your books and they thank you.",
+        "sentence": "You give them your books.",
         "instruction": "Underline all the pronouns:",
         "correctWords": [
           "You",
           "them",
-          "your",
-          "they",
-          "you"
+          "your"
         ],
         "id": 27,
         "level": "primary",
