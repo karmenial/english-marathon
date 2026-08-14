@@ -724,6 +724,35 @@
         "curriculum": "OL",
         "unit": "3",
         "id": 28
+      },
+      {
+        "passage": "I was walking in the {blank1} with my {blank2}. We were going to the {blank3}. It was a {blank4} night. We saw a poor dog. He was {blank5} and shaking. I gave him {blank6}, and my friend gave him milk. His mother came and sat {blank7} to him to warm his body. We knew he was {blank8}.",
+        "options": [
+          "street",
+          "friend",
+          "park",
+          "cold",
+          "hungry",
+          "food",
+          "close",
+          "safe"
+        ],
+        "correctAnswer": [
+          "street",
+          "friend",
+          "park",
+          "cold",
+          "hungry",
+          "food",
+          "close",
+          "safe"
+        ],
+        "reason": "Complete the passage with the correct words from the story.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 29
       }
     ],
     "correct": [
@@ -3808,6 +3837,246 @@
         "curriculum": "OL",
         "unit": "3",
         "id": 256
+      },
+      {
+        "sentence": "Yesterday, I walk to the park.",
+        "errorWord": "walk",
+        "correctWord": "walked",
+        "arabicReason": "نستخدم 'walked' لأن 'yesterday' تدل على الماضي.",
+        "englishReason": "We use 'walked' because 'yesterday' shows the past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 257
+      },
+      {
+        "sentence": "Yesterday, we go to the park.",
+        "errorWord": "go",
+        "correctWord": "went",
+        "arabicReason": "نستخدم 'went' لأنها صيغة الماضي من 'go'، والجملة تحتوي على 'yesterday'.",
+        "englishReason": "We use 'went' because it is the past form of 'go' and the sentence has 'yesterday'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 258
+      },
+      {
+        "sentence": "Yesterday, we see a poor dog.",
+        "errorWord": "see",
+        "correctWord": "saw",
+        "arabicReason": "نستخدم 'saw' لأنها صيغة الماضي من 'see'.",
+        "englishReason": "We use 'saw' because it is the past form of 'see'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 259
+      },
+      {
+        "sentence": "Yesterday, I give the dog some food.",
+        "errorWord": "give",
+        "correctWord": "gave",
+        "arabicReason": "نستخدم 'gave' لأنها صيغة الماضي من 'give'.",
+        "englishReason": "We use 'gave' because it is the past form of 'give'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 260
+      },
+      {
+        "sentence": "Yesterday, the dog eat very fast.",
+        "errorWord": "eat",
+        "correctWord": "ate",
+        "arabicReason": "نستخدم 'ate' لأنها صيغة الماضي من 'eat'.",
+        "englishReason": "We use 'ate' because the action happened yesterday.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 261
+      },
+      {
+        "sentence": "Yesterday, we try to help the dog.",
+        "errorWord": "try",
+        "correctWord": "tried",
+        "arabicReason": "نستخدم 'tried' لأن الفعل حدث أمس، وهي صيغة الماضي من 'try'.",
+        "englishReason": "We use 'tried' because the action happened yesterday.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 262
+      },
+      {
+        "sentence": "Yesterday, his mother come to him.",
+        "errorWord": "come",
+        "correctWord": "came",
+        "arabicReason": "نستخدم 'came' لأنها صيغة الماضي من 'come'.",
+        "englishReason": "We use 'came' because it is the past form of 'come'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 263
+      },
+      {
+        "sentence": "Yesterday, she sit close to him.",
+        "errorWord": "sit",
+        "correctWord": "sat",
+        "arabicReason": "نستخدم 'sat' لأنها صيغة الماضي من 'sit'.",
+        "englishReason": "We use 'sat' because it is the past form of 'sit'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 264
+      },
+      {
+        "sentence": "Yesterday, she feel that he was safe.",
+        "errorWord": "feel",
+        "correctWord": "felt",
+        "arabicReason": "نستخدم 'felt' لأنها صيغة الماضي من 'feel'.",
+        "englishReason": "We use 'felt' because it is the past form of 'feel'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 265
+      },
+      {
+        "sentence": "Yesterday, the dog eat the food quickly.",
+        "errorWord": "eat",
+        "correctWord": "ate",
+        "arabicReason": "نستخدم 'ate' لأن الفعل حدث أمس.",
+        "englishReason": "We use 'ate' because the action happened yesterday.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 266
+      },
+      {
+        "sentence": "She walk to school every day.",
+        "errorWord": "walk",
+        "correctWord": "walks",
+        "arabicReason": "نستخدم 'walks' مع she في المضارع البسيط، و'every day' تدل على عادة.",
+        "englishReason": "We use 'walks' with 'she' in the simple present. 'Every day' shows a routine.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 267
+      },
+      {
+        "sentence": "He go to the park every day.",
+        "errorWord": "go",
+        "correctWord": "goes",
+        "arabicReason": "نستخدم 'goes' مع he في المضارع البسيط.",
+        "englishReason": "We use 'goes' with 'he' in the simple present.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 268
+      },
+      {
+        "sentence": "The dog eat food every day.",
+        "errorWord": "eat",
+        "correctWord": "eats",
+        "arabicReason": "نستخدم 'eats' مع الفاعل المفرد في المضارع البسيط.",
+        "englishReason": "We use 'eats' with the singular subject in the simple present.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 269
+      },
+      {
+        "sentence": "My friend give the dog milk every day.",
+        "errorWord": "give",
+        "correctWord": "gives",
+        "arabicReason": "نستخدم 'gives' لأن my friend مفرد، والجملة في المضارع البسيط.",
+        "englishReason": "We use 'gives' because 'my friend' is singular and the sentence is in the simple present.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 270
+      },
+      {
+        "sentence": "The children play in the park now.",
+        "errorWord": "play",
+        "correctWord": "are playing",
+        "arabicReason": "نستخدم 'are playing' لأن 'now' تدل على المضارع المستمر.",
+        "englishReason": "We use 'are playing' because 'now' shows an action happening at the moment.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 271
+      },
+      {
+        "sentence": "The dog eat now.",
+        "errorWord": "eat",
+        "correctWord": "is eating",
+        "arabicReason": "نستخدم 'is eating' لأن 'now' تدل على المضارع المستمر.",
+        "englishReason": "We use 'is eating' because 'now' shows an action happening at the moment.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 272
+      },
+      {
+        "sentence": "I help my friend now.",
+        "errorWord": "help",
+        "correctWord": "am helping",
+        "arabicReason": "نستخدم 'am helping' مع I لأن 'now' تدل على المضارع المستمر.",
+        "englishReason": "We use 'am helping' with 'I' because 'now' shows the present continuous.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 273
+      },
+      {
+        "sentence": "She sit close to the dog now.",
+        "errorWord": "sit",
+        "correctWord": "is sitting",
+        "arabicReason": "نستخدم 'is sitting' لأن 'now' تدل على المضارع المستمر.",
+        "englishReason": "We use 'is sitting' because 'now' shows an action happening at the moment.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 274
+      },
+      {
+        "sentence": "They go to the park now.",
+        "errorWord": "go",
+        "correctWord": "are going",
+        "arabicReason": "نستخدم 'are going' لأن 'now' تدل على المضارع المستمر مع they.",
+        "englishReason": "We use 'are going' because 'now' shows the present continuous with 'they'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 275
+      },
+      {
+        "sentence": "He help the dog now.",
+        "errorWord": "help",
+        "correctWord": "is helping",
+        "arabicReason": "نستخدم 'is helping' لأن 'now' تدل على المضارع المستمر مع he.",
+        "englishReason": "We use 'is helping' because 'now' shows the present continuous with 'he'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 276
       }
     ],
     "find_the_vowel": [
@@ -8806,6 +9075,346 @@
         "curriculum": "OL",
         "unit": "3",
         "id": 293
+      },
+      {
+        "question": "Yesterday, I ______ in the street with my friend.",
+        "correctAnswer": "walked",
+        "arabicReason": "نستخدم 'walked' لأن كلمة 'yesterday' تدل على الماضي.",
+        "englishReason": "We use 'walked' because 'yesterday' shows that the action happened in the past.",
+        "options": [
+          "walk",
+          "walked",
+          "am walking",
+          "walks"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 294
+      },
+      {
+        "question": "Yesterday, we ______ to the park.",
+        "correctAnswer": "went",
+        "arabicReason": "نستخدم 'went' لأن 'yesterday' تدل على الماضي، وهي صيغة الماضي من 'go'.",
+        "englishReason": "We use 'went' because 'yesterday' shows the past. 'Went' is the past form of 'go'.",
+        "options": [
+          "go",
+          "went",
+          "are going",
+          "goes"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 295
+      },
+      {
+        "question": "Yesterday, we ______ a poor dog.",
+        "correctAnswer": "saw",
+        "arabicReason": "نستخدم 'saw' لأن الفعل حدث أمس، وهي صيغة الماضي من 'see'.",
+        "englishReason": "We use 'saw' because the action happened yesterday. 'Saw' is the past form of 'see'.",
+        "options": [
+          "see",
+          "saw",
+          "are seeing",
+          "sees"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 296
+      },
+      {
+        "question": "Yesterday, I ______ the dog some food.",
+        "correctAnswer": "gave",
+        "arabicReason": "نستخدم 'gave' لأن الحدث وقع أمس، وهي صيغة الماضي من 'give'.",
+        "englishReason": "We use 'gave' because the action happened yesterday. 'Gave' is the past form of 'give'.",
+        "options": [
+          "give",
+          "gave",
+          "am giving",
+          "gives"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 297
+      },
+      {
+        "question": "Yesterday, the dog ______ the food very fast.",
+        "correctAnswer": "ate",
+        "arabicReason": "نستخدم 'ate' لأن الفعل حدث أمس، وهي صيغة الماضي من 'eat'.",
+        "englishReason": "We use 'ate' because the action happened yesterday. 'Ate' is the past form of 'eat'.",
+        "options": [
+          "eat",
+          "ate",
+          "is eating",
+          "eats"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 298
+      },
+      {
+        "question": "Yesterday, we ______ to take the dog with us.",
+        "correctAnswer": "tried",
+        "arabicReason": "نستخدم 'tried' لأن المحاولة حدثت أمس، وهي صيغة الماضي من 'try'.",
+        "englishReason": "We use 'tried' because the action happened yesterday. 'Tried' is the past form of 'try'.",
+        "options": [
+          "try",
+          "tried",
+          "are trying",
+          "tries"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 299
+      },
+      {
+        "question": "Yesterday, the dog's mother ______.",
+        "correctAnswer": "came",
+        "arabicReason": "نستخدم 'came' لأن الأم جاءت أمس، وهي صيغة الماضي من 'come'.",
+        "englishReason": "We use 'came' because the mother came yesterday. 'Came' is the past form of 'come'.",
+        "options": [
+          "come",
+          "came",
+          "is coming",
+          "comes"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 300
+      },
+      {
+        "question": "Yesterday, she ______ close to the dog.",
+        "correctAnswer": "sat",
+        "arabicReason": "نستخدم 'sat' لأن الجلوس حدث أمس، وهي صيغة الماضي من 'sit'.",
+        "englishReason": "We use 'sat' because the action happened yesterday. 'Sat' is the past form of 'sit'.",
+        "options": [
+          "sit",
+          "sat",
+          "is sitting",
+          "sits"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 301
+      },
+      {
+        "question": "Yesterday, the mother ______ that the dog was safe.",
+        "correctAnswer": "felt",
+        "arabicReason": "نستخدم 'felt' لأن الشعور حدث أمس، وهي صيغة الماضي من 'feel'.",
+        "englishReason": "We use 'felt' because the feeling happened yesterday. 'Felt' is the past form of 'feel'.",
+        "options": [
+          "feel",
+          "felt",
+          "is feeling",
+          "feels"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 302
+      },
+      {
+        "question": "Yesterday, the mother ______ the dog warm.",
+        "correctAnswer": "wanted",
+        "arabicReason": "نستخدم 'wanted' لأن الرغبة كانت أمس، وهي صيغة الماضي من 'want'.",
+        "englishReason": "We use 'wanted' because the action was in the past.",
+        "options": [
+          "want",
+          "wanted",
+          "is wanting",
+          "wants"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 303
+      },
+      {
+        "question": "I ______ to school every day.",
+        "correctAnswer": "walk",
+        "arabicReason": "نستخدم 'walk' لأن 'every day' تدل على المضارع البسيط مع الفاعل I.",
+        "englishReason": "We use 'walk' because 'every day' shows a simple present routine with 'I'.",
+        "options": [
+          "walk",
+          "walked",
+          "am walking",
+          "walks"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 304
+      },
+      {
+        "question": "She ______ to school every day.",
+        "correctAnswer": "walks",
+        "arabicReason": "نستخدم 'walks' لأن 'every day' تدل على المضارع البسيط، ومع she نضيف s.",
+        "englishReason": "We use 'walks' because 'every day' shows a simple present routine, and 'she' takes 'walks'.",
+        "options": [
+          "walk",
+          "walked",
+          "is walking",
+          "walks"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 305
+      },
+      {
+        "question": "We ______ to the park every day.",
+        "correctAnswer": "go",
+        "arabicReason": "نستخدم 'go' لأن 'every day' تدل على المضارع البسيط مع الفاعل We.",
+        "englishReason": "We use 'go' because 'every day' shows a simple present routine with 'we'.",
+        "options": [
+          "go",
+          "went",
+          "are going",
+          "goes"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 306
+      },
+      {
+        "question": "The dog ______ food every day.",
+        "correctAnswer": "eats",
+        "arabicReason": "نستخدم 'eats' لأن 'every day' تدل على المضارع البسيط، ومع dog المفرد نضيف s.",
+        "englishReason": "We use 'eats' because 'every day' shows a simple present routine and 'the dog' is singular.",
+        "options": [
+          "eat",
+          "ate",
+          "is eating",
+          "eats"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 307
+      },
+      {
+        "question": "The children ______ football now.",
+        "correctAnswer": "are playing",
+        "arabicReason": "نستخدم 'are playing' لأن 'now' تدل على المضارع المستمر.",
+        "englishReason": "We use 'are playing' because 'now' shows that the action is happening at this moment.",
+        "options": [
+          "play",
+          "played",
+          "are playing",
+          "plays"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 308
+      },
+      {
+        "question": "The dog ______ now.",
+        "correctAnswer": "is eating",
+        "arabicReason": "نستخدم 'is eating' لأن 'now' تدل على المضارع المستمر مع الفاعل المفرد.",
+        "englishReason": "We use 'is eating' because 'now' shows an action happening at this moment.",
+        "options": [
+          "eats",
+          "ate",
+          "is eating",
+          "eat"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 309
+      },
+      {
+        "question": "I ______ my friend now.",
+        "correctAnswer": "am helping",
+        "arabicReason": "نستخدم 'am helping' لأن 'now' تدل على المضارع المستمر مع I.",
+        "englishReason": "We use 'am helping' because 'now' shows an action happening at this moment with 'I'.",
+        "options": [
+          "help",
+          "helped",
+          "am helping",
+          "helps"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 310
+      },
+      {
+        "question": "She ______ close to her dog now.",
+        "correctAnswer": "is sitting",
+        "arabicReason": "نستخدم 'is sitting' لأن 'now' تدل على المضارع المستمر.",
+        "englishReason": "We use 'is sitting' because 'now' shows that the action is happening at this moment.",
+        "options": [
+          "sits",
+          "sat",
+          "is sitting",
+          "sit"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 311
+      },
+      {
+        "question": "They ______ to the park now.",
+        "correctAnswer": "are going",
+        "arabicReason": "نستخدم 'are going' لأن 'now' تدل على المضارع المستمر مع they.",
+        "englishReason": "We use 'are going' because 'now' shows an action happening at this moment with 'they'.",
+        "options": [
+          "go",
+          "went",
+          "are going",
+          "goes"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 312
+      },
+      {
+        "question": "He ______ the dog now.",
+        "correctAnswer": "is helping",
+        "arabicReason": "نستخدم 'is helping' لأن 'now' تدل على المضارع المستمر مع he.",
+        "englishReason": "We use 'is helping' because 'now' shows an action happening at this moment with 'he'.",
+        "options": [
+          "helps",
+          "helped",
+          "is helping",
+          "help"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 313
       }
     ],
     "justtalk": [
@@ -10287,6 +10896,111 @@
         "curriculum": "OL",
         "unit": "3",
         "id": 70
+      },
+      {
+        "sentences": [
+          {
+            "text": "I was walking in the street with my friend.",
+            "target": "I was walking in the street with my friend."
+          },
+          {
+            "text": "We were going to the park.",
+            "target": "We were going to the park."
+          },
+          {
+            "text": "The street was calm.",
+            "target": "The street was calm."
+          }
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 71
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was a cold night.",
+            "target": "It was a cold night."
+          },
+          {
+            "text": "We saw a poor dog.",
+            "target": "We saw a poor dog."
+          },
+          {
+            "text": "He was hungry and shaking.",
+            "target": "He was hungry and shaking."
+          }
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 72
+      },
+      {
+        "sentences": [
+          {
+            "text": "I gave him some food.",
+            "target": "I gave him some food."
+          },
+          {
+            "text": "My friend gave him some milk.",
+            "target": "My friend gave him some milk."
+          },
+          {
+            "text": "He ate very fast.",
+            "target": "He ate very fast."
+          }
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 73
+      },
+      {
+        "sentences": [
+          {
+            "text": "We tried to take him with us.",
+            "target": "We tried to take him with us."
+          },
+          {
+            "text": "His mother came and sat close to him.",
+            "target": "His mother came and sat close to him."
+          },
+          {
+            "text": "She wanted to warm his body.",
+            "target": "She wanted to warm his body."
+          }
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 74
+      },
+      {
+        "sentences": [
+          {
+            "text": "She felt he was safe and not hungry.",
+            "target": "She felt he was safe and not hungry."
+          },
+          {
+            "text": "Her eyes told us, 'Thank you.'",
+            "target": "Her eyes told us, 'Thank you.'"
+          },
+          {
+            "text": "We helped the poor dog.",
+            "target": "We helped the poor dog."
+          }
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 75
       }
     ],
     "Matching": [
@@ -10326,6 +11040,60 @@
         "grade": "2",
         "curriculum": "OL",
         "unit": "2"
+      },
+      {
+        "pairs": [
+          {
+            "definition": "was hungry and shaking.",
+            "word": "the dog"
+          },
+          {
+            "definition": "sat close to the dog.",
+            "word": "the mother"
+          },
+          {
+            "definition": "gave the dog food.",
+            "word": "the girl"
+          },
+          {
+            "definition": "gave the dog milk.",
+            "word": "the friend"
+          },
+          {
+            "definition": "was calm.",
+            "word": "the street"
+          }
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 2
+      },
+      {
+        "pairs": [
+          {
+            "definition": "It is cold in",
+            "word": "winter"
+          },
+          {
+            "definition": "It is hot in",
+            "word": "summer"
+          },
+          {
+            "definition": "It is warm in",
+            "word": "spring"
+          },
+          {
+            "definition": "It is windy in",
+            "word": "fall"
+          }
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 3
       }
     ],
     "re_arrange": [
@@ -13078,6 +13846,206 @@
         "curriculum": "OL",
         "unit": "3",
         "id": 274
+      },
+      {
+        "sentence": "I was walking in the street with my friend.",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + was/were + الفعل مع ing + المكان + باقي الجملة.",
+        "englishReason": "The correct order is: subject + was/were + verb-ing + place + the rest of the sentence.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 275
+      },
+      {
+        "sentence": "We were going to the park.",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + were + الفعل مع ing + المكان.",
+        "englishReason": "The correct order is: subject + were + verb-ing + place.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 276
+      },
+      {
+        "sentence": "The street was calm.",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + was + الصفة.",
+        "englishReason": "The correct order is: subject + was + adjective.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 277
+      },
+      {
+        "sentence": "It was a cold night.",
+        "arabicReason": "الترتيب الصحيح هو: It + was + a + الصفة + الاسم.",
+        "englishReason": "The correct order is: It + was + a + adjective + noun.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 278
+      },
+      {
+        "sentence": "We saw a poor dog.",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل في الماضي + المفعول به.",
+        "englishReason": "The correct order is: subject + past verb + object.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 279
+      },
+      {
+        "sentence": "The dog was hungry and shaking.",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + was + الصفة + and + الفعل مع ing.",
+        "englishReason": "The correct order is: subject + was + adjective + and + verb-ing.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 280
+      },
+      {
+        "sentence": "I gave him some food.",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل في الماضي + الشخص + الشيء.",
+        "englishReason": "The correct order is: subject + past verb + person + thing.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 281
+      },
+      {
+        "sentence": "He ate very fast.",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل في الماضي + طريقة حدوث الفعل.",
+        "englishReason": "The correct order is: subject + past verb + adverb.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 282
+      },
+      {
+        "sentence": "His mother came and sat close to him.",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل في الماضي + and + الفعل في الماضي + المكان.",
+        "englishReason": "The correct order is: subject + past verb + and + past verb + place.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 283
+      },
+      {
+        "sentence": "She wanted to warm his body.",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل + الفعل في الماضي + to + الفعل + المفعول به.",
+        "englishReason": "The correct order is: subject + past verb + to + verb + object.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 284
+      },
+      {
+        "sentence": "There are seven days in a week.",
+        "arabicReason": "الترتيب الصحيح هو: There are + العدد + الأيام + in + الأسبوع.",
+        "englishReason": "The correct order is: There are + number + days + in + a week.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 285
+      },
+      {
+        "sentence": "There are twelve months in a year.",
+        "arabicReason": "الترتيب الصحيح هو: There are + العدد + الشهور + in + السنة.",
+        "englishReason": "The correct order is: There are + number + months + in + a year.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 286
+      },
+      {
+        "sentence": "Spring comes after winter.",
+        "arabicReason": "الترتيب الصحيح هو: الفصل + comes + after + الفصل.",
+        "englishReason": "The correct order is: season + comes + after + season.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 287
+      },
+      {
+        "sentence": "Summer comes after spring.",
+        "arabicReason": "الترتيب الصحيح هو: الفصل + comes + after + الفصل.",
+        "englishReason": "The correct order is: season + comes + after + season.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 288
+      },
+      {
+        "sentence": "Fall comes before winter.",
+        "arabicReason": "الترتيب الصحيح هو: Fall + comes + before + winter.",
+        "englishReason": "The correct order is: Fall + comes + before + winter.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 289
+      },
+      {
+        "sentence": "Winter is usually cold.",
+        "arabicReason": "الترتيب الصحيح هو: الفصل + is + usually + صفة الطقس.",
+        "englishReason": "The correct order is: season + is + usually + weather adjective.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 290
+      },
+      {
+        "sentence": "Summer is usually hot.",
+        "arabicReason": "الترتيب الصحيح هو: الفصل + is + usually + صفة الطقس.",
+        "englishReason": "The correct order is: season + is + usually + weather adjective.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 291
+      },
+      {
+        "sentence": "August comes after July.",
+        "arabicReason": "الترتيب الصحيح هو: الشهر + comes + after + الشهر.",
+        "englishReason": "The correct order is: month + comes + after + month.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 292
+      },
+      {
+        "sentence": "October comes before November.",
+        "arabicReason": "الترتيب الصحيح هو: الشهر + comes + before + الشهر.",
+        "englishReason": "The correct order is: month + comes + before + month.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 293
+      },
+      {
+        "sentence": "January is the first month of the year.",
+        "arabicReason": "الترتيب الصحيح هو: January + is + the first month + of the year.",
+        "englishReason": "The correct order is: January + is + the first month + of the year.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 294
       }
     ],
     "rewrite": [
@@ -14855,6 +15823,66 @@
         "curriculum": "OL",
         "unit": "2",
         "id": 147
+      },
+      {
+        "sentence": "She walks to school every day.",
+        "targetWord": "walked",
+        "correctAnswer": "She walked to school yesterday.",
+        "arabicReason": "نستخدم 'walked' بدلاً من 'walks' لأن 'yesterday' تجعل الجملة في الماضي.",
+        "englishReason": "We use 'walked' instead of 'walks' because 'yesterday' changes the sentence to the past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 148
+      },
+      {
+        "sentence": "They go to the park every day.",
+        "targetWord": "went",
+        "correctAnswer": "They went to the park yesterday.",
+        "arabicReason": "نستخدم 'went' وهي صيغة الماضي من 'go' لأن الجملة أصبحت في الماضي.",
+        "englishReason": "We use 'went', the past form of 'go', because the sentence is now in the past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 149
+      },
+      {
+        "sentence": "He eats food every day.",
+        "targetWord": "ate",
+        "correctAnswer": "He ate food yesterday.",
+        "arabicReason": "نستخدم 'ate' وهي صيغة الماضي من 'eat' لأن 'yesterday' تدل على الماضي.",
+        "englishReason": "We use 'ate', the past form of 'eat', because 'yesterday' shows the past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 150
+      },
+      {
+        "sentence": "We see the dog every day.",
+        "targetWord": "saw",
+        "correctAnswer": "We saw the dog yesterday.",
+        "arabicReason": "نستخدم 'saw' وهي صيغة الماضي من 'see' لأن الحدث وقع أمس.",
+        "englishReason": "We use 'saw', the past form of 'see', because the action happened yesterday.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 151
+      },
+      {
+        "sentence": "His mother comes to him every day.",
+        "targetWord": "came",
+        "correctAnswer": "His mother came to him yesterday.",
+        "arabicReason": "نستخدم 'came' وهي صيغة الماضي من 'come' لأن 'yesterday' تدل على الماضي.",
+        "englishReason": "We use 'came', the past form of 'come', because 'yesterday' shows the past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 152
       }
     ],
     "Scramble": [
@@ -18554,6 +19582,174 @@
         "curriculum": "OL",
         "unit": "3",
         "id": 462
+      },
+      {
+        "word": "street",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 463
+      },
+      {
+        "word": "friend",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 464
+      },
+      {
+        "word": "park",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 465
+      },
+      {
+        "word": "calm",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 466
+      },
+      {
+        "word": "cold",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 467
+      },
+      {
+        "word": "poor",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 468
+      },
+      {
+        "word": "hungry",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 469
+      },
+      {
+        "word": "shaking",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 470
+      },
+      {
+        "word": "food",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 471
+      },
+      {
+        "word": "milk",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 472
+      },
+      {
+        "word": "safe",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 473
+      },
+      {
+        "word": "warm",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 474
+      },
+      {
+        "word": "walked",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 475
+      },
+      {
+        "word": "went",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 476
+      },
+      {
+        "word": "saw",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 477
+      },
+      {
+        "word": "gave",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 478
+      },
+      {
+        "word": "ate",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 479
+      },
+      {
+        "word": "tried",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 480
+      },
+      {
+        "word": "came",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 481
+      },
+      {
+        "word": "sat",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 482
+      },
+      {
+        "word": "felt",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 483
       }
     ],
     "sequence": [
@@ -18916,6 +20112,86 @@
         "curriculum": "OL",
         "unit": "2",
         "id": 6
+      },
+      {
+        "title": "Sort the verbs: Present or Past?",
+        "categories": [
+          {
+            "id": "present",
+            "name": "🟢 Present Verbs"
+          },
+          {
+            "id": "past",
+            "name": "🔵 Past Verbs"
+          }
+        ],
+        "wordList": [
+          "walk",
+          "go",
+          "eat",
+          "see",
+          "give",
+          "walked",
+          "went",
+          "ate",
+          "saw",
+          "gave"
+        ],
+        "answerKey": {
+          "walk": "present",
+          "go": "present",
+          "eat": "present",
+          "see": "present",
+          "give": "present",
+          "walked": "past",
+          "went": "past",
+          "ate": "past",
+          "saw": "past",
+          "gave": "past"
+        },
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 7
+      },
+      {
+        "title": "Sort the words: Seasons or Months?",
+        "categories": [
+          {
+            "id": "seasons",
+            "name": "🍂 Seasons"
+          },
+          {
+            "id": "months",
+            "name": "📅 Months"
+          }
+        ],
+        "wordList": [
+          "winter",
+          "summer",
+          "spring",
+          "fall",
+          "January",
+          "March",
+          "July",
+          "December"
+        ],
+        "answerKey": {
+          "winter": "seasons",
+          "summer": "seasons",
+          "spring": "seasons",
+          "fall": "seasons",
+          "January": "months",
+          "March": "months",
+          "July": "months",
+          "December": "months"
+        },
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 8
       }
     ],
     "spilling": [
@@ -19473,7 +20749,7 @@
         "unit": "5"
       },
       {
-        "word": "livingroom",
+        "word": "living room",
         "id": 80,
         "level": "primary",
         "grade": "2",
@@ -20169,7 +21445,7 @@
         "id": 166
       },
       {
-        "word": "alot",
+        "word": "a lot",
         "level": "primary",
         "grade": "2",
         "curriculum": "OL",
@@ -20329,7 +21605,7 @@
         "id": 186
       },
       {
-        "word": "policeofficer",
+        "word": "police officer",
         "level": "primary",
         "grade": "2",
         "curriculum": "OL",
@@ -20353,7 +21629,7 @@
         "id": 189
       },
       {
-        "word": "garbagecollector",
+        "word": "garbage collector",
         "level": "primary",
         "grade": "2",
         "curriculum": "OL",
@@ -20513,7 +21789,7 @@
         "id": 209
       },
       {
-        "word": "livingroom",
+        "word": "living room",
         "level": "primary",
         "grade": "1",
         "curriculum": "OL",
@@ -20529,7 +21805,7 @@
         "id": 211
       },
       {
-        "word": "watchTV",
+        "word": "watch TV",
         "level": "primary",
         "grade": "1",
         "curriculum": "OL",
@@ -20537,7 +21813,7 @@
         "id": 212
       },
       {
-        "word": "diningroom",
+        "word": "dining room",
         "level": "primary",
         "grade": "1",
         "curriculum": "OL",
@@ -22105,7 +23381,7 @@
         "id": 398
       },
       {
-        "word": "livingroom",
+        "word": "living room",
         "level": "primary",
         "grade": "4",
         "curriculum": "OL",
@@ -22599,6 +23875,174 @@
         "curriculum": "OL",
         "unit": "3",
         "id": 460
+      },
+      {
+        "word": "street",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 461
+      },
+      {
+        "word": "friend",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 462
+      },
+      {
+        "word": "park",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 463
+      },
+      {
+        "word": "calm",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 464
+      },
+      {
+        "word": "cold",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 465
+      },
+      {
+        "word": "poor",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 466
+      },
+      {
+        "word": "hungry",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 467
+      },
+      {
+        "word": "shaking",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 468
+      },
+      {
+        "word": "food",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 469
+      },
+      {
+        "word": "milk",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 470
+      },
+      {
+        "word": "safe",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 471
+      },
+      {
+        "word": "warm",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 472
+      },
+      {
+        "word": "walked",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 473
+      },
+      {
+        "word": "went",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 474
+      },
+      {
+        "word": "saw",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 475
+      },
+      {
+        "word": "gave",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 476
+      },
+      {
+        "word": "ate",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 477
+      },
+      {
+        "word": "tried",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 478
+      },
+      {
+        "word": "came",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 479
+      },
+      {
+        "word": "sat",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 480
+      },
+      {
+        "word": "felt",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 481
       }
     ],
     "Underline": [
@@ -22887,9 +24331,21 @@
         "sentence": "Please sit down.",
         "instruction": "Underline the verbs:",
         "correctWords": [
-          "sit"
+          "sit down"
         ],
         "id": 24,
+        "level": "primary",
+        "grade": "2",
+        "curriculum": "OL",
+        "unit": "2"
+      },
+      {
+        "sentence": "Please stand up.",
+        "instruction": "Underline the verbs:",
+        "correctWords": [
+          "stand up"
+        ],
+        "id": 25,
         "level": "primary",
         "grade": "2",
         "curriculum": "OL",
@@ -22908,12 +24364,14 @@
         "unit": "2"
       },
       {
-        "sentence": "You give them your books.",
+        "sentence": "You give them your books and they thank you.",
         "instruction": "Underline all the pronouns:",
         "correctWords": [
           "You",
           "them",
-          "your"
+          "your",
+          "they",
+          "you"
         ],
         "id": 27,
         "level": "primary",
@@ -24374,6 +25832,247 @@
         "curriculum": "OL",
         "unit": "6",
         "id": 146
+      },
+      {
+        "sentence": "Yesterday, I walked to the park.",
+        "instruction": "Underline the past verb:",
+        "correctWords": [
+          "walked"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 147
+      },
+      {
+        "sentence": "We went to the park yesterday.",
+        "instruction": "Underline the past verb:",
+        "correctWords": [
+          "went"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 148
+      },
+      {
+        "sentence": "We saw a poor dog yesterday.",
+        "instruction": "Underline the past verb:",
+        "correctWords": [
+          "saw"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 149
+      },
+      {
+        "sentence": "I gave the dog some food yesterday.",
+        "instruction": "Underline the past verb:",
+        "correctWords": [
+          "gave"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 150
+      },
+      {
+        "sentence": "The dog ate the food very fast.",
+        "instruction": "Underline the past verb:",
+        "correctWords": [
+          "ate"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 151
+      },
+      {
+        "sentence": "We tried to help the dog yesterday.",
+        "instruction": "Underline the past verb:",
+        "correctWords": [
+          "tried"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 152
+      },
+      {
+        "sentence": "His mother came to him yesterday.",
+        "instruction": "Underline the past verb:",
+        "correctWords": [
+          "came"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 153
+      },
+      {
+        "sentence": "She sat close to the dog.",
+        "instruction": "Underline the past verb:",
+        "correctWords": [
+          "sat"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 154
+      },
+      {
+        "sentence": "She felt that the dog was safe.",
+        "instruction": "Underline the past verbs:",
+        "correctWords": [
+          "felt",
+          "was"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 155
+      },
+      {
+        "sentence": "The dog was hungry and shaking.",
+        "instruction": "Underline the past verb:",
+        "correctWords": [
+          "was"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 156
+      },
+      {
+        "sentence": "January is the first month of the year.",
+        "instruction": "Underline the month:",
+        "correctWords": [
+          "January"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 157
+      },
+      {
+        "sentence": "August comes after July.",
+        "instruction": "Underline the month:",
+        "correctWords": [
+          "August"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 158
+      },
+      {
+        "sentence": "October comes before November.",
+        "instruction": "Underline the month:",
+        "correctWords": [
+          "October"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 159
+      },
+      {
+        "sentence": "There are seven days in a week.",
+        "instruction": "Underline the number of days:",
+        "correctWords": [
+          "seven"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 160
+      },
+      {
+        "sentence": "Sunday comes after Saturday.",
+        "instruction": "Underline the day:",
+        "correctWords": [
+          "Sunday"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 161
+      },
+      {
+        "sentence": "Friday comes before Saturday.",
+        "instruction": "Underline the day:",
+        "correctWords": [
+          "Friday"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 162
+      },
+      {
+        "sentence": "Winter is usually cold.",
+        "instruction": "Underline the season:",
+        "correctWords": [
+          "Winter"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 163
+      },
+      {
+        "sentence": "Summer is usually hot.",
+        "instruction": "Underline the season:",
+        "correctWords": [
+          "Summer"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 164
+      },
+      {
+        "sentence": "Spring is usually warm.",
+        "instruction": "Underline the season:",
+        "correctWords": [
+          "Spring"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 165
+      },
+      {
+        "sentence": "Fall is usually windy.",
+        "instruction": "Underline the season:",
+        "correctWords": [
+          "Fall"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 166
       }
     ],
     "vocab_listening_quiz": [
@@ -32231,6 +33930,295 @@
         "curriculum": "OL",
         "unit": "3",
         "id": 462
+      },
+      {
+        "word": "walked",
+        "meaning": "مشى",
+        "options": [
+          "مشى",
+          "جلس",
+          "جرى",
+          "نام"
+        ],
+        "arabicReason": "كلمة 'walked' تعني مشى، وهي صيغة الماضي من walk.",
+        "englishReason": "'Walked' means moved on foot. It is the past form of 'walk'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 463
+      },
+      {
+        "word": "went",
+        "meaning": "ذهب",
+        "options": [
+          "ذهب",
+          "جاء",
+          "جلس",
+          "أكل"
+        ],
+        "arabicReason": "كلمة 'went' تعني ذهب، وهي صيغة الماضي من go.",
+        "englishReason": "'Went' means moved to another place. It is the past form of 'go'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 464
+      },
+      {
+        "word": "saw",
+        "meaning": "رأى",
+        "options": [
+          "رأى",
+          "أعطى",
+          "أكل",
+          "شعر"
+        ],
+        "arabicReason": "كلمة 'saw' تعني رأى، وهي صيغة الماضي من see.",
+        "englishReason": "'Saw' means noticed something with the eyes. It is the past form of 'see'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 465
+      },
+      {
+        "word": "gave",
+        "meaning": "أعطى",
+        "options": [
+          "أعطى",
+          "أخذ",
+          "رأى",
+          "ذهب"
+        ],
+        "arabicReason": "كلمة 'gave' تعني أعطى، وهي صيغة الماضي من give.",
+        "englishReason": "'Gave' means provided something to someone. It is the past form of 'give'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 466
+      },
+      {
+        "word": "ate",
+        "meaning": "أكل",
+        "options": [
+          "أكل",
+          "شرب",
+          "مشى",
+          "نام"
+        ],
+        "arabicReason": "كلمة 'ate' تعني أكل، وهي صيغة الماضي من eat.",
+        "englishReason": "'Ate' means had food. It is the past form of 'eat'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 467
+      },
+      {
+        "word": "tried",
+        "meaning": "حاول",
+        "options": [
+          "حاول",
+          "ساعد",
+          "جلس",
+          "جرى"
+        ],
+        "arabicReason": "كلمة 'tried' تعني حاول، وهي صيغة الماضي من try.",
+        "englishReason": "'Tried' means made an effort to do something. It is the past form of 'try'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 468
+      },
+      {
+        "word": "came",
+        "meaning": "جاء",
+        "options": [
+          "جاء",
+          "ذهب",
+          "أكل",
+          "أعطى"
+        ],
+        "arabicReason": "كلمة 'came' تعني جاء، وهي صيغة الماضي من come.",
+        "englishReason": "'Came' means moved toward a person or place. It is the past form of 'come'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 469
+      },
+      {
+        "word": "sat",
+        "meaning": "جلس",
+        "options": [
+          "جلس",
+          "وقف",
+          "مشى",
+          "جرى"
+        ],
+        "arabicReason": "كلمة 'sat' تعني جلس، وهي صيغة الماضي من sit.",
+        "englishReason": "'Sat' means rested in a sitting position. It is the past form of 'sit'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 470
+      },
+      {
+        "word": "felt",
+        "meaning": "شعر",
+        "options": [
+          "شعر",
+          "رأى",
+          "سمع",
+          "أعطى"
+        ],
+        "arabicReason": "كلمة 'felt' تعني شعر، وهي صيغة الماضي من feel.",
+        "englishReason": "'Felt' means experienced a feeling or emotion. It is the past form of 'feel'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 471
+      },
+      {
+        "word": "street",
+        "meaning": "شارع",
+        "options": [
+          "شارع",
+          "حديقة",
+          "منزل",
+          "مدرسة"
+        ],
+        "arabicReason": "كلمة 'street' تعني شارع، وهو المكان الذي كان يمشي فيه الطفل مع صديقه.",
+        "englishReason": "The word 'street' means a road in a town or city.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 472
+      },
+      {
+        "word": "friend",
+        "meaning": "صديق",
+        "options": [
+          "صديق",
+          "أخ",
+          "جار",
+          "معلم"
+        ],
+        "arabicReason": "كلمة 'friend' تعني صديق، وكان الطفل يمشي في الشارع مع صديقه.",
+        "englishReason": "The word 'friend' means a person you like and spend time with.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 473
+      },
+      {
+        "word": "park",
+        "meaning": "حديقة",
+        "options": [
+          "حديقة",
+          "شارع",
+          "مستشفى",
+          "متجر"
+        ],
+        "arabicReason": "كلمة 'park' تعني حديقة، وكان الطفل وصديقه ذاهبين إليها.",
+        "englishReason": "The word 'park' means a place where people can walk and play.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 474
+      },
+      {
+        "word": "calm",
+        "meaning": "هادئ",
+        "options": [
+          "هادئ",
+          "مزدحم",
+          "سريع",
+          "خطير"
+        ],
+        "arabicReason": "كلمة 'calm' تعني هادئ، وكانت حالة الشارع هادئة.",
+        "englishReason": "The word 'calm' means quiet and peaceful.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 475
+      },
+      {
+        "word": "poor",
+        "meaning": "مسكين",
+        "options": [
+          "مسكين",
+          "قوي",
+          "سعيد",
+          "سريع"
+        ],
+        "arabicReason": "كلمة 'poor' تصف الكلب المسكين الذي كان يحتاج إلى الطعام.",
+        "englishReason": "The word 'poor' can describe someone or an animal that needs help.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 476
+      },
+      {
+        "word": "hungry",
+        "meaning": "جائع",
+        "options": [
+          "جائع",
+          "دافئ",
+          "آمن",
+          "هادئ"
+        ],
+        "arabicReason": "كلمة 'hungry' تعني جائع، وكان الكلب جائعًا ويحتاج إلى الطعام.",
+        "englishReason": "The word 'hungry' means needing or wanting food.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 477
+      },
+      {
+        "word": "shaking",
+        "meaning": "يرتجف / يرتعش",
+        "options": [
+          "يرتجف",
+          "ينام",
+          "يجري",
+          "يأكل"
+        ],
+        "arabicReason": "كلمة 'shaking' تعني يرتجف أو يرتعش، وكان الكلب يرتعش من البرد.",
+        "englishReason": "The word 'shaking' means moving because of cold, fear, or another strong feeling.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 478
+      },
+      {
+        "word": "safe",
+        "meaning": "آمن",
+        "options": [
+          "آمن",
+          "جائع",
+          "حزين",
+          "متعب"
+        ],
+        "arabicReason": "كلمة 'safe' تعني آمن، وشعر الطفل أن الكلب أصبح آمنًا وغير جائع.",
+        "englishReason": "The word 'safe' means protected from danger or harm.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 479
       }
     ],
     "vocab_quiz": [
@@ -40665,6 +42653,295 @@
         "curriculum": "OL",
         "unit": "3",
         "id": 515
+      },
+      {
+        "word": "street",
+        "meaning": "شارع",
+        "options": [
+          "شارع",
+          "حديقة",
+          "منزل",
+          "مدرسة"
+        ],
+        "arabicReason": "كلمة 'street' تعني شارع، وهو المكان الذي كان يمشي فيه الطفل مع صديقه.",
+        "englishReason": "The word 'street' means a road in a town or city.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 516
+      },
+      {
+        "word": "friend",
+        "meaning": "صديق",
+        "options": [
+          "صديق",
+          "أخ",
+          "جار",
+          "معلم"
+        ],
+        "arabicReason": "كلمة 'friend' تعني صديق، وكان الطفل يمشي في الشارع مع صديقه.",
+        "englishReason": "The word 'friend' means a person you like and spend time with.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 517
+      },
+      {
+        "word": "park",
+        "meaning": "حديقة",
+        "options": [
+          "حديقة",
+          "شارع",
+          "مستشفى",
+          "متجر"
+        ],
+        "arabicReason": "كلمة 'park' تعني حديقة، وكان الطفل وصديقه ذاهبين إليها.",
+        "englishReason": "The word 'park' means a place where people can walk and play.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 518
+      },
+      {
+        "word": "calm",
+        "meaning": "هادئ",
+        "options": [
+          "هادئ",
+          "مزدحم",
+          "سريع",
+          "خطير"
+        ],
+        "arabicReason": "كلمة 'calm' تعني هادئ، وكانت حالة الشارع هادئة.",
+        "englishReason": "The word 'calm' means quiet and peaceful.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 519
+      },
+      {
+        "word": "poor",
+        "meaning": "مسكين",
+        "options": [
+          "مسكين",
+          "قوي",
+          "سعيد",
+          "سريع"
+        ],
+        "arabicReason": "كلمة 'poor' تصف الكلب المسكين الذي كان يحتاج إلى الطعام.",
+        "englishReason": "The word 'poor' can describe someone or an animal that needs help.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 520
+      },
+      {
+        "word": "hungry",
+        "meaning": "جائع",
+        "options": [
+          "جائع",
+          "دافئ",
+          "آمن",
+          "هادئ"
+        ],
+        "arabicReason": "كلمة 'hungry' تعني جائع، وكان الكلب جائعًا ويحتاج إلى الطعام.",
+        "englishReason": "The word 'hungry' means needing or wanting food.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 521
+      },
+      {
+        "word": "shaking",
+        "meaning": "يرتجف / يرتعش",
+        "options": [
+          "يرتجف",
+          "ينام",
+          "يجري",
+          "يأكل"
+        ],
+        "arabicReason": "كلمة 'shaking' تعني يرتجف أو يرتعش، وكان الكلب يرتعش من البرد.",
+        "englishReason": "The word 'shaking' means moving because of cold, fear, or another strong feeling.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 522
+      },
+      {
+        "word": "safe",
+        "meaning": "آمن",
+        "options": [
+          "آمن",
+          "جائع",
+          "حزين",
+          "متعب"
+        ],
+        "arabicReason": "كلمة 'safe' تعني آمن، وشعر الطفل أن الكلب أصبح آمنًا وغير جائع.",
+        "englishReason": "The word 'safe' means protected from danger or harm.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 523
+      },
+      {
+        "word": "walked",
+        "meaning": "مشى",
+        "options": [
+          "مشى",
+          "جلس",
+          "جرى",
+          "نام"
+        ],
+        "arabicReason": "كلمة 'walked' تعني مشى، وهي صيغة الماضي من walk.",
+        "englishReason": "'Walked' means moved on foot. It is the past form of 'walk'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 524
+      },
+      {
+        "word": "went",
+        "meaning": "ذهب",
+        "options": [
+          "ذهب",
+          "جاء",
+          "جلس",
+          "أكل"
+        ],
+        "arabicReason": "كلمة 'went' تعني ذهب، وهي صيغة الماضي من go.",
+        "englishReason": "'Went' means moved to another place. It is the past form of 'go'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 525
+      },
+      {
+        "word": "saw",
+        "meaning": "رأى",
+        "options": [
+          "رأى",
+          "أعطى",
+          "أكل",
+          "شعر"
+        ],
+        "arabicReason": "كلمة 'saw' تعني رأى، وهي صيغة الماضي من see.",
+        "englishReason": "'Saw' means noticed something with the eyes. It is the past form of 'see'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 526
+      },
+      {
+        "word": "gave",
+        "meaning": "أعطى",
+        "options": [
+          "أعطى",
+          "أخذ",
+          "رأى",
+          "ذهب"
+        ],
+        "arabicReason": "كلمة 'gave' تعني أعطى، وهي صيغة الماضي من give.",
+        "englishReason": "'Gave' means provided something to someone. It is the past form of 'give'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 527
+      },
+      {
+        "word": "ate",
+        "meaning": "أكل",
+        "options": [
+          "أكل",
+          "شرب",
+          "مشى",
+          "نام"
+        ],
+        "arabicReason": "كلمة 'ate' تعني أكل، وهي صيغة الماضي من eat.",
+        "englishReason": "'Ate' means had food. It is the past form of 'eat'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 528
+      },
+      {
+        "word": "tried",
+        "meaning": "حاول",
+        "options": [
+          "حاول",
+          "ساعد",
+          "جلس",
+          "جرى"
+        ],
+        "arabicReason": "كلمة 'tried' تعني حاول، وهي صيغة الماضي من try.",
+        "englishReason": "'Tried' means made an effort to do something. It is the past form of 'try'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 529
+      },
+      {
+        "word": "came",
+        "meaning": "جاء",
+        "options": [
+          "جاء",
+          "ذهب",
+          "أكل",
+          "أعطى"
+        ],
+        "arabicReason": "كلمة 'came' تعني جاء، وهي صيغة الماضي من come.",
+        "englishReason": "'Came' means moved toward a person or place. It is the past form of 'come'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 530
+      },
+      {
+        "word": "sat",
+        "meaning": "جلس",
+        "options": [
+          "جلس",
+          "وقف",
+          "مشى",
+          "جرى"
+        ],
+        "arabicReason": "كلمة 'sat' تعني جلس، وهي صيغة الماضي من sit.",
+        "englishReason": "'Sat' means rested in a sitting position. It is the past form of 'sit'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 531
+      },
+      {
+        "word": "felt",
+        "meaning": "شعر",
+        "options": [
+          "شعر",
+          "رأى",
+          "سمع",
+          "أعطى"
+        ],
+        "arabicReason": "كلمة 'felt' تعني شعر، وهي صيغة الماضي من feel.",
+        "englishReason": "'Felt' means experienced a feeling or emotion. It is the past form of 'feel'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 532
       }
     ],
     "what_do_you_hear": [
@@ -45253,6 +47530,426 @@
         "curriculum": "OL",
         "unit": "3",
         "id": 327
+      },
+      {
+        "sentence": "I was walking in the street with my friend.",
+        "options": [
+          "I was walking in the street with my friend.",
+          "I was walking in the park with my friend.",
+          "I was playing in the street with my friend.",
+          "I was running in the street with my brother."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 328
+      },
+      {
+        "sentence": "We were going to the park.",
+        "options": [
+          "We were going to the park.",
+          "We were going to the school.",
+          "We were walking to the street.",
+          "We were going to the shop."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 329
+      },
+      {
+        "sentence": "The street was calm.",
+        "options": [
+          "The street was calm.",
+          "The street was busy.",
+          "The park was calm.",
+          "The street was cold."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 330
+      },
+      {
+        "sentence": "It was a cold night.",
+        "options": [
+          "It was a cold night.",
+          "It was a warm night.",
+          "It was a cold morning.",
+          "It was a rainy night."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 331
+      },
+      {
+        "sentence": "We saw a poor dog.",
+        "options": [
+          "We saw a poor dog.",
+          "We saw a big dog.",
+          "We saw a poor cat.",
+          "We saw a small dog."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 332
+      },
+      {
+        "sentence": "The dog was hungry and shaking.",
+        "options": [
+          "The dog was hungry and shaking.",
+          "The dog was happy and running.",
+          "The dog was hungry and sleeping.",
+          "The dog was cold and sleeping."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 333
+      },
+      {
+        "sentence": "I gave him food.",
+        "options": [
+          "I gave him food.",
+          "I gave him milk.",
+          "I gave him water.",
+          "I gave him a toy."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 334
+      },
+      {
+        "sentence": "My friend gave him milk.",
+        "options": [
+          "My friend gave him milk.",
+          "My friend gave him food.",
+          "My friend gave him water.",
+          "My friend gave him a toy."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 335
+      },
+      {
+        "sentence": "He ate very fast.",
+        "options": [
+          "He ate very fast.",
+          "He walked very fast.",
+          "He ran very fast.",
+          "He drank very slowly."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 336
+      },
+      {
+        "sentence": "We tried to take him with us.",
+        "options": [
+          "We tried to take him with us.",
+          "We tried to feed him.",
+          "We tried to leave him.",
+          "We tried to find his mother."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 337
+      },
+      {
+        "sentence": "His mother came.",
+        "options": [
+          "His mother came.",
+          "His mother went away.",
+          "His friend came.",
+          "His mother sat far away."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 338
+      },
+      {
+        "sentence": "She sat close to him.",
+        "options": [
+          "She sat close to him.",
+          "She sat far from him.",
+          "She stood close to him.",
+          "She walked close to him."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 339
+      },
+      {
+        "sentence": "She wanted to warm his body.",
+        "options": [
+          "She wanted to warm his body.",
+          "She wanted to feed his body.",
+          "She wanted to clean his body.",
+          "She wanted to wash his body."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 340
+      },
+      {
+        "sentence": "She felt he was safe.",
+        "options": [
+          "She felt he was safe.",
+          "She felt he was hungry.",
+          "She felt he was cold.",
+          "She felt he was afraid."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 341
+      },
+      {
+        "sentence": "Her eyes told us, 'Thank you.'",
+        "options": [
+          "Her eyes told us, 'Thank you.'",
+          "Her eyes told us, 'Goodbye.'",
+          "Her eyes told us, 'Help me.'",
+          "Her eyes told us, 'Come with me.'"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 342
+      },
+      {
+        "sentence": "There are seven days in a week.",
+        "options": [
+          "There are seven days in a week.",
+          "There are twelve days in a week.",
+          "There are four days in a week.",
+          "There are thirty days in a week."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 343
+      },
+      {
+        "sentence": "There are twelve months in a year.",
+        "options": [
+          "There are twelve months in a year.",
+          "There are seven months in a year.",
+          "There are four months in a year.",
+          "There are ten months in a year."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 344
+      },
+      {
+        "sentence": "Spring comes after winter.",
+        "options": [
+          "Spring comes after winter.",
+          "Summer comes after winter.",
+          "Fall comes after winter.",
+          "Spring comes before winter."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 345
+      },
+      {
+        "sentence": "Summer comes after spring.",
+        "options": [
+          "Summer comes after spring.",
+          "Spring comes after summer.",
+          "Fall comes after spring.",
+          "Winter comes after spring."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 346
+      },
+      {
+        "sentence": "Fall comes before winter.",
+        "options": [
+          "Fall comes before winter.",
+          "Winter comes before fall.",
+          "Summer comes before winter.",
+          "Fall comes after winter."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 347
+      },
+      {
+        "sentence": "Winter is usually cold.",
+        "options": [
+          "Winter is usually cold.",
+          "Winter is usually hot.",
+          "Winter is usually warm.",
+          "Winter is usually windy."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 348
+      },
+      {
+        "sentence": "Summer is usually hot.",
+        "options": [
+          "Summer is usually hot.",
+          "Summer is usually cold.",
+          "Summer is usually warm.",
+          "Summer is usually windy."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 349
+      },
+      {
+        "sentence": "Spring is usually warm.",
+        "options": [
+          "Spring is usually warm.",
+          "Spring is usually cold.",
+          "Spring is usually hot.",
+          "Spring is usually windy."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 350
+      },
+      {
+        "sentence": "Fall is usually windy.",
+        "options": [
+          "Fall is usually windy.",
+          "Fall is usually hot.",
+          "Fall is usually cold.",
+          "Fall is usually warm."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 351
+      },
+      {
+        "sentence": "August comes after July.",
+        "options": [
+          "August comes after July.",
+          "August comes before July.",
+          "October comes after July.",
+          "June comes after July."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 352
+      },
+      {
+        "sentence": "October comes before November.",
+        "options": [
+          "October comes before November.",
+          "November comes before October.",
+          "September comes before November.",
+          "December comes before November."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 353
+      },
+      {
+        "sentence": "December is the last month of the year.",
+        "options": [
+          "December is the last month of the year.",
+          "January is the last month of the year.",
+          "December is the first month of the year.",
+          "November is the last month of the year."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 354
+      },
+      {
+        "sentence": "January is the first month of the year.",
+        "options": [
+          "January is the first month of the year.",
+          "January is the last month of the year.",
+          "July is the first month of the year.",
+          "February is the first month of the year."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 355
+      },
+      {
+        "sentence": "A month has about thirty days.",
+        "options": [
+          "A month has about thirty days.",
+          "A month has seven days.",
+          "A month has twelve days.",
+          "A month has four days."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 356
+      },
+      {
+        "sentence": "There are four seasons in a year.",
+        "options": [
+          "There are four seasons in a year.",
+          "There are twelve seasons in a year.",
+          "There are seven seasons in a year.",
+          "There are two seasons in a year."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 357
       }
     ],
     "vocab_choose": [
@@ -51171,6 +53868,431 @@
         "curriculum": "OL",
         "unit": "3",
         "id": 348
+      },
+      {
+        "question": "I was walking in the ______ with my friend.",
+        "correctAnswer": "street",
+        "arabicReason": "نستخدم 'street' لأن الطفل كان يمشي في الشارع مع صديقه.",
+        "englishReason": "We use 'street' because the children were walking in the street.",
+        "options": [
+          "street",
+          "park",
+          "milk",
+          "food"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 349
+      },
+      {
+        "question": "We were going to the ______.",
+        "correctAnswer": "park",
+        "arabicReason": "نستخدم 'park' لأن الطفل وصديقه كانا ذاهبين إلى الحديقة.",
+        "englishReason": "We use 'park' because they were going to the park.",
+        "options": [
+          "park",
+          "street",
+          "body",
+          "food"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 350
+      },
+      {
+        "question": "It was a ______ night.",
+        "correctAnswer": "cold",
+        "arabicReason": "نستخدم 'cold' لأن القصة تقول إن الليل كان باردًا.",
+        "englishReason": "We use 'cold' because the night was cold.",
+        "options": [
+          "cold",
+          "safe",
+          "hungry",
+          "calm"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 351
+      },
+      {
+        "question": "We saw a ______ dog.",
+        "correctAnswer": "poor",
+        "arabicReason": "نستخدم 'poor' لوصف الكلب المسكين الذي كان يحتاج إلى المساعدة.",
+        "englishReason": "We use 'poor' to describe the dog that needed help.",
+        "options": [
+          "poor",
+          "calm",
+          "safe",
+          "warm"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 352
+      },
+      {
+        "question": "The dog was ______ and shaking.",
+        "correctAnswer": "hungry",
+        "arabicReason": "نستخدم 'hungry' لأن الكلب كان جائعًا ويرتجف.",
+        "englishReason": "We use 'hungry' because the dog needed food and was shaking.",
+        "options": [
+          "hungry",
+          "safe",
+          "calm",
+          "warm"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 353
+      },
+      {
+        "question": "I gave the dog some ______.",
+        "correctAnswer": "food",
+        "arabicReason": "نستخدم 'food' لأن الطفل أعطى الكلب بعض الطعام.",
+        "englishReason": "We use 'food' because the child gave the dog something to eat.",
+        "options": [
+          "food",
+          "milk",
+          "park",
+          "street"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 354
+      },
+      {
+        "question": "My friend gave the dog some ______.",
+        "correctAnswer": "milk",
+        "arabicReason": "نستخدم 'milk' لأن صديق الطفل أعطى الكلب الحليب.",
+        "englishReason": "We use 'milk' because the friend gave the dog some milk.",
+        "options": [
+          "milk",
+          "food",
+          "water",
+          "warm"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 355
+      },
+      {
+        "question": "The dog ______ very fast.",
+        "correctAnswer": "ate",
+        "arabicReason": "نستخدم 'ate' لأن الكلب أكل الطعام بسرعة، وهي صيغة الماضي من eat.",
+        "englishReason": "We use 'ate' because the dog ate the food quickly. It is the past form of 'eat'.",
+        "options": [
+          "ate",
+          "went",
+          "came",
+          "sat"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 356
+      },
+      {
+        "question": "We ______ to take the dog with us.",
+        "correctAnswer": "tried",
+        "arabicReason": "نستخدم 'tried' لأن الأطفال حاولوا أخذ الكلب معهم، وهي صيغة الماضي من try.",
+        "englishReason": "We use 'tried' because they tried to take the dog with them.",
+        "options": [
+          "tried",
+          "gave",
+          "saw",
+          "felt"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 357
+      },
+      {
+        "question": "His mother ______ and sat close to him.",
+        "correctAnswer": "came",
+        "arabicReason": "نستخدم 'came' لأن أم الكلب جاءت وجلست بالقرب منه، وهي صيغة الماضي من come.",
+        "englishReason": "We use 'came' because the dog's mother came and sat close to him.",
+        "options": [
+          "came",
+          "went",
+          "ate",
+          "walked"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 358
+      },
+      {
+        "question": "His mother ______ close to him.",
+        "correctAnswer": "sat",
+        "arabicReason": "نستخدم 'sat' لأن الأم جلست بالقرب من صغيرها، وهي صيغة الماضي من sit.",
+        "englishReason": "We use 'sat' because the mother sat close to her puppy.",
+        "options": [
+          "sat",
+          "came",
+          "gave",
+          "went"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 359
+      },
+      {
+        "question": "She sat close to him to ______ his body.",
+        "correctAnswer": "warm",
+        "arabicReason": "نستخدم 'warm' لأن الأم جلست بجواره لتدفئ جسمه.",
+        "englishReason": "We use 'warm' because the mother wanted to make his body warm.",
+        "options": [
+          "warm",
+          "feed",
+          "see",
+          "clean"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 360
+      },
+      {
+        "question": "The dog was ______ after his mother came.",
+        "correctAnswer": "safe",
+        "arabicReason": "نستخدم 'safe' لأن الكلب أصبح آمنًا بعد أن جاءت أمه.",
+        "englishReason": "We use 'safe' because the dog was protected when his mother came.",
+        "options": [
+          "safe",
+          "hungry",
+          "poor",
+          "cold"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 361
+      },
+      {
+        "question": "We ______ the dog in the street.",
+        "correctAnswer": "saw",
+        "arabicReason": "نستخدم 'saw' لأن الأطفال رأوا الكلب في الشارع، وهي صيغة الماضي من see.",
+        "englishReason": "We use 'saw' because the children saw the dog in the street.",
+        "options": [
+          "saw",
+          "gave",
+          "came",
+          "felt"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 362
+      },
+      {
+        "question": "The children ______ the dog some food.",
+        "correctAnswer": "gave",
+        "arabicReason": "نستخدم 'gave' لأن الأطفال أعطوا الكلب الطعام، وهي صيغة الماضي من give.",
+        "englishReason": "We use 'gave' because the children gave the dog some food.",
+        "options": [
+          "gave",
+          "saw",
+          "went",
+          "sat"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 363
+      },
+      {
+        "question": "The season after winter is ______.",
+        "correctAnswer": "spring",
+        "arabicReason": "الربيع يأتي بعد الشتاء.",
+        "englishReason": "Spring comes after winter.",
+        "options": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 364
+      },
+      {
+        "question": "The season before winter is ______.",
+        "correctAnswer": "fall",
+        "arabicReason": "الخريف يأتي قبل الشتاء.",
+        "englishReason": "Fall comes before winter.",
+        "options": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 365
+      },
+      {
+        "question": "The weather is usually ______ in winter.",
+        "correctAnswer": "cold",
+        "arabicReason": "الجو يكون باردًا عادةً في الشتاء.",
+        "englishReason": "The weather is usually cold in winter.",
+        "options": [
+          "hot",
+          "warm",
+          "windy",
+          "cold"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 366
+      },
+      {
+        "question": "The weather is usually ______ in summer.",
+        "correctAnswer": "hot",
+        "arabicReason": "الجو يكون حارًا عادةً في الصيف.",
+        "englishReason": "The weather is usually hot in summer.",
+        "options": [
+          "cold",
+          "hot",
+          "warm",
+          "windy"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 367
+      },
+      {
+        "question": "The weather is usually ______ in spring.",
+        "correctAnswer": "warm",
+        "arabicReason": "الجو يكون دافئًا عادةً في الربيع.",
+        "englishReason": "The weather is usually warm in spring.",
+        "options": [
+          "cold",
+          "hot",
+          "warm",
+          "windy"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 368
+      },
+      {
+        "question": "The weather is usually ______ in fall.",
+        "correctAnswer": "windy",
+        "arabicReason": "الجو يكون عاصفًا عادةً في الخريف.",
+        "englishReason": "The weather is usually windy in fall.",
+        "options": [
+          "hot",
+          "cold",
+          "warm",
+          "windy"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 369
+      },
+      {
+        "question": "How many months are there in a year?",
+        "correctAnswer": "12",
+        "arabicReason": "السنة فيها 12 شهرًا.",
+        "englishReason": "There are 12 months in a year.",
+        "options": [
+          "7",
+          "12",
+          "4",
+          "30"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 370
+      },
+      {
+        "question": "How many days are there in a week?",
+        "correctAnswer": "7",
+        "arabicReason": "الأسبوع فيه 7 أيام.",
+        "englishReason": "There are 7 days in a week.",
+        "options": [
+          "4",
+          "7",
+          "12",
+          "30"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 371
+      },
+      {
+        "question": "Which month comes after July?",
+        "correctAnswer": "August",
+        "arabicReason": "أغسطس يأتي بعد يوليو.",
+        "englishReason": "August comes after July.",
+        "options": [
+          "June",
+          "August",
+          "September",
+          "October"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 372
+      },
+      {
+        "question": "Which month comes before November?",
+        "correctAnswer": "October",
+        "arabicReason": "أكتوبر يأتي قبل نوفمبر.",
+        "englishReason": "October comes before November.",
+        "options": [
+          "August",
+          "September",
+          "October",
+          "December"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 373
       }
     ],
     "translate": [
@@ -56222,6 +59344,1026 @@
         "curriculum": "OL",
         "unit": "3",
         "id": 297
+      },
+      {
+        "word": "I was walking in the street.",
+        "meaning": "كنت أمشي في الشارع.",
+        "options": [
+          "كنت أمشي في الشارع.",
+          "كنت أجري في الحديقة.",
+          "كنت أجلس في المنزل.",
+          "كنت ألعب مع أخي."
+        ],
+        "arabicReason": "الجملة تعني أن المتحدث كان يمشي في الشارع.",
+        "englishReason": "The sentence means that the speaker was walking in the street.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 298
+      },
+      {
+        "word": "We were going to the park.",
+        "meaning": "كنا ذاهبين إلى الحديقة.",
+        "options": [
+          "كنا ذاهبين إلى المدرسة.",
+          "كنا ذاهبين إلى الحديقة.",
+          "كنا ذاهبين إلى المتجر.",
+          "كنا نلعب في الشارع."
+        ],
+        "arabicReason": "الجملة تعني أن الأطفال كانوا ذاهبين إلى الحديقة.",
+        "englishReason": "The sentence means that the children were going to the park.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 299
+      },
+      {
+        "word": "The street was calm.",
+        "meaning": "كان الشارع هادئًا.",
+        "options": [
+          "كان الشارع مزدحمًا.",
+          "كانت الحديقة هادئة.",
+          "كان الشارع هادئًا.",
+          "كان الجو دافئًا."
+        ],
+        "arabicReason": "الجملة تعني أن الشارع كان هادئًا.",
+        "englishReason": "The sentence means that the street was quiet and peaceful.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 300
+      },
+      {
+        "word": "It was a cold night.",
+        "meaning": "كانت ليلة باردة.",
+        "options": [
+          "كان صباحًا باردًا.",
+          "كانت ليلة دافئة.",
+          "كانت ليلة باردة.",
+          "كان يومًا مشمسًا."
+        ],
+        "arabicReason": "الجملة تصف ليلة باردة.",
+        "englishReason": "The sentence describes a cold night.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 301
+      },
+      {
+        "word": "We saw a poor dog.",
+        "meaning": "رأينا كلبًا مسكينًا.",
+        "options": [
+          "رأينا قطة صغيرة.",
+          "رأينا كلبًا مسكينًا.",
+          "رأينا كلبًا سعيدًا.",
+          "رأينا حصانًا كبيرًا."
+        ],
+        "arabicReason": "الجملة تعني أن الأطفال رأوا كلبًا مسكينًا.",
+        "englishReason": "The sentence means that the children saw a poor dog.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 302
+      },
+      {
+        "word": "The dog was hungry.",
+        "meaning": "كان الكلب جائعًا.",
+        "options": [
+          "كان الكلب جائعًا.",
+          "كان الكلب نائمًا.",
+          "كان الكلب سعيدًا.",
+          "كان الكلب آمنًا."
+        ],
+        "arabicReason": "الجملة تعني أن الكلب كان يحتاج إلى الطعام.",
+        "englishReason": "The sentence means that the dog needed food.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 303
+      },
+      {
+        "word": "The dog was shaking.",
+        "meaning": "كان الكلب يرتعش.",
+        "options": [
+          "كان الكلب يجري.",
+          "كان الكلب يأكل.",
+          "كان الكلب يرتعش.",
+          "كان الكلب ينام."
+        ],
+        "arabicReason": "الجملة تعني أن الكلب كان يرتعش.",
+        "englishReason": "The sentence means that the dog was shaking.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 304
+      },
+      {
+        "word": "I gave him some food.",
+        "meaning": "أعطيته بعض الطعام.",
+        "options": [
+          "أعطيته بعض الحليب.",
+          "أعطيته بعض الطعام.",
+          "أخذت منه الطعام.",
+          "أعطيته لعبة."
+        ],
+        "arabicReason": "الجملة تعني أن الطفل أعطى الكلب بعض الطعام.",
+        "englishReason": "The sentence means that the child gave the dog some food.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 305
+      },
+      {
+        "word": "My friend gave him some milk.",
+        "meaning": "أعطاه صديقي بعض الحليب.",
+        "options": [
+          "أعطاه صديقي بعض الحليب.",
+          "أعطاه صديقي بعض الطعام.",
+          "أعطيته بعض الماء.",
+          "أخذ صديقي الحليب."
+        ],
+        "arabicReason": "الجملة تعني أن صديق الطفل أعطى الكلب بعض الحليب.",
+        "englishReason": "The sentence means that the friend gave the dog some milk.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 306
+      },
+      {
+        "word": "He ate very fast.",
+        "meaning": "أكل بسرعة كبيرة.",
+        "options": [
+          "شرب ببطء.",
+          "أكل بسرعة كبيرة.",
+          "مشى بسرعة.",
+          "نام بسرعة."
+        ],
+        "arabicReason": "الجملة تعني أن الكلب أكل بسرعة كبيرة.",
+        "englishReason": "The sentence means that the dog ate very quickly.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 307
+      },
+      {
+        "word": "We tried to take him with us.",
+        "meaning": "حاولنا أن نأخذه معنا.",
+        "options": [
+          "حاولنا أن نتركه.",
+          "حاولنا أن نطعمه.",
+          "حاولنا أن نأخذه معنا.",
+          "ذهبنا إلى المنزل."
+        ],
+        "arabicReason": "الجملة تعني أن الأطفال حاولوا أخذ الكلب معهم.",
+        "englishReason": "The sentence means that the children tried to take the dog with them.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 308
+      },
+      {
+        "word": "His mother came.",
+        "meaning": "جاءت أمه.",
+        "options": [
+          "ذهبت أمه.",
+          "جاءت أمه.",
+          "جلس صديقه.",
+          "جاء والده."
+        ],
+        "arabicReason": "الجملة تعني أن أم الكلب جاءت.",
+        "englishReason": "The sentence means that the dog's mother came.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 309
+      },
+      {
+        "word": "She sat close to him.",
+        "meaning": "جلست بالقرب منه.",
+        "options": [
+          "جلست بعيدًا عنه.",
+          "وقفت بجانبه.",
+          "جلست بالقرب منه.",
+          "ذهبت بعيدًا عنه."
+        ],
+        "arabicReason": "الجملة تعني أن الأم جلست بالقرب من صغيرها.",
+        "englishReason": "The sentence means that the mother sat close to her puppy.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 310
+      },
+      {
+        "word": "She wanted to warm his body.",
+        "meaning": "أرادت أن تدفئ جسمه.",
+        "options": [
+          "أرادت أن تطعمه.",
+          "أرادت أن تدفئ جسمه.",
+          "أرادت أن تتركه.",
+          "أرادت أن تنظف الشارع."
+        ],
+        "arabicReason": "الجملة تعني أن الأم أرادت تدفئة جسم صغيرها.",
+        "englishReason": "The sentence means that the mother wanted to warm her puppy's body.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 311
+      },
+      {
+        "word": "Her eyes told us, 'Thank you.'",
+        "meaning": "قالت لنا عيناها: شكرًا لكم.",
+        "options": [
+          "قالت لنا عيناها: ساعدوني.",
+          "قالت لنا عيناها: اذهبوا.",
+          "قالت لنا عيناها: شكرًا لكم.",
+          "قالت لنا عيناها: أنا جائعة."
+        ],
+        "arabicReason": "الجملة تصف مشاعر الأم، وكأن عينيها تشكران الأطفال على مساعدتهم.",
+        "englishReason": "The sentence shows the mother's feelings, as if her eyes were saying thank you.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 312
+      },
+      {
+        "word": "كنت أمشي في الشارع.",
+        "meaning": "I was walking in the street.",
+        "options": [
+          "I was walking in the street.",
+          "I was running in the park.",
+          "I was sitting at home.",
+          "I was playing with my friend."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي: I was walking in the street.",
+        "englishReason": "The correct translation is 'I was walking in the street.'",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 313
+      },
+      {
+        "word": "كنا ذاهبين إلى الحديقة.",
+        "meaning": "We were going to the park.",
+        "options": [
+          "We were going to the school.",
+          "We were going to the park.",
+          "We were walking in the street.",
+          "We were going to the shop."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي: We were going to the park.",
+        "englishReason": "The correct translation is 'We were going to the park.'",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 314
+      },
+      {
+        "word": "كان الشارع هادئًا.",
+        "meaning": "The street was calm.",
+        "options": [
+          "The street was busy.",
+          "The park was calm.",
+          "The street was calm.",
+          "The street was cold."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي: The street was calm.",
+        "englishReason": "The correct translation is 'The street was calm.'",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 315
+      },
+      {
+        "word": "كانت ليلة باردة.",
+        "meaning": "It was a cold night.",
+        "options": [
+          "It was a warm night.",
+          "It was a cold morning.",
+          "It was a cold night.",
+          "It was a rainy day."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي: It was a cold night.",
+        "englishReason": "The correct translation is 'It was a cold night.'",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 316
+      },
+      {
+        "word": "رأينا كلبًا مسكينًا.",
+        "meaning": "We saw a poor dog.",
+        "options": [
+          "We saw a big dog.",
+          "We saw a poor dog.",
+          "We saw a poor cat.",
+          "We saw a small dog."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي: We saw a poor dog.",
+        "englishReason": "The correct translation is 'We saw a poor dog.'",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 317
+      },
+      {
+        "word": "كان الكلب جائعًا.",
+        "meaning": "The dog was hungry.",
+        "options": [
+          "The dog was safe.",
+          "The dog was hungry.",
+          "The dog was happy.",
+          "The dog was warm."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي: The dog was hungry.",
+        "englishReason": "The correct translation is 'The dog was hungry.'",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 318
+      },
+      {
+        "word": "كان الكلب يرتعش.",
+        "meaning": "The dog was shaking.",
+        "options": [
+          "The dog was sleeping.",
+          "The dog was eating.",
+          "The dog was shaking.",
+          "The dog was running."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي: The dog was shaking.",
+        "englishReason": "The correct translation is 'The dog was shaking.'",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 319
+      },
+      {
+        "word": "أعطيته بعض الطعام.",
+        "meaning": "I gave him some food.",
+        "options": [
+          "I gave him some milk.",
+          "I gave him some food.",
+          "I took some food.",
+          "I gave him a toy."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي: I gave him some food.",
+        "englishReason": "The correct translation is 'I gave him some food.'",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 320
+      },
+      {
+        "word": "أعطاه صديقي بعض الحليب.",
+        "meaning": "My friend gave him some milk.",
+        "options": [
+          "My friend gave him some food.",
+          "My friend gave him some milk.",
+          "My friend took the milk.",
+          "My friend gave him some water."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي: My friend gave him some milk.",
+        "englishReason": "The correct translation is 'My friend gave him some milk.'",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 321
+      },
+      {
+        "word": "أكل بسرعة كبيرة.",
+        "meaning": "He ate very fast.",
+        "options": [
+          "He drank very fast.",
+          "He ate very slowly.",
+          "He ate very fast.",
+          "He ran very fast."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي: He ate very fast.",
+        "englishReason": "The correct translation is 'He ate very fast.'",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 322
+      },
+      {
+        "word": "حاولنا أن نأخذه معنا.",
+        "meaning": "We tried to take him with us.",
+        "options": [
+          "We tried to leave him.",
+          "We tried to take him with us.",
+          "We tried to feed him.",
+          "We tried to find his mother."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي: We tried to take him with us.",
+        "englishReason": "The correct translation is 'We tried to take him with us.'",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 323
+      },
+      {
+        "word": "جاءت أمه.",
+        "meaning": "His mother came.",
+        "options": [
+          "His mother went away.",
+          "His mother came.",
+          "His friend came.",
+          "His mother sat far away."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي: His mother came.",
+        "englishReason": "The correct translation is 'His mother came.'",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 324
+      },
+      {
+        "word": "جلست بالقرب منه.",
+        "meaning": "She sat close to him.",
+        "options": [
+          "She sat far from him.",
+          "She stood close to him.",
+          "She sat close to him.",
+          "She walked away from him."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي: She sat close to him.",
+        "englishReason": "The correct translation is 'She sat close to him.'",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 325
+      },
+      {
+        "word": "أرادت أن تدفئ جسمه.",
+        "meaning": "She wanted to warm his body.",
+        "options": [
+          "She wanted to feed him.",
+          "She wanted to warm his body.",
+          "She wanted to leave him.",
+          "She wanted to clean him."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي: She wanted to warm his body.",
+        "englishReason": "The correct translation is 'She wanted to warm his body.'",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 326
+      },
+      {
+        "word": "قالت لنا عيناها: شكرًا لكم.",
+        "meaning": "Her eyes told us, 'Thank you.'",
+        "options": [
+          "Her eyes told us, 'Help me.'",
+          "Her eyes told us, 'Goodbye.'",
+          "Her eyes told us, 'Thank you.'",
+          "Her eyes told us, 'Come with me.'"
+        ],
+        "arabicReason": "الترجمة الصحيحة هي: Her eyes told us, 'Thank you.'",
+        "englishReason": "The correct translation is 'Her eyes told us, Thank you.'",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 327
+      },
+      {
+        "word": "There are seven days in a week.",
+        "meaning": "يوجد سبعة أيام في الأسبوع.",
+        "options": [
+          "يوجد سبعة أيام في الأسبوع.",
+          "يوجد اثنا عشر شهرًا في السنة.",
+          "يوجد أربعة فصول في السنة.",
+          "يوجد ثلاثون يومًا في الشهر."
+        ],
+        "arabicReason": "الجملة تعني أن الأسبوع فيه سبعة أيام.",
+        "englishReason": "The sentence means that a week has seven days.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 328
+      },
+      {
+        "word": "There are twelve months in a year.",
+        "meaning": "يوجد اثنا عشر شهرًا في السنة.",
+        "options": [
+          "يوجد سبعة أيام في الأسبوع.",
+          "يوجد اثنا عشر شهرًا في السنة.",
+          "يوجد أربعة أيام في الأسبوع.",
+          "يوجد أربعة فصول في السنة."
+        ],
+        "arabicReason": "الجملة تعني أن السنة فيها اثنا عشر شهرًا.",
+        "englishReason": "The sentence means that a year has twelve months.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 329
+      },
+      {
+        "word": "Spring comes after winter.",
+        "meaning": "الربيع يأتي بعد الشتاء.",
+        "options": [
+          "الربيع يأتي بعد الشتاء.",
+          "الصيف يأتي بعد الشتاء.",
+          "الخريف يأتي بعد الشتاء.",
+          "الربيع يأتي قبل الشتاء."
+        ],
+        "arabicReason": "Spring يأتي بعد Winter.",
+        "englishReason": "Spring comes after winter.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 330
+      },
+      {
+        "word": "Summer comes after spring.",
+        "meaning": "الصيف يأتي بعد الربيع.",
+        "options": [
+          "الصيف يأتي بعد الربيع.",
+          "الربيع يأتي بعد الصيف.",
+          "الخريف يأتي بعد الربيع.",
+          "الشتاء يأتي بعد الربيع."
+        ],
+        "arabicReason": "Summer يأتي بعد Spring.",
+        "englishReason": "Summer comes after spring.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 331
+      },
+      {
+        "word": "Fall comes before winter.",
+        "meaning": "الخريف يأتي قبل الشتاء.",
+        "options": [
+          "الخريف يأتي قبل الشتاء.",
+          "الشتاء يأتي قبل الخريف.",
+          "الصيف يأتي قبل الشتاء.",
+          "الخريف يأتي بعد الشتاء."
+        ],
+        "arabicReason": "Fall يأتي قبل Winter.",
+        "englishReason": "Fall comes before winter.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 332
+      },
+      {
+        "word": "Winter is usually cold.",
+        "meaning": "الشتاء عادةً بارد.",
+        "options": [
+          "الشتاء عادةً بارد.",
+          "الشتاء عادةً حار.",
+          "الشتاء عادةً دافئ.",
+          "الشتاء عادةً عاصف."
+        ],
+        "arabicReason": "الجملة تصف الطقس المعتاد في الشتاء.",
+        "englishReason": "The sentence describes the usual weather in winter.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 333
+      },
+      {
+        "word": "Summer is usually hot.",
+        "meaning": "الصيف عادةً حار.",
+        "options": [
+          "الصيف عادةً حار.",
+          "الصيف عادةً بارد.",
+          "الصيف عادةً دافئ.",
+          "الصيف عادةً عاصف."
+        ],
+        "arabicReason": "الجملة تصف الطقس المعتاد في الصيف.",
+        "englishReason": "The sentence describes the usual weather in summer.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 334
+      },
+      {
+        "word": "Spring is usually warm.",
+        "meaning": "الربيع عادةً دافئ.",
+        "options": [
+          "الربيع عادةً دافئ.",
+          "الربيع عادةً بارد.",
+          "الربيع عادةً حار.",
+          "الربيع عادةً عاصف."
+        ],
+        "arabicReason": "الجملة تصف الطقس المعتاد في الربيع.",
+        "englishReason": "The sentence describes the usual weather in spring.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 335
+      },
+      {
+        "word": "Fall is usually windy.",
+        "meaning": "الخريف عادةً عاصف.",
+        "options": [
+          "الخريف عادةً عاصف.",
+          "الخريف عادةً حار.",
+          "الخريف عادةً بارد.",
+          "الخريف عادةً دافئ."
+        ],
+        "arabicReason": "الجملة تصف الطقس المعتاد في الخريف.",
+        "englishReason": "The sentence describes the usual weather in fall.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 336
+      },
+      {
+        "word": "August comes after July.",
+        "meaning": "أغسطس يأتي بعد يوليو.",
+        "options": [
+          "أغسطس يأتي بعد يوليو.",
+          "أغسطس يأتي قبل يوليو.",
+          "أكتوبر يأتي بعد يوليو.",
+          "يونيو يأتي بعد يوليو."
+        ],
+        "arabicReason": "August يأتي بعد July.",
+        "englishReason": "August comes after July.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 337
+      },
+      {
+        "word": "October comes before November.",
+        "meaning": "أكتوبر يأتي قبل نوفمبر.",
+        "options": [
+          "أكتوبر يأتي قبل نوفمبر.",
+          "نوفمبر يأتي قبل أكتوبر.",
+          "سبتمبر يأتي قبل نوفمبر.",
+          "ديسمبر يأتي قبل نوفمبر."
+        ],
+        "arabicReason": "October يأتي قبل November.",
+        "englishReason": "October comes before November.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 338
+      },
+      {
+        "word": "December is the last month of the year.",
+        "meaning": "ديسمبر هو آخر شهر في السنة.",
+        "options": [
+          "ديسمبر هو آخر شهر في السنة.",
+          "يناير هو آخر شهر في السنة.",
+          "ديسمبر هو أول شهر في السنة.",
+          "نوفمبر هو آخر شهر في السنة."
+        ],
+        "arabicReason": "December هو الشهر الأخير في السنة.",
+        "englishReason": "December is the last month of the year.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 339
+      },
+      {
+        "word": "January is the first month of the year.",
+        "meaning": "يناير هو أول شهر في السنة.",
+        "options": [
+          "يناير هو أول شهر في السنة.",
+          "يناير هو آخر شهر في السنة.",
+          "يوليو هو أول شهر في السنة.",
+          "فبراير هو أول شهر في السنة."
+        ],
+        "arabicReason": "January هو أول شهر في السنة.",
+        "englishReason": "January is the first month of the year.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 340
+      },
+      {
+        "word": "A month has about thirty days.",
+        "meaning": "الشهر فيه حوالي ثلاثين يومًا.",
+        "options": [
+          "الشهر فيه حوالي ثلاثين يومًا.",
+          "الشهر فيه سبعة أيام.",
+          "الشهر فيه اثنا عشر يومًا.",
+          "الشهر فيه أربعة أيام."
+        ],
+        "arabicReason": "الجملة تتحدث عن عدد الأيام في الشهر.",
+        "englishReason": "The sentence is about the number of days in a month.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 341
+      },
+      {
+        "word": "There are four seasons in a year.",
+        "meaning": "يوجد أربعة فصول في السنة.",
+        "options": [
+          "يوجد أربعة فصول في السنة.",
+          "يوجد اثنا عشر فصلًا في السنة.",
+          "يوجد سبعة فصول في السنة.",
+          "يوجد فصلان في السنة."
+        ],
+        "arabicReason": "السنة فيها أربعة فصول: الربيع والصيف والخريف والشتاء.",
+        "englishReason": "A year has four seasons: spring, summer, fall, and winter.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 342
+      },
+      {
+        "word": "يوجد سبعة أيام في الأسبوع.",
+        "meaning": "There are seven days in a week.",
+        "options": [
+          "There are seven days in a week.",
+          "There are twelve months in a year.",
+          "There are four seasons in a year.",
+          "There are thirty days in a month."
+        ],
+        "arabicReason": "الجملة العربية تعني أن الأسبوع فيه سبعة أيام.",
+        "englishReason": "The correct translation says that a week has seven days.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 343
+      },
+      {
+        "word": "يوجد اثنا عشر شهرًا في السنة.",
+        "meaning": "There are twelve months in a year.",
+        "options": [
+          "There are seven days in a week.",
+          "There are twelve months in a year.",
+          "There are four days in a week.",
+          "There are four seasons in a year."
+        ],
+        "arabicReason": "الجملة العربية تعني أن السنة فيها اثنا عشر شهرًا.",
+        "englishReason": "The correct translation says that a year has twelve months.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 344
+      },
+      {
+        "word": "الربيع يأتي بعد الشتاء.",
+        "meaning": "Spring comes after winter.",
+        "options": [
+          "Spring comes after winter.",
+          "Summer comes after winter.",
+          "Fall comes after winter.",
+          "Spring comes before winter."
+        ],
+        "arabicReason": "الربيع يأتي بعد الشتاء.",
+        "englishReason": "Spring comes after winter.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 345
+      },
+      {
+        "word": "الصيف يأتي بعد الربيع.",
+        "meaning": "Summer comes after spring.",
+        "options": [
+          "Summer comes after spring.",
+          "Spring comes after summer.",
+          "Fall comes after spring.",
+          "Winter comes after spring."
+        ],
+        "arabicReason": "الصيف يأتي بعد الربيع.",
+        "englishReason": "Summer comes after spring.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 346
+      },
+      {
+        "word": "الخريف يأتي قبل الشتاء.",
+        "meaning": "Fall comes before winter.",
+        "options": [
+          "Fall comes before winter.",
+          "Winter comes before fall.",
+          "Summer comes before winter.",
+          "Fall comes after winter."
+        ],
+        "arabicReason": "الخريف يأتي قبل الشتاء.",
+        "englishReason": "Fall comes before winter.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 347
+      },
+      {
+        "word": "الشتاء عادةً بارد.",
+        "meaning": "Winter is usually cold.",
+        "options": [
+          "Winter is usually cold.",
+          "Winter is usually hot.",
+          "Winter is usually warm.",
+          "Winter is usually windy."
+        ],
+        "arabicReason": "الشتاء يكون باردًا عادةً.",
+        "englishReason": "Winter is usually cold.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 348
+      },
+      {
+        "word": "الصيف عادةً حار.",
+        "meaning": "Summer is usually hot.",
+        "options": [
+          "Summer is usually hot.",
+          "Summer is usually cold.",
+          "Summer is usually warm.",
+          "Summer is usually windy."
+        ],
+        "arabicReason": "الصيف يكون حارًا عادةً.",
+        "englishReason": "Summer is usually hot.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 349
+      },
+      {
+        "word": "الربيع عادةً دافئ.",
+        "meaning": "Spring is usually warm.",
+        "options": [
+          "Spring is usually warm.",
+          "Spring is usually cold.",
+          "Spring is usually hot.",
+          "Spring is usually windy."
+        ],
+        "arabicReason": "الربيع يكون دافئًا عادةً.",
+        "englishReason": "Spring is usually warm.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 350
+      },
+      {
+        "word": "الخريف عادةً عاصف.",
+        "meaning": "Fall is usually windy.",
+        "options": [
+          "Fall is usually windy.",
+          "Fall is usually hot.",
+          "Fall is usually cold.",
+          "Fall is usually warm."
+        ],
+        "arabicReason": "الخريف يكون عاصفًا عادةً.",
+        "englishReason": "Fall is usually windy.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 351
+      },
+      {
+        "word": "أغسطس يأتي بعد يوليو.",
+        "meaning": "August comes after July.",
+        "options": [
+          "August comes after July.",
+          "August comes before July.",
+          "October comes after July.",
+          "June comes after July."
+        ],
+        "arabicReason": "أغسطس يأتي بعد يوليو.",
+        "englishReason": "August comes after July.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 352
+      },
+      {
+        "word": "أكتوبر يأتي قبل نوفمبر.",
+        "meaning": "October comes before November.",
+        "options": [
+          "October comes before November.",
+          "November comes before October.",
+          "September comes before November.",
+          "December comes before November."
+        ],
+        "arabicReason": "أكتوبر يأتي قبل نوفمبر.",
+        "englishReason": "October comes before November.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 353
+      },
+      {
+        "word": "ديسمبر هو آخر شهر في السنة.",
+        "meaning": "December is the last month of the year.",
+        "options": [
+          "December is the last month of the year.",
+          "January is the last month of the year.",
+          "December is the first month of the year.",
+          "November is the last month of the year."
+        ],
+        "arabicReason": "ديسمبر هو الشهر الأخير في السنة.",
+        "englishReason": "December is the last month of the year.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 354
+      },
+      {
+        "word": "يناير هو أول شهر في السنة.",
+        "meaning": "January is the first month of the year.",
+        "options": [
+          "January is the first month of the year.",
+          "January is the last month of the year.",
+          "July is the first month of the year.",
+          "February is the first month of the year."
+        ],
+        "arabicReason": "يناير هو أول شهر في السنة.",
+        "englishReason": "January is the first month of the year.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 355
+      },
+      {
+        "word": "الشهر فيه حوالي ثلاثين يومًا.",
+        "meaning": "A month has about thirty days.",
+        "options": [
+          "A month has about thirty days.",
+          "A month has seven days.",
+          "A month has twelve days.",
+          "A month has four days."
+        ],
+        "arabicReason": "الجملة تتحدث عن عدد الأيام في الشهر.",
+        "englishReason": "The sentence is about the number of days in a month.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 356
+      },
+      {
+        "word": "يوجد أربعة فصول في السنة.",
+        "meaning": "There are four seasons in a year.",
+        "options": [
+          "There are four seasons in a year.",
+          "There are twelve seasons in a year.",
+          "There are seven seasons in a year.",
+          "There are two seasons in a year."
+        ],
+        "arabicReason": "السنة فيها أربعة فصول.",
+        "englishReason": "A year has four seasons.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "4",
+        "id": 357
       }
     ]
   }
