@@ -54293,6 +54293,1026 @@
         "curriculum": "OL",
         "unit": "4",
         "id": 373
+      },
+      {
+        "question": "Where were you?",
+        "correctAnswer": "I was in the street.",
+        "arabicReason": "الإجابة الصحيحة هي 'I was in the street.' لأنها تحدد مكان وجود المتحدث.",
+        "englishReason": "The correct answer is 'I was in the street.' because it tells us where the speaker was.",
+        "options": [
+          "I was in the street.",
+          "It was cold.",
+          "I saw a poor dog.",
+          "It was morning."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 374
+      },
+      {
+        "question": "What were you doing?",
+        "correctAnswer": "I was going to the club.",
+        "arabicReason": "الإجابة الصحيحة توضح ماذا كان المتحدث يفعل في ذلك الوقت.",
+        "englishReason": "The correct answer tells us what the speaker was doing.",
+        "options": [
+          "I was going to the club.",
+          "I gave him food and milk.",
+          "It was empty.",
+          "I was in the street."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 375
+      },
+      {
+        "question": "What was the street like?",
+        "correctAnswer": "It was empty.",
+        "arabicReason": "الإجابة تصف شكل الشارع وحالته.",
+        "englishReason": "The answer describes what the street was like.",
+        "options": [
+          "It was empty.",
+          "It was cold.",
+          "I was going to the club.",
+          "I saw a poor dog."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 376
+      },
+      {
+        "question": "What was the weather like?",
+        "correctAnswer": "It was cold.",
+        "arabicReason": "الإجابة الصحيحة تصف حالة الطقس.",
+        "englishReason": "The correct answer describes the weather.",
+        "options": [
+          "It was cold.",
+          "It was morning.",
+          "It was empty.",
+          "I was in the street."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 377
+      },
+      {
+        "question": "Was it morning or night?",
+        "correctAnswer": "It was morning.",
+        "arabicReason": "الإجابة الصحيحة تحدد وقت اليوم.",
+        "englishReason": "The correct answer tells us the time of day.",
+        "options": [
+          "It was morning.",
+          "It was cold.",
+          "I saw a poor dog.",
+          "I was going to the club."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 378
+      },
+      {
+        "question": "What did you see?",
+        "correctAnswer": "I saw a poor dog.",
+        "arabicReason": "الإجابة الصحيحة تحدد الشيء الذي رآه المتحدث.",
+        "englishReason": "The correct answer tells us what the speaker saw.",
+        "options": [
+          "I saw a poor dog.",
+          "It was empty.",
+          "I was in the street.",
+          "It was morning."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 379
+      },
+      {
+        "question": "How was the dog?",
+        "correctAnswer": "He was hungry and shaking.",
+        "arabicReason": "الإجابة تصف حالة الكلب.",
+        "englishReason": "The answer describes how the dog was.",
+        "options": [
+          "He was hungry and shaking.",
+          "It was cold.",
+          "I was going to the club.",
+          "I gave him food and milk."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 380
+      },
+      {
+        "question": "What did you do?",
+        "correctAnswer": "I gave him food and milk.",
+        "arabicReason": "الإجابة الصحيحة توضح ما فعله المتحدث للكلب.",
+        "englishReason": "The correct answer tells us what the speaker did.",
+        "options": [
+          "I gave him food and milk.",
+          "I saw a poor dog.",
+          "It was morning.",
+          "I was in the street."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 381
+      },
+      {
+        "question": "Where were you?",
+        "correctAnswer": "I was in the street.",
+        "arabicReason": "السؤال يسأل عن المكان، والإجابة تحدد المكان.",
+        "englishReason": "The question asks about the place, and the answer gives the place.",
+        "options": [
+          "I was in the street.",
+          "He was hungry and shaking.",
+          "It was empty.",
+          "I was going to the club."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 382
+      },
+      {
+        "question": "What were you doing?",
+        "correctAnswer": "I was going to the club.",
+        "arabicReason": "السؤال يسأل عما كان المتحدث يفعله.",
+        "englishReason": "The question asks what the speaker was doing.",
+        "options": [
+          "I was going to the club.",
+          "It was morning.",
+          "I saw a poor dog.",
+          "It was cold."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 383
+      },
+      {
+        "question": "What was the street like?",
+        "correctAnswer": "It was empty.",
+        "arabicReason": "السؤال عن حالة الشارع، والإجابة تقول إنه كان فارغًا.",
+        "englishReason": "The question asks about the street, and the answer says it was empty.",
+        "options": [
+          "It was empty.",
+          "I gave him food and milk.",
+          "It was morning.",
+          "He was hungry and shaking."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 384
+      },
+      {
+        "question": "What was the weather like?",
+        "correctAnswer": "It was cold.",
+        "arabicReason": "السؤال عن الطقس والإجابة تقول إنه كان باردًا.",
+        "englishReason": "The question asks about the weather, and the answer says it was cold.",
+        "options": [
+          "It was cold.",
+          "I was in the street.",
+          "It was empty.",
+          "I saw a poor dog."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 385
+      },
+      {
+        "question": "Was it morning or night?",
+        "correctAnswer": "It was morning.",
+        "arabicReason": "السؤال يطلب تحديد وقت اليوم.",
+        "englishReason": "The question asks us to identify the time of day.",
+        "options": [
+          "It was morning.",
+          "It was empty.",
+          "I was going to the club.",
+          "He was hungry and shaking."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 386
+      },
+      {
+        "question": "What did you see?",
+        "correctAnswer": "I saw a poor dog.",
+        "arabicReason": "السؤال يسأل عما رآه المتحدث.",
+        "englishReason": "The question asks what the speaker saw.",
+        "options": [
+          "I saw a poor dog.",
+          "It was cold.",
+          "I was in the street.",
+          "It was morning."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 387
+      },
+      {
+        "question": "How was the dog?",
+        "correctAnswer": "He was hungry and shaking.",
+        "arabicReason": "الإجابة تصف حالة الكلب عندما رأته الشخصيات.",
+        "englishReason": "The answer describes the dog's condition.",
+        "options": [
+          "He was hungry and shaking.",
+          "It was empty.",
+          "I was going to the club.",
+          "I saw a poor dog."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 388
+      },
+      {
+        "question": "What did you do?",
+        "correctAnswer": "I gave him food and milk.",
+        "arabicReason": "الإجابة تصف الفعل الذي قام به المتحدث.",
+        "englishReason": "The answer describes what the speaker did.",
+        "options": [
+          "I gave him food and milk.",
+          "It was cold.",
+          "He was hungry and shaking.",
+          "I was in the street."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 389
+      },
+      {
+        "question": "Where were you?",
+        "correctAnswer": "I was in the street.",
+        "arabicReason": "الإجابة تحدد المكان.",
+        "englishReason": "The answer identifies the place.",
+        "options": [
+          "I was in the street.",
+          "It was morning.",
+          "I gave him food and milk.",
+          "He was hungry and shaking."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 390
+      },
+      {
+        "question": "What were you doing?",
+        "correctAnswer": "I was going to the club.",
+        "arabicReason": "الإجابة تستخدم المضارع المستمر في الماضي لتوضيح ما كان يحدث.",
+        "englishReason": "The answer uses the past continuous to describe what was happening.",
+        "options": [
+          "I was going to the club.",
+          "It was cold.",
+          "I saw a poor dog.",
+          "It was empty."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 391
+      },
+      {
+        "question": "What was the street like?",
+        "correctAnswer": "It was empty.",
+        "arabicReason": "الإجابة تصف الشارع.",
+        "englishReason": "The answer describes the street.",
+        "options": [
+          "It was empty.",
+          "It was morning.",
+          "I was in the street.",
+          "I gave him food and milk."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 392
+      },
+      {
+        "question": "What was the weather like?",
+        "correctAnswer": "It was cold.",
+        "arabicReason": "الإجابة تصف الطقس في القصة.",
+        "englishReason": "The answer describes the weather in the story.",
+        "options": [
+          "It was cold.",
+          "I saw a poor dog.",
+          "It was empty.",
+          "I was going to the club."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 393
+      },
+      {
+        "question": "Was it morning or night?",
+        "correctAnswer": "It was morning.",
+        "arabicReason": "الإجابة تحدد أن الأحداث وقعت في الصباح.",
+        "englishReason": "The answer tells us that the events happened in the morning.",
+        "options": [
+          "It was morning.",
+          "It was cold.",
+          "I was in the street.",
+          "He was hungry and shaking."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 394
+      },
+      {
+        "question": "What did you see?",
+        "correctAnswer": "I saw a poor dog.",
+        "arabicReason": "الإجابة تحدد ما شاهده الأطفال.",
+        "englishReason": "The answer tells us what the children saw.",
+        "options": [
+          "I saw a poor dog.",
+          "It was morning.",
+          "It was empty.",
+          "I was going to the club."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 395
+      },
+      {
+        "question": "How was the dog?",
+        "correctAnswer": "He was hungry and shaking.",
+        "arabicReason": "الإجابة تحدد حالة الكلب.",
+        "englishReason": "The answer tells us the dog's condition.",
+        "options": [
+          "He was hungry and shaking.",
+          "It was cold.",
+          "I was in the street.",
+          "I gave him food and milk."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 396
+      },
+      {
+        "question": "What did you do?",
+        "correctAnswer": "I gave him food and milk.",
+        "arabicReason": "الإجابة تحدد ما فعله الأطفال بعد رؤية الكلب.",
+        "englishReason": "The answer tells us what the children did after seeing the dog.",
+        "options": [
+          "I gave him food and milk.",
+          "I saw a poor dog.",
+          "It was morning.",
+          "It was empty."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 397
+      },
+      {
+        "question": "Where were you?",
+        "correctAnswer": "I was in the street.",
+        "arabicReason": "السؤال عن مكان الحدث.",
+        "englishReason": "The question asks about the place of the event.",
+        "options": [
+          "I was in the street.",
+          "It was cold.",
+          "I was going to the club.",
+          "I saw a poor dog."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 398
+      },
+      {
+        "question": "What were you doing?",
+        "correctAnswer": "I was going to the club.",
+        "arabicReason": "السؤال عن النشاط الذي كان يحدث في ذلك الوقت.",
+        "englishReason": "The question asks about the activity that was happening at that time.",
+        "options": [
+          "I was going to the club.",
+          "It was morning.",
+          "It was empty.",
+          "He was hungry and shaking."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 399
+      },
+      {
+        "question": "What was the street like?",
+        "correctAnswer": "It was empty.",
+        "arabicReason": "الإجابة تحدد وصف الشارع.",
+        "englishReason": "The answer gives the description of the street.",
+        "options": [
+          "It was empty.",
+          "I was in the street.",
+          "It was cold.",
+          "I gave him food and milk."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 400
+      },
+      {
+        "question": "What was the weather like?",
+        "correctAnswer": "It was cold.",
+        "arabicReason": "الإجابة تحدد حالة الطقس.",
+        "englishReason": "The answer identifies the weather condition.",
+        "options": [
+          "It was cold.",
+          "It was morning.",
+          "I saw a poor dog.",
+          "It was empty."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 401
+      },
+      {
+        "question": "What did you see?",
+        "correctAnswer": "I saw a poor dog.",
+        "arabicReason": "الإجابة الصحيحة هي الشيء الذي رآه المتحدث.",
+        "englishReason": "The correct answer is what the speaker saw.",
+        "options": [
+          "I saw a poor dog.",
+          "I was in the street.",
+          "It was cold.",
+          "I gave him food and milk."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 402
+      },
+      {
+        "question": "What did you do?",
+        "correctAnswer": "I gave him food and milk.",
+        "arabicReason": "الإجابة الصحيحة تصف ما فعله المتحدث للكلب.",
+        "englishReason": "The correct answer describes what the speaker did for the dog.",
+        "options": [
+          "I gave him food and milk.",
+          "He was hungry and shaking.",
+          "It was morning.",
+          "I was going to the club."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 403
+      },
+      {
+        "question": "اختر السؤال المناسب: I was in the street.",
+        "correctAnswer": "Where were you?",
+        "arabicReason": "الإجابة تحدد المكان، لذلك السؤال المناسب هو: أين كنت؟",
+        "englishReason": "The answer gives a place, so the correct question is 'Where were you?'.",
+        "options": [
+          "Where were you?",
+          "What were you doing?",
+          "What did you see?",
+          "What was the weather like?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 404
+      },
+      {
+        "question": "اختر السؤال المناسب: I was going to the club.",
+        "correctAnswer": "What were you doing?",
+        "arabicReason": "الإجابة توضح ما كان الشخص يفعله.",
+        "englishReason": "The answer tells what the person was doing.",
+        "options": [
+          "Where were you?",
+          "What were you doing?",
+          "What was the street like?",
+          "What did you see?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 405
+      },
+      {
+        "question": "اختر السؤال المناسب: It was empty.",
+        "correctAnswer": "What was the street like?",
+        "arabicReason": "الإجابة تصف حالة الشارع.",
+        "englishReason": "The answer describes the street.",
+        "options": [
+          "What was the weather like?",
+          "What was the street like?",
+          "Where were you?",
+          "Was it morning or night?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 406
+      },
+      {
+        "question": "اختر السؤال المناسب: It was cold.",
+        "correctAnswer": "What was the weather like?",
+        "arabicReason": "الإجابة تصف حالة الطقس.",
+        "englishReason": "The answer describes the weather.",
+        "options": [
+          "What was the weather like?",
+          "What was the street like?",
+          "Where were you?",
+          "What did you do?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 407
+      },
+      {
+        "question": "اختر السؤال المناسب: It was morning.",
+        "correctAnswer": "Was it morning or night?",
+        "arabicReason": "الإجابة تحدد وقت اليوم.",
+        "englishReason": "The answer identifies the time of day.",
+        "options": [
+          "What were you doing?",
+          "Was it morning or night?",
+          "What did you see?",
+          "Where were you?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 408
+      },
+      {
+        "question": "اختر السؤال المناسب: I saw a poor dog.",
+        "correctAnswer": "What did you see?",
+        "arabicReason": "الإجابة توضح الشيء الذي رآه الشخص.",
+        "englishReason": "The answer tells what the person saw.",
+        "options": [
+          "What did you see?",
+          "What did you do?",
+          "Where were you?",
+          "How was the dog?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 409
+      },
+      {
+        "question": "اختر السؤال المناسب: He was hungry and shaking.",
+        "correctAnswer": "How was the dog?",
+        "arabicReason": "الإجابة تصف حالة الكلب.",
+        "englishReason": "The answer describes the dog's condition.",
+        "options": [
+          "What did you see?",
+          "How was the dog?",
+          "What were you doing?",
+          "Where were you?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 410
+      },
+      {
+        "question": "اختر السؤال المناسب: I gave him food and milk.",
+        "correctAnswer": "What did you do?",
+        "arabicReason": "الإجابة توضح ما فعله الشخص.",
+        "englishReason": "The answer tells what the person did.",
+        "options": [
+          "What did you do?",
+          "What did you see?",
+          "How was the dog?",
+          "What was the weather like?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 411
+      },
+      {
+        "question": "اختر السؤال المناسب: I was in the street.",
+        "correctAnswer": "Where were you?",
+        "arabicReason": "الإجابة تحدد مكان وجود الشخص.",
+        "englishReason": "The answer identifies where the person was.",
+        "options": [
+          "What was the street like?",
+          "Where were you?",
+          "What did you do?",
+          "Was it morning or night?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 412
+      },
+      {
+        "question": "اختر السؤال المناسب: I was going to the club.",
+        "correctAnswer": "What were you doing?",
+        "arabicReason": "الإجابة تصف فعلًا كان مستمرًا في الماضي.",
+        "englishReason": "The answer describes an action that was happening in the past.",
+        "options": [
+          "What were you doing?",
+          "Where were you?",
+          "What did you see?",
+          "How was the dog?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 413
+      },
+      {
+        "question": "اختر السؤال المناسب: It was empty.",
+        "correctAnswer": "What was the street like?",
+        "arabicReason": "الإجابة تصف الشارع بأنه كان فارغًا.",
+        "englishReason": "The answer describes the street as empty.",
+        "options": [
+          "Where were you?",
+          "What was the street like?",
+          "What was the weather like?",
+          "What did you do?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 414
+      },
+      {
+        "question": "اختر السؤال المناسب: It was cold.",
+        "correctAnswer": "What was the weather like?",
+        "arabicReason": "الإجابة تتحدث عن الطقس.",
+        "englishReason": "The answer is about the weather.",
+        "options": [
+          "What was the weather like?",
+          "What was the street like?",
+          "Where were you?",
+          "How was the dog?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 415
+      },
+      {
+        "question": "اختر السؤال المناسب: It was morning.",
+        "correctAnswer": "Was it morning or night?",
+        "arabicReason": "الإجابة تحدد هل كان الوقت صباحًا أم ليلًا.",
+        "englishReason": "The answer identifies whether it was morning or night.",
+        "options": [
+          "What did you see?",
+          "Was it morning or night?",
+          "What were you doing?",
+          "What did you do?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 416
+      },
+      {
+        "question": "اختر السؤال المناسب: I saw a poor dog.",
+        "correctAnswer": "What did you see?",
+        "arabicReason": "الإجابة تحدد ما شاهده الشخص.",
+        "englishReason": "The answer identifies what the person saw.",
+        "options": [
+          "What did you see?",
+          "Where were you?",
+          "How was the dog?",
+          "What was the street like?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 417
+      },
+      {
+        "question": "اختر السؤال المناسب: He was hungry and shaking.",
+        "correctAnswer": "How was the dog?",
+        "arabicReason": "الإجابة تصف حالة الكلب.",
+        "englishReason": "The answer describes how the dog was.",
+        "options": [
+          "What did you do?",
+          "How was the dog?",
+          "What did you see?",
+          "Where were you?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 418
+      },
+      {
+        "question": "اختر السؤال المناسب: I gave him food and milk.",
+        "correctAnswer": "What did you do?",
+        "arabicReason": "الإجابة تصف ما فعله الشخص.",
+        "englishReason": "The answer describes what the person did.",
+        "options": [
+          "What did you see?",
+          "What did you do?",
+          "How was the dog?",
+          "What were you doing?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 419
+      },
+      {
+        "question": "اختر السؤال المناسب: I was in the street.",
+        "correctAnswer": "Where were you?",
+        "arabicReason": "السؤال عن المكان.",
+        "englishReason": "The question asks about the place.",
+        "options": [
+          "Where were you?",
+          "What did you do?",
+          "What was the weather like?",
+          "What did you see?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 420
+      },
+      {
+        "question": "اختر السؤال المناسب: I was going to the club.",
+        "correctAnswer": "What were you doing?",
+        "arabicReason": "السؤال عن الشيء الذي كان الشخص يفعله.",
+        "englishReason": "The question asks about what the person was doing.",
+        "options": [
+          "What did you see?",
+          "What were you doing?",
+          "Where were you?",
+          "How was the dog?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 421
+      },
+      {
+        "question": "اختر السؤال المناسب: It was empty.",
+        "correctAnswer": "What was the street like?",
+        "arabicReason": "السؤال يطلب وصف الشارع.",
+        "englishReason": "The question asks for a description of the street.",
+        "options": [
+          "What was the street like?",
+          "What was the weather like?",
+          "Where were you?",
+          "Was it morning or night?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 422
+      },
+      {
+        "question": "اختر السؤال المناسب: It was cold.",
+        "correctAnswer": "What was the weather like?",
+        "arabicReason": "السؤال يطلب وصف الطقس.",
+        "englishReason": "The question asks for a description of the weather.",
+        "options": [
+          "What did you do?",
+          "What was the weather like?",
+          "What was the street like?",
+          "Where were you?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 423
+      },
+      {
+        "question": "اختر السؤال المناسب: It was morning.",
+        "correctAnswer": "Was it morning or night?",
+        "arabicReason": "السؤال يطلب تحديد وقت اليوم.",
+        "englishReason": "The question asks about the time of day.",
+        "options": [
+          "Was it morning or night?",
+          "What was the weather like?",
+          "What did you see?",
+          "Where were you?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 424
+      },
+      {
+        "question": "اختر السؤال المناسب: I saw a poor dog.",
+        "correctAnswer": "What did you see?",
+        "arabicReason": "السؤال يطلب معرفة ما رآه الشخص.",
+        "englishReason": "The question asks what the person saw.",
+        "options": [
+          "What did you see?",
+          "What did you do?",
+          "How was the dog?",
+          "What were you doing?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 425
+      },
+      {
+        "question": "اختر السؤال المناسب: He was hungry and shaking.",
+        "correctAnswer": "How was the dog?",
+        "arabicReason": "السؤال يطلب وصف حالة الكلب.",
+        "englishReason": "The question asks about the dog's condition.",
+        "options": [
+          "Where were you?",
+          "How was the dog?",
+          "What did you see?",
+          "What was the weather like?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 426
+      },
+      {
+        "question": "اختر السؤال المناسب: I gave him food and milk.",
+        "correctAnswer": "What did you do?",
+        "arabicReason": "السؤال يطلب معرفة ما فعله الشخص.",
+        "englishReason": "The question asks what the person did.",
+        "options": [
+          "What did you do?",
+          "What did you see?",
+          "How was the dog?",
+          "Where were you?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 427
+      },
+      {
+        "question": "اختر السؤال المناسب: I was in the street.",
+        "correctAnswer": "Where were you?",
+        "arabicReason": "الإجابة عن المكان.",
+        "englishReason": "The answer is about the place.",
+        "options": [
+          "Where were you?",
+          "What was the street like?",
+          "What were you doing?",
+          "What did you see?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 428
+      },
+      {
+        "question": "اختر السؤال المناسب: I was going to the club.",
+        "correctAnswer": "What were you doing?",
+        "arabicReason": "الإجابة عن النشاط الذي كان يحدث.",
+        "englishReason": "The answer is about the activity that was happening.",
+        "options": [
+          "What were you doing?",
+          "Where were you?",
+          "What did you do?",
+          "Was it morning or night?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 429
+      },
+      {
+        "question": "اختر السؤال المناسب: It was empty.",
+        "correctAnswer": "What was the street like?",
+        "arabicReason": "الإجابة تصف حالة الشارع.",
+        "englishReason": "The answer describes the street.",
+        "options": [
+          "What was the street like?",
+          "What was the weather like?",
+          "Where were you?",
+          "What did you see?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 430
+      },
+      {
+        "question": "اختر السؤال المناسب: It was cold.",
+        "correctAnswer": "What was the weather like?",
+        "arabicReason": "الإجابة تصف حالة الطقس.",
+        "englishReason": "The answer describes the weather.",
+        "options": [
+          "What was the weather like?",
+          "Was it morning or night?",
+          "What was the street like?",
+          "What did you do?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 431
+      },
+      {
+        "question": "اختر السؤال المناسب: It was morning.",
+        "correctAnswer": "Was it morning or night?",
+        "arabicReason": "الإجابة تحدد وقت وقوع الأحداث.",
+        "englishReason": "The answer identifies when the events happened.",
+        "options": [
+          "Was it morning or night?",
+          "What were you doing?",
+          "Where were you?",
+          "How was the dog?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 432
+      },
+      {
+        "question": "اختر السؤال المناسب: I saw a poor dog.",
+        "correctAnswer": "What did you see?",
+        "arabicReason": "الإجابة توضح الشيء الذي شاهده الشخص.",
+        "englishReason": "The answer tells what the person saw.",
+        "options": [
+          "What did you see?",
+          "What did you do?",
+          "Where were you?",
+          "What was the street like?"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 433
       }
     ],
     "translate": [
@@ -60364,6 +61384,516 @@
         "curriculum": "OL",
         "unit": "4",
         "id": 357
+      },
+      {
+        "word": "أين كنت؟",
+        "meaning": "Where were you?",
+        "options": [
+          "Where were you?",
+          "What were you doing?",
+          "What did you see?",
+          "What did you do?"
+        ],
+        "arabicReason": "السؤال عن مكان وجود الشخص.",
+        "englishReason": "The question asks about the person's location.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 358
+      },
+      {
+        "word": "كنت في الشارع.",
+        "meaning": "I was in the street.",
+        "options": [
+          "I was in the street.",
+          "I was going to the club.",
+          "I saw a poor dog.",
+          "It was cold."
+        ],
+        "arabicReason": "الجملة تحدد مكان وجود المتحدث.",
+        "englishReason": "The sentence tells where the speaker was.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 359
+      },
+      {
+        "word": "ماذا كنت تفعل؟",
+        "meaning": "What were you doing?",
+        "options": [
+          "What were you doing?",
+          "What did you do?",
+          "What did you see?",
+          "Where were you?"
+        ],
+        "arabicReason": "السؤال عن نشاط كان مستمرًا في الماضي.",
+        "englishReason": "The question asks about an action happening in the past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 360
+      },
+      {
+        "word": "كنت ذاهبًا إلى النادي.",
+        "meaning": "I was going to the club.",
+        "options": [
+          "I was going to the club.",
+          "I was in the street.",
+          "I gave him food and milk.",
+          "I saw a poor dog."
+        ],
+        "arabicReason": "الجملة تصف ما كان المتحدث يفعله.",
+        "englishReason": "The sentence describes what the speaker was doing.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 361
+      },
+      {
+        "word": "كيف كان الشارع؟",
+        "meaning": "What was the street like?",
+        "options": [
+          "What was the street like?",
+          "What was the weather like?",
+          "How was the dog?",
+          "Where were you?"
+        ],
+        "arabicReason": "السؤال يطلب وصف الشارع.",
+        "englishReason": "The question asks for a description of the street.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 362
+      },
+      {
+        "word": "كان الشارع فارغًا.",
+        "meaning": "It was empty.",
+        "options": [
+          "It was empty.",
+          "It was cold.",
+          "It was morning.",
+          "He was hungry and shaking."
+        ],
+        "arabicReason": "الجملة تصف حالة الشارع.",
+        "englishReason": "The sentence describes the street.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 363
+      },
+      {
+        "word": "كيف كان الطقس؟",
+        "meaning": "What was the weather like?",
+        "options": [
+          "What was the weather like?",
+          "What was the street like?",
+          "What were you doing?",
+          "How was the dog?"
+        ],
+        "arabicReason": "السؤال عن حالة الطقس.",
+        "englishReason": "The question asks about the weather.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 364
+      },
+      {
+        "word": "كان الجو باردًا.",
+        "meaning": "It was cold.",
+        "options": [
+          "It was cold.",
+          "It was empty.",
+          "It was morning.",
+          "I was in the street."
+        ],
+        "arabicReason": "الجملة تصف الطقس.",
+        "englishReason": "The sentence describes the weather.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 365
+      },
+      {
+        "word": "هل كان الصباح أم الليل؟",
+        "meaning": "Was it morning or night?",
+        "options": [
+          "Was it morning or night?",
+          "What was the weather like?",
+          "Where were you?",
+          "What did you see?"
+        ],
+        "arabicReason": "السؤال يحدد وقت وقوع الأحداث.",
+        "englishReason": "The question identifies the time of the events.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 366
+      },
+      {
+        "word": "كان الصباح.",
+        "meaning": "It was morning.",
+        "options": [
+          "It was morning.",
+          "It was cold.",
+          "It was empty.",
+          "I was going to the club."
+        ],
+        "arabicReason": "الجملة تحدد وقت اليوم.",
+        "englishReason": "The sentence identifies the time of day.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 367
+      },
+      {
+        "word": "ماذا رأيت؟",
+        "meaning": "What did you see?",
+        "options": [
+          "What did you see?",
+          "What did you do?",
+          "What were you doing?",
+          "Where were you?"
+        ],
+        "arabicReason": "السؤال عن الشيء الذي رآه الشخص.",
+        "englishReason": "The question asks what the person saw.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 368
+      },
+      {
+        "word": "رأيت كلبًا فقيرًا.",
+        "meaning": "I saw a poor dog.",
+        "options": [
+          "I saw a poor dog.",
+          "I gave him food and milk.",
+          "I was in the street.",
+          "He was hungry and shaking."
+        ],
+        "arabicReason": "الجملة تخبرنا بما رآه المتحدث.",
+        "englishReason": "The sentence tells us what the speaker saw.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 369
+      },
+      {
+        "word": "كيف كان الكلب؟",
+        "meaning": "How was the dog?",
+        "options": [
+          "How was the dog?",
+          "What did you see?",
+          "What did you do?",
+          "What was the street like?"
+        ],
+        "arabicReason": "السؤال عن حالة الكلب.",
+        "englishReason": "The question asks about the dog's condition.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 370
+      },
+      {
+        "word": "كان جائعًا ويرتعش.",
+        "meaning": "He was hungry and shaking.",
+        "options": [
+          "He was hungry and shaking.",
+          "It was cold.",
+          "I was going to the club.",
+          "I saw a poor dog."
+        ],
+        "arabicReason": "الجملة تصف حالة الكلب.",
+        "englishReason": "The sentence describes the dog's condition.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 371
+      },
+      {
+        "word": "ماذا فعلت؟",
+        "meaning": "What did you do?",
+        "options": [
+          "What did you do?",
+          "What did you see?",
+          "What were you doing?",
+          "Where were you?"
+        ],
+        "arabicReason": "السؤال عن الفعل الذي قام به الشخص.",
+        "englishReason": "The question asks what the person did.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 372
+      },
+      {
+        "word": "Where were you?",
+        "meaning": "أين كنت؟",
+        "options": [
+          "أين كنت؟",
+          "ماذا كنت تفعل؟",
+          "ماذا رأيت؟",
+          "ماذا فعلت؟"
+        ],
+        "arabicReason": "السؤال عن مكان وجود الشخص.",
+        "englishReason": "The question asks about the person's location.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 373
+      },
+      {
+        "word": "I was in the street.",
+        "meaning": "كنت في الشارع.",
+        "options": [
+          "كنت في الشارع.",
+          "كنت ذاهبًا إلى النادي.",
+          "رأيت كلبًا فقيرًا.",
+          "كان الجو باردًا."
+        ],
+        "arabicReason": "الجملة تحدد مكان وجود المتحدث.",
+        "englishReason": "The sentence tells where the speaker was.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 374
+      },
+      {
+        "word": "What were you doing?",
+        "meaning": "ماذا كنت تفعل؟",
+        "options": [
+          "ماذا كنت تفعل؟",
+          "ماذا فعلت؟",
+          "ماذا رأيت؟",
+          "أين كنت؟"
+        ],
+        "arabicReason": "السؤال عن نشاط كان مستمرًا في الماضي.",
+        "englishReason": "The question asks about an action happening in the past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 375
+      },
+      {
+        "word": "I was going to the club.",
+        "meaning": "كنت ذاهبًا إلى النادي.",
+        "options": [
+          "كنت ذاهبًا إلى النادي.",
+          "كنت في الشارع.",
+          "أعطيته الطعام واللبن.",
+          "رأيت كلبًا فقيرًا."
+        ],
+        "arabicReason": "الجملة تصف ما كان المتحدث يفعله.",
+        "englishReason": "The sentence describes what the speaker was doing.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 376
+      },
+      {
+        "word": "What was the street like?",
+        "meaning": "كيف كان الشارع؟",
+        "options": [
+          "كيف كان الشارع؟",
+          "كيف كان الطقس؟",
+          "كيف كان الكلب؟",
+          "أين كنت؟"
+        ],
+        "arabicReason": "السؤال يطلب وصف الشارع.",
+        "englishReason": "The question asks for a description of the street.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 377
+      },
+      {
+        "word": "It was empty.",
+        "meaning": "كان الشارع فارغًا.",
+        "options": [
+          "كان الشارع فارغًا.",
+          "كان الجو باردًا.",
+          "كان الصباح.",
+          "كان جائعًا ويرتعش."
+        ],
+        "arabicReason": "الجملة تصف حالة الشارع.",
+        "englishReason": "The sentence describes the street.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 378
+      },
+      {
+        "word": "What was the weather like?",
+        "meaning": "كيف كان الطقس؟",
+        "options": [
+          "كيف كان الطقس؟",
+          "كيف كان الشارع؟",
+          "ماذا كنت تفعل؟",
+          "كيف كان الكلب؟"
+        ],
+        "arabicReason": "السؤال عن حالة الطقس.",
+        "englishReason": "The question asks about the weather.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 379
+      },
+      {
+        "word": "It was cold.",
+        "meaning": "كان الجو باردًا.",
+        "options": [
+          "كان الجو باردًا.",
+          "كان الشارع فارغًا.",
+          "كان الصباح.",
+          "كنت في الشارع."
+        ],
+        "arabicReason": "الجملة تصف الطقس.",
+        "englishReason": "The sentence describes the weather.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 380
+      },
+      {
+        "word": "Was it morning or night?",
+        "meaning": "هل كان الصباح أم الليل؟",
+        "options": [
+          "هل كان الصباح أم الليل؟",
+          "كيف كان الطقس؟",
+          "أين كنت؟",
+          "ماذا رأيت؟"
+        ],
+        "arabicReason": "السؤال يحدد وقت وقوع الأحداث.",
+        "englishReason": "The question identifies the time of the events.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 381
+      },
+      {
+        "word": "It was morning.",
+        "meaning": "كان الصباح.",
+        "options": [
+          "كان الصباح.",
+          "كان الجو باردًا.",
+          "كان الشارع فارغًا.",
+          "كنت ذاهبًا إلى النادي."
+        ],
+        "arabicReason": "الجملة تحدد وقت اليوم.",
+        "englishReason": "The sentence identifies the time of day.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 382
+      },
+      {
+        "word": "What did you see?",
+        "meaning": "ماذا رأيت؟",
+        "options": [
+          "ماذا رأيت؟",
+          "ماذا فعلت؟",
+          "ماذا كنت تفعل؟",
+          "أين كنت؟"
+        ],
+        "arabicReason": "السؤال عن الشيء الذي رآه الشخص.",
+        "englishReason": "The question asks what the person saw.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 383
+      },
+      {
+        "word": "I saw a poor dog.",
+        "meaning": "رأيت كلبًا فقيرًا.",
+        "options": [
+          "رأيت كلبًا فقيرًا.",
+          "أعطيته الطعام واللبن.",
+          "كنت في الشارع.",
+          "كان جائعًا ويرتعش."
+        ],
+        "arabicReason": "الجملة تخبرنا بما رآه المتحدث.",
+        "englishReason": "The sentence tells us what the speaker saw.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 384
+      },
+      {
+        "word": "How was the dog?",
+        "meaning": "كيف كان الكلب؟",
+        "options": [
+          "كيف كان الكلب؟",
+          "ماذا رأيت؟",
+          "ماذا فعلت؟",
+          "كيف كان الشارع؟"
+        ],
+        "arabicReason": "السؤال عن حالة الكلب.",
+        "englishReason": "The question asks about the dog's condition.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 385
+      },
+      {
+        "word": "He was hungry and shaking.",
+        "meaning": "كان جائعًا ويرتعش.",
+        "options": [
+          "كان جائعًا ويرتعش.",
+          "كان الجو باردًا.",
+          "كنت ذاهبًا إلى النادي.",
+          "رأيت كلبًا فقيرًا."
+        ],
+        "arabicReason": "الجملة تصف حالة الكلب.",
+        "englishReason": "The sentence describes the dog's condition.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 386
+      },
+      {
+        "word": "What did you do?",
+        "meaning": "ماذا فعلت؟",
+        "options": [
+          "ماذا فعلت؟",
+          "ماذا رأيت؟",
+          "ماذا كنت تفعل؟",
+          "أين كنت؟"
+        ],
+        "arabicReason": "السؤال عن الفعل الذي قام به الشخص.",
+        "englishReason": "The question asks what the person did.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 387
       }
     ]
   }
