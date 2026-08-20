@@ -753,6 +753,54 @@
         "curriculum": "OL",
         "unit": "4",
         "id": 29
+      },
+      {
+        "passage": "My favorite season is {blank1}. It is {blank2}. I wear a {blank3} and {blank4}. I go {blank5} in summer. I like summer because I like {blank6}.",
+        "options": [
+          "summer",
+          "hot",
+          "T-shirt",
+          "shorts",
+          "swimming",
+          "swimming"
+        ],
+        "correctAnswer": [
+          "summer",
+          "hot",
+          "T-shirt",
+          "shorts",
+          "swimming",
+          "swimming"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 30
+      },
+      {
+        "passage": "Last summer, the weather was very {blank1}, so I went to Alexandria with my family. We travelled by {blank2}. On the way, I looked out of the window and saw many green {blank3}. I also saw some villagers working on their farms. When we arrived in Alexandria, we went to the {blank4}. The weather was warm, and the air was fresh. I swam in the sea and played in the water. My brother built a beautiful {blank5} on the beach. Later, we ate fresh fish with tasty rice. We talked, laughed, and enjoyed our meal together. It was a wonderful trip, and we all enjoyed our time in Alexandria.",
+        "options": [
+          "hot",
+          "train",
+          "fields",
+          "beach",
+          "sandcastle"
+        ],
+        "correctAnswer": [
+          "hot",
+          "train",
+          "fields",
+          "beach",
+          "sandcastle"
+        ],
+        "reason": "Complete the passage with the correct words in order.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 31
       }
     ],
     "correct": [
@@ -4077,6 +4125,186 @@
         "curriculum": "OL",
         "unit": "4",
         "id": 276
+      },
+      {
+        "sentence": "Yesterday, I go to the beach with my family.",
+        "errorWord": "go",
+        "correctWord": "went",
+        "arabicReason": "نستخدم 'went' (ماضي go) لأن الجملة تحتوي على علامة الماضي 'Yesterday'.",
+        "englishReason": "We use 'went' (past of go) because the sentence contains the past time marker 'Yesterday'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 277
+      },
+      {
+        "sentence": "Last summer, we travel to Alexandria by train.",
+        "errorWord": "travel",
+        "correctWord": "travelled",
+        "arabicReason": "نستخدم 'travelled' (ماضي travel) لأن الجملة تبدأ بـ 'Last summer' التي تدل على الماضي.",
+        "englishReason": "We use 'travelled' (past of travel) because the sentence starts with 'Last summer' which indicates the past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 278
+      },
+      {
+        "sentence": "Two days ago, I see many green fields from the train.",
+        "errorWord": "see",
+        "correctWord": "saw",
+        "arabicReason": "نستخدم 'saw' (ماضي see) لأن الجملة تحتوي على 'ago' التي تدل على حدوث الفعل في الماضي.",
+        "englishReason": "We use 'saw' (past of see) because the sentence contains 'ago' which indicates the action happened in the past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 279
+      },
+      {
+        "sentence": "Yesterday morning, we arrive in Alexandria at 10 AM.",
+        "errorWord": "arrive",
+        "correctWord": "arrived",
+        "arabicReason": "نضيف 'd' للفعل 'arrive' ليصبح 'arrived' لأن الجملة في زمن الماضي بامتياز 'Yesterday'.",
+        "englishReason": "We add 'd' to the verb 'arrive' to make it 'arrived' because the sentence is in the past tense with 'Yesterday'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 280
+      },
+      {
+        "sentence": "Last week, I swim in the sea and played in the water.",
+        "errorWord": "swim",
+        "correctWord": "swam",
+        "arabicReason": "نستخدم 'swam' (ماضي swim) لأن الجملة تبدأ بـ 'Last week' مما يدل على الماضي.",
+        "englishReason": "We use 'swam' (past of swim) because the sentence starts with 'Last week' indicating the past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 281
+      },
+      {
+        "sentence": "Yesterday, my brother build a beautiful sandcastle on the beach.",
+        "errorWord": "build",
+        "correctWord": "built",
+        "arabicReason": "نستخدم 'built' (ماضي build) لأن الفعل حدث في الماضي بعلامة 'Yesterday'.",
+        "englishReason": "We use 'built' (past of build) because the action happened in the past with the marker 'Yesterday'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 282
+      },
+      {
+        "sentence": "Last night, we eat fresh fish with tasty rice.",
+        "errorWord": "eat",
+        "correctWord": "ate",
+        "arabicReason": "نستخدم 'ate' (ماضي eat) لأن الجملة تحتوي على 'Last night' التي تدل على الماضي.",
+        "englishReason": "We use 'ate' (past of eat) because the sentence contains 'Last night' which indicates the past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 283
+      },
+      {
+        "sentence": "Two hours ago, the children play in the water at the beach.",
+        "errorWord": "play",
+        "correctWord": "played",
+        "arabicReason": "نضيف 'ed' للفعل 'play' ليصبح 'played' لأن الجملة تحتوي على 'ago' التي تدل على الماضي.",
+        "englishReason": "We add 'ed' to the verb 'play' to make it 'played' because the sentence contains 'ago' indicating the past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 284
+      },
+      {
+        "sentence": "Yesterday, I look out of the window and saw the fields.",
+        "errorWord": "look",
+        "correctWord": "looked",
+        "arabicReason": "نستخدم 'looked' (ماضي look) لأن الجملة في الماضي بسبب كلمة 'Yesterday'.",
+        "englishReason": "We use 'looked' (past of look) because the sentence is in the past tense due to the word 'Yesterday'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 285
+      },
+      {
+        "sentence": "Last summer, we enjoy our meal together at the hotel.",
+        "errorWord": "enjoy",
+        "correctWord": "enjoyed",
+        "arabicReason": "نضيف 'ed' للفعل 'enjoy' ليصبح 'enjoyed' لأن الجملة تبدأ بـ 'Last summer'.",
+        "englishReason": "We add 'ed' to the verb 'enjoy' to make it 'enjoyed' because the sentence starts with 'Last summer'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 286
+      },
+      {
+        "sentence": "An hour ago, my family talk and laughed in the room.",
+        "errorWord": "talk",
+        "correctWord": "talked",
+        "arabicReason": "نستخدم 'talked' (ماضي talk) لأن الجملة تحتوي على 'ago' مما يدل على الماضي.",
+        "englishReason": "We use 'talked' (past of talk) because the sentence contains 'ago' which indicates the past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 287
+      },
+      {
+        "sentence": "Yesterday evening, we laugh a lot during the meal.",
+        "errorWord": "laugh",
+        "correctWord": "laughed",
+        "arabicReason": "نضيف 'ed' للفعل 'laugh' ليصبح 'laughed' لأن الجملة في الماضي بامتياز 'Yesterday'.",
+        "englishReason": "We add 'ed' to the verb 'laugh' to make it 'laughed' because the sentence is in the past tense with 'Yesterday'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 288
+      },
+      {
+        "sentence": "Last summer, the weather is very hot in Alexandria.",
+        "errorWord": "is",
+        "correctWord": "was",
+        "arabicReason": "نستخدم 'was' (ماضي is) لأن الجملة تبدأ بـ 'Last summer' وتصف حالة في الماضي.",
+        "englishReason": "We use 'was' (past of is) because the sentence starts with 'Last summer' and describes a state in the past.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 289
+      },
+      {
+        "sentence": "Yesterday, I wash my hands before eating the fresh fish.",
+        "errorWord": "wash",
+        "correctWord": "washed",
+        "arabicReason": "نضيف 'ed' للفعل 'wash' ليصبح 'washed' لأن الجملة تحتوي على 'Yesterday'.",
+        "englishReason": "We add 'ed' to the verb 'wash' to make it 'washed' because the sentence contains 'Yesterday'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 290
+      },
+      {
+        "sentence": "Last night, I want to sleep early after the long trip.",
+        "errorWord": "want",
+        "correctWord": "wanted",
+        "arabicReason": "نضيف 'ed' للفعل 'want' ليصبح 'wanted' لأن الجملة تبدأ بـ 'Last night'.",
+        "englishReason": "We add 'ed' to the verb 'want' to make it 'wanted' because the sentence starts with 'Last night'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 291
       }
     ],
     "find_the_vowel": [
@@ -14046,6 +14274,106 @@
         "curriculum": "OL",
         "unit": "4",
         "id": 294
+      },
+      {
+        "sentence": "I went to Alexandria with my family.",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المكان + مع + المفعول به.",
+        "englishReason": "The correct order is subject + verb + place + with + object.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 295
+      },
+      {
+        "sentence": "We travelled to Alexandria by train.",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المكان + أداة النقل.",
+        "englishReason": "The correct order is subject + verb + place + means of transport.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 296
+      },
+      {
+        "sentence": "I saw many green fields on the way.",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به + ظرف المكان.",
+        "englishReason": "The correct order is subject + verb + object + place adverb.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 297
+      },
+      {
+        "sentence": "We went to the beach in Alexandria.",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المكان + في + المكان.",
+        "englishReason": "The correct order is subject + verb + place + in + place.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 298
+      },
+      {
+        "sentence": "The weather was warm and the air was fresh.",
+        "arabicReason": "الترتيب الصحيح للجملة هو المبتدأ + فعل الكينونة + الصفة + و + المبتدأ + فعل الكينونة + الصفة.",
+        "englishReason": "The correct order is subject + verb (to be) + adjective + and + subject + verb (to be) + adjective.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 299
+      },
+      {
+        "sentence": "I swam in the sea and played in the water.",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + ظرف المكان + و + الفعل + ظرف المكان.",
+        "englishReason": "The correct order is subject + verb + place adverb + and + verb + place adverb.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 300
+      },
+      {
+        "sentence": "My brother built a beautiful sandcastle.",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + الصفة + المفعول به.",
+        "englishReason": "The correct order is subject + verb + adjective + object.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 301
+      },
+      {
+        "sentence": "We ate fresh fish with tasty rice.",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + الصفة + المفعول به + مع + الصفة + المفعول به.",
+        "englishReason": "The correct order is subject + verb + adjective + object + with + adjective + object.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 302
+      },
+      {
+        "sentence": "We enjoyed our meal together.",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + الفعل + المفعول به + ظرف الحال.",
+        "englishReason": "The correct order is subject + verb + object + adverb of manner.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 303
+      },
+      {
+        "sentence": "It was a wonderful trip.",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل + فعل الكينونة + أداة النكرة + الصفة + الاسم.",
+        "englishReason": "The correct order is subject + verb (to be) + article + adjective + noun.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 304
       }
     ],
     "rewrite": [
@@ -19750,6 +20078,326 @@
         "curriculum": "OL",
         "unit": "4",
         "id": 483
+      },
+      {
+        "word": "summer",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 484
+      },
+      {
+        "word": "season",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 485
+      },
+      {
+        "word": "winter",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 486
+      },
+      {
+        "word": "spring",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 487
+      },
+      {
+        "word": "autumn",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 488
+      },
+      {
+        "word": "hot",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 489
+      },
+      {
+        "word": "warm",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 490
+      },
+      {
+        "word": "wear",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 491
+      },
+      {
+        "word": "shorts",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 492
+      },
+      {
+        "word": "swimming",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 493
+      },
+      {
+        "word": "summer",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 494
+      },
+      {
+        "word": "weather",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 495
+      },
+      {
+        "word": "family",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 496
+      },
+      {
+        "word": "travelled",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 497
+      },
+      {
+        "word": "train",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 498
+      },
+      {
+        "word": "window",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 499
+      },
+      {
+        "word": "fields",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 500
+      },
+      {
+        "word": "villagers",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 501
+      },
+      {
+        "word": "farms",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 502
+      },
+      {
+        "word": "beach",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 503
+      },
+      {
+        "word": "air",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 504
+      },
+      {
+        "word": "sea",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 505
+      },
+      {
+        "word": "swam",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 506
+      },
+      {
+        "word": "built",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 507
+      },
+      {
+        "word": "sandcastle",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 508
+      },
+      {
+        "word": "ate",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 509
+      },
+      {
+        "word": "fish",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 510
+      },
+      {
+        "word": "rice",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 511
+      },
+      {
+        "word": "meal",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 512
+      },
+      {
+        "word": "enjoyed",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 513
+      },
+      {
+        "word": "trip",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 514
+      },
+      {
+        "word": "saw",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 515
+      },
+      {
+        "word": "arrived",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 516
+      },
+      {
+        "word": "talked",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 517
+      },
+      {
+        "word": "laughed",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 518
+      },
+      {
+        "word": "hot",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 519
+      },
+      {
+        "word": "warm",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 520
+      },
+      {
+        "word": "fresh",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 521
+      },
+      {
+        "word": "beautiful",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 522
+      },
+      {
+        "word": "tasty",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 523
       }
     ],
     "sequence": [
@@ -24043,6 +24691,326 @@
         "curriculum": "OL",
         "unit": "4",
         "id": 481
+      },
+      {
+        "word": "summer",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 482
+      },
+      {
+        "word": "season",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 483
+      },
+      {
+        "word": "winter",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 484
+      },
+      {
+        "word": "spring",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 485
+      },
+      {
+        "word": "autumn",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 486
+      },
+      {
+        "word": "hot",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 487
+      },
+      {
+        "word": "warm",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 488
+      },
+      {
+        "word": "wear",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 489
+      },
+      {
+        "word": "shorts",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 490
+      },
+      {
+        "word": "swimming",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 491
+      },
+      {
+        "word": "summer",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 492
+      },
+      {
+        "word": "weather",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 493
+      },
+      {
+        "word": "family",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 494
+      },
+      {
+        "word": "travelled",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 495
+      },
+      {
+        "word": "train",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 496
+      },
+      {
+        "word": "window",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 497
+      },
+      {
+        "word": "fields",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 498
+      },
+      {
+        "word": "villagers",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 499
+      },
+      {
+        "word": "farms",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 500
+      },
+      {
+        "word": "beach",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 501
+      },
+      {
+        "word": "air",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 502
+      },
+      {
+        "word": "sea",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 503
+      },
+      {
+        "word": "swam",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 504
+      },
+      {
+        "word": "built",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 505
+      },
+      {
+        "word": "sandcastle",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 506
+      },
+      {
+        "word": "ate",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 507
+      },
+      {
+        "word": "fish",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 508
+      },
+      {
+        "word": "rice",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 509
+      },
+      {
+        "word": "meal",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 510
+      },
+      {
+        "word": "enjoyed",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 511
+      },
+      {
+        "word": "trip",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 512
+      },
+      {
+        "word": "saw",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 513
+      },
+      {
+        "word": "arrived",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 514
+      },
+      {
+        "word": "talked",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 515
+      },
+      {
+        "word": "laughed",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 516
+      },
+      {
+        "word": "hot",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 517
+      },
+      {
+        "word": "warm",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 518
+      },
+      {
+        "word": "fresh",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 519
+      },
+      {
+        "word": "beautiful",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 520
+      },
+      {
+        "word": "tasty",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 521
       }
     ],
     "Underline": [
@@ -34219,6 +35187,686 @@
         "curriculum": "OL",
         "unit": "4",
         "id": 479
+      },
+      {
+        "word": "summer",
+        "meaning": "الصيف",
+        "options": [
+          "الصيف",
+          "الشتاء",
+          "الربيع",
+          "الخريف"
+        ],
+        "arabicReason": "كلمة summer تعني فصل الصيف.",
+        "englishReason": "The word summer means the season after spring and before autumn.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 480
+      },
+      {
+        "word": "hot",
+        "meaning": "حار",
+        "options": [
+          "حار",
+          "بارد",
+          "دافئ",
+          "عاصف"
+        ],
+        "arabicReason": "كلمة hot تعني حار.",
+        "englishReason": "The word hot describes weather with a high temperature.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 481
+      },
+      {
+        "word": "T-shirt",
+        "meaning": "تي شيرت",
+        "options": [
+          "تي شيرت",
+          "معطف",
+          "بنطلون",
+          "قبعة"
+        ],
+        "arabicReason": "كلمة T-shirt تعني تي شيرت.",
+        "englishReason": "A T-shirt is a light piece of clothing commonly worn in warm weather.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 482
+      },
+      {
+        "word": "shorts",
+        "meaning": "شورت",
+        "options": [
+          "شورت",
+          "معطف",
+          "حذاء",
+          "وشاح"
+        ],
+        "arabicReason": "كلمة shorts تعني شورت.",
+        "englishReason": "Shorts are short trousers commonly worn in warm weather.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 483
+      },
+      {
+        "word": "swimming",
+        "meaning": "السباحة",
+        "options": [
+          "السباحة",
+          "الجري",
+          "القراءة",
+          "النوم"
+        ],
+        "arabicReason": "كلمة swimming تعني السباحة.",
+        "englishReason": "Swimming means moving through water.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 484
+      },
+      {
+        "word": "season",
+        "meaning": "فصل",
+        "options": [
+          "فصل",
+          "شهر",
+          "أسبوع",
+          "يوم"
+        ],
+        "arabicReason": "كلمة season تعني فصل من فصول السنة.",
+        "englishReason": "A season is one of the four parts of the year.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 485
+      },
+      {
+        "word": "wear",
+        "meaning": "يرتدي",
+        "options": [
+          "يرتدي",
+          "يأكل",
+          "يشرب",
+          "يلعب"
+        ],
+        "arabicReason": "كلمة wear تعني يرتدي الملابس.",
+        "englishReason": "The verb wear means to have clothes on your body.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 486
+      },
+      {
+        "word": "warm",
+        "meaning": "دافئ",
+        "options": [
+          "دافئ",
+          "بارد",
+          "حار جدًا",
+          "ممطر"
+        ],
+        "arabicReason": "كلمة warm تعني دافئ.",
+        "englishReason": "Warm describes weather that is pleasantly hot but not very hot.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 487
+      },
+      {
+        "word": "because",
+        "meaning": "لأن",
+        "options": [
+          "لأن",
+          "لكن",
+          "أين",
+          "متى"
+        ],
+        "arabicReason": "كلمة because تستخدم لذكر السبب.",
+        "englishReason": "Because is used to give a reason.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 488
+      },
+      {
+        "word": "like",
+        "meaning": "يحب",
+        "options": [
+          "يحب",
+          "يكره",
+          "يذهب",
+          "يرى"
+        ],
+        "arabicReason": "كلمة like تعني يحب أو يستمتع بشيء.",
+        "englishReason": "The verb like means to enjoy or have a positive feeling about something.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 489
+      },
+      {
+        "word": "Summer",
+        "meaning": "صيف",
+        "options": [
+          "صيف",
+          "شتاء",
+          "ربيع",
+          "خريف"
+        ],
+        "arabicReason": "الكلمة تعني 'صيف' وهو الفصل الذي يكون فيه الطقس حاراً.",
+        "englishReason": "The word means 'summer' - the hottest season of the year.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 490
+      },
+      {
+        "word": "Weather",
+        "meaning": "طقس",
+        "options": [
+          "طقس",
+          "ماء",
+          "هواء",
+          "سماء"
+        ],
+        "arabicReason": "الكلمة تعني 'طقس' أو 'جو' وتشمل حالة الجو مثل الحرارة والبرودة.",
+        "englishReason": "The word means 'weather' - the condition of the atmosphere like heat or cold.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 491
+      },
+      {
+        "word": "Family",
+        "meaning": "عائلة",
+        "options": [
+          "عائلة",
+          "أصدقاء",
+          "جيران",
+          "معلمون"
+        ],
+        "arabicReason": "الكلمة تعني 'عائلة' وتشمل الأب والأم والأبناء.",
+        "englishReason": "The word means 'family' - a group of parents and children.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 492
+      },
+      {
+        "word": "Train",
+        "meaning": "قطار",
+        "options": [
+          "قطار",
+          "طائرة",
+          "سيارة",
+          "حافلة"
+        ],
+        "arabicReason": "الكلمة تعني 'قطار' وهو وسيلة نقل تسير على قضبان.",
+        "englishReason": "The word means 'train' - a vehicle that travels on railway tracks.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 493
+      },
+      {
+        "word": "Window",
+        "meaning": "نافذة",
+        "options": [
+          "نافذة",
+          "باب",
+          "سقف",
+          "حائط"
+        ],
+        "arabicReason": "الكلمة تعني 'نافذة' وهي فتحة في الجدار يدخل منها الضوء والهواء.",
+        "englishReason": "The word means 'window' - an opening in a wall for light and air.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 494
+      },
+      {
+        "word": "Fields",
+        "meaning": "حقول",
+        "options": [
+          "حقول",
+          "غرف",
+          "شوارع",
+          "مدن"
+        ],
+        "arabicReason": "الكلمة تعني 'حقول' وهي مساحات واسعة من الأرض تُزرع فيها المحاصيل.",
+        "englishReason": "The word means 'fields' - large areas of land where crops are grown.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 495
+      },
+      {
+        "word": "Villagers",
+        "meaning": "قرويون",
+        "options": [
+          "قرويون",
+          "سكان المدينة",
+          "سكان الجبل",
+          "سكان البحر"
+        ],
+        "arabicReason": "الكلمة تعني 'قرويون' وهم الأشخاص الذين يعيشون في القرية.",
+        "englishReason": "The word means 'villagers' - people who live in a village.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 496
+      },
+      {
+        "word": "Farms",
+        "meaning": "مزارع",
+        "options": [
+          "مزارع",
+          "مصانع",
+          "مدارس",
+          "مستشفيات"
+        ],
+        "arabicReason": "الكلمة تعني 'مزارع' وهي أماكن تُربى فيها الحيوانات وتُزرع النباتات.",
+        "englishReason": "The word means 'farms' - places where animals are kept and crops are grown.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 497
+      },
+      {
+        "word": "Beach",
+        "meaning": "شاطئ",
+        "options": [
+          "شاطئ",
+          "صحراء",
+          "غابة",
+          "جبل"
+        ],
+        "arabicReason": "الكلمة تعني 'شاطئ' وهو الأرض الرملية أو الصخرية بجانب البحر.",
+        "englishReason": "The word means 'beach' - the sandy or rocky area next to the sea.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 498
+      },
+      {
+        "word": "Air",
+        "meaning": "هواء",
+        "options": [
+          "هواء",
+          "ماء",
+          "تراب",
+          "نار"
+        ],
+        "arabicReason": "الكلمة تعني 'هواء' وهو الغاز الذي نتنفسه.",
+        "englishReason": "The word means 'air' - the invisible gas that we breathe.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 499
+      },
+      {
+        "word": "Sea",
+        "meaning": "بحر",
+        "options": [
+          "بحر",
+          "نهر",
+          "بحيرة",
+          "بركة"
+        ],
+        "arabicReason": "الكلمة تعني 'بحر' وهو مسطح مائي كبير ومالح.",
+        "englishReason": "The word means 'sea' - a large body of salty water.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 500
+      },
+      {
+        "word": "Sandcastle",
+        "meaning": "قلعة رملية",
+        "options": [
+          "قلعة رملية",
+          "بيت حجري",
+          "برج عالي",
+          "كهف مظلم"
+        ],
+        "arabicReason": "العبارة تعني 'قلعة رملية' وهي شكل يشبه القلعة يُبنى من الرمل على الشاطئ.",
+        "englishReason": "The phrase means 'sandcastle' - a castle-like structure built from sand on the beach.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 501
+      },
+      {
+        "word": "Fish",
+        "meaning": "سمك",
+        "options": [
+          "سمك",
+          "لحم",
+          "دجاج",
+          "خبز"
+        ],
+        "arabicReason": "الكلمة تعني 'سمك' وهو حيوان مائي نأكله كطعام.",
+        "englishReason": "The word means 'fish' - a water animal that we eat as food.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 502
+      },
+      {
+        "word": "Rice",
+        "meaning": "أرز",
+        "options": [
+          "أرز",
+          "قمح",
+          "شعير",
+          "ذرة"
+        ],
+        "arabicReason": "الكلمة تعني 'أرز' وهو نوع من الحبوب نطبخه ونأكله.",
+        "englishReason": "The word means 'rice' - a type of grain that we cook and eat.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 503
+      },
+      {
+        "word": "Meal",
+        "meaning": "وجبة",
+        "options": [
+          "وجبة",
+          "كوب",
+          "صحن",
+          "ملعقة"
+        ],
+        "arabicReason": "الكلمة تعني 'وجبة' وهي كمية الطعام التي نتناولها في وقت معين.",
+        "englishReason": "The word means 'meal' - the food eaten at a regular time, like breakfast or dinner.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 504
+      },
+      {
+        "word": "Trip",
+        "meaning": "رحلة",
+        "options": [
+          "رحلة",
+          "عمل",
+          "واجب",
+          "لعبة"
+        ],
+        "arabicReason": "الكلمة تعني 'رحلة' وهي السفر من مكان إلى آخر.",
+        "englishReason": "The word means 'trip' - a journey from one place to another.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 505
+      },
+      {
+        "word": "Travel",
+        "meaning": "يسافر",
+        "options": [
+          "يسافر",
+          "ينام",
+          "يأكل",
+          "يجلس"
+        ],
+        "arabicReason": "الكلمة تعني 'يسافر' وهو الانتقال من مكان إلى مكان آخر.",
+        "englishReason": "The word means 'travel' - to move from one place to another.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 506
+      },
+      {
+        "word": "See",
+        "meaning": "يرى",
+        "options": [
+          "يرى",
+          "يسمع",
+          "يشم",
+          "يتذوق"
+        ],
+        "arabicReason": "الكلمة تعني 'يرى' وهو استخدام العينين لإبصار الأشياء.",
+        "englishReason": "The word means 'see' - to use your eyes to look at things.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 507
+      },
+      {
+        "word": "Arrive",
+        "meaning": "يصل",
+        "options": [
+          "يصل",
+          "يغادر",
+          "يذهب",
+          "يرجع"
+        ],
+        "arabicReason": "الكلمة تعني 'يصل' وهو الوصول إلى المكان المقصود.",
+        "englishReason": "The word means 'arrive' - to reach the place you want to go.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 508
+      },
+      {
+        "word": "Swim",
+        "meaning": "يسبح",
+        "options": [
+          "يسبح",
+          "يطير",
+          "يمشي",
+          "يركض"
+        ],
+        "arabicReason": "الكلمة تعني 'يسبح' وهو الحركة في الماء.",
+        "englishReason": "The word means 'swim' - to move through water.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 509
+      },
+      {
+        "word": "Build",
+        "meaning": "يبني",
+        "options": [
+          "يبني",
+          "يهدم",
+          "يكسر",
+          "يرسم"
+        ],
+        "arabicReason": "الكلمة تعني 'يبني' وهو إنشاء شيء مثل بيت أو قلعة.",
+        "englishReason": "The word means 'build' - to make something by putting parts together.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 510
+      },
+      {
+        "word": "Eat",
+        "meaning": "يأكل",
+        "options": [
+          "يأكل",
+          "يشرب",
+          "ينام",
+          "يلعب"
+        ],
+        "arabicReason": "الكلمة تعني 'يأكل' وهو إدخال الطعام إلى الفم ومضغه.",
+        "englishReason": "The word means 'eat' - to put food into your mouth and chew it.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 511
+      },
+      {
+        "word": "Enjoy",
+        "meaning": "يستمتع",
+        "options": [
+          "يستمتع",
+          "يحزن",
+          "يغضب",
+          "يخاف"
+        ],
+        "arabicReason": "الكلمة تعني 'يستمتع' وهو الشعور بالسعادة والرضا بشيء ما.",
+        "englishReason": "The word means 'enjoy' - to feel happy and pleased about something.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 512
+      },
+      {
+        "word": "Hot",
+        "meaning": "حار",
+        "options": [
+          "حار",
+          "بارد",
+          "دافئ",
+          "مثلج"
+        ],
+        "arabicReason": "الكلمة تعني 'حار' وهو عكس بارد، مثل طقس الصيف.",
+        "englishReason": "The word means 'hot' - having a high temperature, like summer weather.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 513
+      },
+      {
+        "word": "Warm",
+        "meaning": "دافئ",
+        "options": [
+          "دافئ",
+          "مثلج",
+          "بارد جداً",
+          "ماطر"
+        ],
+        "arabicReason": "الكلمة تعني 'دافئ' وهو طقس مريح ليس حاراً جداً ولا بارداً.",
+        "englishReason": "The word means 'warm' - comfortably hot, not too cold and not too hot.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 514
+      },
+      {
+        "word": "Fresh",
+        "meaning": "نقي",
+        "options": [
+          "نقي",
+          "وسخ",
+          "قديم",
+          "مكسور"
+        ],
+        "arabicReason": "الكلمة تعني 'نقي' أو 'طازج' مثل الهواء النظيف أو الطعام الجديد.",
+        "englishReason": "The word means 'fresh' - clean and pure like air, or newly made like food.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 515
+      },
+      {
+        "word": "Beautiful",
+        "meaning": "جميل",
+        "options": [
+          "جميل",
+          "قبيح",
+          "طويل",
+          "قصير"
+        ],
+        "arabicReason": "الكلمة تعني 'جميل' وهو ما يسر الناظرين ويعجبهم.",
+        "englishReason": "The word means 'beautiful' - very pleasing to look at.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 516
+      },
+      {
+        "word": "Tasty",
+        "meaning": "لذيذ",
+        "options": [
+          "لذيذ",
+          "مر",
+          "مالح",
+          "حامض"
+        ],
+        "arabicReason": "الكلمة تعني 'لذيذ' وهو الطعام الذي طعمه ممتاز.",
+        "englishReason": "The word means 'tasty' - having a very good flavor.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 517
+      },
+      {
+        "word": "Wonderful",
+        "meaning": "رائع",
+        "options": [
+          "رائع",
+          "سيء",
+          "عادي",
+          "محزن"
+        ],
+        "arabicReason": "الكلمة تعني 'رائع' أو 'مذهل' وتستخدم لوصف شيء ممتاز جداً.",
+        "englishReason": "The word means 'wonderful' - extremely good or excellent.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 518
+      },
+      {
+        "word": "On the way",
+        "meaning": "في الطريق",
+        "options": [
+          "في الطريق",
+          "في البيت",
+          "في المدرسة",
+          "في السرير"
+        ],
+        "arabicReason": "العبارة تعني 'في الطريق' وتستخدم عندما تكون في أثناء السفر أو الحركة.",
+        "englishReason": "The phrase means 'on the way' - used when you are traveling or moving to a place.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 519
       }
     ],
     "vocab_quiz": [
@@ -42942,6 +44590,686 @@
         "curriculum": "OL",
         "unit": "4",
         "id": 532
+      },
+      {
+        "word": "summer",
+        "meaning": "الصيف",
+        "options": [
+          "الصيف",
+          "الشتاء",
+          "الربيع",
+          "الخريف"
+        ],
+        "arabicReason": "كلمة summer تعني فصل الصيف.",
+        "englishReason": "The word summer means the season after spring and before autumn.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 533
+      },
+      {
+        "word": "hot",
+        "meaning": "حار",
+        "options": [
+          "حار",
+          "بارد",
+          "دافئ",
+          "عاصف"
+        ],
+        "arabicReason": "كلمة hot تعني حار.",
+        "englishReason": "The word hot describes weather with a high temperature.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 534
+      },
+      {
+        "word": "T-shirt",
+        "meaning": "تي شيرت",
+        "options": [
+          "تي شيرت",
+          "معطف",
+          "بنطلون",
+          "قبعة"
+        ],
+        "arabicReason": "كلمة T-shirt تعني تي شيرت.",
+        "englishReason": "A T-shirt is a light piece of clothing commonly worn in warm weather.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 535
+      },
+      {
+        "word": "shorts",
+        "meaning": "شورت",
+        "options": [
+          "شورت",
+          "معطف",
+          "حذاء",
+          "وشاح"
+        ],
+        "arabicReason": "كلمة shorts تعني شورت.",
+        "englishReason": "Shorts are short trousers commonly worn in warm weather.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 536
+      },
+      {
+        "word": "swimming",
+        "meaning": "السباحة",
+        "options": [
+          "السباحة",
+          "الجري",
+          "القراءة",
+          "النوم"
+        ],
+        "arabicReason": "كلمة swimming تعني السباحة.",
+        "englishReason": "Swimming means moving through water.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 537
+      },
+      {
+        "word": "season",
+        "meaning": "فصل",
+        "options": [
+          "فصل",
+          "شهر",
+          "أسبوع",
+          "يوم"
+        ],
+        "arabicReason": "كلمة season تعني فصل من فصول السنة.",
+        "englishReason": "A season is one of the four parts of the year.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 538
+      },
+      {
+        "word": "wear",
+        "meaning": "يرتدي",
+        "options": [
+          "يرتدي",
+          "يأكل",
+          "يشرب",
+          "يلعب"
+        ],
+        "arabicReason": "كلمة wear تعني يرتدي الملابس.",
+        "englishReason": "The verb wear means to have clothes on your body.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 539
+      },
+      {
+        "word": "warm",
+        "meaning": "دافئ",
+        "options": [
+          "دافئ",
+          "بارد",
+          "حار جدًا",
+          "ممطر"
+        ],
+        "arabicReason": "كلمة warm تعني دافئ.",
+        "englishReason": "Warm describes weather that is pleasantly hot but not very hot.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 540
+      },
+      {
+        "word": "because",
+        "meaning": "لأن",
+        "options": [
+          "لأن",
+          "لكن",
+          "أين",
+          "متى"
+        ],
+        "arabicReason": "كلمة because تستخدم لذكر السبب.",
+        "englishReason": "Because is used to give a reason.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 541
+      },
+      {
+        "word": "like",
+        "meaning": "يحب",
+        "options": [
+          "يحب",
+          "يكره",
+          "يذهب",
+          "يرى"
+        ],
+        "arabicReason": "كلمة like تعني يحب أو يستمتع بشيء.",
+        "englishReason": "The verb like means to enjoy or have a positive feeling about something.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 542
+      },
+      {
+        "word": "Summer",
+        "meaning": "صيف",
+        "options": [
+          "صيف",
+          "شتاء",
+          "ربيع",
+          "خريف"
+        ],
+        "arabicReason": "الكلمة تعني 'صيف' وهو الفصل الذي يكون فيه الطقس حاراً.",
+        "englishReason": "The word means 'summer' - the hottest season of the year.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 543
+      },
+      {
+        "word": "Weather",
+        "meaning": "طقس",
+        "options": [
+          "طقس",
+          "ماء",
+          "هواء",
+          "سماء"
+        ],
+        "arabicReason": "الكلمة تعني 'طقس' أو 'جو' وتشمل حالة الجو مثل الحرارة والبرودة.",
+        "englishReason": "The word means 'weather' - the condition of the atmosphere like heat or cold.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 544
+      },
+      {
+        "word": "Family",
+        "meaning": "عائلة",
+        "options": [
+          "عائلة",
+          "أصدقاء",
+          "جيران",
+          "معلمون"
+        ],
+        "arabicReason": "الكلمة تعني 'عائلة' وتشمل الأب والأم والأبناء.",
+        "englishReason": "The word means 'family' - a group of parents and children.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 545
+      },
+      {
+        "word": "Train",
+        "meaning": "قطار",
+        "options": [
+          "قطار",
+          "طائرة",
+          "سيارة",
+          "حافلة"
+        ],
+        "arabicReason": "الكلمة تعني 'قطار' وهو وسيلة نقل تسير على قضبان.",
+        "englishReason": "The word means 'train' - a vehicle that travels on railway tracks.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 546
+      },
+      {
+        "word": "Window",
+        "meaning": "نافذة",
+        "options": [
+          "نافذة",
+          "باب",
+          "سقف",
+          "حائط"
+        ],
+        "arabicReason": "الكلمة تعني 'نافذة' وهي فتحة في الجدار يدخل منها الضوء والهواء.",
+        "englishReason": "The word means 'window' - an opening in a wall for light and air.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 547
+      },
+      {
+        "word": "Fields",
+        "meaning": "حقول",
+        "options": [
+          "حقول",
+          "غرف",
+          "شوارع",
+          "مدن"
+        ],
+        "arabicReason": "الكلمة تعني 'حقول' وهي مساحات واسعة من الأرض تُزرع فيها المحاصيل.",
+        "englishReason": "The word means 'fields' - large areas of land where crops are grown.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 548
+      },
+      {
+        "word": "Villagers",
+        "meaning": "قرويون",
+        "options": [
+          "قرويون",
+          "سكان المدينة",
+          "سكان الجبل",
+          "سكان البحر"
+        ],
+        "arabicReason": "الكلمة تعني 'قرويون' وهم الأشخاص الذين يعيشون في القرية.",
+        "englishReason": "The word means 'villagers' - people who live in a village.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 549
+      },
+      {
+        "word": "Farms",
+        "meaning": "مزارع",
+        "options": [
+          "مزارع",
+          "مصانع",
+          "مدارس",
+          "مستشفيات"
+        ],
+        "arabicReason": "الكلمة تعني 'مزارع' وهي أماكن تُربى فيها الحيوانات وتُزرع النباتات.",
+        "englishReason": "The word means 'farms' - places where animals are kept and crops are grown.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 550
+      },
+      {
+        "word": "Beach",
+        "meaning": "شاطئ",
+        "options": [
+          "شاطئ",
+          "صحراء",
+          "غابة",
+          "جبل"
+        ],
+        "arabicReason": "الكلمة تعني 'شاطئ' وهو الأرض الرملية أو الصخرية بجانب البحر.",
+        "englishReason": "The word means 'beach' - the sandy or rocky area next to the sea.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 551
+      },
+      {
+        "word": "Air",
+        "meaning": "هواء",
+        "options": [
+          "هواء",
+          "ماء",
+          "تراب",
+          "نار"
+        ],
+        "arabicReason": "الكلمة تعني 'هواء' وهو الغاز الذي نتنفسه.",
+        "englishReason": "The word means 'air' - the invisible gas that we breathe.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 552
+      },
+      {
+        "word": "Sea",
+        "meaning": "بحر",
+        "options": [
+          "بحر",
+          "نهر",
+          "بحيرة",
+          "بركة"
+        ],
+        "arabicReason": "الكلمة تعني 'بحر' وهو مسطح مائي كبير ومالح.",
+        "englishReason": "The word means 'sea' - a large body of salty water.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 553
+      },
+      {
+        "word": "Sandcastle",
+        "meaning": "قلعة رملية",
+        "options": [
+          "قلعة رملية",
+          "بيت حجري",
+          "برج عالي",
+          "كهف مظلم"
+        ],
+        "arabicReason": "العبارة تعني 'قلعة رملية' وهي شكل يشبه القلعة يُبنى من الرمل على الشاطئ.",
+        "englishReason": "The phrase means 'sandcastle' - a castle-like structure built from sand on the beach.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 554
+      },
+      {
+        "word": "Fish",
+        "meaning": "سمك",
+        "options": [
+          "سمك",
+          "لحم",
+          "دجاج",
+          "خبز"
+        ],
+        "arabicReason": "الكلمة تعني 'سمك' وهو حيوان مائي نأكله كطعام.",
+        "englishReason": "The word means 'fish' - a water animal that we eat as food.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 555
+      },
+      {
+        "word": "Rice",
+        "meaning": "أرز",
+        "options": [
+          "أرز",
+          "قمح",
+          "شعير",
+          "ذرة"
+        ],
+        "arabicReason": "الكلمة تعني 'أرز' وهو نوع من الحبوب نطبخه ونأكله.",
+        "englishReason": "The word means 'rice' - a type of grain that we cook and eat.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 556
+      },
+      {
+        "word": "Meal",
+        "meaning": "وجبة",
+        "options": [
+          "وجبة",
+          "كوب",
+          "صحن",
+          "ملعقة"
+        ],
+        "arabicReason": "الكلمة تعني 'وجبة' وهي كمية الطعام التي نتناولها في وقت معين.",
+        "englishReason": "The word means 'meal' - the food eaten at a regular time, like breakfast or dinner.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 557
+      },
+      {
+        "word": "Trip",
+        "meaning": "رحلة",
+        "options": [
+          "رحلة",
+          "عمل",
+          "واجب",
+          "لعبة"
+        ],
+        "arabicReason": "الكلمة تعني 'رحلة' وهي السفر من مكان إلى آخر.",
+        "englishReason": "The word means 'trip' - a journey from one place to another.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 558
+      },
+      {
+        "word": "Travel",
+        "meaning": "يسافر",
+        "options": [
+          "يسافر",
+          "ينام",
+          "يأكل",
+          "يجلس"
+        ],
+        "arabicReason": "الكلمة تعني 'يسافر' وهو الانتقال من مكان إلى مكان آخر.",
+        "englishReason": "The word means 'travel' - to move from one place to another.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 559
+      },
+      {
+        "word": "See",
+        "meaning": "يرى",
+        "options": [
+          "يرى",
+          "يسمع",
+          "يشم",
+          "يتذوق"
+        ],
+        "arabicReason": "الكلمة تعني 'يرى' وهو استخدام العينين لإبصار الأشياء.",
+        "englishReason": "The word means 'see' - to use your eyes to look at things.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 560
+      },
+      {
+        "word": "Arrive",
+        "meaning": "يصل",
+        "options": [
+          "يصل",
+          "يغادر",
+          "يذهب",
+          "يرجع"
+        ],
+        "arabicReason": "الكلمة تعني 'يصل' وهو الوصول إلى المكان المقصود.",
+        "englishReason": "The word means 'arrive' - to reach the place you want to go.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 561
+      },
+      {
+        "word": "Swim",
+        "meaning": "يسبح",
+        "options": [
+          "يسبح",
+          "يطير",
+          "يمشي",
+          "يركض"
+        ],
+        "arabicReason": "الكلمة تعني 'يسبح' وهو الحركة في الماء.",
+        "englishReason": "The word means 'swim' - to move through water.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 562
+      },
+      {
+        "word": "Build",
+        "meaning": "يبني",
+        "options": [
+          "يبني",
+          "يهدم",
+          "يكسر",
+          "يرسم"
+        ],
+        "arabicReason": "الكلمة تعني 'يبني' وهو إنشاء شيء مثل بيت أو قلعة.",
+        "englishReason": "The word means 'build' - to make something by putting parts together.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 563
+      },
+      {
+        "word": "Eat",
+        "meaning": "يأكل",
+        "options": [
+          "يأكل",
+          "يشرب",
+          "ينام",
+          "يلعب"
+        ],
+        "arabicReason": "الكلمة تعني 'يأكل' وهو إدخال الطعام إلى الفم ومضغه.",
+        "englishReason": "The word means 'eat' - to put food into your mouth and chew it.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 564
+      },
+      {
+        "word": "Enjoy",
+        "meaning": "يستمتع",
+        "options": [
+          "يستمتع",
+          "يحزن",
+          "يغضب",
+          "يخاف"
+        ],
+        "arabicReason": "الكلمة تعني 'يستمتع' وهو الشعور بالسعادة والرضا بشيء ما.",
+        "englishReason": "The word means 'enjoy' - to feel happy and pleased about something.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 565
+      },
+      {
+        "word": "Hot",
+        "meaning": "حار",
+        "options": [
+          "حار",
+          "بارد",
+          "دافئ",
+          "مثلج"
+        ],
+        "arabicReason": "الكلمة تعني 'حار' وهو عكس بارد، مثل طقس الصيف.",
+        "englishReason": "The word means 'hot' - having a high temperature, like summer weather.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 566
+      },
+      {
+        "word": "Warm",
+        "meaning": "دافئ",
+        "options": [
+          "دافئ",
+          "مثلج",
+          "بارد جداً",
+          "ماطر"
+        ],
+        "arabicReason": "الكلمة تعني 'دافئ' وهو طقس مريح ليس حاراً جداً ولا بارداً.",
+        "englishReason": "The word means 'warm' - comfortably hot, not too cold and not too hot.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 567
+      },
+      {
+        "word": "Fresh",
+        "meaning": "نقي",
+        "options": [
+          "نقي",
+          "وسخ",
+          "قديم",
+          "مكسور"
+        ],
+        "arabicReason": "الكلمة تعني 'نقي' أو 'طازج' مثل الهواء النظيف أو الطعام الجديد.",
+        "englishReason": "The word means 'fresh' - clean and pure like air, or newly made like food.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 568
+      },
+      {
+        "word": "Beautiful",
+        "meaning": "جميل",
+        "options": [
+          "جميل",
+          "قبيح",
+          "طويل",
+          "قصير"
+        ],
+        "arabicReason": "الكلمة تعني 'جميل' وهو ما يسر الناظرين ويعجبهم.",
+        "englishReason": "The word means 'beautiful' - very pleasing to look at.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 569
+      },
+      {
+        "word": "Tasty",
+        "meaning": "لذيذ",
+        "options": [
+          "لذيذ",
+          "مر",
+          "مالح",
+          "حامض"
+        ],
+        "arabicReason": "الكلمة تعني 'لذيذ' وهو الطعام الذي طعمه ممتاز.",
+        "englishReason": "The word means 'tasty' - having a very good flavor.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 570
+      },
+      {
+        "word": "Wonderful",
+        "meaning": "رائع",
+        "options": [
+          "رائع",
+          "سيء",
+          "عادي",
+          "محزن"
+        ],
+        "arabicReason": "الكلمة تعني 'رائع' أو 'مذهل' وتستخدم لوصف شيء ممتاز جداً.",
+        "englishReason": "The word means 'wonderful' - extremely good or excellent.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 571
+      },
+      {
+        "word": "On the way",
+        "meaning": "في الطريق",
+        "options": [
+          "في الطريق",
+          "في البيت",
+          "في المدرسة",
+          "في السرير"
+        ],
+        "arabicReason": "العبارة تعني 'في الطريق' وتستخدم عندما تكون في أثناء السفر أو الحركة.",
+        "englishReason": "The phrase means 'on the way' - used when you are traveling or moving to a place.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 572
       }
     ],
     "what_do_you_hear": [
@@ -47950,6 +50278,146 @@
         "curriculum": "OL",
         "unit": "4",
         "id": 357
+      },
+      {
+        "sentence": "We travelled to Alexandria by train.",
+        "options": [
+          "We travelled to Alexandria by train.",
+          "We travelled to Alexandria by bus.",
+          "We travelled to Cairo by train.",
+          "We travelled to Alexandria by car."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 358
+      },
+      {
+        "sentence": "I saw many green fields on the way.",
+        "options": [
+          "I saw many green fields on the way.",
+          "I saw many blue fields on the way.",
+          "I saw many green trees on the way.",
+          "I heard many green fields on the way."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 359
+      },
+      {
+        "sentence": "The weather was very hot last summer.",
+        "options": [
+          "The weather was very hot last summer.",
+          "The weather was very cold last summer.",
+          "The weather was very hot last winter.",
+          "The weather was very hot yesterday."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 360
+      },
+      {
+        "sentence": "We went to the beach when we arrived.",
+        "options": [
+          "We went to the beach when we arrived.",
+          "We went to the park when we arrived.",
+          "We went to the beach when we left.",
+          "We went to the school when we arrived."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 361
+      },
+      {
+        "sentence": "I swam in the sea and played in the water.",
+        "options": [
+          "I swam in the sea and played in the water.",
+          "I swam in the pool and played in the water.",
+          "I swam in the sea and slept in the water.",
+          "I ran in the sea and played in the water."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 362
+      },
+      {
+        "sentence": "My brother built a beautiful sandcastle.",
+        "options": [
+          "My brother built a beautiful sandcastle.",
+          "My brother built a beautiful house.",
+          "My sister built a beautiful sandcastle.",
+          "My brother broke a beautiful sandcastle."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 363
+      },
+      {
+        "sentence": "We ate fresh fish with tasty rice.",
+        "options": [
+          "We ate fresh fish with tasty rice.",
+          "We ate fresh fish with tasty bread.",
+          "We bought fresh fish with tasty rice.",
+          "We ate old fish with tasty rice."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 364
+      },
+      {
+        "sentence": "We talked, laughed, and enjoyed our meal.",
+        "options": [
+          "We talked, laughed, and enjoyed our meal.",
+          "We talked, cried, and enjoyed our meal.",
+          "We talked, laughed, and cooked our meal.",
+          "We walked, laughed, and enjoyed our meal."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 365
+      },
+      {
+        "sentence": "The air was fresh and the weather was warm.",
+        "options": [
+          "The air was fresh and the weather was warm.",
+          "The air was dirty and the weather was warm.",
+          "The air was fresh and the weather was cold.",
+          "The air was fresh and the weather was hot."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 366
+      },
+      {
+        "sentence": "It was a wonderful trip with my family.",
+        "options": [
+          "It was a wonderful trip with my family.",
+          "It was a bad trip with my family.",
+          "It was a wonderful trip with my friends.",
+          "It was a wonderful trip with my teacher."
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 367
       }
     ],
     "vocab_choose": [
@@ -55313,6 +57781,346 @@
         "curriculum": "OL",
         "unit": "5",
         "id": 433
+      },
+      {
+        "question": "My favorite ______ is summer.",
+        "correctAnswer": "season",
+        "arabicReason": "نستخدم season لأننا نتحدث عن فصل الصيف.",
+        "englishReason": "We use season because summer is one of the four seasons.",
+        "options": [
+          "season",
+          "month",
+          "day",
+          "week"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 434
+      },
+      {
+        "question": "Summer is usually ______.",
+        "correctAnswer": "hot",
+        "arabicReason": "نستخدم hot لأن الجو في الصيف يكون حارًا.",
+        "englishReason": "We use hot to describe the high temperature in summer.",
+        "options": [
+          "hot",
+          "cold",
+          "warm",
+          "windy"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 435
+      },
+      {
+        "question": "I wear a ______ in summer.",
+        "correctAnswer": "T-shirt",
+        "arabicReason": "نستخدم T-shirt لأنها ملابس مناسبة للجو الحار.",
+        "englishReason": "We use T-shirt because it is suitable for warm weather.",
+        "options": [
+          "T-shirt",
+          "coat",
+          "scarf",
+          "jacket"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 436
+      },
+      {
+        "question": "I wear ______ when it is hot.",
+        "correctAnswer": "shorts",
+        "arabicReason": "نستخدم shorts لأنها مناسبة للجو الحار.",
+        "englishReason": "We use shorts because they are suitable for hot weather.",
+        "options": [
+          "shorts",
+          "coat",
+          "scarf",
+          "gloves"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 437
+      },
+      {
+        "question": "I go ______ in summer.",
+        "correctAnswer": "swimming",
+        "arabicReason": "نستخدم swimming لأن السباحة نشاط مناسب للصيف.",
+        "englishReason": "We use swimming because it is a common summer activity.",
+        "options": [
+          "swimming",
+          "sleeping",
+          "reading",
+          "cooking"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 438
+      },
+      {
+        "question": "Spring is a ______.",
+        "correctAnswer": "season",
+        "arabicReason": "نستخدم season لأن الربيع فصل من فصول السنة.",
+        "englishReason": "We use season because spring is one of the four seasons.",
+        "options": [
+          "season",
+          "month",
+          "day",
+          "week"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 439
+      },
+      {
+        "question": "The weather is ______ in spring.",
+        "correctAnswer": "warm",
+        "arabicReason": "نستخدم warm لوصف الجو الدافئ في الربيع.",
+        "englishReason": "We use warm to describe the mild weather in spring.",
+        "options": [
+          "warm",
+          "cold",
+          "hot",
+          "snowy"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 440
+      },
+      {
+        "question": "I ______ a T-shirt in summer.",
+        "correctAnswer": "wear",
+        "arabicReason": "نستخدم wear لأننا نتحدث عن الملابس التي نرتديها.",
+        "englishReason": "We use wear when talking about clothes we have on.",
+        "options": [
+          "wear",
+          "eat",
+          "drink",
+          "play"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 441
+      },
+      {
+        "question": "I like summer ______ I like swimming.",
+        "correctAnswer": "because",
+        "arabicReason": "نستخدم because لذكر سبب حب الصيف.",
+        "englishReason": "We use because to give the reason for liking summer.",
+        "options": [
+          "because",
+          "but",
+          "where",
+          "when"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 442
+      },
+      {
+        "question": "Do you ______ summer?",
+        "correctAnswer": "like",
+        "arabicReason": "نستخدم like بعد Do للسؤال عما إذا كان الشخص يحب الصيف.",
+        "englishReason": "We use like after Do to ask if someone enjoys summer.",
+        "options": [
+          "like",
+          "wear",
+          "swim",
+          "hot"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 443
+      },
+      {
+        "question": "Last summer, we ______ to Alexandria by train.",
+        "correctAnswer": "travelled",
+        "arabicReason": "نستخدم 'travelled' (ماضي travel) لأن الجملة تدل على حدث في الماضي بـ 'Last summer'.",
+        "englishReason": "We use 'travelled' (past of travel) because the sentence indicates a past event with 'Last summer'.",
+        "options": [
+          "travelled",
+          "travel",
+          "travels",
+          "travelling"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 444
+      },
+      {
+        "question": "On the way, I looked out of the window and ______ many green fields.",
+        "correctAnswer": "saw",
+        "arabicReason": "نستخدم 'saw' (ماضي see) لأن الفعل يجب أن يكون في الماضي ليتوافق مع 'looked'.",
+        "englishReason": "We use 'saw' (past of see) because the verb must be in the past tense to match 'looked'.",
+        "options": [
+          "saw",
+          "see",
+          "seen",
+          "seeing"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 445
+      },
+      {
+        "question": "When we ______ in Alexandria, we went to the beach.",
+        "correctAnswer": "arrived",
+        "arabicReason": "نستخدم 'arrived' (ماضي arrive) لأن الوصول حدث في الماضي.",
+        "englishReason": "We use 'arrived' (past of arrive) because the arrival happened in the past.",
+        "options": [
+          "arrived",
+          "arrive",
+          "arrives",
+          "arriving"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 446
+      },
+      {
+        "question": "I ______ in the sea and played in the water.",
+        "correctAnswer": "swam",
+        "arabicReason": "نستخدم 'swam' (ماضي swim) لأن الفعل يجب أن يكون في الماضي ليتوافق مع 'played'.",
+        "englishReason": "We use 'swam' (past of swim) because the verb must be in the past tense to match 'played'.",
+        "options": [
+          "swam",
+          "swim",
+          "swims",
+          "swimming"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 447
+      },
+      {
+        "question": "My brother ______ a beautiful sandcastle on the beach.",
+        "correctAnswer": "built",
+        "arabicReason": "نستخدم 'built' (ماضي build) لأن بناء القلعة حدث في الماضي.",
+        "englishReason": "We use 'built' (past of build) because building the castle happened in the past.",
+        "options": [
+          "built",
+          "build",
+          "builds",
+          "building"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 448
+      },
+      {
+        "question": "Later, we ______ fresh fish with tasty rice.",
+        "correctAnswer": "ate",
+        "arabicReason": "نستخدم 'ate' (ماضي eat) لأن تناول الطعام حدث في الماضي.",
+        "englishReason": "We use 'ate' (past of eat) because having the meal happened in the past.",
+        "options": [
+          "ate",
+          "eat",
+          "eats",
+          "eating"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 449
+      },
+      {
+        "question": "We talked, laughed, and ______ our meal together.",
+        "correctAnswer": "enjoyed",
+        "arabicReason": "نستخدم 'enjoyed' (ماضي enjoy) ليتوافق مع الأفعال الماضية الأخرى 'talked' و 'laughed'.",
+        "englishReason": "We use 'enjoyed' (past of enjoy) to match the other past tense verbs 'talked' and 'laughed'.",
+        "options": [
+          "enjoyed",
+          "enjoy",
+          "enjoys",
+          "enjoying"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 450
+      },
+      {
+        "question": "Last summer, the weather was very ______, so we went to Alexandria.",
+        "correctAnswer": "hot",
+        "arabicReason": "نستخدم 'hot' لأن النص يذكر أن طقس الصيف كان حاراً جداً.",
+        "englishReason": "We use 'hot' because the text mentions that the summer weather was very hot.",
+        "options": [
+          "hot",
+          "cold",
+          "rainy",
+          "snowy"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 451
+      },
+      {
+        "question": "The weather was warm, and the air was ______ at the beach.",
+        "correctAnswer": "fresh",
+        "arabicReason": "نستخدم 'fresh' لوصف الهواء النقي والنظيف عند الشاطئ.",
+        "englishReason": "We use 'fresh' to describe the clean and pure air at the beach.",
+        "options": [
+          "fresh",
+          "dirty",
+          "old",
+          "bad"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 452
+      },
+      {
+        "question": "It was a ______ trip, and we all had a great time.",
+        "correctAnswer": "wonderful",
+        "arabicReason": "نستخدم 'wonderful' لوصف الرحلة بأنها كانت رائعة وممتازة.",
+        "englishReason": "We use 'wonderful' to describe the trip as excellent and great.",
+        "options": [
+          "wonderful",
+          "bad",
+          "terrible",
+          "sad"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 453
       }
     ],
     "translate": [
@@ -61894,6 +64702,346 @@
         "curriculum": "OL",
         "unit": "5",
         "id": 387
+      },
+      {
+        "word": "Last summer, I went to Alexandria.",
+        "meaning": "الصيف الماضي، ذهبت إلى الإسكندرية.",
+        "options": [
+          "الشتاء الماضي، ذهبت إلى الإسكندرية.",
+          "الصيف الماضي، ذهبت إلى القاهرة.",
+          "الصيف الماضي، ذهبت إلى الإسكندرية.",
+          "الصيف الماضي، ذهبت إلى البحر."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 388
+      },
+      {
+        "word": "We travelled by train.",
+        "meaning": "سافرنا بالقطار.",
+        "options": [
+          "سافرنا بالطائرة.",
+          "سافرنا بالقطار.",
+          "سافرنا بالسيارة.",
+          "سافرنا بالحافلة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 389
+      },
+      {
+        "word": "The weather was very hot.",
+        "meaning": "كان الطقس حاراً جداً.",
+        "options": [
+          "كان الطقس بارداً جداً.",
+          "كان الطقس حاراً جداً.",
+          "كان الطقس ممطراً جداً.",
+          "كان الطقس لطيفاً جداً."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 390
+      },
+      {
+        "word": "I saw many green fields.",
+        "meaning": "رأيت حقولاً خضراء كثيرة.",
+        "options": [
+          "رأيت حقولاً خضراء كثيرة.",
+          "رأيت أشجاراً خضراء كثيرة.",
+          "رأيت حقولاً صفراء كثيرة.",
+          "رأيت بحراً أخضر كثيراً."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 391
+      },
+      {
+        "word": "We went to the beach.",
+        "meaning": "ذهبنا إلى الشاطئ.",
+        "options": [
+          "ذهبنا إلى الحديقة.",
+          "ذهبنا إلى الشاطئ.",
+          "ذهبنا إلى المزرعة.",
+          "ذهبنا إلى المدرسة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 392
+      },
+      {
+        "word": "I swam in the sea.",
+        "meaning": "سبحت في البحر.",
+        "options": [
+          "سبحت في النهر.",
+          "سبحت في المسبح.",
+          "سبحت في البحر.",
+          "مشيت في البحر."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 393
+      },
+      {
+        "word": "My brother built a sandcastle.",
+        "meaning": "بنى أخي قلعة رملية.",
+        "options": [
+          "بنى أخي بيتاً حجرياً.",
+          "بنى أخي قلعة رملية.",
+          "بنى أبي قلعة رملية.",
+          "كسر أخي قلعة رملية."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 394
+      },
+      {
+        "word": "We ate fresh fish.",
+        "meaning": "أكلنا سمكاً طازجاً.",
+        "options": [
+          "أكلنا لحماً طازجاً.",
+          "أكلنا سمكاً طازجاً.",
+          "اشترينا سمكاً طازجاً.",
+          "أكلنا سمكاً مجمداً."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 395
+      },
+      {
+        "word": "The air was fresh and warm.",
+        "meaning": "كان الهواء نقياً ودافئاً.",
+        "options": [
+          "كان الهواء نقياً وبارداً.",
+          "كان الهواء ملوثاً ودافئاً.",
+          "كان الهواء نقياً ودافئاً.",
+          "كان الماء نقياً ودافئاً."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 396
+      },
+      {
+        "word": "It was a wonderful trip.",
+        "meaning": "كانت رحلة رائعة.",
+        "options": [
+          "كانت رحلة سيئة.",
+          "كانت رحلة طويلة.",
+          "كانت رحلة رائعة.",
+          "كانت رحلة قصيرة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 397
+      },
+      {
+        "word": "الصيف الماضي، ذهبت إلى الإسكندرية.",
+        "meaning": "Last summer, I went to Alexandria.",
+        "options": [
+          "Last winter, I went to Alexandria.",
+          "Last summer, I went to Cairo.",
+          "Last summer, I went to Alexandria.",
+          "Last summer, I travelled to Alexandria."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 398
+      },
+      {
+        "word": "سافرنا بالقطار.",
+        "meaning": "We travelled by train.",
+        "options": [
+          "We travelled by bus.",
+          "We travelled by train.",
+          "We travelled by car.",
+          "We travelled by plane."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 399
+      },
+      {
+        "word": "كان الطقس حاراً جداً.",
+        "meaning": "The weather was very hot.",
+        "options": [
+          "The weather was very cold.",
+          "The weather was very hot.",
+          "The weather was very rainy.",
+          "The weather was very nice."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 400
+      },
+      {
+        "word": "رأيت حقولاً خضراء كثيرة.",
+        "meaning": "I saw many green fields.",
+        "options": [
+          "I saw many green trees.",
+          "I saw many green fields.",
+          "I saw many yellow fields.",
+          "I saw many green seas."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 401
+      },
+      {
+        "word": "ذهبنا إلى الشاطئ.",
+        "meaning": "We went to the beach.",
+        "options": [
+          "We went to the park.",
+          "We went to the beach.",
+          "We went to the sea.",
+          "We went to the farm."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 402
+      },
+      {
+        "word": "سبحت في البحر.",
+        "meaning": "I swam in the sea.",
+        "options": [
+          "I swam in the river.",
+          "I swam in the pool.",
+          "I swam in the sea.",
+          "I walked in the sea."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 403
+      },
+      {
+        "word": "بنى أخي قلعة رملية.",
+        "meaning": "My brother built a sandcastle.",
+        "options": [
+          "My brother built a stone house.",
+          "My brother built a sandcastle.",
+          "My father built a sandcastle.",
+          "My brother broke a sandcastle."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 404
+      },
+      {
+        "word": "أكلنا سمكاً طازجاً.",
+        "meaning": "We ate fresh fish.",
+        "options": [
+          "We ate fresh meat.",
+          "We ate fresh fish.",
+          "We bought fresh fish.",
+          "We ate frozen fish."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 405
+      },
+      {
+        "word": "كان الهواء نقياً ودافئاً.",
+        "meaning": "The air was fresh and warm.",
+        "options": [
+          "The air was fresh and cold.",
+          "The air was dirty and warm.",
+          "The air was fresh and warm.",
+          "The water was fresh and warm."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 406
+      },
+      {
+        "word": "كانت رحلة رائعة.",
+        "meaning": "It was a wonderful trip.",
+        "options": [
+          "It was a bad trip.",
+          "It was a long trip.",
+          "It was a wonderful trip.",
+          "It was a short trip."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "5",
+        "id": 407
       }
     ]
   }
