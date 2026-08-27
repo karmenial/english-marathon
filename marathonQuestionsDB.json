@@ -4305,6 +4305,246 @@
         "curriculum": "OL",
         "unit": "5",
         "id": 291
+      },
+      {
+        "sentence": "Ali is tall than Omar.",
+        "errorWord": "tall",
+        "correctWord": "taller",
+        "arabicReason": "نستخدم taller مع than للمقارنة بين طول شخصين.",
+        "englishReason": "We use taller with than to compare the height of two people.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 292
+      },
+      {
+        "sentence": "A car is fast than a bicycle.",
+        "errorWord": "fast",
+        "correctWord": "faster",
+        "arabicReason": "نستخدم faster للمقارنة بين سرعة السيارة والدراجة.",
+        "englishReason": "We use faster to compare the speed of a car and a bicycle.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 293
+      },
+      {
+        "sentence": "My brother is old than me.",
+        "errorWord": "old",
+        "correctWord": "older",
+        "arabicReason": "نستخدم older للمقارنة بين عمر شخصين.",
+        "englishReason": "We use older to compare the ages of two people.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 294
+      },
+      {
+        "sentence": "A giraffe is tall than a horse.",
+        "errorWord": "tall",
+        "correctWord": "taller",
+        "arabicReason": "نستخدم taller لأن الزرافة أطول من الحصان.",
+        "englishReason": "We use taller because a giraffe is taller than a horse.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 295
+      },
+      {
+        "sentence": "Today is hot than yesterday.",
+        "errorWord": "hot",
+        "correctWord": "hotter",
+        "arabicReason": "نستخدم hotter للمقارنة بين درجة حرارة اليوم والأمس.",
+        "englishReason": "We use hotter to compare today's temperature with yesterday's.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 296
+      },
+      {
+        "sentence": "Winter is cold than summer.",
+        "errorWord": "cold",
+        "correctWord": "colder",
+        "arabicReason": "نستخدم colder لأن الشتاء أبرد من الصيف.",
+        "englishReason": "We use colder because winter is colder than summer.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 297
+      },
+      {
+        "sentence": "A mouse is small than a cat.",
+        "errorWord": "small",
+        "correctWord": "smaller",
+        "arabicReason": "نستخدم smaller للمقارنة بين حجم الفأر والقطة.",
+        "englishReason": "We use smaller to compare the size of a mouse and a cat.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 298
+      },
+      {
+        "sentence": "An elephant is big than a dog.",
+        "errorWord": "big",
+        "correctWord": "bigger",
+        "arabicReason": "نستخدم bigger لأن الفيل أكبر من الكلب.",
+        "englishReason": "We use bigger because an elephant is bigger than a dog.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 299
+      },
+      {
+        "sentence": "My new bag is light than my old bag.",
+        "errorWord": "light",
+        "correctWord": "lighter",
+        "arabicReason": "نستخدم lighter للمقارنة بين وزن الحقيبتين.",
+        "englishReason": "We use lighter to compare the weight of the two bags.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 300
+      },
+      {
+        "sentence": "This book is short than that book.",
+        "errorWord": "short",
+        "correctWord": "shorter",
+        "arabicReason": "نستخدم shorter للمقارنة بين طول الكتابين.",
+        "englishReason": "We use shorter to compare the length of two books.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 301
+      },
+      {
+        "sentence": "My house is big than your house.",
+        "errorWord": "big",
+        "correctWord": "bigger",
+        "arabicReason": "نستخدم bigger للمقارنة بين حجم المنزلين.",
+        "englishReason": "We use bigger to compare the size of two houses.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 302
+      },
+      {
+        "sentence": "A lion is strong than a cat.",
+        "errorWord": "strong",
+        "correctWord": "stronger",
+        "arabicReason": "نستخدم stronger للمقارنة بين قوة الأسد والقطة.",
+        "englishReason": "We use stronger to compare the strength of a lion and a cat.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 303
+      },
+      {
+        "sentence": "My sister is young than me.",
+        "errorWord": "young",
+        "correctWord": "younger",
+        "arabicReason": "نستخدم younger للمقارنة بين عمر شخصين.",
+        "englishReason": "We use younger to compare the ages of two people.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 304
+      },
+      {
+        "sentence": "The blue pencil is long than the red pencil.",
+        "errorWord": "long",
+        "correctWord": "longer",
+        "arabicReason": "نستخدم longer للمقارنة بين طول القلمين.",
+        "englishReason": "We use longer to compare the length of two pencils.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 305
+      },
+      {
+        "sentence": "A rabbit is fast than a turtle.",
+        "errorWord": "fast",
+        "correctWord": "faster",
+        "arabicReason": "نستخدم faster لأن الأرنب أسرع من السلحفاة.",
+        "englishReason": "We use faster because a rabbit is faster than a turtle.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 306
+      },
+      {
+        "sentence": "My school is large than my house.",
+        "errorWord": "large",
+        "correctWord": "larger",
+        "arabicReason": "نستخدم larger للمقارنة بين حجم المدرسة والمنزل.",
+        "englishReason": "We use larger to compare the size of the school and the house.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 307
+      },
+      {
+        "sentence": "This box is heavy than that box.",
+        "errorWord": "heavy",
+        "correctWord": "heavier",
+        "arabicReason": "نستخدم heavier للمقارنة بين وزن الصندوقين.",
+        "englishReason": "We use heavier to compare the weight of two boxes.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 308
+      },
+      {
+        "sentence": "A train is long than a car.",
+        "errorWord": "long",
+        "correctWord": "longer",
+        "arabicReason": "نستخدم longer للمقارنة بين طول القطار والسيارة.",
+        "englishReason": "We use longer to compare the length of a train and a car.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 309
+      },
+      {
+        "sentence": "My new shoes are clean than my old shoes.",
+        "errorWord": "clean",
+        "correctWord": "cleaner",
+        "arabicReason": "نستخدم cleaner للمقارنة بين نظافة الحذاءين.",
+        "englishReason": "We use cleaner to compare the condition of two pairs of shoes.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 310
+      },
+      {
+        "sentence": "The sun is bright than the moon.",
+        "errorWord": "bright",
+        "correctWord": "brighter",
+        "arabicReason": "نستخدم brighter للمقارنة بين سطوع الشمس والقمر.",
+        "englishReason": "We use brighter to compare the brightness of the sun and the moon.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 311
       }
     ],
     "find_the_vowel": [
@@ -9643,6 +9883,346 @@
         "curriculum": "OL",
         "unit": "4",
         "id": 313
+      },
+      {
+        "question": "Ali is ______ than Omar.",
+        "correctAnswer": "taller",
+        "arabicReason": "نستخدم taller للمقارنة بين شخصين في الطول.",
+        "englishReason": "We use taller to compare the height of two people.",
+        "options": [
+          "taller",
+          "tall",
+          "tallest",
+          "more tall"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 314
+      },
+      {
+        "question": "A car is ______ than a bicycle.",
+        "correctAnswer": "faster",
+        "arabicReason": "نستخدم faster للمقارنة بين سرعة السيارة والدراجة.",
+        "englishReason": "We use faster to compare the speed of a car and a bicycle.",
+        "options": [
+          "fast",
+          "faster",
+          "fastest",
+          "more fast"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 315
+      },
+      {
+        "question": "My brother is ______ than me.",
+        "correctAnswer": "older",
+        "arabicReason": "نستخدم older للمقارنة بين عمر شخصين.",
+        "englishReason": "We use older to compare the ages of two people.",
+        "options": [
+          "old",
+          "older",
+          "oldest",
+          "more old"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 316
+      },
+      {
+        "question": "A giraffe is ______ than a horse.",
+        "correctAnswer": "taller",
+        "arabicReason": "نستخدم taller لأن الزرافة أطول من الحصان.",
+        "englishReason": "We use taller because a giraffe is taller than a horse.",
+        "options": [
+          "tall",
+          "taller",
+          "tallest",
+          "more tall"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 317
+      },
+      {
+        "question": "Today is ______ than yesterday.",
+        "correctAnswer": "hotter",
+        "arabicReason": "نستخدم hotter للمقارنة بين درجة حرارة اليوم والأمس.",
+        "englishReason": "We use hotter to compare today's temperature with yesterday's.",
+        "options": [
+          "hot",
+          "hotter",
+          "hottest",
+          "more hot"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 318
+      },
+      {
+        "question": "Winter is ______ than summer.",
+        "correctAnswer": "colder",
+        "arabicReason": "نستخدم colder لأن الشتاء أبرد من الصيف.",
+        "englishReason": "We use colder because winter is colder than summer.",
+        "options": [
+          "cold",
+          "colder",
+          "coldest",
+          "more cold"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 319
+      },
+      {
+        "question": "A mouse is ______ than a cat.",
+        "correctAnswer": "smaller",
+        "arabicReason": "نستخدم smaller للمقارنة بين حجم الفأر والقطة.",
+        "englishReason": "We use smaller to compare the size of a mouse and a cat.",
+        "options": [
+          "small",
+          "smaller",
+          "smallest",
+          "more small"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 320
+      },
+      {
+        "question": "An elephant is ______ than a dog.",
+        "correctAnswer": "bigger",
+        "arabicReason": "نستخدم bigger لأن الفيل أكبر من الكلب.",
+        "englishReason": "We use bigger because an elephant is bigger than a dog.",
+        "options": [
+          "big",
+          "bigger",
+          "biggest",
+          "more big"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 321
+      },
+      {
+        "question": "My new bag is ______ than my old bag.",
+        "correctAnswer": "lighter",
+        "arabicReason": "نستخدم lighter للمقارنة بين وزن الحقيبتين.",
+        "englishReason": "We use lighter to compare the weight of the two bags.",
+        "options": [
+          "light",
+          "lighter",
+          "lightest",
+          "more light"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 322
+      },
+      {
+        "question": "This book is ______ than that book.",
+        "correctAnswer": "shorter",
+        "arabicReason": "نستخدم shorter للمقارنة بين طول الكتابين.",
+        "englishReason": "We use shorter to compare the length of two books.",
+        "options": [
+          "short",
+          "shorter",
+          "shortest",
+          "more short"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 323
+      },
+      {
+        "question": "My house is ______ than your house.",
+        "correctAnswer": "bigger",
+        "arabicReason": "نستخدم bigger للمقارنة بين حجم المنزلين.",
+        "englishReason": "We use bigger to compare the size of two houses.",
+        "options": [
+          "big",
+          "bigger",
+          "biggest",
+          "more big"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 324
+      },
+      {
+        "question": "A lion is ______ than a cat.",
+        "correctAnswer": "stronger",
+        "arabicReason": "نستخدم stronger للمقارنة بين قوة الأسد والقطة.",
+        "englishReason": "We use stronger to compare the strength of a lion and a cat.",
+        "options": [
+          "strong",
+          "stronger",
+          "strongest",
+          "more strong"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 325
+      },
+      {
+        "question": "My sister is ______ than me.",
+        "correctAnswer": "younger",
+        "arabicReason": "نستخدم younger للمقارنة بين عمر شخصين.",
+        "englishReason": "We use younger to compare the ages of two people.",
+        "options": [
+          "young",
+          "younger",
+          "youngest",
+          "more young"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 326
+      },
+      {
+        "question": "The blue pencil is ______ than the red pencil.",
+        "correctAnswer": "longer",
+        "arabicReason": "نستخدم longer للمقارنة بين طول القلمين.",
+        "englishReason": "We use longer to compare the length of two pencils.",
+        "options": [
+          "long",
+          "longer",
+          "longest",
+          "more long"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 327
+      },
+      {
+        "question": "A rabbit is ______ than a turtle.",
+        "correctAnswer": "faster",
+        "arabicReason": "نستخدم faster لأن الأرنب أسرع من السلحفاة.",
+        "englishReason": "We use faster because a rabbit is faster than a turtle.",
+        "options": [
+          "fast",
+          "faster",
+          "fastest",
+          "more fast"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 328
+      },
+      {
+        "question": "My school is ______ than my house.",
+        "correctAnswer": "larger",
+        "arabicReason": "نستخدم larger للمقارنة بين حجم المدرسة والمنزل.",
+        "englishReason": "We use larger to compare the size of the school and the house.",
+        "options": [
+          "large",
+          "larger",
+          "largest",
+          "more large"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 329
+      },
+      {
+        "question": "This box is ______ than that box.",
+        "correctAnswer": "heavier",
+        "arabicReason": "نستخدم heavier للمقارنة بين وزن الصندوقين.",
+        "englishReason": "We use heavier to compare the weight of two boxes.",
+        "options": [
+          "heavy",
+          "heavier",
+          "heaviest",
+          "more heavy"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 330
+      },
+      {
+        "question": "A train is ______ than a car.",
+        "correctAnswer": "longer",
+        "arabicReason": "نستخدم longer للمقارنة بين طول القطار والسيارة.",
+        "englishReason": "We use longer to compare the length of a train and a car.",
+        "options": [
+          "long",
+          "longer",
+          "longest",
+          "more long"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 331
+      },
+      {
+        "question": "My new shoes are ______ than my old shoes.",
+        "correctAnswer": "cleaner",
+        "arabicReason": "نستخدم cleaner للمقارنة بين نظافة الحذاءين.",
+        "englishReason": "We use cleaner to compare the condition of two pairs of shoes.",
+        "options": [
+          "clean",
+          "cleaner",
+          "cleanest",
+          "more clean"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 332
+      },
+      {
+        "question": "The sun is ______ than the moon.",
+        "correctAnswer": "brighter",
+        "arabicReason": "نستخدم brighter للمقارنة بين سطوع الشمس والقمر.",
+        "englishReason": "We use brighter to compare the brightness of the sun and the moon.",
+        "options": [
+          "bright",
+          "brighter",
+          "brightest",
+          "more bright"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 333
       }
     ],
     "justtalk": [
@@ -14374,6 +14954,106 @@
         "curriculum": "OL",
         "unit": "5",
         "id": 304
+      },
+      {
+        "sentence": "Ali is taller than Omar.",
+        "arabicReason": "الترتيب الصحيح هو الفاعل + is + صفة المقارنة + than + الشخص الآخر.",
+        "englishReason": "The correct order is subject + is + comparative adjective + than + the other person.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 305
+      },
+      {
+        "sentence": "A car is faster than a bicycle.",
+        "arabicReason": "نضع faster قبل than لأننا نقارن سرعة السيارة بالدراجة.",
+        "englishReason": "We put faster before than because we are comparing the car with the bicycle.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 306
+      },
+      {
+        "sentence": "My brother is older than me.",
+        "arabicReason": "نستخدم older than للمقارنة بين عمر شخصين.",
+        "englishReason": "We use older than to compare the ages of two people.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 307
+      },
+      {
+        "sentence": "Today is hotter than yesterday.",
+        "arabicReason": "نستخدم hotter than للمقارنة بين درجة حرارة اليوم والأمس.",
+        "englishReason": "We use hotter than to compare today's temperature with yesterday's.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 308
+      },
+      {
+        "sentence": "Winter is colder than summer.",
+        "arabicReason": "نستخدم colder than لأن الشتاء أبرد من الصيف.",
+        "englishReason": "We use colder than because winter is colder than summer.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 309
+      },
+      {
+        "sentence": "A mouse is smaller than a cat.",
+        "arabicReason": "نستخدم smaller than للمقارنة بين حجم الفأر والقطة.",
+        "englishReason": "We use smaller than to compare the size of a mouse and a cat.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 310
+      },
+      {
+        "sentence": "An elephant is bigger than a dog.",
+        "arabicReason": "نستخدم bigger than لأن الفيل أكبر من الكلب.",
+        "englishReason": "We use bigger than because an elephant is bigger than a dog.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 311
+      },
+      {
+        "sentence": "This book is shorter than that book.",
+        "arabicReason": "يجب الانتباه إلى الفرق بين this و that وترتيب المقارنة بـ shorter than.",
+        "englishReason": "Pay attention to the difference between this and that and the order of shorter than.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 312
+      },
+      {
+        "sentence": "A rabbit is faster than a turtle.",
+        "arabicReason": "نستخدم faster than للمقارنة بين سرعة الأرنب والسلحفاة.",
+        "englishReason": "We use faster than to compare the speed of a rabbit and a turtle.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 313
+      },
+      {
+        "sentence": "My new shoes are cleaner than my old shoes.",
+        "arabicReason": "نستخدم cleaner than للمقارنة بين الحذاء الجديد والقديم، مع الانتباه إلى استخدام are.",
+        "englishReason": "We use cleaner than to compare the new and old shoes, and we use are because shoes is plural.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 314
       }
     ],
     "rewrite": [
@@ -65042,6 +65722,346 @@
         "curriculum": "OL",
         "unit": "5",
         "id": 407
+      },
+      {
+        "word": "Ali is taller than Omar.",
+        "meaning": "علي أطول من عمر.",
+        "options": [
+          "علي أقصر من عمر.",
+          "علي أطول من عمر.",
+          "عمر أطول من علي.",
+          "علي بنفس طول عمر."
+        ],
+        "arabicReason": "الجملة تستخدم taller than للمقارنة بين طول علي وعمر.",
+        "englishReason": "The sentence uses taller than to compare Ali's height with Omar's.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 408
+      },
+      {
+        "word": "A car is faster than a bicycle.",
+        "meaning": "السيارة أسرع من الدراجة.",
+        "options": [
+          "السيارة أبطأ من الدراجة.",
+          "الدراجة أسرع من السيارة.",
+          "السيارة أسرع من الدراجة.",
+          "السيارة بنفس سرعة الدراجة."
+        ],
+        "arabicReason": "نستخدم faster than للمقارنة بين سرعة السيارة والدراجة.",
+        "englishReason": "The sentence uses faster than to compare the speed of a car and a bicycle.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 409
+      },
+      {
+        "word": "My brother is older than me.",
+        "meaning": "أخي أكبر مني سنًا.",
+        "options": [
+          "أخي أصغر مني سنًا.",
+          "أنا أكبر من أخي.",
+          "أخي أكبر مني سنًا.",
+          "أخي بنفس عمري."
+        ],
+        "arabicReason": "older than تعني أكبر سنًا من.",
+        "englishReason": "Older than means having more age than someone.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 410
+      },
+      {
+        "word": "Today is hotter than yesterday.",
+        "meaning": "اليوم أكثر حرارة من أمس.",
+        "options": [
+          "اليوم أبرد من أمس.",
+          "أمس أكثر حرارة من اليوم.",
+          "اليوم أكثر حرارة من أمس.",
+          "اليوم بارد مثل أمس."
+        ],
+        "arabicReason": "hotter than تستخدم للمقارنة بين درجة حرارة اليوم والأمس.",
+        "englishReason": "Hotter than compares today's temperature with yesterday's.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 411
+      },
+      {
+        "word": "Winter is colder than summer.",
+        "meaning": "الشتاء أبرد من الصيف.",
+        "options": [
+          "الصيف أبرد من الشتاء.",
+          "الشتاء أبرد من الصيف.",
+          "الشتاء أكثر حرارة من الصيف.",
+          "الشتاء مثل الصيف."
+        ],
+        "arabicReason": "colder than تعني أبرد من.",
+        "englishReason": "Colder than means having a lower temperature than.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 412
+      },
+      {
+        "word": "A mouse is smaller than a cat.",
+        "meaning": "الفأر أصغر من القطة.",
+        "options": [
+          "الفأر أكبر من القطة.",
+          "القطة أصغر من الفأر.",
+          "الفأر أصغر من القطة.",
+          "الفأر بنفس حجم القطة."
+        ],
+        "arabicReason": "smaller than تستخدم للمقارنة بين حجم الفأر والقطة.",
+        "englishReason": "Smaller than compares the size of the mouse and the cat.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 413
+      },
+      {
+        "word": "An elephant is bigger than a dog.",
+        "meaning": "الفيل أكبر من الكلب.",
+        "options": [
+          "الكلب أكبر من الفيل.",
+          "الفيل أصغر من الكلب.",
+          "الفيل أكبر من الكلب.",
+          "الفيل بنفس حجم الكلب."
+        ],
+        "arabicReason": "bigger than تعني أكبر من.",
+        "englishReason": "Bigger than means larger in size than.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 414
+      },
+      {
+        "word": "This book is shorter than that book.",
+        "meaning": "هذا الكتاب أقصر من ذلك الكتاب.",
+        "options": [
+          "هذا الكتاب أطول من ذلك الكتاب.",
+          "ذلك الكتاب أقصر من هذا الكتاب.",
+          "هذا الكتاب أقصر من ذلك الكتاب.",
+          "الكتابان بنفس الطول."
+        ],
+        "arabicReason": "shorter than تستخدم للمقارنة بين طول الكتابين.",
+        "englishReason": "Shorter than compares the length of the two books.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 415
+      },
+      {
+        "word": "A rabbit is faster than a turtle.",
+        "meaning": "الأرنب أسرع من السلحفاة.",
+        "options": [
+          "السلحفاة أسرع من الأرنب.",
+          "الأرنب أبطأ من السلحفاة.",
+          "الأرنب أسرع من السلحفاة.",
+          "الأرنب والسلحفاة بنفس السرعة."
+        ],
+        "arabicReason": "faster than تعني أسرع من.",
+        "englishReason": "Faster than means moving at a higher speed than.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 416
+      },
+      {
+        "word": "My new shoes are cleaner than my old shoes.",
+        "meaning": "حذائي الجديد أنظف من حذائي القديم.",
+        "options": [
+          "حذائي القديم أنظف من الجديد.",
+          "الحذاءان متسخان.",
+          "حذائي الجديد أنظف من حذائي القديم.",
+          "الحذاءان بنفس النظافة."
+        ],
+        "arabicReason": "cleaner than تستخدم للمقارنة بين نظافة الحذاءين.",
+        "englishReason": "Cleaner than compares the condition of the new and old shoes.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 417
+      },
+      {
+        "word": "علي أطول من عمر.",
+        "meaning": "Ali is taller than Omar.",
+        "options": [
+          "Ali is shorter than Omar.",
+          "Ali is taller than Omar.",
+          "Omar is taller than Ali.",
+          "Ali is as tall as Omar."
+        ],
+        "arabicReason": "نستخدم taller than للمقارنة بين طول علي وعمر.",
+        "englishReason": "The sentence uses taller than to compare Ali's height with Omar's.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 418
+      },
+      {
+        "word": "السيارة أسرع من الدراجة.",
+        "meaning": "A car is faster than a bicycle.",
+        "options": [
+          "A car is slower than a bicycle.",
+          "A bicycle is faster than a car.",
+          "A car is faster than a bicycle.",
+          "A car is as fast as a bicycle."
+        ],
+        "arabicReason": "نستخدم faster than للمقارنة بين سرعة السيارة والدراجة.",
+        "englishReason": "The sentence uses faster than to compare the speed of a car and a bicycle.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 419
+      },
+      {
+        "word": "أخي أكبر مني سنًا.",
+        "meaning": "My brother is older than me.",
+        "options": [
+          "My brother is younger than me.",
+          "I am older than my brother.",
+          "My brother is older than me.",
+          "My brother is my age."
+        ],
+        "arabicReason": "older than تعني أكبر سنًا من.",
+        "englishReason": "Older than means having more age than someone.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 420
+      },
+      {
+        "word": "اليوم أكثر حرارة من أمس.",
+        "meaning": "Today is hotter than yesterday.",
+        "options": [
+          "Today is colder than yesterday.",
+          "Yesterday is hotter than today.",
+          "Today is hotter than yesterday.",
+          "Today is as cold as yesterday."
+        ],
+        "arabicReason": "نستخدم hotter than للمقارنة بين درجة حرارة اليوم والأمس.",
+        "englishReason": "Hotter than compares today's temperature with yesterday's.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 421
+      },
+      {
+        "word": "الشتاء أبرد من الصيف.",
+        "meaning": "Winter is colder than summer.",
+        "options": [
+          "Summer is colder than winter.",
+          "Winter is colder than summer.",
+          "Winter is hotter than summer.",
+          "Winter is like summer."
+        ],
+        "arabicReason": "colder than تعني أبرد من.",
+        "englishReason": "Colder than means having a lower temperature than.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 422
+      },
+      {
+        "word": "الفأر أصغر من القطة.",
+        "meaning": "A mouse is smaller than a cat.",
+        "options": [
+          "A mouse is bigger than a cat.",
+          "A cat is smaller than a mouse.",
+          "A mouse is smaller than a cat.",
+          "A mouse is as big as a cat."
+        ],
+        "arabicReason": "smaller than تستخدم للمقارنة بين حجم الفأر والقطة.",
+        "englishReason": "Smaller than compares the size of the mouse and the cat.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 423
+      },
+      {
+        "word": "الفيل أكبر من الكلب.",
+        "meaning": "An elephant is bigger than a dog.",
+        "options": [
+          "A dog is bigger than an elephant.",
+          "An elephant is smaller than a dog.",
+          "An elephant is bigger than a dog.",
+          "An elephant is as big as a dog."
+        ],
+        "arabicReason": "bigger than تعني أكبر من.",
+        "englishReason": "Bigger than means larger in size than.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 424
+      },
+      {
+        "word": "هذا الكتاب أقصر من ذلك الكتاب.",
+        "meaning": "This book is shorter than that book.",
+        "options": [
+          "This book is longer than that book.",
+          "That book is shorter than this book.",
+          "This book is shorter than that book.",
+          "The two books are the same length."
+        ],
+        "arabicReason": "shorter than تستخدم للمقارنة بين طول الكتابين.",
+        "englishReason": "Shorter than compares the length of the two books.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 425
+      },
+      {
+        "word": "الأرنب أسرع من السلحفاة.",
+        "meaning": "A rabbit is faster than a turtle.",
+        "options": [
+          "A turtle is faster than a rabbit.",
+          "A rabbit is slower than a turtle.",
+          "A rabbit is faster than a turtle.",
+          "A rabbit and a turtle are the same speed."
+        ],
+        "arabicReason": "faster than تعني أسرع من.",
+        "englishReason": "Faster than means moving at a higher speed than.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 426
+      },
+      {
+        "word": "حذائي الجديد أنظف من حذائي القديم.",
+        "meaning": "My new shoes are cleaner than my old shoes.",
+        "options": [
+          "My old shoes are cleaner than my new shoes.",
+          "Both shoes are dirty.",
+          "My new shoes are cleaner than my old shoes.",
+          "Both shoes are equally clean."
+        ],
+        "arabicReason": "cleaner than تستخدم للمقارنة بين نظافة الحذاءين.",
+        "englishReason": "Cleaner than compares the condition of the new and old shoes.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 427
       }
     ]
   }
