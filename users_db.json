@@ -850,7 +850,7 @@
   ],
   "settings": {
     "shareImageUrl": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?q=80&w=1000&auto=format&fit=crop",
-    "platformLogo": "",
+    "platformLogo": "https://ik.imagekit.io/readingmarathon/Wise%20Learning.png",
     "globalAnnouncement": "",
     "globalExamMode": false,
     "showSubscriptionButton": true,
