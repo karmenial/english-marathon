@@ -4545,6 +4545,186 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 311
+      },
+      {
+        "sentence": "The elephant is biger than the mouse.",
+        "errorWord": "biger",
+        "correctWord": "bigger",
+        "arabicReason": "نستخدم 'bigger' مع مضاعفة الحرف الأخير (g) لأن 'big' تنتهي بحرف ساكن مسبوق بحرف متحرك واحد (CVC pattern)، فنضاعف الحرف الأخير قبل إضافة er.",
+        "englishReason": "We use 'bigger' with doubling the final consonant (g) because 'big' ends in a consonant preceded by a single vowel (CVC pattern), so we double the final consonant before adding 'er'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 312
+      },
+      {
+        "sentence": "The sun is bigger then the moon.",
+        "errorWord": "then",
+        "correctWord": "than",
+        "arabicReason": "نستخدم 'than' للمقارنة بين شيئين، بينما 'then' تعني 'ثم' وتُستخدم للترتيب الزمني. هنا نقارن بين الشمس والقمر.",
+        "englishReason": "We use 'than' for comparison between two things, while 'then' means 'after that' and is used for time sequence. Here we compare the sun and the moon.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 313
+      },
+      {
+        "sentence": "This lesson is easyer than that one.",
+        "errorWord": "easyer",
+        "correctWord": "easier",
+        "arabicReason": "نستخدم 'easier' مع تحويل 'y' إلى 'i' ثم إضافة 'er' لأن 'easy' تنتهي بحرف 'y' مسبوق بحرف ساكن.",
+        "englishReason": "We use 'easier' by changing 'y' to 'i' and adding 'er' because 'easy' ends in 'y' preceded by a consonant.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 314
+      },
+      {
+        "sentence": "The cat is fater than the dog.",
+        "errorWord": "fater",
+        "correctWord": "fatter",
+        "arabicReason": "نستخدم 'fatter' مع مضاعفة الحرف الأخير (t) لأن 'fat' تنتهي بحرف ساكن مسبوق بحرف متحرك واحد (CVC pattern).",
+        "englishReason": "We use 'fatter' with doubling the final consonant (t) because 'fat' ends in a consonant preceded by a single vowel (CVC pattern).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 315
+      },
+      {
+        "sentence": "The paper is thiner than the cardboard.",
+        "errorWord": "thiner",
+        "correctWord": "thinner",
+        "arabicReason": "نستخدم 'thinner' مع مضاعفة الحرف الأخير (n) لأن 'thin' تنتهي بحرف ساكن مسبوق بحرف متحرك واحد (CVC pattern).",
+        "englishReason": "We use 'thinner' with doubling the final consonant (n) because 'thin' ends in a consonant preceded by a single vowel (CVC pattern).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 316
+      },
+      {
+        "sentence": "The elephant is more big than the mouse.",
+        "errorWord": "more big",
+        "correctWord": "bigger",
+        "arabicReason": "لا نستخدم 'more' مع الصفات القصيرة (مقطع واحد). نضيف 'er' مباشرة مع مضاعفة الحرف الأخير: big → bigger.",
+        "englishReason": "We do not use 'more' with short adjectives (one syllable). We add 'er' directly with doubling the final consonant: big → bigger.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 317
+      },
+      {
+        "sentence": "Fruits are healthyer than junk food.",
+        "errorWord": "healthyer",
+        "correctWord": "healthier",
+        "arabicReason": "نستخدم 'healthier' مع تحويل 'y' إلى 'i' ثم إضافة 'er' لأن 'healthy' تنتهي بحرف 'y' مسبوق بحرف ساكن.",
+        "englishReason": "We use 'healthier' by changing 'y' to 'i' and adding 'er' because 'healthy' ends in 'y' preceded by a consonant.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 318
+      },
+      {
+        "sentence": "A rock is heavyer than a feather.",
+        "errorWord": "heavyer",
+        "correctWord": "heavier",
+        "arabicReason": "نستخدم 'heavier' مع تحويل 'y' إلى 'i' ثم إضافة 'er' لأن 'heavy' تنتهي بحرف 'y' مسبوق بحرف ساكن.",
+        "englishReason": "We use 'heavier' by changing 'y' to 'i' and adding 'er' because 'heavy' ends in 'y' preceded by a consonant.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 319
+      },
+      {
+        "sentence": "The cheetah is more fast than the turtle.",
+        "errorWord": "more fast",
+        "correctWord": "faster",
+        "arabicReason": "لا نستخدم 'more' مع الصفات القصيرة (مقطع واحد). نضيف 'er' مباشرة: fast → faster.",
+        "englishReason": "We do not use 'more' with short adjectives (one syllable). We add 'er' directly: fast → faster.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 320
+      },
+      {
+        "sentence": "My brother is more tall than me.",
+        "errorWord": "more tall",
+        "correctWord": "taller",
+        "arabicReason": "لا نستخدم 'more' مع الصفات القصيرة (مقطع واحد). نضيف 'er' مباشرة: tall → taller.",
+        "englishReason": "We do not use 'more' with short adjectives (one syllable). We add 'er' directly: tall → taller.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 321
+      },
+      {
+        "sentence": "The river is more long than the stream.",
+        "errorWord": "more long",
+        "correctWord": "longer",
+        "arabicReason": "لا نستخدم 'more' مع الصفات القصيرة (مقطع واحد). نضيف 'er' مباشرة: long → longer.",
+        "englishReason": "We do not use 'more' with short adjectives (one syllable). We add 'er' directly: long → longer.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 322
+      },
+      {
+        "sentence": "The mouse is smaller then the cat.",
+        "errorWord": "then",
+        "correctWord": "than",
+        "arabicReason": "نستخدم 'than' للمقارنة بين شيئين، بينما 'then' تعني 'ثم' وتُستخدم للترتيب الزمني. هنا نقارن بين الفأر والقطة.",
+        "englishReason": "We use 'than' for comparison between two things, while 'then' means 'after that' and is used for time sequence. Here we compare the mouse and the cat.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 323
+      },
+      {
+        "sentence": "The model is more thin than the real person.",
+        "errorWord": "more thin",
+        "correctWord": "thinner",
+        "arabicReason": "لا نستخدم 'more' مع الصفات القصيرة (مقطع واحد). نضيف 'er' مع مضاعفة الحرف الأخير: thin → thinner.",
+        "englishReason": "We do not use 'more' with short adjectives (one syllable). We add 'er' with doubling the final consonant: thin → thinner.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 324
+      },
+      {
+        "sentence": "After the holidays, the boy became more fat than his friend.",
+        "errorWord": "more fat",
+        "correctWord": "fatter",
+        "arabicReason": "لا نستخدم 'more' مع الصفات القصيرة (مقطع واحد). نضيف 'er' مع مضاعفة الحرف الأخير: fat → fatter.",
+        "englishReason": "We do not use 'more' with short adjectives (one syllable). We add 'er' with doubling the final consonant: fat → fatter.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 325
+      },
+      {
+        "sentence": "This box is more small than that one.",
+        "errorWord": "more small",
+        "correctWord": "smaller",
+        "arabicReason": "لا نستخدم 'more' مع الصفات القصيرة (مقطع واحد). نضيف 'er' مباشرة: small → smaller.",
+        "englishReason": "We do not use 'more' with short adjectives (one syllable). We add 'er' directly: small → smaller.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 326
       }
     ],
     "find_the_vowel": [
@@ -10223,6 +10403,346 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 333
+      },
+      {
+        "question": "The ant is very ______. It is smaller than a fly.",
+        "correctAnswer": "small",
+        "arabicReason": "نستخدم 'small' لأنها صفة أساسية تصف النملة في الجملة البسيطة (بدون مقارنة).",
+        "englishReason": "We use 'small' because it is a base adjective describing the ant in a simple sentence (no comparison).",
+        "options": [
+          "small",
+          "smaller",
+          "smallest",
+          "big"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 334
+      },
+      {
+        "question": "An elephant is ______ than a mouse.",
+        "correctAnswer": "bigger",
+        "arabicReason": "نستخدم 'bigger' مع مضاعفة الحرف الأخير (g) من 'big' لأننا نقارن بين شيئين ونستخدم 'than'.",
+        "englishReason": "We use 'bigger' with doubling the final consonant (g) from 'big' because we compare two things using 'than'.",
+        "options": [
+          "bigger",
+          "biger",
+          "big",
+          "more big"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 335
+      },
+      {
+        "question": "A cheetah is ______ than a turtle.",
+        "correctAnswer": "faster",
+        "arabicReason": "نستخدم 'faster' لأننا نقارن سرعة الفهد بالسلحفاة باستخدام 'than'.",
+        "englishReason": "We use 'faster' because we compare the speed of a cheetah to a turtle using 'than'.",
+        "options": [
+          "faster",
+          "fast",
+          "fastest",
+          "more fast"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 336
+      },
+      {
+        "question": "My father is ______ than me. He is 190 cm tall.",
+        "correctAnswer": "taller",
+        "arabicReason": "نستخدم 'taller' لأننا نقارن طول أبي بطولي باستخدام 'than'.",
+        "englishReason": "We use 'taller' because we compare my father's height to mine using 'than'.",
+        "options": [
+          "taller",
+          "tall",
+          "tallest",
+          "more tall"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 337
+      },
+      {
+        "question": "A snake is ______ than a worm.",
+        "correctAnswer": "longer",
+        "arabicReason": "نستخدم 'longer' لأننا نقارن طول الثعبان بالدودة باستخدام 'than'.",
+        "englishReason": "We use 'longer' because we compare the length of a snake to a worm using 'than'.",
+        "options": [
+          "longer",
+          "long",
+          "longest",
+          "more long"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 338
+      },
+      {
+        "question": "This math lesson is ______ than the science one. I understand it quickly.",
+        "correctAnswer": "easier",
+        "arabicReason": "نستخدم 'easier' مع تحويل 'y' إلى 'i' من 'easy' لأننا نقارن بين درسين باستخدام 'than'.",
+        "englishReason": "We use 'easier' by changing 'y' to 'i' from 'easy' because we compare two lessons using 'than'.",
+        "options": [
+          "easier",
+          "easyer",
+          "easy",
+          "more easy"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 339
+      },
+      {
+        "question": "Fruits and vegetables are ______ than junk food. Doctors recommend them.",
+        "correctAnswer": "healthier",
+        "arabicReason": "نستخدم 'healthier' مع تحويل 'y' إلى 'i' من 'healthy' لأننا نقارن بين نوعي الطعام باستخدام 'than'.",
+        "englishReason": "We use 'healthier' by changing 'y' to 'i' from 'healthy' because we compare two types of food using 'than'.",
+        "options": [
+          "healthier",
+          "healthyer",
+          "healthy",
+          "more healthy"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 340
+      },
+      {
+        "question": "A rock is ______ than a feather.",
+        "correctAnswer": "heavier",
+        "arabicReason": "نستخدم 'heavier' مع تحويل 'y' إلى 'i' من 'heavy' لأننا نقارن وزن الحجر بالريشة باستخدام 'than'.",
+        "englishReason": "We use 'heavier' by changing 'y' to 'i' from 'heavy' because we compare the weight of a rock to a feather using 'than'.",
+        "options": [
+          "heavier",
+          "heavyer",
+          "heavy",
+          "more heavy"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 341
+      },
+      {
+        "question": "After eating too much, the cat became ______ than before.",
+        "correctAnswer": "fatter",
+        "arabicReason": "نستخدم 'fatter' مع مضاعفة الحرف الأخير (t) من 'fat' لأننا نقارن حال القطة قبل وبعد الأكل باستخدام 'than'.",
+        "englishReason": "We use 'fatter' with doubling the final consonant (t) from 'fat' because we compare the cat's condition before and after eating using 'than'.",
+        "options": [
+          "fatter",
+          "fater",
+          "fat",
+          "more fat"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 342
+      },
+      {
+        "question": "The model is ______ than the real person. She eats very little.",
+        "correctAnswer": "thinner",
+        "arabicReason": "نستخدم 'thinner' مع مضاعفة الحرف الأخير (n) من 'thin' لأننا نقارن بين النموذج والشخص الحقيقي باستخدام 'than'.",
+        "englishReason": "We use 'thinner' with doubling the final consonant (n) from 'thin' because we compare the model to the real person using 'than'.",
+        "options": [
+          "thinner",
+          "thiner",
+          "thin",
+          "more thin"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 343
+      },
+      {
+        "question": "This box is ______. I can lift it with one hand.",
+        "correctAnswer": "small",
+        "arabicReason": "نستخدم 'small' لأنها صفة أساسية تصف الصندوق في جملة وصفية بسيطة (بدون مقارنة).",
+        "englishReason": "We use 'small' because it is a base adjective describing the box in a simple descriptive sentence (no comparison).",
+        "options": [
+          "small",
+          "smaller",
+          "big",
+          "heavy"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 344
+      },
+      {
+        "question": "The sun is ______ than the moon. It gives us light and heat.",
+        "correctAnswer": "bigger",
+        "arabicReason": "نستخدم 'bigger' مع مضاعفة الحرف الأخير (g) لأننا نقارن بين الشمس والقمر باستخدام 'than'.",
+        "englishReason": "We use 'bigger' with doubling the final consonant (g) because we compare the sun to the moon using 'than'.",
+        "options": [
+          "bigger",
+          "biger",
+          "big",
+          "more big"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 345
+      },
+      {
+        "question": "My brother runs ______ than me. He wins every race.",
+        "correctAnswer": "faster",
+        "arabicReason": "نستخدم 'faster' لأننا نقارن سرعة أخي بسرعتي باستخدام 'than'.",
+        "englishReason": "We use 'faster' because we compare my brother's speed to mine using 'than'.",
+        "options": [
+          "faster",
+          "fast",
+          "fastest",
+          "more fast"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 346
+      },
+      {
+        "question": "The giraffe is ______ than the horse. It has a very long neck.",
+        "correctAnswer": "taller",
+        "arabicReason": "نستخدم 'taller' لأننا نقارن طول الزرافة بالحصان باستخدام 'than'.",
+        "englishReason": "We use 'taller' because we compare the height of a giraffe to a horse using 'than'.",
+        "options": [
+          "taller",
+          "tall",
+          "tallest",
+          "more tall"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 347
+      },
+      {
+        "question": "A river is ______ than a lake. It flows for many kilometers.",
+        "correctAnswer": "longer",
+        "arabicReason": "نستخدم 'longer' لأننا نقارن طول النهر بالبحيرة باستخدام 'than'.",
+        "englishReason": "We use 'longer' because we compare the length of a river to a lake using 'than'.",
+        "options": [
+          "longer",
+          "long",
+          "longest",
+          "more long"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 348
+      },
+      {
+        "question": "English is ______ than math for me. I get high marks in it.",
+        "correctAnswer": "easier",
+        "arabicReason": "نستخدم 'easier' مع تحويل 'y' إلى 'i' لأننا نقارن بين الإنجليزية والرياضيات باستخدام 'than'.",
+        "englishReason": "We use 'easier' by changing 'y' to 'i' because we compare English to math using 'than'.",
+        "options": [
+          "easier",
+          "easyer",
+          "easy",
+          "more easy"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 349
+      },
+      {
+        "question": "My grandmother looks ______ than before. She exercises every day.",
+        "correctAnswer": "healthier",
+        "arabicReason": "نستخدم 'healthier' مع تحويل 'y' إلى 'i' لأننا نقارن صحة جدتي قبل وبعد التمرين باستخدام 'than'.",
+        "englishReason": "We use 'healthier' by changing 'y' to 'i' because we compare my grandmother's health before and after exercise using 'than'.",
+        "options": [
+          "healthier",
+          "healthyer",
+          "healthy",
+          "more healthy"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 350
+      },
+      {
+        "question": "Gold is ______ than silver. It is hard to carry a big piece of it.",
+        "correctAnswer": "heavier",
+        "arabicReason": "نستخدم 'heavier' مع تحويل 'y' إلى 'i' لأننا نقارن وزن الذهب بالفضة باستخدام 'than'.",
+        "englishReason": "We use 'heavier' by changing 'y' to 'i' because we compare the weight of gold to silver using 'than'.",
+        "options": [
+          "heavier",
+          "heavyer",
+          "heavy",
+          "more heavy"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 351
+      },
+      {
+        "question": "After the holidays, the boy became ______ than his friend.",
+        "correctAnswer": "fatter",
+        "arabicReason": "نستخدم 'fatter' مع مضاعفة الحرف الأخير (t) لأننا نقارن بين الولد وصديقه باستخدام 'than'.",
+        "englishReason": "We use 'fatter' with doubling the final consonant (t) because we compare the boy to his friend using 'than'.",
+        "options": [
+          "fatter",
+          "fater",
+          "fat",
+          "more fat"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 352
+      },
+      {
+        "question": "The paper is ______ than the cardboard. I can see light through it.",
+        "correctAnswer": "thinner",
+        "arabicReason": "نستخدم 'thinner' مع مضاعفة الحرف الأخير (n) لأننا نقارن بين الورق والكرتون باستخدام 'than'.",
+        "englishReason": "We use 'thinner' with doubling the final consonant (n) because we compare the paper to the cardboard using 'than'.",
+        "options": [
+          "thinner",
+          "thiner",
+          "thin",
+          "more thin"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 353
       }
     ],
     "justtalk": [
@@ -15154,6 +15674,156 @@
         "curriculum": "OL",
         "unit": "6",
         "id": 324
+      },
+      {
+        "sentence": "the star is small",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the star) + الفعل (is) + الصفة الأساسية (small).",
+        "englishReason": "The correct order is subject (the star) + verb (is) + base adjective (small).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 325
+      },
+      {
+        "sentence": "the elephant is big",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the elephant) + الفعل (is) + الصفة الأساسية (big).",
+        "englishReason": "The correct order is subject (the elephant) + verb (is) + base adjective (big).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 326
+      },
+      {
+        "sentence": "the car is fast",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the car) + الفعل (is) + الصفة الأساسية (fast).",
+        "englishReason": "The correct order is subject (the car) + verb (is) + base adjective (fast).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 327
+      },
+      {
+        "sentence": "the tree is tall",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the tree) + الفعل (is) + الصفة الأساسية (tall).",
+        "englishReason": "The correct order is subject (the tree) + verb (is) + base adjective (tall).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 328
+      },
+      {
+        "sentence": "the river is long",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the river) + الفعل (is) + الصفة الأساسية (long).",
+        "englishReason": "The correct order is subject (the river) + verb (is) + base adjective (long).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 329
+      },
+      {
+        "sentence": "this lesson is easy",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (this lesson) + الفعل (is) + الصفة الأساسية (easy).",
+        "englishReason": "The correct order is subject (this lesson) + verb (is) + base adjective (easy).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 330
+      },
+      {
+        "sentence": "the food is healthy",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the food) + الفعل (is) + الصفة الأساسية (healthy).",
+        "englishReason": "The correct order is subject (the food) + verb (is) + base adjective (healthy).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 331
+      },
+      {
+        "sentence": "the box is heavy",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the box) + الفعل (is) + الصفة الأساسية (heavy).",
+        "englishReason": "The correct order is subject (the box) + verb (is) + base adjective (heavy).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 332
+      },
+      {
+        "sentence": "the cat is fat",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the cat) + الفعل (is) + الصفة الأساسية (fat).",
+        "englishReason": "The correct order is subject (the cat) + verb (is) + base adjective (fat).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 333
+      },
+      {
+        "sentence": "the paper is thin",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the paper) + الفعل (is) + الصفة الأساسية (thin).",
+        "englishReason": "The correct order is subject (the paper) + verb (is) + base adjective (thin).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 334
+      },
+      {
+        "sentence": "the mouse is smaller than the cat",
+        "arabicReason": "الترتيب الصحيح هو الفاعل (the mouse) + الفعل (is) + صيغة المقارنة (smaller) + أداة المقارنة (than) + الاسم الثاني (the cat).",
+        "englishReason": "The correct order is subject (the mouse) + verb (is) + comparative adjective (smaller) + than + second noun (the cat).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 335
+      },
+      {
+        "sentence": "the sun is bigger than the moon",
+        "arabicReason": "الترتيب الصحيح هو الفاعل (the sun) + الفعل (is) + صيغة المقارنة مع مضاعفة الحرف الأخير (bigger) + أداة المقارنة (than) + الاسم الثاني (the moon).",
+        "englishReason": "The correct order is subject (the sun) + verb (is) + comparative adjective with doubled consonant (bigger) + than + second noun (the moon).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 336
+      },
+      {
+        "sentence": "the math test is easier than the science test",
+        "arabicReason": "الترتيب الصحيح هو الفاعل (the math test) + الفعل (is) + صيغة المقارنة مع تحويل y إلى i (easier) + أداة المقارنة (than) + الاسم الثاني (the science test).",
+        "englishReason": "The correct order is subject (the math test) + verb (is) + comparative adjective with y to i change (easier) + than + second noun (the science test).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 337
+      },
+      {
+        "sentence": "the cat is fatter than the mouse",
+        "arabicReason": "الترتيب الصحيح هو الفاعل (the cat) + الفعل (is) + صيغة المقارنة مع مضاعفة الحرف الأخير (fatter) + أداة المقارنة (than) + الاسم الثاني (the mouse).",
+        "englishReason": "The correct order is subject (the cat) + verb (is) + comparative adjective with doubled consonant (fatter) + than + second noun (the mouse).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 338
+      },
+      {
+        "sentence": "the paper is thinner than the cardboard",
+        "arabicReason": "الترتيب الصحيح هو الفاعل (the paper) + الفعل (is) + صيغة المقارنة مع مضاعفة الحرف الأخير (thinner) + أداة المقارنة (than) + الاسم الثاني (the cardboard).",
+        "englishReason": "The correct order is subject (the paper) + verb (is) + comparative adjective with doubled consonant (thinner) + than + second noun (the cardboard).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 339
       }
     ],
     "rewrite": [
@@ -37279,6 +37949,346 @@
         "curriculum": "OL",
         "unit": "6",
         "id": 537
+      },
+      {
+        "word": "small",
+        "meaning": "صغير",
+        "options": [
+          "صغير",
+          "كبير",
+          "سريع",
+          "سهل"
+        ],
+        "arabicReason": "الكلمة تعني 'small' وهي صفة تعبر عن صغر الحجم.",
+        "englishReason": "The word means 'small' - an adjective describing something of little size.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 538
+      },
+      {
+        "word": "big",
+        "meaning": "كبير",
+        "options": [
+          "كبير",
+          "صغير",
+          "ثقيل",
+          "طويل"
+        ],
+        "arabicReason": "الكلمة تعني 'big' وهي صفة تعبر عن كبر الحجم.",
+        "englishReason": "The word means 'big' - an adjective describing something of large size.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 539
+      },
+      {
+        "word": "fast",
+        "meaning": "سريع",
+        "options": [
+          "سريع",
+          "بطيء",
+          "سهل",
+          "صحي"
+        ],
+        "arabicReason": "الكلمة تعني 'fast' وهي صفة تعبر عن السرعة.",
+        "englishReason": "The word means 'fast' - an adjective describing high speed.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 540
+      },
+      {
+        "word": "tall",
+        "meaning": "طويل",
+        "options": [
+          "طويل",
+          "قصير",
+          "نحيف",
+          "سمين"
+        ],
+        "arabicReason": "الكلمة تعني 'tall' وهي صفة تعبر عن الطول في الارتفاع.",
+        "englishReason": "The word means 'tall' - an adjective describing great height.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 541
+      },
+      {
+        "word": "long",
+        "meaning": "طويل",
+        "options": [
+          "طويل",
+          "قصير",
+          "كبير",
+          "سهل"
+        ],
+        "arabicReason": "الكلمة تعني 'long' وهي صفة تعبر عن الطول في الامتداد.",
+        "englishReason": "The word means 'long' - an adjective describing great length.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 542
+      },
+      {
+        "word": "easy",
+        "meaning": "سهل",
+        "options": [
+          "سهل",
+          "صعب",
+          "ثقيل",
+          "سريع"
+        ],
+        "arabicReason": "الكلمة تعني 'easy' وهي صفة تعبر عن السهولة وعدم الصعوبة.",
+        "englishReason": "The word means 'easy' - an adjective describing something not difficult.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 543
+      },
+      {
+        "word": "healthy",
+        "meaning": "صحي",
+        "options": [
+          "صحي",
+          "مريض",
+          "سمين",
+          "نحيف"
+        ],
+        "arabicReason": "الكلمة تعني 'healthy' وهي صفة تعبر عن الصحة الجيدة.",
+        "englishReason": "The word means 'healthy' - an adjective describing good health.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 544
+      },
+      {
+        "word": "heavy",
+        "meaning": "ثقيل",
+        "options": [
+          "ثقيل",
+          "خفيف",
+          "صغير",
+          "سهل"
+        ],
+        "arabicReason": "الكلمة تعني 'heavy' وهي صفة تعبر عن ثقل الوزن.",
+        "englishReason": "The word means 'heavy' - an adjective describing great weight.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 545
+      },
+      {
+        "word": "fat",
+        "meaning": "سمين",
+        "options": [
+          "سمين",
+          "نحيف",
+          "طويل",
+          "كبير"
+        ],
+        "arabicReason": "الكلمة تعني 'fat' وهي صفة تعبر عن زيادة الوزن أو الحجم.",
+        "englishReason": "The word means 'fat' - an adjective describing someone with extra body weight.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 546
+      },
+      {
+        "word": "thin",
+        "meaning": "نحيف",
+        "options": [
+          "نحيف",
+          "سمين",
+          "قصير",
+          "ثقيل"
+        ],
+        "arabicReason": "الكلمة تعني 'thin' وهي صفة تعبر عن قلة السمك أو النحافة.",
+        "englishReason": "The word means 'thin' - an adjective describing someone slim or not fat.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 547
+      },
+      {
+        "word": "smaller",
+        "meaning": "أصغر",
+        "options": [
+          "أصغر",
+          "أكبر",
+          "أسرع",
+          "أسهل"
+        ],
+        "arabicReason": "الكلمة تعني 'smaller' وهي صيغة المقارنة من 'small' وتعني أكثر صغراً.",
+        "englishReason": "The word means 'smaller' - the comparative form of 'small', meaning more small.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 548
+      },
+      {
+        "word": "bigger",
+        "meaning": "أكبر",
+        "options": [
+          "أكبر",
+          "أصغر",
+          "أطول",
+          "أثقل"
+        ],
+        "arabicReason": "الكلمة تعني 'bigger' وهي صيغة المقارنة من 'big' مع مضاعفة الحرف الأخير (big -> bigger).",
+        "englishReason": "The word means 'bigger' - the comparative form of 'big' with doubling the final consonant.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 549
+      },
+      {
+        "word": "faster",
+        "meaning": "أسرع",
+        "options": [
+          "أسرع",
+          "أبطأ",
+          "أقرب",
+          "أسهل"
+        ],
+        "arabicReason": "الكلمة تعني 'faster' وهي صيغة المقارنة من 'fast' وتعني أكثر سرعة.",
+        "englishReason": "The word means 'faster' - the comparative form of 'fast', meaning more fast.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 550
+      },
+      {
+        "word": "taller",
+        "meaning": "أطول",
+        "options": [
+          "أطول",
+          "أقصر",
+          "أسمك",
+          "أنحف"
+        ],
+        "arabicReason": "الكلمة تعني 'taller' وهي صيغة المقارنة من 'tall' وتعني أكثر طولاً في الارتفاع.",
+        "englishReason": "The word means 'taller' - the comparative form of 'tall', meaning more tall in height.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 551
+      },
+      {
+        "word": "longer",
+        "meaning": "أطول",
+        "options": [
+          "أطول",
+          "أقصر",
+          "أعرض",
+          "أكبر"
+        ],
+        "arabicReason": "الكلمة تعني 'longer' وهي صيغة المقارنة من 'long' وتعني أكثر طولاً في الامتداد.",
+        "englishReason": "The word means 'longer' - the comparative form of 'long', meaning more long in length.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 552
+      },
+      {
+        "word": "easier",
+        "meaning": "أسهل",
+        "options": [
+          "أسهل",
+          "أصعب",
+          "أثقل",
+          "أسرع"
+        ],
+        "arabicReason": "الكلمة تعني 'easier' وهي صيغة المقارنة من 'easy' مع تحويل y إلى i ثم إضافة er (easy -> easier).",
+        "englishReason": "The word means 'easier' - the comparative form of 'easy' by changing 'y' to 'i' and adding 'er'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 553
+      },
+      {
+        "word": "healthier",
+        "meaning": "أصح",
+        "options": [
+          "أصح",
+          "أمرض",
+          "أسمن",
+          "أنحف"
+        ],
+        "arabicReason": "الكلمة تعني 'healthier' وهي صيغة المقارنة من 'healthy' مع تحويل y إلى i ثم إضافة er.",
+        "englishReason": "The word means 'healthier' - the comparative form of 'healthy' by changing 'y' to 'i' and adding 'er'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 554
+      },
+      {
+        "word": "heavier",
+        "meaning": "أثقل",
+        "options": [
+          "أثقل",
+          "أخف",
+          "أصغر",
+          "أسهل"
+        ],
+        "arabicReason": "الكلمة تعني 'heavier' وهي صيغة المقارنة من 'heavy' مع تحويل y إلى i ثم إضافة er.",
+        "englishReason": "The word means 'heavier' - the comparative form of 'heavy' by changing 'y' to 'i' and adding 'er'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 555
+      },
+      {
+        "word": "fatter",
+        "meaning": "أسمن",
+        "options": [
+          "أسمن",
+          "أنحف",
+          "أطول",
+          "أكبر"
+        ],
+        "arabicReason": "الكلمة تعني 'fatter' وهي صيغة المقارنة من 'fat' مع مضاعفة الحرف الأخير (fat -> fatter).",
+        "englishReason": "The word means 'fatter' - the comparative form of 'fat' with doubling the final consonant.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 556
+      },
+      {
+        "word": "thinner",
+        "meaning": "أنحف",
+        "options": [
+          "أنحف",
+          "أسمن",
+          "أقصر",
+          "أصغر"
+        ],
+        "arabicReason": "الكلمة تعني 'thinner' وهي صيغة المقارنة من 'thin' مع مضاعفة الحرف الأخير (thin -> thinner).",
+        "englishReason": "The word means 'thinner' - the comparative form of 'thin' with doubling the final consonant.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 557
       }
     ],
     "vocab_quiz": [
@@ -46988,6 +47998,346 @@
         "curriculum": "OL",
         "unit": "6",
         "id": 590
+      },
+      {
+        "word": "small",
+        "meaning": "صغير",
+        "options": [
+          "صغير",
+          "كبير",
+          "سريع",
+          "سهل"
+        ],
+        "arabicReason": "الكلمة تعني 'small' وهي صفة تعبر عن صغر الحجم.",
+        "englishReason": "The word means 'small' - an adjective describing something of little size.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 591
+      },
+      {
+        "word": "big",
+        "meaning": "كبير",
+        "options": [
+          "كبير",
+          "صغير",
+          "ثقيل",
+          "طويل"
+        ],
+        "arabicReason": "الكلمة تعني 'big' وهي صفة تعبر عن كبر الحجم.",
+        "englishReason": "The word means 'big' - an adjective describing something of large size.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 592
+      },
+      {
+        "word": "fast",
+        "meaning": "سريع",
+        "options": [
+          "سريع",
+          "بطيء",
+          "سهل",
+          "صحي"
+        ],
+        "arabicReason": "الكلمة تعني 'fast' وهي صفة تعبر عن السرعة.",
+        "englishReason": "The word means 'fast' - an adjective describing high speed.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 593
+      },
+      {
+        "word": "tall",
+        "meaning": "طويل",
+        "options": [
+          "طويل",
+          "قصير",
+          "نحيف",
+          "سمين"
+        ],
+        "arabicReason": "الكلمة تعني 'tall' وهي صفة تعبر عن الطول في الارتفاع.",
+        "englishReason": "The word means 'tall' - an adjective describing great height.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 594
+      },
+      {
+        "word": "long",
+        "meaning": "طويل",
+        "options": [
+          "طويل",
+          "قصير",
+          "كبير",
+          "سهل"
+        ],
+        "arabicReason": "الكلمة تعني 'long' وهي صفة تعبر عن الطول في الامتداد.",
+        "englishReason": "The word means 'long' - an adjective describing great length.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 595
+      },
+      {
+        "word": "easy",
+        "meaning": "سهل",
+        "options": [
+          "سهل",
+          "صعب",
+          "ثقيل",
+          "سريع"
+        ],
+        "arabicReason": "الكلمة تعني 'easy' وهي صفة تعبر عن السهولة وعدم الصعوبة.",
+        "englishReason": "The word means 'easy' - an adjective describing something not difficult.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 596
+      },
+      {
+        "word": "healthy",
+        "meaning": "صحي",
+        "options": [
+          "صحي",
+          "مريض",
+          "سمين",
+          "نحيف"
+        ],
+        "arabicReason": "الكلمة تعني 'healthy' وهي صفة تعبر عن الصحة الجيدة.",
+        "englishReason": "The word means 'healthy' - an adjective describing good health.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 597
+      },
+      {
+        "word": "heavy",
+        "meaning": "ثقيل",
+        "options": [
+          "ثقيل",
+          "خفيف",
+          "صغير",
+          "سهل"
+        ],
+        "arabicReason": "الكلمة تعني 'heavy' وهي صفة تعبر عن ثقل الوزن.",
+        "englishReason": "The word means 'heavy' - an adjective describing great weight.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 598
+      },
+      {
+        "word": "fat",
+        "meaning": "سمين",
+        "options": [
+          "سمين",
+          "نحيف",
+          "طويل",
+          "كبير"
+        ],
+        "arabicReason": "الكلمة تعني 'fat' وهي صفة تعبر عن زيادة الوزن أو الحجم.",
+        "englishReason": "The word means 'fat' - an adjective describing someone with extra body weight.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 599
+      },
+      {
+        "word": "thin",
+        "meaning": "نحيف",
+        "options": [
+          "نحيف",
+          "سمين",
+          "قصير",
+          "ثقيل"
+        ],
+        "arabicReason": "الكلمة تعني 'thin' وهي صفة تعبر عن قلة السمك أو النحافة.",
+        "englishReason": "The word means 'thin' - an adjective describing someone slim or not fat.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 600
+      },
+      {
+        "word": "smaller",
+        "meaning": "أصغر",
+        "options": [
+          "أصغر",
+          "أكبر",
+          "أسرع",
+          "أسهل"
+        ],
+        "arabicReason": "الكلمة تعني 'smaller' وهي صيغة المقارنة من 'small' وتعني أكثر صغراً.",
+        "englishReason": "The word means 'smaller' - the comparative form of 'small', meaning more small.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 601
+      },
+      {
+        "word": "bigger",
+        "meaning": "أكبر",
+        "options": [
+          "أكبر",
+          "أصغر",
+          "أطول",
+          "أثقل"
+        ],
+        "arabicReason": "الكلمة تعني 'bigger' وهي صيغة المقارنة من 'big' مع مضاعفة الحرف الأخير (big -> bigger).",
+        "englishReason": "The word means 'bigger' - the comparative form of 'big' with doubling the final consonant.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 602
+      },
+      {
+        "word": "faster",
+        "meaning": "أسرع",
+        "options": [
+          "أسرع",
+          "أبطأ",
+          "أقرب",
+          "أسهل"
+        ],
+        "arabicReason": "الكلمة تعني 'faster' وهي صيغة المقارنة من 'fast' وتعني أكثر سرعة.",
+        "englishReason": "The word means 'faster' - the comparative form of 'fast', meaning more fast.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 603
+      },
+      {
+        "word": "taller",
+        "meaning": "أطول",
+        "options": [
+          "أطول",
+          "أقصر",
+          "أسمك",
+          "أنحف"
+        ],
+        "arabicReason": "الكلمة تعني 'taller' وهي صيغة المقارنة من 'tall' وتعني أكثر طولاً في الارتفاع.",
+        "englishReason": "The word means 'taller' - the comparative form of 'tall', meaning more tall in height.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 604
+      },
+      {
+        "word": "longer",
+        "meaning": "أطول",
+        "options": [
+          "أطول",
+          "أقصر",
+          "أعرض",
+          "أكبر"
+        ],
+        "arabicReason": "الكلمة تعني 'longer' وهي صيغة المقارنة من 'long' وتعني أكثر طولاً في الامتداد.",
+        "englishReason": "The word means 'longer' - the comparative form of 'long', meaning more long in length.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 605
+      },
+      {
+        "word": "easier",
+        "meaning": "أسهل",
+        "options": [
+          "أسهل",
+          "أصعب",
+          "أثقل",
+          "أسرع"
+        ],
+        "arabicReason": "الكلمة تعني 'easier' وهي صيغة المقارنة من 'easy' مع تحويل y إلى i ثم إضافة er (easy -> easier).",
+        "englishReason": "The word means 'easier' - the comparative form of 'easy' by changing 'y' to 'i' and adding 'er'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 606
+      },
+      {
+        "word": "healthier",
+        "meaning": "أصح",
+        "options": [
+          "أصح",
+          "أمرض",
+          "أسمن",
+          "أنحف"
+        ],
+        "arabicReason": "الكلمة تعني 'healthier' وهي صيغة المقارنة من 'healthy' مع تحويل y إلى i ثم إضافة er.",
+        "englishReason": "The word means 'healthier' - the comparative form of 'healthy' by changing 'y' to 'i' and adding 'er'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 607
+      },
+      {
+        "word": "heavier",
+        "meaning": "أثقل",
+        "options": [
+          "أثقل",
+          "أخف",
+          "أصغر",
+          "أسهل"
+        ],
+        "arabicReason": "الكلمة تعني 'heavier' وهي صيغة المقارنة من 'heavy' مع تحويل y إلى i ثم إضافة er.",
+        "englishReason": "The word means 'heavier' - the comparative form of 'heavy' by changing 'y' to 'i' and adding 'er'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 608
+      },
+      {
+        "word": "fatter",
+        "meaning": "أسمن",
+        "options": [
+          "أسمن",
+          "أنحف",
+          "أطول",
+          "أكبر"
+        ],
+        "arabicReason": "الكلمة تعني 'fatter' وهي صيغة المقارنة من 'fat' مع مضاعفة الحرف الأخير (fat -> fatter).",
+        "englishReason": "The word means 'fatter' - the comparative form of 'fat' with doubling the final consonant.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 609
+      },
+      {
+        "word": "thinner",
+        "meaning": "أنحف",
+        "options": [
+          "أنحف",
+          "أسمن",
+          "أقصر",
+          "أصغر"
+        ],
+        "arabicReason": "الكلمة تعني 'thinner' وهي صيغة المقارنة من 'thin' مع مضاعفة الحرف الأخير (thin -> thinner).",
+        "englishReason": "The word means 'thinner' - the comparative form of 'thin' with doubling the final consonant.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 610
       }
     ],
     "what_do_you_hear": [
@@ -52276,6 +53626,216 @@
         "curriculum": "OL",
         "unit": "6",
         "id": 377
+      },
+      {
+        "sentence": "the star is small",
+        "options": [
+          "the star is small",
+          "the star is big",
+          "the star is fast",
+          "the star is tall"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 378
+      },
+      {
+        "sentence": "the elephant is big",
+        "options": [
+          "the elephant is big",
+          "the elephant is small",
+          "the elephant is fat",
+          "the elephant is tall"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 379
+      },
+      {
+        "sentence": "the car is fast",
+        "options": [
+          "the car is fast",
+          "the car is big",
+          "the car is small",
+          "the car is heavy"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 380
+      },
+      {
+        "sentence": "the tree is tall",
+        "options": [
+          "the tree is tall",
+          "the tree is small",
+          "the tree is big",
+          "the tree is long"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 381
+      },
+      {
+        "sentence": "the river is long",
+        "options": [
+          "the river is long",
+          "the river is big",
+          "the river is small",
+          "the river is heavy"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 382
+      },
+      {
+        "sentence": "this lesson is easy",
+        "options": [
+          "this lesson is easy",
+          "this lesson is heavy",
+          "this lesson is healthy",
+          "this lesson is thin"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 383
+      },
+      {
+        "sentence": "the food is healthy",
+        "options": [
+          "the food is healthy",
+          "the food is heavy",
+          "the food is easy",
+          "the food is thin"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 384
+      },
+      {
+        "sentence": "the box is heavy",
+        "options": [
+          "the box is heavy",
+          "the box is easy",
+          "the box is healthy",
+          "the box is thin"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 385
+      },
+      {
+        "sentence": "the cat is fat",
+        "options": [
+          "the cat is fat",
+          "the cat is thin",
+          "the cat is big",
+          "the cat is small"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 386
+      },
+      {
+        "sentence": "the paper is thin",
+        "options": [
+          "the paper is thin",
+          "the paper is fat",
+          "the paper is big",
+          "the paper is small"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 387
+      },
+      {
+        "sentence": "the mouse is smaller than the cat",
+        "options": [
+          "the mouse is smaller than the cat",
+          "the mouse is bigger than the cat",
+          "the mouse is faster than the cat",
+          "the mouse is taller than the cat"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 388
+      },
+      {
+        "sentence": "the sun is bigger than the moon",
+        "options": [
+          "the sun is bigger than the moon",
+          "the sun is smaller than the moon",
+          "the sun is faster than the moon",
+          "the sun is taller than the moon"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 389
+      },
+      {
+        "sentence": "the math test is easier than the science test",
+        "options": [
+          "the math test is easier than the science test",
+          "the math test is heavier than the science test",
+          "the math test is healthier than the science test",
+          "the math test is thinner than the science test"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 390
+      },
+      {
+        "sentence": "the cat is fatter than the mouse",
+        "options": [
+          "the cat is fatter than the mouse",
+          "the cat is thinner than the mouse",
+          "the cat is bigger than the mouse",
+          "the cat is smaller than the mouse"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 391
+      },
+      {
+        "sentence": "the paper is thinner than the cardboard",
+        "options": [
+          "the paper is thinner than the cardboard",
+          "the paper is fatter than the cardboard",
+          "the paper is bigger than the cardboard",
+          "the paper is smaller than the cardboard"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 392
       }
     ],
     "vocab_choose": [
@@ -67835,6 +69395,516 @@
         "curriculum": "OL",
         "unit": "6",
         "id": 447
+      },
+      {
+        "word": "the star is small",
+        "meaning": "النجم صغير.",
+        "options": [
+          "النجم صغير.",
+          "النجم كبير.",
+          "النجم سريع.",
+          "النجم طويل."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'النجم صغير' لأن 'small' تعني صغير.",
+        "englishReason": "The correct translation is 'النجم صغير' because 'small' means صغير.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 448
+      },
+      {
+        "word": "the elephant is big",
+        "meaning": "الفيل كبير.",
+        "options": [
+          "الفيل كبير.",
+          "الفيل صغير.",
+          "الفيل سمين.",
+          "الفيل طويل."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'الفيل كبير' لأن 'big' تعني كبير.",
+        "englishReason": "The correct translation is 'الفيل كبير' because 'big' means كبير.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 449
+      },
+      {
+        "word": "the car is fast",
+        "meaning": "السيارة سريعة.",
+        "options": [
+          "السيارة سريعة.",
+          "السيارة بطيئة.",
+          "السيارة كبيرة.",
+          "السيارة ثقيلة."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'السيارة سريعة' لأن 'fast' تعني سريع.",
+        "englishReason": "The correct translation is 'السيارة سريعة' because 'fast' means سريع.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 450
+      },
+      {
+        "word": "the tree is tall",
+        "meaning": "الشجرة طويلة.",
+        "options": [
+          "الشجرة طويلة.",
+          "الشجرة قصيرة.",
+          "الشجرة صغيرة.",
+          "الشجرة كبيرة."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'الشجرة طويلة' لأن 'tall' تعني طويل.",
+        "englishReason": "The correct translation is 'الشجرة طويلة' because 'tall' means طويل.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 451
+      },
+      {
+        "word": "the river is long",
+        "meaning": "النهر طويل.",
+        "options": [
+          "النهر طويل.",
+          "النهر قصير.",
+          "النهر كبير.",
+          "النهر ثقيل."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'النهر طويل' لأن 'long' تعني طويل في الامتداد.",
+        "englishReason": "The correct translation is 'النهر طويل' because 'long' means طويل in length.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 452
+      },
+      {
+        "word": "this lesson is easy",
+        "meaning": "هذا الدرس سهل.",
+        "options": [
+          "هذا الدرس سهل.",
+          "هذا الدرس صعب.",
+          "هذا الدرس ثقيل.",
+          "هذا الدرس سريع."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'هذا الدرس سهل' لأن 'easy' تعني سهل.",
+        "englishReason": "The correct translation is 'هذا الدرس سهل' because 'easy' means سهل.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 453
+      },
+      {
+        "word": "the food is healthy",
+        "meaning": "الطعام صحي.",
+        "options": [
+          "الطعام صحي.",
+          "الطعام ثقيل.",
+          "الطعام سهل.",
+          "الطعام نحيف."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'الطعام صحي' لأن 'healthy' تعني صحي.",
+        "englishReason": "The correct translation is 'الطعام صحي' because 'healthy' means صحي.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 454
+      },
+      {
+        "word": "the box is heavy",
+        "meaning": "الصندوق ثقيل.",
+        "options": [
+          "الصندوق ثقيل.",
+          "الصندوق خفيف.",
+          "الصندوق صغير.",
+          "الصندوق سهل."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'الصندوق ثقيل' لأن 'heavy' تعني ثقيل.",
+        "englishReason": "The correct translation is 'الصندوق ثقيل' because 'heavy' means ثقيل.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 455
+      },
+      {
+        "word": "the cat is fat",
+        "meaning": "القطة سمينة.",
+        "options": [
+          "القطة سمينة.",
+          "القطة نحيفة.",
+          "القطة طويلة.",
+          "القطة كبيرة."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'القطة سمينة' لأن 'fat' تعني سمين.",
+        "englishReason": "The correct translation is 'القطة سمينة' because 'fat' means سمين.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 456
+      },
+      {
+        "word": "the paper is thin",
+        "meaning": "الورقة رفيعة.",
+        "options": [
+          "الورقة رفيعة.",
+          "الورقة سميكة.",
+          "الورقة كبيرة.",
+          "الورقة صغيرة."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'الورقة رفيعة' لأن 'thin' تعني نحيف أو رفيع.",
+        "englishReason": "The correct translation is 'الورقة رفيعة' because 'thin' means نحيف or رفيع.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 457
+      },
+      {
+        "word": "the mouse is smaller than the cat",
+        "meaning": "الفأر أصغر من القطة.",
+        "options": [
+          "الفأر أصغر من القطة.",
+          "الفأر أكبر من القطة.",
+          "الفأر أسرع من القطة.",
+          "الفأر أطول من القطة."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'الفأر أصغر من القطة' لأن 'smaller than' تعني أصغر من.",
+        "englishReason": "The correct translation is 'الفأر أصغر من القطة' because 'smaller than' means أصغر من.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 458
+      },
+      {
+        "word": "the sun is bigger than the moon",
+        "meaning": "الشمس أكبر من القمر.",
+        "options": [
+          "الشمس أكبر من القمر.",
+          "الشمس أصغر من القمر.",
+          "الشمس أسرع من القمر.",
+          "الشمس أطول من القمر."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'الشمس أكبر من القمر' لأن 'bigger than' تعني أكبر من.",
+        "englishReason": "The correct translation is 'الشمس أكبر من القمر' because 'bigger than' means أكبر من.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 459
+      },
+      {
+        "word": "the math test is easier than the science test",
+        "meaning": "اختبار الرياضيات أسهل من اختبار العلوم.",
+        "options": [
+          "اختبار الرياضيات أسهل من اختبار العلوم.",
+          "اختبار الرياضيات أصعب من اختبار العلوم.",
+          "اختبار الرياضيات أثقل من اختبار العلوم.",
+          "اختبار الرياضيات أسرع من اختبار العلوم."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'اختبار الرياضيات أسهل من اختبار العلوم' لأن 'easier than' تعني أسهل من.",
+        "englishReason": "The correct translation is 'اختبار الرياضيات أسهل من اختبار العلوم' because 'easier than' means أسهل من.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 460
+      },
+      {
+        "word": "the cat is fatter than the mouse",
+        "meaning": "القطة أسمن من الفأر.",
+        "options": [
+          "القطة أسمن من الفأر.",
+          "القطة أنحف من الفأر.",
+          "القطة أكبر من الفأر.",
+          "القطة أصغر من الفأر."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'القطة أسمن من الفأر' لأن 'fatter than' تعني أسمن من.",
+        "englishReason": "The correct translation is 'القطة أسمن من الفأر' because 'fatter than' means أسمن من.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 461
+      },
+      {
+        "word": "the paper is thinner than the cardboard",
+        "meaning": "الورقة أنحف من الكرتون.",
+        "options": [
+          "الورقة أنحف من الكرتون.",
+          "الورقة أسمن من الكرتون.",
+          "الورقة أقصر من الكرتون.",
+          "الورقة أصغر من الكرتون."
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'الورقة أنحف من الكرتون' لأن 'thinner than' تعني أنحف من.",
+        "englishReason": "The correct translation is 'الورقة أنحف من الكرتون' because 'thinner than' means أنحف من.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 462
+      },
+      {
+        "word": "النجم صغير.",
+        "meaning": "the star is small",
+        "options": [
+          "the star is small",
+          "the star is big",
+          "the star is fast",
+          "the star is tall"
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'the star is small' لأن 'صغير' تعني small.",
+        "englishReason": "The correct translation is 'the star is small' because 'صغير' means small.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 463
+      },
+      {
+        "word": "الفيل كبير.",
+        "meaning": "the elephant is big",
+        "options": [
+          "the elephant is big",
+          "the elephant is small",
+          "the elephant is fat",
+          "the elephant is tall"
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'the elephant is big' لأن 'كبير' تعني big.",
+        "englishReason": "The correct translation is 'the elephant is big' because 'كبير' means big.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 464
+      },
+      {
+        "word": "السيارة سريعة.",
+        "meaning": "the car is fast",
+        "options": [
+          "the car is fast",
+          "the car is slow",
+          "the car is big",
+          "the car is heavy"
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'the car is fast' لأن 'سريعة' تعني fast.",
+        "englishReason": "The correct translation is 'the car is fast' because 'سريعة' means fast.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 465
+      },
+      {
+        "word": "الشجرة طويلة.",
+        "meaning": "the tree is tall",
+        "options": [
+          "the tree is tall",
+          "the tree is short",
+          "the tree is small",
+          "the tree is big"
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'the tree is tall' لأن 'طويلة' تعني tall.",
+        "englishReason": "The correct translation is 'the tree is tall' because 'طويلة' means tall.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 466
+      },
+      {
+        "word": "النهر طويل.",
+        "meaning": "the river is long",
+        "options": [
+          "the river is long",
+          "the river is short",
+          "the river is big",
+          "the river is heavy"
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'the river is long' لأن 'طويل' تعني long.",
+        "englishReason": "The correct translation is 'the river is long' because 'طويل' means long.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 467
+      },
+      {
+        "word": "هذا الدرس سهل.",
+        "meaning": "this lesson is easy",
+        "options": [
+          "this lesson is easy",
+          "this lesson is hard",
+          "this lesson is heavy",
+          "this lesson is fast"
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'this lesson is easy' لأن 'سهل' تعني easy.",
+        "englishReason": "The correct translation is 'this lesson is easy' because 'سهل' means easy.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 468
+      },
+      {
+        "word": "الطعام صحي.",
+        "meaning": "the food is healthy",
+        "options": [
+          "the food is healthy",
+          "the food is heavy",
+          "the food is easy",
+          "the food is thin"
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'the food is healthy' لأن 'صحي' تعني healthy.",
+        "englishReason": "The correct translation is 'the food is healthy' because 'صحي' means healthy.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 469
+      },
+      {
+        "word": "الصندوق ثقيل.",
+        "meaning": "the box is heavy",
+        "options": [
+          "the box is heavy",
+          "the box is light",
+          "the box is small",
+          "the box is easy"
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'the box is heavy' لأن 'ثقيل' تعني heavy.",
+        "englishReason": "The correct translation is 'the box is heavy' because 'ثقيل' means heavy.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 470
+      },
+      {
+        "word": "القطة سمينة.",
+        "meaning": "the cat is fat",
+        "options": [
+          "the cat is fat",
+          "the cat is thin",
+          "the cat is tall",
+          "the cat is big"
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'the cat is fat' لأن 'سمينة' تعني fat.",
+        "englishReason": "The correct translation is 'the cat is fat' because 'سمينة' means fat.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 471
+      },
+      {
+        "word": "الورقة رفيعة.",
+        "meaning": "the paper is thin",
+        "options": [
+          "the paper is thin",
+          "the paper is thick",
+          "the paper is big",
+          "the paper is small"
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'the paper is thin' لأن 'رفيعة' تعني thin.",
+        "englishReason": "The correct translation is 'the paper is thin' because 'رفيعة' means thin.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 472
+      },
+      {
+        "word": "الفأر أصغر من القطة.",
+        "meaning": "the mouse is smaller than the cat",
+        "options": [
+          "the mouse is smaller than the cat",
+          "the mouse is bigger than the cat",
+          "the mouse is faster than the cat",
+          "the mouse is taller than the cat"
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'the mouse is smaller than the cat' لأن 'أصغر من' تعني smaller than.",
+        "englishReason": "The correct translation is 'the mouse is smaller than the cat' because 'أصغر من' means smaller than.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 473
+      },
+      {
+        "word": "الشمس أكبر من القمر.",
+        "meaning": "the sun is bigger than the moon",
+        "options": [
+          "the sun is bigger than the moon",
+          "the sun is smaller than the moon",
+          "the sun is faster than the moon",
+          "the sun is taller than the moon"
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'the sun is bigger than the moon' لأن 'أكبر من' تعني bigger than.",
+        "englishReason": "The correct translation is 'the sun is bigger than the moon' because 'أكبر من' means bigger than.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 474
+      },
+      {
+        "word": "اختبار الرياضيات أسهل من اختبار العلوم.",
+        "meaning": "the math test is easier than the science test",
+        "options": [
+          "the math test is easier than the science test",
+          "the math test is harder than the science test",
+          "the math test is heavier than the science test",
+          "the math test is faster than the science test"
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'the math test is easier than the science test' لأن 'أسهل من' تعني easier than.",
+        "englishReason": "The correct translation is 'the math test is easier than the science test' because 'أسهل من' means easier than.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 475
+      },
+      {
+        "word": "القطة أسمن من الفأر.",
+        "meaning": "the cat is fatter than the mouse",
+        "options": [
+          "the cat is fatter than the mouse",
+          "the cat is thinner than the mouse",
+          "the cat is bigger than the mouse",
+          "the cat is smaller than the mouse"
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'the cat is fatter than the mouse' لأن 'أسمن من' تعني fatter than.",
+        "englishReason": "The correct translation is 'the cat is fatter than the mouse' because 'أسمن من' means fatter than.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 476
+      },
+      {
+        "word": "الورقة أنحف من الكرتون.",
+        "meaning": "the paper is thinner than the cardboard",
+        "options": [
+          "the paper is thinner than the cardboard",
+          "the paper is fatter than the cardboard",
+          "the paper is shorter than the cardboard",
+          "the paper is smaller than the cardboard"
+        ],
+        "arabicReason": "الترجمة الصحيحة هي 'the paper is thinner than the cardboard' لأن 'أنحف من' تعني thinner than.",
+        "englishReason": "The correct translation is 'the paper is thinner than the cardboard' because 'أنحف من' means thinner than.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 477
       }
     ]
   }
