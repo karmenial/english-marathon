@@ -15054,6 +15054,106 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 314
+      },
+      {
+        "sentence": "the star is yellow",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the star) + الفعل (is) + الصفة (yellow).",
+        "englishReason": "The correct order is subject (the star) + verb (is) + adjective (yellow).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 315
+      },
+      {
+        "sentence": "the sun is a circle",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the sun) + الفعل (is) + الاسم (a circle).",
+        "englishReason": "The correct order is subject (the sun) + verb (is) + noun (a circle).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 316
+      },
+      {
+        "sentence": "the sky is blue",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the sky) + الفعل (is) + الصفة (blue).",
+        "englishReason": "The correct order is subject (the sky) + verb (is) + adjective (blue).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 317
+      },
+      {
+        "sentence": "the grass is green",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the grass) + الفعل (is) + الصفة (green).",
+        "englishReason": "The correct order is subject (the grass) + verb (is) + adjective (green).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 318
+      },
+      {
+        "sentence": "the flower is red",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the flower) + الفعل (is) + الصفة (red).",
+        "englishReason": "The correct order is subject (the flower) + verb (is) + adjective (red).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 319
+      },
+      {
+        "sentence": "i eat with a spoon",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (I) + الفعل (eat) + شبه الجملة (with a spoon).",
+        "englishReason": "The correct order is subject (I) + verb (eat) + prepositional phrase (with a spoon).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 320
+      },
+      {
+        "sentence": "the snake is dangerous",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the snake) + الفعل (is) + الصفة (dangerous).",
+        "englishReason": "The correct order is subject (the snake) + verb (is) + adjective (dangerous).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 321
+      },
+      {
+        "sentence": "it is a triangle",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (it) + الفعل (is) + الاسم (a triangle).",
+        "englishReason": "The correct order is subject (it) + verb (is) + noun (a triangle).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 322
+      },
+      {
+        "sentence": "the star is in the sky",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the star) + الفعل (is) + شبه الجملة (in the sky).",
+        "englishReason": "The correct order is subject (the star) + verb (is) + prepositional phrase (in the sky).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 323
+      },
+      {
+        "sentence": "spiders and ants are insects",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل المركب (spiders and ants) + الفعل (are) + الاسم (insects).",
+        "englishReason": "The correct order is compound subject (spiders and ants) + verb (are) + noun (insects).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 324
       }
     ],
     "rewrite": [
@@ -21078,6 +21178,150 @@
         "curriculum": "OL",
         "unit": "5",
         "id": 523
+      },
+      {
+        "word": "star",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 524
+      },
+      {
+        "word": "yellow",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 525
+      },
+      {
+        "word": "sun",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 526
+      },
+      {
+        "word": "shape",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 527
+      },
+      {
+        "word": "circle",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 528
+      },
+      {
+        "word": "sky",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 529
+      },
+      {
+        "word": "blue",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 530
+      },
+      {
+        "word": "grass",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 531
+      },
+      {
+        "word": "green",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 532
+      },
+      {
+        "word": "flower",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 533
+      },
+      {
+        "word": "red",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 534
+      },
+      {
+        "word": "spoon",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 535
+      },
+      {
+        "word": "snake",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 536
+      },
+      {
+        "word": "dangerous",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 537
+      },
+      {
+        "word": "triangle",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 538
+      },
+      {
+        "word": "square",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 539
+      },
+      {
+        "word": "rectangle",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 540
+      },
+      {
+        "word": "insect",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 541
       }
     ],
     "sequence": [
@@ -21520,6 +21764,44 @@
         "curriculum": "OL",
         "unit": "4",
         "id": 8
+      },
+      {
+        "title": "Sort the words: Colors or Shapes?",
+        "categories": [
+          {
+            "id": "colors",
+            "name": "🎨 Colors"
+          },
+          {
+            "id": "shapes",
+            "name": "🔷 Shapes"
+          }
+        ],
+        "wordList": [
+          "red",
+          "circle",
+          "blue",
+          "square",
+          "green",
+          "triangle",
+          "yellow",
+          "rectangle"
+        ],
+        "answerKey": {
+          "red": "colors",
+          "blue": "colors",
+          "green": "colors",
+          "yellow": "colors",
+          "circle": "shapes",
+          "square": "shapes",
+          "triangle": "shapes",
+          "rectangle": "shapes"
+        },
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 9
       }
     ],
     "spilling": [
@@ -25691,6 +25973,150 @@
         "curriculum": "OL",
         "unit": "5",
         "id": 521
+      },
+      {
+        "word": "star",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 522
+      },
+      {
+        "word": "yellow",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 523
+      },
+      {
+        "word": "sun",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 524
+      },
+      {
+        "word": "shape",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 525
+      },
+      {
+        "word": "circle",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 526
+      },
+      {
+        "word": "sky",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 527
+      },
+      {
+        "word": "blue",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 528
+      },
+      {
+        "word": "grass",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 529
+      },
+      {
+        "word": "green",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 530
+      },
+      {
+        "word": "flower",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 531
+      },
+      {
+        "word": "red",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 532
+      },
+      {
+        "word": "spoon",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 533
+      },
+      {
+        "word": "snake",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 534
+      },
+      {
+        "word": "dangerous",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 535
+      },
+      {
+        "word": "triangle",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 536
+      },
+      {
+        "word": "square",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 537
+      },
+      {
+        "word": "rectangle",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 538
+      },
+      {
+        "word": "insect",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 539
       }
     ],
     "Underline": [
@@ -36547,6 +36973,312 @@
         "curriculum": "OL",
         "unit": "5",
         "id": 519
+      },
+      {
+        "word": "star",
+        "meaning": "نجمة",
+        "options": [
+          "نجمة",
+          "شمس",
+          "زهرة",
+          "ثعبان"
+        ],
+        "arabicReason": "كلمة star تعني نجمة، وهي تظهر في السماء.",
+        "englishReason": "The word star means a bright object we can see in the sky.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 520
+      },
+      {
+        "word": "yellow",
+        "meaning": "أصفر",
+        "options": [
+          "أصفر",
+          "أزرق",
+          "أخضر",
+          "أحمر"
+        ],
+        "arabicReason": "كلمة yellow تعني أصفر، وهو لون النجمة في الجملة.",
+        "englishReason": "The word yellow is a color.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 521
+      },
+      {
+        "word": "sun",
+        "meaning": "شمس",
+        "options": [
+          "شمس",
+          "قمر",
+          "نجمة",
+          "زهرة"
+        ],
+        "arabicReason": "كلمة sun تعني الشمس.",
+        "englishReason": "The word sun means the star that gives us light and heat.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 522
+      },
+      {
+        "word": "shape",
+        "meaning": "شكل",
+        "options": [
+          "شكل",
+          "لون",
+          "حجم",
+          "مكان"
+        ],
+        "arabicReason": "كلمة shape تعني شكل الشيء.",
+        "englishReason": "The word shape means the form of something.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 523
+      },
+      {
+        "word": "circle",
+        "meaning": "دائرة",
+        "options": [
+          "دائرة",
+          "مثلث",
+          "مربع",
+          "مستطيل"
+        ],
+        "arabicReason": "كلمة circle تعني دائرة، وهي شكل الشمس في الجملة.",
+        "englishReason": "The word circle means a round shape.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 524
+      },
+      {
+        "word": "sky",
+        "meaning": "سماء",
+        "options": [
+          "سماء",
+          "أرض",
+          "بحر",
+          "شارع"
+        ],
+        "arabicReason": "كلمة sky تعني السماء.",
+        "englishReason": "The word sky means the space we see above the earth.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 525
+      },
+      {
+        "word": "blue",
+        "meaning": "أزرق",
+        "options": [
+          "أزرق",
+          "أصفر",
+          "أخضر",
+          "أحمر"
+        ],
+        "arabicReason": "كلمة blue تعني أزرق، وهو لون السماء في الجملة.",
+        "englishReason": "The word blue is a color.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 526
+      },
+      {
+        "word": "grass",
+        "meaning": "عشب",
+        "options": [
+          "عشب",
+          "زهرة",
+          "شجرة",
+          "ورقة"
+        ],
+        "arabicReason": "كلمة grass تعني العشب.",
+        "englishReason": "The word grass means the green plants that grow on the ground.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 527
+      },
+      {
+        "word": "green",
+        "meaning": "أخضر",
+        "options": [
+          "أخضر",
+          "أزرق",
+          "أحمر",
+          "أصفر"
+        ],
+        "arabicReason": "كلمة green تعني أخضر، وهو لون العشب في الجملة.",
+        "englishReason": "The word green is a color.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 528
+      },
+      {
+        "word": "flower",
+        "meaning": "زهرة",
+        "options": [
+          "زهرة",
+          "نجمة",
+          "شمس",
+          "نملة"
+        ],
+        "arabicReason": "كلمة flower تعني زهرة.",
+        "englishReason": "The word flower means the colorful part of a plant.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 529
+      },
+      {
+        "word": "red",
+        "meaning": "أحمر",
+        "options": [
+          "أحمر",
+          "أخضر",
+          "أزرق",
+          "أصفر"
+        ],
+        "arabicReason": "كلمة red تعني أحمر، وهو أحد ألوان الزهرة في الجملة.",
+        "englishReason": "The word red is a color.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 530
+      },
+      {
+        "word": "spoon",
+        "meaning": "ملعقة",
+        "options": [
+          "ملعقة",
+          "شوكة",
+          "كوب",
+          "طبق"
+        ],
+        "arabicReason": "كلمة spoon تعني ملعقة، وهي أداة نستخدمها للأكل.",
+        "englishReason": "The word spoon means a utensil used for eating.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 531
+      },
+      {
+        "word": "snake",
+        "meaning": "ثعبان",
+        "options": [
+          "ثعبان",
+          "عنكبوت",
+          "نملة",
+          "كلب"
+        ],
+        "arabicReason": "كلمة snake تعني ثعبان.",
+        "englishReason": "The word snake means a long animal with no legs.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 532
+      },
+      {
+        "word": "dangerous",
+        "meaning": "خطير",
+        "options": [
+          "خطير",
+          "آمن",
+          "صغير",
+          "جميل"
+        ],
+        "arabicReason": "كلمة dangerous تعني خطير، أي يمكن أن يسبب الأذى.",
+        "englishReason": "The word dangerous means something that can hurt you.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 533
+      },
+      {
+        "word": "triangle",
+        "meaning": "مثلث",
+        "options": [
+          "مثلث",
+          "مربع",
+          "دائرة",
+          "مستطيل"
+        ],
+        "arabicReason": "كلمة triangle تعني مثلث، وهو شكل له ثلاثة أضلاع.",
+        "englishReason": "The word triangle means a shape with three sides.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 534
+      },
+      {
+        "word": "square",
+        "meaning": "مربع",
+        "options": [
+          "مربع",
+          "مثلث",
+          "دائرة",
+          "مستطيل"
+        ],
+        "arabicReason": "كلمة square تعني مربع.",
+        "englishReason": "The word square means a shape with four equal sides.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 535
+      },
+      {
+        "word": "rectangle",
+        "meaning": "مستطيل",
+        "options": [
+          "مستطيل",
+          "مربع",
+          "مثلث",
+          "دائرة"
+        ],
+        "arabicReason": "كلمة rectangle تعني مستطيل.",
+        "englishReason": "The word rectangle means a shape with four sides.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 536
+      },
+      {
+        "word": "insect",
+        "meaning": "حشرة",
+        "options": [
+          "حشرة",
+          "حيوان أليف",
+          "طائر",
+          "سمكة"
+        ],
+        "arabicReason": "كلمة insect تعني حشرة، مثل العنكبوت والنملة في سياق القطعة.",
+        "englishReason": "The word insect means a small animal such as an ant.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 537
       }
     ],
     "vocab_quiz": [
@@ -45950,6 +46682,312 @@
         "curriculum": "OL",
         "unit": "5",
         "id": 572
+      },
+      {
+        "word": "star",
+        "meaning": "نجمة",
+        "options": [
+          "نجمة",
+          "شمس",
+          "زهرة",
+          "ثعبان"
+        ],
+        "arabicReason": "كلمة star تعني نجمة، وهي تظهر في السماء.",
+        "englishReason": "The word star means a bright object we can see in the sky.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 573
+      },
+      {
+        "word": "yellow",
+        "meaning": "أصفر",
+        "options": [
+          "أصفر",
+          "أزرق",
+          "أخضر",
+          "أحمر"
+        ],
+        "arabicReason": "كلمة yellow تعني أصفر، وهو لون النجمة في الجملة.",
+        "englishReason": "The word yellow is a color.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 574
+      },
+      {
+        "word": "sun",
+        "meaning": "شمس",
+        "options": [
+          "شمس",
+          "قمر",
+          "نجمة",
+          "زهرة"
+        ],
+        "arabicReason": "كلمة sun تعني الشمس.",
+        "englishReason": "The word sun means the star that gives us light and heat.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 575
+      },
+      {
+        "word": "shape",
+        "meaning": "شكل",
+        "options": [
+          "شكل",
+          "لون",
+          "حجم",
+          "مكان"
+        ],
+        "arabicReason": "كلمة shape تعني شكل الشيء.",
+        "englishReason": "The word shape means the form of something.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 576
+      },
+      {
+        "word": "circle",
+        "meaning": "دائرة",
+        "options": [
+          "دائرة",
+          "مثلث",
+          "مربع",
+          "مستطيل"
+        ],
+        "arabicReason": "كلمة circle تعني دائرة، وهي شكل الشمس في الجملة.",
+        "englishReason": "The word circle means a round shape.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 577
+      },
+      {
+        "word": "sky",
+        "meaning": "سماء",
+        "options": [
+          "سماء",
+          "أرض",
+          "بحر",
+          "شارع"
+        ],
+        "arabicReason": "كلمة sky تعني السماء.",
+        "englishReason": "The word sky means the space we see above the earth.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 578
+      },
+      {
+        "word": "blue",
+        "meaning": "أزرق",
+        "options": [
+          "أزرق",
+          "أصفر",
+          "أخضر",
+          "أحمر"
+        ],
+        "arabicReason": "كلمة blue تعني أزرق، وهو لون السماء في الجملة.",
+        "englishReason": "The word blue is a color.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 579
+      },
+      {
+        "word": "grass",
+        "meaning": "عشب",
+        "options": [
+          "عشب",
+          "زهرة",
+          "شجرة",
+          "ورقة"
+        ],
+        "arabicReason": "كلمة grass تعني العشب.",
+        "englishReason": "The word grass means the green plants that grow on the ground.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 580
+      },
+      {
+        "word": "green",
+        "meaning": "أخضر",
+        "options": [
+          "أخضر",
+          "أزرق",
+          "أحمر",
+          "أصفر"
+        ],
+        "arabicReason": "كلمة green تعني أخضر، وهو لون العشب في الجملة.",
+        "englishReason": "The word green is a color.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 581
+      },
+      {
+        "word": "flower",
+        "meaning": "زهرة",
+        "options": [
+          "زهرة",
+          "نجمة",
+          "شمس",
+          "نملة"
+        ],
+        "arabicReason": "كلمة flower تعني زهرة.",
+        "englishReason": "The word flower means the colorful part of a plant.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 582
+      },
+      {
+        "word": "red",
+        "meaning": "أحمر",
+        "options": [
+          "أحمر",
+          "أخضر",
+          "أزرق",
+          "أصفر"
+        ],
+        "arabicReason": "كلمة red تعني أحمر، وهو أحد ألوان الزهرة في الجملة.",
+        "englishReason": "The word red is a color.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 583
+      },
+      {
+        "word": "spoon",
+        "meaning": "ملعقة",
+        "options": [
+          "ملعقة",
+          "شوكة",
+          "كوب",
+          "طبق"
+        ],
+        "arabicReason": "كلمة spoon تعني ملعقة، وهي أداة نستخدمها للأكل.",
+        "englishReason": "The word spoon means a utensil used for eating.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 584
+      },
+      {
+        "word": "snake",
+        "meaning": "ثعبان",
+        "options": [
+          "ثعبان",
+          "عنكبوت",
+          "نملة",
+          "كلب"
+        ],
+        "arabicReason": "كلمة snake تعني ثعبان.",
+        "englishReason": "The word snake means a long animal with no legs.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 585
+      },
+      {
+        "word": "dangerous",
+        "meaning": "خطير",
+        "options": [
+          "خطير",
+          "آمن",
+          "صغير",
+          "جميل"
+        ],
+        "arabicReason": "كلمة dangerous تعني خطير، أي يمكن أن يسبب الأذى.",
+        "englishReason": "The word dangerous means something that can hurt you.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 586
+      },
+      {
+        "word": "triangle",
+        "meaning": "مثلث",
+        "options": [
+          "مثلث",
+          "مربع",
+          "دائرة",
+          "مستطيل"
+        ],
+        "arabicReason": "كلمة triangle تعني مثلث، وهو شكل له ثلاثة أضلاع.",
+        "englishReason": "The word triangle means a shape with three sides.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 587
+      },
+      {
+        "word": "square",
+        "meaning": "مربع",
+        "options": [
+          "مربع",
+          "مثلث",
+          "دائرة",
+          "مستطيل"
+        ],
+        "arabicReason": "كلمة square تعني مربع.",
+        "englishReason": "The word square means a shape with four equal sides.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 588
+      },
+      {
+        "word": "rectangle",
+        "meaning": "مستطيل",
+        "options": [
+          "مستطيل",
+          "مربع",
+          "مثلث",
+          "دائرة"
+        ],
+        "arabicReason": "كلمة rectangle تعني مستطيل.",
+        "englishReason": "The word rectangle means a shape with four sides.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 589
+      },
+      {
+        "word": "insect",
+        "meaning": "حشرة",
+        "options": [
+          "حشرة",
+          "حيوان أليف",
+          "طائر",
+          "سمكة"
+        ],
+        "arabicReason": "كلمة insect تعني حشرة، مثل العنكبوت والنملة في سياق القطعة.",
+        "englishReason": "The word insect means a small animal such as an ant.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 590
       }
     ],
     "what_do_you_hear": [
@@ -51098,6 +52136,146 @@
         "curriculum": "OL",
         "unit": "5",
         "id": 367
+      },
+      {
+        "sentence": "The star is yellow.",
+        "options": [
+          "The star is yellow.",
+          "The sun is yellow.",
+          "The sky is yellow.",
+          "The grass is yellow."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 368
+      },
+      {
+        "sentence": "The sun is a circle.",
+        "options": [
+          "The sun is a circle.",
+          "The sun is a square.",
+          "The sun is a triangle.",
+          "The sun is a rectangle."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 369
+      },
+      {
+        "sentence": "The sky is blue.",
+        "options": [
+          "The sky is blue.",
+          "The sky is green.",
+          "The sky is red.",
+          "The sky is yellow."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 370
+      },
+      {
+        "sentence": "The grass is green.",
+        "options": [
+          "The grass is green.",
+          "The grass is blue.",
+          "The grass is red.",
+          "The grass is yellow."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 371
+      },
+      {
+        "sentence": "The flower is red.",
+        "options": [
+          "The flower is red.",
+          "The flower is blue.",
+          "The flower is green.",
+          "The flower is yellow."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 372
+      },
+      {
+        "sentence": "I eat with a spoon.",
+        "options": [
+          "I eat with a spoon.",
+          "I eat with a fork.",
+          "I eat with a knife.",
+          "I eat with a bowl."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 373
+      },
+      {
+        "sentence": "The snake is dangerous.",
+        "options": [
+          "The snake is dangerous.",
+          "The spider is dangerous.",
+          "The ant is dangerous.",
+          "The star is dangerous."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 374
+      },
+      {
+        "sentence": "It is a triangle.",
+        "options": [
+          "It is a triangle.",
+          "It is a square.",
+          "It is a rectangle.",
+          "It is a circle."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 375
+      },
+      {
+        "sentence": "The star is in the sky.",
+        "options": [
+          "The star is in the sky.",
+          "The sun is in the sky.",
+          "The moon is in the sky.",
+          "The bird is in the sky."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 376
+      },
+      {
+        "sentence": "Spiders and ants are insects.",
+        "options": [
+          "Spiders and ants are insects.",
+          "Spiders and ants are animals.",
+          "Spiders and ants are birds.",
+          "Spiders and ants are fish."
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 377
       }
     ],
     "vocab_choose": [
@@ -58801,6 +59979,261 @@
         "curriculum": "OL",
         "unit": "5",
         "id": 453
+      },
+      {
+        "question": "What ______ is the star? It is yellow.",
+        "correctAnswer": "color",
+        "arabicReason": "الإجابة yellow تدل على أن السؤال يجب أن يكون عن اللون.",
+        "englishReason": "The answer yellow tells us that the question is about color.",
+        "options": [
+          "color",
+          "shape",
+          "season",
+          "insect"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 454
+      },
+      {
+        "question": "What ______ is the sun? It is a circle.",
+        "correctAnswer": "shape",
+        "arabicReason": "الإجابة circle تدل على أن السؤال يجب أن يكون عن الشكل.",
+        "englishReason": "The answer circle tells us that the question is about shape.",
+        "options": [
+          "color",
+          "shape",
+          "season",
+          "insect"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 455
+      },
+      {
+        "question": "What ______ is the sky? It is blue.",
+        "correctAnswer": "color",
+        "arabicReason": "الإجابة blue تدل على أن السؤال يجب أن يكون عن اللون.",
+        "englishReason": "The answer blue tells us that the question is about color.",
+        "options": [
+          "color",
+          "shape",
+          "season",
+          "insect"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 456
+      },
+      {
+        "question": "What ______ is the grass? It is green.",
+        "correctAnswer": "color",
+        "arabicReason": "الإجابة green تدل على أن السؤال يجب أن يكون عن اللون.",
+        "englishReason": "The answer green tells us that the question is about color.",
+        "options": [
+          "color",
+          "shape",
+          "season",
+          "insect"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 457
+      },
+      {
+        "question": "What ______ is the flower? It is red and yellow.",
+        "correctAnswer": "color",
+        "arabicReason": "الإجابة red and yellow تدل على أن السؤال عن اللون.",
+        "englishReason": "The answer red and yellow tells us that the question is about color.",
+        "options": [
+          "color",
+          "shape",
+          "season",
+          "insect"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 458
+      },
+      {
+        "question": "What ______ is this? It is a triangle.",
+        "correctAnswer": "shape",
+        "arabicReason": "الإجابة triangle تدل على أن السؤال عن الشكل.",
+        "englishReason": "The answer triangle tells us that the question is about shape.",
+        "options": [
+          "color",
+          "shape",
+          "season",
+          "insect"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 459
+      },
+      {
+        "question": "I eat with a ______.",
+        "correctAnswer": "spoon",
+        "arabicReason": "نستخدم spoon لإكمال الجملة بشكل صحيح.",
+        "englishReason": "We use spoon to complete the sentence correctly.",
+        "options": [
+          "spoon",
+          "snake",
+          "flower",
+          "grass"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 460
+      },
+      {
+        "question": "The ______ is blue.",
+        "correctAnswer": "sky",
+        "arabicReason": "السماء هي التي لونها أزرق في القطعة.",
+        "englishReason": "The sky is blue in the passage.",
+        "options": [
+          "sky",
+          "grass",
+          "flower",
+          "snake"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 461
+      },
+      {
+        "question": "The ______ is green.",
+        "correctAnswer": "grass",
+        "arabicReason": "العشب هو الذي لونه أخضر في القطعة.",
+        "englishReason": "The grass is green in the passage.",
+        "options": [
+          "grass",
+          "sky",
+          "star",
+          "sun"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 462
+      },
+      {
+        "question": "The ______ is dangerous.",
+        "correctAnswer": "snake",
+        "arabicReason": "الثعبان هو الذي وُصف بأنه خطير.",
+        "englishReason": "The snake is described as dangerous in the passage.",
+        "options": [
+          "snake",
+          "flower",
+          "star",
+          "spoon"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 463
+      },
+      {
+        "question": "The ______ is yellow.",
+        "correctAnswer": "star",
+        "arabicReason": "النجمة هي التي لونها أصفر في القطعة.",
+        "englishReason": "The star is yellow in the passage.",
+        "options": [
+          "star",
+          "grass",
+          "flower",
+          "sky"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 464
+      },
+      {
+        "question": "The sun is a ______.",
+        "correctAnswer": "circle",
+        "arabicReason": "الشمس شكلها دائرة في القطعة.",
+        "englishReason": "The sun is a circle in the passage.",
+        "options": [
+          "circle",
+          "triangle",
+          "square",
+          "rectangle"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 465
+      },
+      {
+        "question": "The flower is ______.",
+        "correctAnswer": "red",
+        "arabicReason": "الزهرة حمراء، كما ورد في القطعة.",
+        "englishReason": "The flower is red in the passage.",
+        "options": [
+          "red",
+          "blue",
+          "green",
+          "yellow"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 466
+      },
+      {
+        "question": "A triangle is a ______.",
+        "correctAnswer": "shape",
+        "arabicReason": "المثلث هو أحد الأشكال.",
+        "englishReason": "A triangle is a shape.",
+        "options": [
+          "shape",
+          "color",
+          "insect",
+          "spoon"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 467
+      },
+      {
+        "question": "Spiders and ants are ______.",
+        "correctAnswer": "insects",
+        "arabicReason": "العناكب والنمل مذكوران في القطعة على أنهما حشرات.",
+        "englishReason": "Spiders and ants are described as insects in the passage.",
+        "options": [
+          "insects",
+          "colors",
+          "shapes",
+          "flowers"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 468
       }
     ],
     "translate": [
@@ -66062,6 +67495,346 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 427
+      },
+      {
+        "word": "The star is yellow.",
+        "meaning": "النجم أصفر.",
+        "options": [
+          "النجم أصفر.",
+          "الشمس صفراء.",
+          "السماء صفراء.",
+          "العشب أصفر."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 428
+      },
+      {
+        "word": "The sun is a circle.",
+        "meaning": "الشمس دائرة.",
+        "options": [
+          "الشمس دائرة.",
+          "الشمس مربع.",
+          "الشمس مثلث.",
+          "النجم دائرة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 429
+      },
+      {
+        "word": "The sky is blue.",
+        "meaning": "السماء زرقاء.",
+        "options": [
+          "السماء زرقاء.",
+          "السماء خضراء.",
+          "السماء حمراء.",
+          "العشب أزرق."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 430
+      },
+      {
+        "word": "The grass is green.",
+        "meaning": "العشب أخضر.",
+        "options": [
+          "العشب أخضر.",
+          "العشب أزرق.",
+          "الزهرة خضراء.",
+          "السماء خضراء."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 431
+      },
+      {
+        "word": "The flower is red.",
+        "meaning": "الزهرة حمراء.",
+        "options": [
+          "الزهرة حمراء.",
+          "الزهرة زرقاء.",
+          "الزهرة خضراء.",
+          "النجم أحمر."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 432
+      },
+      {
+        "word": "I eat with a spoon.",
+        "meaning": "آكل باستخدام الملعقة.",
+        "options": [
+          "آكل باستخدام الملعقة.",
+          "آكل باستخدام الشوكة.",
+          "آكل باستخدام السكين.",
+          "أشرب باستخدام الملعقة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 433
+      },
+      {
+        "word": "The snake is dangerous.",
+        "meaning": "الثعبان خطير.",
+        "options": [
+          "الثعبان خطير.",
+          "الثعبان آمن.",
+          "العنكبوت خطير.",
+          "النمل خطير."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 434
+      },
+      {
+        "word": "It is a triangle.",
+        "meaning": "إنه مثلث.",
+        "options": [
+          "إنه مثلث.",
+          "إنه مربع.",
+          "إنه مستطيل.",
+          "إنه دائرة."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 435
+      },
+      {
+        "word": "The star is in the sky.",
+        "meaning": "النجم في السماء.",
+        "options": [
+          "النجم في السماء.",
+          "الشمس في السماء.",
+          "النجم على الأرض.",
+          "القمر في السماء."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 436
+      },
+      {
+        "word": "Spiders and ants are insects.",
+        "meaning": "العناكب والنمل حشرات.",
+        "options": [
+          "العناكب والنمل حشرات.",
+          "العناكب والنمل حيوانات.",
+          "العناكب والنمل طيور.",
+          "النمل والعناكب أسماك."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 437
+      },
+      {
+        "word": "النجم أصفر.",
+        "meaning": "The star is yellow.",
+        "options": [
+          "The star is yellow.",
+          "The sun is yellow.",
+          "The sky is yellow.",
+          "The grass is yellow."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 438
+      },
+      {
+        "word": "الشمس دائرة.",
+        "meaning": "The sun is a circle.",
+        "options": [
+          "The sun is a circle.",
+          "The sun is a square.",
+          "The sun is a triangle.",
+          "The sun is a rectangle."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 439
+      },
+      {
+        "word": "السماء زرقاء.",
+        "meaning": "The sky is blue.",
+        "options": [
+          "The sky is blue.",
+          "The sky is green.",
+          "The sky is red.",
+          "The grass is blue."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 440
+      },
+      {
+        "word": "العشب أخضر.",
+        "meaning": "The grass is green.",
+        "options": [
+          "The grass is green.",
+          "The grass is blue.",
+          "The flower is green.",
+          "The sky is green."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 441
+      },
+      {
+        "word": "الزهرة حمراء.",
+        "meaning": "The flower is red.",
+        "options": [
+          "The flower is red.",
+          "The flower is blue.",
+          "The flower is green.",
+          "The star is red."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 442
+      },
+      {
+        "word": "آكل باستخدام الملعقة.",
+        "meaning": "I eat with a spoon.",
+        "options": [
+          "I eat with a spoon.",
+          "I eat with a fork.",
+          "I eat with a knife.",
+          "I drink with a spoon."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 443
+      },
+      {
+        "word": "الثعبان خطير.",
+        "meaning": "The snake is dangerous.",
+        "options": [
+          "The snake is dangerous.",
+          "The snake is safe.",
+          "The spider is dangerous.",
+          "The ant is dangerous."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 444
+      },
+      {
+        "word": "إنه مثلث.",
+        "meaning": "It is a triangle.",
+        "options": [
+          "It is a triangle.",
+          "It is a square.",
+          "It is a rectangle.",
+          "It is a circle."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 445
+      },
+      {
+        "word": "النجم في السماء.",
+        "meaning": "The star is in the sky.",
+        "options": [
+          "The star is in the sky.",
+          "The sun is in the sky.",
+          "The star is on the ground.",
+          "The moon is in the sky."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 446
+      },
+      {
+        "word": "العناكب والنمل حشرات.",
+        "meaning": "Spiders and ants are insects.",
+        "options": [
+          "Spiders and ants are insects.",
+          "Spiders and ants are animals.",
+          "Spiders and ants are birds.",
+          "Spiders and ants are fish."
+        ],
+        "arabicReason": ".",
+        "englishReason": ".",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "6",
+        "id": 447
       }
     ]
   }
