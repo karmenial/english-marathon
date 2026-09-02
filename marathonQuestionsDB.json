@@ -4725,6 +4725,246 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 326
+      },
+      {
+        "sentence": "This car is fast than that car.",
+        "errorWord": "fast",
+        "correctWord": "faster",
+        "arabicReason": "نستخدم صيغة المقارنة بإضافة er للصفة القصيرة fast عند مقارنة شيئين مع وجود than.",
+        "englishReason": "We use the comparative form by adding 'er' to the short adjective 'fast' when comparing two things with 'than'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 327
+      },
+      {
+        "sentence": "The train is fastest one.",
+        "errorWord": "fastest",
+        "correctWord": "the fastest",
+        "arabicReason": "نستخدم صيغة التفضيل العليا مسبوقة بـ the دائمًا لأننا نقارن شيئاً واحداً بمجموعة.",
+        "englishReason": "We use the superlative form preceded by 'the' because we compare one thing to a group.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 328
+      },
+      {
+        "sentence": "The blue circle is small than the red circle.",
+        "errorWord": "small",
+        "correctWord": "smaller",
+        "arabicReason": "مقارنة مباشرة بين دائرتين باستخدام than، لذا نضيف er للصفة القصيرة (smaller).",
+        "englishReason": "Direct comparison between two circles using 'than', so we add 'er' to the short adjective (smaller).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 329
+      },
+      {
+        "sentence": "The cat is cutest pet in the world.",
+        "errorWord": "cutest",
+        "correctWord": "the cutest",
+        "arabicReason": "في صيغة التفضيل العليا، نستخدم the مع الصفة المنتهية بـ est لأنها تقارن بشيء في مجموعة كاملة.",
+        "englishReason": "In the superlative form, we use 'the' with the adjective ending in 'est' because it compares to something in a whole group.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 330
+      },
+      {
+        "sentence": "The math lesson is easy than the science one.",
+        "errorWord": "easy",
+        "correctWord": "easier",
+        "arabicReason": "نقلب حرف الـ y إلى i ونضيف er لأن easy تنتهي بـ y مسبوق بحرف ساكن، ونقارن بين شيئين باستخدام than.",
+        "englishReason": "We change 'y' to 'i' and add 'er' because 'easy' ends in 'y' preceded by a consonant, and we compare two things using 'than'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 331
+      },
+      {
+        "sentence": "The green circle is big than the red circle.",
+        "errorWord": "big",
+        "correctWord": "bigger",
+        "arabicReason": "نضيف er مع مضاعفة الحرف الأخير (g) لأن big تنتهي بحرف ساكن مسبوق بحرف متحرك واحد (CVC pattern).",
+        "englishReason": "We add 'er' with doubling the final consonant (g) because 'big' ends in a consonant preceded by a single vowel (CVC pattern).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 332
+      },
+      {
+        "sentence": "My bag is heavy than your bag.",
+        "errorWord": "heavy",
+        "correctWord": "heavier",
+        "arabicReason": "نقلب حرف الـ y إلى i ونضيف er لأن heavy تنتهي بـ y مسبوق بحرف ساكن، ونقارن بين شيئين باستخدام than.",
+        "englishReason": "We change 'y' to 'i' and add 'er' because 'heavy' ends in 'y' preceded by a consonant, and we compare two things using 'than'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 333
+      },
+      {
+        "sentence": "This box is heaviest of all the boxes.",
+        "errorWord": "heaviest",
+        "correctWord": "the heaviest",
+        "arabicReason": "في التفضيل الأقصى لمجموعة (of all)، نستخدم the مع الصفة المنتهية بـ est.",
+        "englishReason": "In the superlative form for a group (of all), we use 'the' with the adjective ending in 'est'.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 334
+      },
+      {
+        "sentence": "He is good than his friend.",
+        "errorWord": "good",
+        "correctWord": "better",
+        "arabicReason": "الصفة good شاذة، وصيغة المقارنة منها هي better (وليس gooder) عند وجود than.",
+        "englishReason": "The adjective 'good' is irregular, and its comparative form is 'better' (not 'gooder') when 'than' is present.",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 335
+      },
+      {
+        "sentence": "This is smallest ball in the box.",
+        "errorWord": "smallest",
+        "correctWord": "the smallest",
+        "arabicReason": "في صيغة التفضيل العليا، نستخدم the مع الصفة المنتهية بـ est لأنها تقارن بشيء في مجموعة كاملة (in the box).",
+        "englishReason": "In the superlative form, we use 'the' with the adjective ending in 'est' because it compares to something in a whole group (in the box).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 336
+      },
+      {
+        "sentence": "What many flowers are there?",
+        "errorWord": "What",
+        "correctWord": "How",
+        "arabicReason": "نستخدم 'How' مع 'many' للسؤال عن الكمية (كم عدد)، وليس 'What'.",
+        "englishReason": "We use 'How' with 'many' to ask about quantity (How many), not 'What'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 337
+      },
+      {
+        "sentence": "There are one flower in the garden.",
+        "errorWord": "are",
+        "correctWord": "is",
+        "arabicReason": "نستخدم 'is' مع الاسم المفرد (one flower) في جملة 'There is'.",
+        "englishReason": "We use 'is' with a singular noun (one flower) in the 'There is' structure.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 338
+      },
+      {
+        "sentence": "There is two balls on the table.",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "نستخدم 'are' مع الاسم الجمع (two balls) في جملة 'There are'.",
+        "englishReason": "We use 'are' with a plural noun (two balls) in the 'There are' structure.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 339
+      },
+      {
+        "sentence": "How many car are there?",
+        "errorWord": "car",
+        "correctWord": "cars",
+        "arabicReason": "نستخدم الاسم الجمع (cars) مع 'How many' لأن السؤال دائماً عن أكثر من شيء.",
+        "englishReason": "We use the plural noun (cars) with 'How many' because the question is always about more than one thing.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 340
+      },
+      {
+        "sentence": "How many books is there?",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "نستخدم 'are' مع 'How many' لأن السؤال دائماً عن اسم جمع (books).",
+        "englishReason": "We use 'are' with 'How many' because the question is always about a plural noun (books).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 341
+      },
+      {
+        "sentence": "There are a pen on the desk.",
+        "errorWord": "are",
+        "correctWord": "is",
+        "arabicReason": "نستخدم 'is' مع الاسم المفرد (a pen) في جملة 'There is'.",
+        "englishReason": "We use 'is' with a singular noun (a pen) in the 'There is' structure.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 342
+      },
+      {
+        "sentence": "What many apples are there?",
+        "errorWord": "What",
+        "correctWord": "How",
+        "arabicReason": "نستخدم 'How' مع 'many' للسؤال عن الكمية (كم عدد)، وليس 'What'.",
+        "englishReason": "We use 'How' with 'many' to ask about quantity (How many), not 'What'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 343
+      },
+      {
+        "sentence": "There is three birds in the tree.",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "نستخدم 'are' مع الاسم الجمع (three birds) لأن العدد أكبر من واحد.",
+        "englishReason": "We use 'are' with a plural noun (three birds) because the number is more than one.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 344
+      },
+      {
+        "sentence": "How many dog is there in the park?",
+        "errorWord": "dog",
+        "correctWord": "dogs",
+        "arabicReason": "نستخدم الاسم الجمع (dogs) مع 'How many' لأن السؤال دائماً عن أكثر من شيء.",
+        "englishReason": "We use the plural noun (dogs) with 'How many' because the question is always about more than one thing.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 345
+      },
+      {
+        "sentence": "There are one cat on the chair.",
+        "errorWord": "are",
+        "correctWord": "is",
+        "arabicReason": "نستخدم 'is' مع الاسم المفرد (one cat) في جملة 'There is'.",
+        "englishReason": "We use 'is' with a singular noun (one cat) in the 'There is' structure.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 346
       }
     ],
     "find_the_vowel": [
@@ -10743,6 +10983,516 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 353
+      },
+      {
+        "question": "This car is _____ than that car.",
+        "correctAnswer": "faster",
+        "arabicReason": "نستخدم صيغة المقارنة (Comparative) بإضافة er للصفة القصيرة fast عند مقارنة شيئين مع وجود than.",
+        "englishReason": "We use the comparative form by adding 'er' to the short adjective 'fast' when comparing two things with 'than'.",
+        "options": [
+          "fast",
+          "faster",
+          "fastest",
+          "the faster"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 354
+      },
+      {
+        "question": "The train is _____ one.",
+        "correctAnswer": "the fastest",
+        "arabicReason": "نستخدم صيغة التفضيل العليا (Superlative) مسبوقة بـ the ومتبوعة بـ est لأننا نقارن شيئاً واحداً بمجموعة.",
+        "englishReason": "We use the superlative form with 'the' before and 'est' after because we compare one thing to a group.",
+        "options": [
+          "fast",
+          "faster",
+          "the fastest",
+          "fastest"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 355
+      },
+      {
+        "question": "The blue circle is _____ than the red circle.",
+        "correctAnswer": "smaller",
+        "arabicReason": "مقارنة مباشرة بين دائرتين باستخدام than، لذا نختار الصفة منتهية بـ er (smaller).",
+        "englishReason": "Direct comparison between two circles using 'than', so we choose the adjective ending with 'er' (smaller).",
+        "options": [
+          "small",
+          "smaller",
+          "smallest",
+          "the smaller"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 356
+      },
+      {
+        "question": "The cat is _____ pet in the world.",
+        "correctAnswer": "the cutest",
+        "arabicReason": "في صيغة التفضيل العليا لحيوان مفضل بين كل الحيوانات، نستخدم the مع الصفة المنتهية بـ est.",
+        "englishReason": "In the superlative form for a favorite animal among all animals, we use 'the' with the adjective ending in 'est'.",
+        "options": [
+          "cute",
+          "cuter",
+          "the cutest",
+          "cutest"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 357
+      },
+      {
+        "question": "Ahmed runs faster than _____ do.",
+        "correctAnswer": "I",
+        "arabicReason": "بعد كلمة than، نستخدم ضمير الفاعل (I) لأنه يمثل الفاعل الذي يقوم بالفعل ضمن الجملة (Ahmed runs faster than I [run]).",
+        "englishReason": "After 'than', we use the subject pronoun (I) because it represents the subject performing the action (Ahmed runs faster than I [run]).",
+        "options": [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 358
+      },
+      {
+        "question": "The math lesson is _____ than the science one.",
+        "correctAnswer": "easier",
+        "arabicReason": "نقلب حرف الـ y إلى i ونضيف er عند مقارنة شيء بآخر (easier than) لأن easy تنتهي بـ y مسبوق بحرف ساكن.",
+        "englishReason": "We change 'y' to 'i' and add 'er' when comparing two things (easier than) because 'easy' ends in 'y' preceded by a consonant.",
+        "options": [
+          "easy",
+          "easier",
+          "easiest",
+          "more easy"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 359
+      },
+      {
+        "question": "The green circle is _____ the red circle.",
+        "correctAnswer": "bigger than",
+        "arabicReason": "الصيغة الصحيحة للمقارنة تتكون من صفة المقارنة متبوعة مباشرة بكلمة than، مع مضاعفة الحرف الأخير في big (bigger).",
+        "englishReason": "The correct comparative form consists of the comparative adjective followed directly by 'than', with doubling the final consonant in 'big' (bigger).",
+        "options": [
+          "bigger",
+          "bigger than",
+          "biggest",
+          "the bigger"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 360
+      },
+      {
+        "question": "She is _____ player in the team.",
+        "correctAnswer": "the best",
+        "arabicReason": "في صيغة التفضيل العليا للصفة غير المنتظمة good، تصبح the best.",
+        "englishReason": "In the superlative form of the irregular adjective 'good', it becomes 'the best'.",
+        "options": [
+          "good",
+          "better",
+          "the best",
+          "best"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 361
+      },
+      {
+        "question": "He is _____ than his friend.",
+        "correctAnswer": "better",
+        "arabicReason": "في صيغة المقارنة للصفة الشاذة good مع وجود than، تتحول إلى better.",
+        "englishReason": "In the comparative form of the irregular adjective 'good' with 'than', it becomes 'better'.",
+        "options": [
+          "good",
+          "better",
+          "best",
+          "the better"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 362
+      },
+      {
+        "question": "The blue circle is _____.",
+        "correctAnswer": "the smallest",
+        "arabicReason": "عند تفضيل الدائرة الزرقاء وتحديدها كالأصغر على الإطلاق بدون طرف ثانٍ للمقارنة المباشرة نستخدم the smallest.",
+        "englishReason": "When favoring the blue circle as the smallest of all without a direct second party for comparison, we use 'the smallest'.",
+        "options": [
+          "small",
+          "smaller",
+          "the smallest",
+          "smallest"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 363
+      },
+      {
+        "question": "This building is _____ than that building.",
+        "correctAnswer": "taller",
+        "arabicReason": "مقارنة بين مبنيين باستخدام than، فنضيف er للصفة القصيرة (taller).",
+        "englishReason": "Comparison between two buildings using 'than', so we add 'er' to the short adjective (taller).",
+        "options": [
+          "tall",
+          "taller",
+          "tallest",
+          "the taller"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 364
+      },
+      {
+        "question": "He is _____ boy in the class.",
+        "correctAnswer": "the tallest",
+        "arabicReason": "تفضيل شخص على كل أفراد الفصل، نستخدم the + الصفة مضافاً إليها est.",
+        "englishReason": "Favoring one person over all class members, we use 'the' + adjective + 'est'.",
+        "options": [
+          "tall",
+          "taller",
+          "the tallest",
+          "tallest"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 365
+      },
+      {
+        "question": "My bag is _____ than your bag.",
+        "correctAnswer": "heavier",
+        "arabicReason": "الصفة المنتهية بـ y تُقلب إلى i ونضيف er في حالة المقارنة (heavier) لأن heavy تنتهي بـ y مسبوق بحرف ساكن.",
+        "englishReason": "The adjective ending in 'y' changes to 'i' and adds 'er' in comparison (heavier) because 'heavy' ends in 'y' preceded by a consonant.",
+        "options": [
+          "heavy",
+          "heavier",
+          "heaviest",
+          "the heavier"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 366
+      },
+      {
+        "question": "This box is _____ of all the boxes.",
+        "correctAnswer": "the heaviest",
+        "arabicReason": "في التفضيل الأقصى لمجموعة صناديق (of all)، نستخدم the heaviest مع قلب y إلى i وإضافة est.",
+        "englishReason": "In the superlative form for a group of boxes (of all), we use 'the heaviest' by changing 'y' to 'i' and adding 'est'.",
+        "options": [
+          "heavy",
+          "heavier",
+          "the heaviest",
+          "heaviest"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 367
+      },
+      {
+        "question": "Today is _____ than yesterday.",
+        "correctAnswer": "colder",
+        "arabicReason": "مقارنة طقس اليوم بالأمس مع وجود than، لذا نستخدم colder.",
+        "englishReason": "Comparing today's weather to yesterday with 'than', so we use 'colder'.",
+        "options": [
+          "cold",
+          "colder",
+          "coldest",
+          "the colder"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 368
+      },
+      {
+        "question": "January is _____ month of the year.",
+        "correctAnswer": "the coldest",
+        "arabicReason": "لتحديد الشهر الأبرد في السنة كلها، نستخدم الصيغة العليا the coldest.",
+        "englishReason": "To determine the coldest month of the entire year, we use the superlative form 'the coldest'.",
+        "options": [
+          "cold",
+          "colder",
+          "the coldest",
+          "coldest"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 369
+      },
+      {
+        "question": "The red ball is _____ than the blue ball.",
+        "correctAnswer": "smaller",
+        "arabicReason": "مقارنة بين كرتين بوجود than، فنختار smaller.",
+        "englishReason": "Comparison between two balls with 'than', so we choose 'smaller'.",
+        "options": [
+          "small",
+          "smaller",
+          "smallest",
+          "the smaller"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 370
+      },
+      {
+        "question": "This is _____ ball in the box.",
+        "correctAnswer": "the smallest",
+        "arabicReason": "تفضيل الكرة الأصغر داخل الصندوق بالكامل، نستخدم the smallest.",
+        "englishReason": "Favoring the smallest ball inside the entire box, we use 'the smallest'.",
+        "options": [
+          "small",
+          "smaller",
+          "the smallest",
+          "smallest"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 371
+      },
+      {
+        "question": "My room is _____ than your room.",
+        "correctAnswer": "cleaner",
+        "arabicReason": "مقارنة بين غرفتين باستخدام than، فنضيف er (cleaner).",
+        "englishReason": "Comparison between two rooms using 'than', so we add 'er' (cleaner).",
+        "options": [
+          "clean",
+          "cleaner",
+          "cleanest",
+          "the cleaner"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 372
+      },
+      {
+        "question": "This is _____ room in the house.",
+        "correctAnswer": "the cleanest",
+        "arabicReason": "تفضيل الغرفة الأكثر نظافة في المنزل بالكامل، نستخدم the cleanest.",
+        "englishReason": "Favoring the cleanest room in the entire house, we use 'the cleanest'.",
+        "options": [
+          "clean",
+          "cleaner",
+          "the cleanest",
+          "cleanest"
+        ],
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 373
+      },
+      {
+        "question": "______ many flowers are there?",
+        "correctAnswer": "How",
+        "arabicReason": "نستخدم 'How' مع 'many' للسؤال عن الكمية (كم عدد).",
+        "englishReason": "We use 'How' with 'many' to ask about quantity (How many).",
+        "options": [
+          "How",
+          "What",
+          "Where",
+          "Who"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 374
+      },
+      {
+        "question": "There ______ one flower in the garden.",
+        "correctAnswer": "is",
+        "arabicReason": "نستخدم 'is' مع الاسم المفرد (one flower) في جملة 'There is'.",
+        "englishReason": "We use 'is' with a singular noun (one flower) in the 'There is' structure.",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 375
+      },
+      {
+        "question": "There ______ two balls on the table.",
+        "correctAnswer": "are",
+        "arabicReason": "نستخدم 'are' مع الاسم الجمع (two balls) في جملة 'There are'.",
+        "englishReason": "We use 'are' with a plural noun (two balls) in the 'There are' structure.",
+        "options": [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 376
+      },
+      {
+        "question": "How many cars ______ there?",
+        "correctAnswer": "are",
+        "arabicReason": "نستخدم 'are' مع 'How many' لأن السؤال دائماً عن اسم جمع (cars).",
+        "englishReason": "We use 'are' with 'How many' because the question is always about a plural noun (cars).",
+        "options": [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 377
+      },
+      {
+        "question": "______ is one cat on the chair.",
+        "correctAnswer": "There",
+        "arabicReason": "نستخدم 'There' مع 'is' للتعبير عن وجود شيء مفرد (يوجد قطة واحدة).",
+        "englishReason": "We use 'There' with 'is' to express the existence of a singular thing (There is one cat).",
+        "options": [
+          "There",
+          "Their",
+          "They're",
+          "Here"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 378
+      },
+      {
+        "question": "There ______ three books in my bag.",
+        "correctAnswer": "are",
+        "arabicReason": "نستخدم 'are' مع الاسم الجمع (three books) لأن العدد أكبر من واحد.",
+        "englishReason": "We use 'are' with a plural noun (three books) because the number is more than one.",
+        "options": [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 379
+      },
+      {
+        "question": "How ______ apples are there?",
+        "correctAnswer": "many",
+        "arabicReason": "نستخدم 'many' مع 'How' للسؤال عن الأشياء التي يمكن عدها (apples).",
+        "englishReason": "We use 'many' with 'How' to ask about countable things (apples).",
+        "options": [
+          "many",
+          "much",
+          "some",
+          "any"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 380
+      },
+      {
+        "question": "There ______ four birds in the tree.",
+        "correctAnswer": "are",
+        "arabicReason": "نستخدم 'are' مع الاسم الجمع (four birds) لأن العدد أكبر من واحد.",
+        "englishReason": "We use 'are' with a plural noun (four birds) because the number is more than one.",
+        "options": [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 381
+      },
+      {
+        "question": "There ______ a pen on the desk.",
+        "correctAnswer": "is",
+        "arabicReason": "نستخدم 'is' مع الاسم المفرد (a pen) في جملة 'There is'.",
+        "englishReason": "We use 'is' with a singular noun (a pen) in the 'There is' structure.",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 382
+      },
+      {
+        "question": "How many dogs ______ there in the park?",
+        "correctAnswer": "are",
+        "arabicReason": "نستخدم 'are' مع 'How many' لأن السؤال عن اسم جمع (dogs).",
+        "englishReason": "We use 'are' with 'How many' because the question is about a plural noun (dogs).",
+        "options": [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 383
       }
     ],
     "justtalk": [
@@ -15824,6 +16574,206 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 339
+      },
+      {
+        "sentence": "the star is small",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the star) + الفعل (is) + الصفة الأساسية (small).",
+        "englishReason": "The correct order is subject (the star) + verb (is) + base adjective (small).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 340
+      },
+      {
+        "sentence": "the elephant is big",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the elephant) + الفعل (is) + الصفة الأساسية (big).",
+        "englishReason": "The correct order is subject (the elephant) + verb (is) + base adjective (big).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 341
+      },
+      {
+        "sentence": "the car is fast",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the car) + الفعل (is) + الصفة الأساسية (fast).",
+        "englishReason": "The correct order is subject (the car) + verb (is) + base adjective (fast).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 342
+      },
+      {
+        "sentence": "the tree is tall",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the tree) + الفعل (is) + الصفة الأساسية (tall).",
+        "englishReason": "The correct order is subject (the tree) + verb (is) + base adjective (tall).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 343
+      },
+      {
+        "sentence": "the river is long",
+        "arabicReason": "الترتيب الصحيح للجملة هو الفاعل (the river) + الفعل (is) + الصفة الأساسية (long).",
+        "englishReason": "The correct order is subject (the river) + verb (is) + base adjective (long).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 344
+      },
+      {
+        "sentence": "the math lesson is easier than the science test",
+        "arabicReason": "الترتيب الصحيح هو الفاعل (the math lesson) + الفعل (is) + صيغة المقارنة مع تحويل y إلى i (easier) + أداة المقارنة (than) + الاسم الثاني (the science test).",
+        "englishReason": "The correct order is subject (the math lesson) + verb (is) + comparative adjective with y to i change (easier) + than + second noun (the science test).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 345
+      },
+      {
+        "sentence": "the sun is bigger than the moon",
+        "arabicReason": "الترتيب الصحيح هو الفاعل (the sun) + الفعل (is) + صيغة المقارنة مع مضاعفة الحرف الأخير (bigger) + أداة المقارنة (than) + الاسم الثاني (the moon).",
+        "englishReason": "The correct order is subject (the sun) + verb (is) + comparative adjective with doubled consonant (bigger) + than + second noun (the moon).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 346
+      },
+      {
+        "sentence": "the cat is fatter than the mouse",
+        "arabicReason": "الترتيب الصحيح هو الفاعل (the cat) + الفعل (is) + صيغة المقارنة مع مضاعفة الحرف الأخير (fatter) + أداة المقارنة (than) + الاسم الثاني (the mouse).",
+        "englishReason": "The correct order is subject (the cat) + verb (is) + comparative adjective with doubled consonant (fatter) + than + second noun (the mouse).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 347
+      },
+      {
+        "sentence": "the paper is thinner than the cardboard",
+        "arabicReason": "الترتيب الصحيح هو الفاعل (the paper) + الفعل (is) + صيغة المقارنة مع مضاعفة الحرف الأخير (thinner) + أداة المقارنة (than) + الاسم الثاني (the cardboard).",
+        "englishReason": "The correct order is subject (the paper) + verb (is) + comparative adjective with doubled consonant (thinner) + than + second noun (the cardboard).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 348
+      },
+      {
+        "sentence": "the blue circle is the smallest",
+        "arabicReason": "الترتيب الصحيح هو الفاعل (the blue circle) + الفعل (is) + أداة التعريف والصفة في صيغة التفضيل العليا (the smallest).",
+        "englishReason": "The correct order is subject (the blue circle) + verb (is) + definite article and superlative adjective (the smallest).",
+        "level": "primary",
+        "grade": "4",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 349
+      },
+      {
+        "sentence": "how many flowers are there",
+        "arabicReason": "الترتيب الصحيح هو: أداة الاستفهام الكمية (how many) + الاسم الجمع (flowers) + الفعل (are) + الفاعل (there).",
+        "englishReason": "The correct order is: quantifier question word (how many) + plural noun (flowers) + verb (are) + subject (there).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 350
+      },
+      {
+        "sentence": "there is one flower in the garden",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل (there) + الفعل للمفرد (is) + العدد (one) + الاسم المفرد (flower) + شبه الجملة (in the garden).",
+        "englishReason": "The correct order is: subject (there) + singular verb (is) + number (one) + singular noun (flower) + prepositional phrase (in the garden).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 351
+      },
+      {
+        "sentence": "there are two balls on the table",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل (there) + الفعل للجمع (are) + العدد (two) + الاسم الجمع (balls) + شبه الجملة (on the table).",
+        "englishReason": "The correct order is: subject (there) + plural verb (are) + number (two) + plural noun (balls) + prepositional phrase (on the table).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 352
+      },
+      {
+        "sentence": "how many cars are there",
+        "arabicReason": "الترتيب الصحيح هو: أداة الاستفهام الكمية (how many) + الاسم الجمع (cars) + الفعل (are) + الفاعل (there).",
+        "englishReason": "The correct order is: quantifier question word (how many) + plural noun (cars) + verb (are) + subject (there).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 353
+      },
+      {
+        "sentence": "there is one cat on the chair",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل (there) + الفعل للمفرد (is) + العدد (one) + الاسم المفرد (cat) + شبه الجملة (on the chair).",
+        "englishReason": "The correct order is: subject (there) + singular verb (is) + number (one) + singular noun (cat) + prepositional phrase (on the chair).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 354
+      },
+      {
+        "sentence": "there are three books in my bag",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل (there) + الفعل للجمع (are) + العدد (three) + الاسم الجمع (books) + شبه الجملة (in my bag).",
+        "englishReason": "The correct order is: subject (there) + plural verb (are) + number (three) + plural noun (books) + prepositional phrase (in my bag).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 355
+      },
+      {
+        "sentence": "how many apples are there",
+        "arabicReason": "الترتيب الصحيح هو: أداة الاستفهام الكمية (how many) + الاسم الجمع (apples) + الفعل (are) + الفاعل (there).",
+        "englishReason": "The correct order is: quantifier question word (how many) + plural noun (apples) + verb (are) + subject (there).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 356
+      },
+      {
+        "sentence": "there are four birds in the tree",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل (there) + الفعل للجمع (are) + العدد (four) + الاسم الجمع (birds) + شبه الجملة (in the tree).",
+        "englishReason": "The correct order is: subject (there) + plural verb (are) + number (four) + plural noun (birds) + prepositional phrase (in the tree).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 357
+      },
+      {
+        "sentence": "there is a pen on the desk",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل (there) + الفعل للمفرد (is) + أداة النكرة (a) + الاسم المفرد (pen) + شبه الجملة (on the desk).",
+        "englishReason": "The correct order is: subject (there) + singular verb (is) + article (a) + singular noun (pen) + prepositional phrase (on the desk).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 358
+      },
+      {
+        "sentence": "how many dogs are there in the park",
+        "arabicReason": "الترتيب الصحيح هو: أداة الاستفهام الكمية (how many) + الاسم الجمع (dogs) + الفعل (are) + الفاعل (there) + شبه الجملة (in the park).",
+        "englishReason": "The correct order is: quantifier question word (how many) + plural noun (dogs) + verb (are) + subject (there) + prepositional phrase (in the park).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 359
       }
     ],
     "rewrite": [
@@ -53836,6 +54786,216 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 392
+      },
+      {
+        "sentence": "how many flowers are there",
+        "options": [
+          "how many flowers are there",
+          "how many cars are there",
+          "how many balls are there",
+          "how many birds are there"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 393
+      },
+      {
+        "sentence": "there is one flower in the garden",
+        "options": [
+          "there is one flower in the garden",
+          "there is one car in the garden",
+          "there is one ball in the garden",
+          "there is one bird in the garden"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 394
+      },
+      {
+        "sentence": "there are two balls on the table",
+        "options": [
+          "there are two balls on the table",
+          "there are two cars on the table",
+          "there are two books on the table",
+          "there are two birds on the table"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 395
+      },
+      {
+        "sentence": "how many cars are there",
+        "options": [
+          "how many cars are there",
+          "how many cats are there",
+          "how many dogs are there",
+          "how many pens are there"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 396
+      },
+      {
+        "sentence": "there is one cat on the chair",
+        "options": [
+          "there is one cat on the chair",
+          "there is one dog on the chair",
+          "there is one bird on the chair",
+          "there is one pen on the chair"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 397
+      },
+      {
+        "sentence": "there are three books in my bag",
+        "options": [
+          "there are three books in my bag",
+          "there are three cars in my bag",
+          "there are three balls in my bag",
+          "there are three pens in my bag"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 398
+      },
+      {
+        "sentence": "how many apples are there",
+        "options": [
+          "how many apples are there",
+          "how many flowers are there",
+          "how many birds are there",
+          "how many books are there"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 399
+      },
+      {
+        "sentence": "there are four birds in the tree",
+        "options": [
+          "there are four birds in the tree",
+          "there are four cats in the tree",
+          "there are four dogs in the tree",
+          "there are four books in the tree"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 400
+      },
+      {
+        "sentence": "there is a pen on the desk",
+        "options": [
+          "there is a pen on the desk",
+          "there is a book on the desk",
+          "there is a ball on the desk",
+          "there is a car on the desk"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 401
+      },
+      {
+        "sentence": "how many dogs are there in the park",
+        "options": [
+          "how many dogs are there in the park",
+          "how many cats are there in the park",
+          "how many birds are there in the park",
+          "how many cars are there in the park"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 402
+      },
+      {
+        "sentence": "the star is small",
+        "options": [
+          "the star is small",
+          "the star is big",
+          "the star is fast",
+          "the star is tall"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 403
+      },
+      {
+        "sentence": "the elephant is big",
+        "options": [
+          "the elephant is big",
+          "the elephant is small",
+          "the elephant is fat",
+          "the elephant is tall"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 404
+      },
+      {
+        "sentence": "the car is fast",
+        "options": [
+          "the car is fast",
+          "the car is big",
+          "the car is small",
+          "the car is heavy"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 405
+      },
+      {
+        "sentence": "the tree is tall",
+        "options": [
+          "the tree is tall",
+          "the tree is small",
+          "the tree is big",
+          "the tree is long"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 406
+      },
+      {
+        "sentence": "the river is long",
+        "options": [
+          "the river is long",
+          "the river is big",
+          "the river is small",
+          "the river is heavy"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 407
       }
     ],
     "vocab_choose": [
@@ -69905,6 +71065,346 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 477
+      },
+      {
+        "word": "There is one flower.",
+        "meaning": "يوجد زهرة واحدة.",
+        "options": [
+          "يوجد زهرة واحدة.",
+          "يوجد زهرتان.",
+          "توجد زهور كثيرة.",
+          "الزهرة جميلة."
+        ],
+        "arabicReason": "نستخدم 'There is' للتعبير عن وجود شيء مفرد (one flower).",
+        "englishReason": "We use 'There is' to express the existence of a singular thing (one flower).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 478
+      },
+      {
+        "word": "How many cars are there?",
+        "meaning": "كم عدد السيارات هناك؟",
+        "options": [
+          "كم عدد السيارات هناك؟",
+          "أين السيارات؟",
+          "هناك سيارتان.",
+          "السيارة سريعة."
+        ],
+        "arabicReason": "نستخدم 'How many' للسؤال عن الكمية للأشياء التي تُعد (cars).",
+        "englishReason": "We use 'How many' to ask about quantity for countable things (cars).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 479
+      },
+      {
+        "word": "هناك قطة صغيرة على الكرسي.",
+        "meaning": "There is a small cat on the chair.",
+        "options": [
+          "There is a small cat on the chair.",
+          "There are small cats on the chair.",
+          "The cat is small.",
+          "How many cats are there?"
+        ],
+        "arabicReason": "نستخدم 'There is' للمفرد، والصفة 'small' تصف القطة.",
+        "englishReason": "We use 'There is' for singular, and the adjective 'small' describes the cat.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 480
+      },
+      {
+        "word": "The elephant is bigger than the mouse.",
+        "meaning": "الفيل أكبر من الفأر.",
+        "options": [
+          "الفيل أكبر من الفأر.",
+          "الفيل أصغر من الفأر.",
+          "الفأر كبير.",
+          "الفيل والفأر متساويان."
+        ],
+        "arabicReason": "نستخدم صيغة المقارنة 'bigger than' للإشارة إلى أن الفيل أكبر حجماً.",
+        "englishReason": "We use the comparative form 'bigger than' to indicate that the elephant is larger in size.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 481
+      },
+      {
+        "word": "هذه الحقيبة أثقل من تلك الحقيبة.",
+        "meaning": "This bag is heavier than that bag.",
+        "options": [
+          "This bag is heavier than that bag.",
+          "This bag is heavy.",
+          "That bag is heavier.",
+          "How heavy is this bag?"
+        ],
+        "arabicReason": "نستخدم 'heavier than' للمقارنة بين شيئين، مع قلب y إلى i وإضافة er.",
+        "englishReason": "We use 'heavier than' to compare two things, changing 'y' to 'i' and adding 'er'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 482
+      },
+      {
+        "word": "There are three books in my bag.",
+        "meaning": "يوجد ثلاثة كتب في حقيبتي.",
+        "options": [
+          "يوجد ثلاثة كتب في حقيبتي.",
+          "يوجد كتاب واحد في حقيبتي.",
+          "حقيبتي كبيرة.",
+          "أين الكتب؟"
+        ],
+        "arabicReason": "نستخدم 'There are' لأن العدد ثلاثة (جمع) والمكان 'in my bag'.",
+        "englishReason": "We use 'There are' because the number is three (plural) and the location is 'in my bag'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 483
+      },
+      {
+        "word": "الشجرة طويلة جداً.",
+        "meaning": "The tree is very tall.",
+        "options": [
+          "The tree is very tall.",
+          "The tree is small.",
+          "How tall is the tree?",
+          "There is a tall tree."
+        ],
+        "arabicReason": "الصفة 'tall' تعني طويل، وتستخدم لوصف الشجرة.",
+        "englishReason": "The adjective 'tall' means طويل, and it is used to describe the tree.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 484
+      },
+      {
+        "word": "The math lesson is easier than the science lesson.",
+        "meaning": "درس الرياضيات أسهل من درس العلوم.",
+        "options": [
+          "درس الرياضيات أسهل من درس العلوم.",
+          "درس العلوم أسهل من الرياضيات.",
+          "درس الرياضيات صعب.",
+          "الدرسان متساويان في الصعوبة."
+        ],
+        "arabicReason": "نستخدم 'easier than' للمقارنة، مع قلب y إلى i وإضافة er لكلمة easy.",
+        "englishReason": "We use 'easier than' for comparison, changing 'y' to 'i' and adding 'er' to 'easy'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 485
+      },
+      {
+        "word": "كم عدد الطيور في الشجرة؟",
+        "meaning": "How many birds are there in the tree?",
+        "options": [
+          "How many birds are there in the tree?",
+          "There are birds in the tree.",
+          "The birds are small.",
+          "Where are the birds?"
+        ],
+        "arabicReason": "نستخدم 'How many' للسؤال عن عدد الطيور (جمع)، متبوعة بـ 'are there'.",
+        "englishReason": "We use 'How many' to ask about the number of birds (plural), followed by 'are there'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 486
+      },
+      {
+        "word": "This is the smallest ball in the box.",
+        "meaning": "هذه هي أصغر كرة في الصندوق.",
+        "options": [
+          "هذه هي أصغر كرة في الصندوق.",
+          "هذه كرة صغيرة.",
+          "الصندوق كبير.",
+          "أين الكرة الصغيرة؟"
+        ],
+        "arabicReason": "نستخدم صيغة التفضيل العليا 'the smallest' للإشارة إلى أنها الأصغر على الإطلاق في المجموعة.",
+        "englishReason": "We use the superlative form 'the smallest' to indicate it is the smallest of all in the group.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 487
+      },
+      {
+        "word": "يوجد زهرة واحدة.",
+        "meaning": "There is one flower.",
+        "options": [
+          "There is one flower.",
+          "There are one flower.",
+          "There is one flowers.",
+          "There are many flowers."
+        ],
+        "arabicReason": "نستخدم 'There is' لأن الاسم مفرد (one flower)، ولا نضيف s للاسم بعد العدد one.",
+        "englishReason": "We use 'There is' because the noun is singular (one flower), and we do not add 's' to the noun after the number one.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 488
+      },
+      {
+        "word": "كم عدد السيارات هناك؟",
+        "meaning": "How many cars are there?",
+        "options": [
+          "How many cars are there?",
+          "How much cars are there?",
+          "Where are the cars?",
+          "There are many cars."
+        ],
+        "arabicReason": "نستخدم 'How many' للأشياء المعدودة متبوعة بالاسم الجمع (cars) ثم 'are there'.",
+        "englishReason": "We use 'How many' for countable things, followed by the plural noun (cars) and then 'are there'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 489
+      },
+      {
+        "word": "هناك قطة صغيرة على الكرسي.",
+        "meaning": "There is a small cat on the chair.",
+        "options": [
+          "There is a small cat on the chair.",
+          "There are a small cat on the chair.",
+          "The cat is small on the chair.",
+          "How many cats are on the chair?"
+        ],
+        "arabicReason": "نستخدم 'There is' للمفرد (a cat)، وتأتي الصفة (small) قبل الاسم الموصوف.",
+        "englishReason": "We use 'There is' for singular (a cat), and the adjective (small) comes before the described noun.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 490
+      },
+      {
+        "word": "الفيل أكبر من الفأر.",
+        "meaning": "The elephant is bigger than the mouse.",
+        "options": [
+          "The elephant is bigger than the mouse.",
+          "The elephant is big than the mouse.",
+          "The mouse is bigger than the elephant.",
+          "The elephant is biggest than the mouse."
+        ],
+        "arabicReason": "نستخدم صيغة المقارنة 'bigger than' للإشارة إلى أن الفيل أكبر، مع مضاعفة حرف g في big.",
+        "englishReason": "We use the comparative form 'bigger than' to indicate the elephant is larger, with doubling the 'g' in 'big'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 491
+      },
+      {
+        "word": "هذه الحقيبة أثقل من تلك الحقيبة.",
+        "meaning": "This bag is heavier than that bag.",
+        "options": [
+          "This bag is heavier than that bag.",
+          "This bag is heavy than that bag.",
+          "That bag is heavier than this bag.",
+          "This bag is heaviest than that bag."
+        ],
+        "arabicReason": "نقلب y إلى i ونضيف er في صيغة المقارنة 'heavier than' لأن الصفة heavy تنتهي بـ y مسبوق بحرف ساكن.",
+        "englishReason": "We change 'y' to 'i' and add 'er' in the comparative form 'heavier than' because 'heavy' ends in 'y' preceded by a consonant.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 492
+      },
+      {
+        "word": "يوجد ثلاثة كتب في حقيبتي.",
+        "meaning": "There are three books in my bag.",
+        "options": [
+          "There are three books in my bag.",
+          "There is three books in my bag.",
+          "There are book in my bag.",
+          "There is a book in my bag."
+        ],
+        "arabicReason": "نستخدم 'There are' لأن الاسم جمع (three books)، ونضيف s للكتاب.",
+        "englishReason": "We use 'There are' because the noun is plural (three books), and we add 's' to the book.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 493
+      },
+      {
+        "word": "الشجرة طويلة جداً.",
+        "meaning": "The tree is very tall.",
+        "options": [
+          "The tree is very tall.",
+          "The tree is very taller.",
+          "The tree is very tallest.",
+          "The tree is very small."
+        ],
+        "arabicReason": "نستخدم الصفة الأساسية 'tall' مع 'very' للوصف المباشر بدون مقارنة أو تفضيل.",
+        "englishReason": "We use the base adjective 'tall' with 'very' for direct description without comparison or superlative.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 494
+      },
+      {
+        "word": "درس الرياضيات أسهل من درس العلوم.",
+        "meaning": "The math lesson is easier than the science lesson.",
+        "options": [
+          "The math lesson is easier than the science lesson.",
+          "The math lesson is easy than the science lesson.",
+          "The science lesson is easier than the math lesson.",
+          "The math lesson is easiest than the science lesson."
+        ],
+        "arabicReason": "نقلب y إلى i ونضيف er في 'easier than' للمقارنة بين درسين، لأن easy تنتهي بـ y مسبوق بحرف ساكن.",
+        "englishReason": "We change 'y' to 'i' and add 'er' in 'easier than' to compare two lessons, because 'easy' ends in 'y' preceded by a consonant.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 495
+      },
+      {
+        "word": "كم عدد الطيور في الشجرة؟",
+        "meaning": "How many birds are there in the tree?",
+        "options": [
+          "How many birds are there in the tree?",
+          "How much birds are there in the tree?",
+          "Where are the birds in the tree?",
+          "There are birds in the tree."
+        ],
+        "arabicReason": "نستخدم 'How many' متبوعة بالاسم الجمع (birds) والفعل 'are there' للسؤال عن الكمية في مكان محدد.",
+        "englishReason": "We use 'How many' followed by the plural noun (birds) and the verb 'are there' to ask about quantity in a specific place.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 496
+      },
+      {
+        "word": "هذه هي أصغر كرة في الصندوق.",
+        "meaning": "This is the smallest ball in the box.",
+        "options": [
+          "This is the smallest ball in the box.",
+          "This is the small ball in the box.",
+          "This is the smaller ball in the box.",
+          "This is smallest ball in the box."
+        ],
+        "arabicReason": "نستخدم صيغة التفضيل العليا 'the smallest' مع أداة التعريف 'the' للإشارة إلى أنها الأصغر على الإطلاق في المجموعة.",
+        "englishReason": "We use the superlative form 'the smallest' with the definite article 'the' to indicate it is the smallest of all in the group.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "7",
+        "id": 497
       }
     ]
   }
