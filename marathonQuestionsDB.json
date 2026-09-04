@@ -4965,6 +4965,126 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 346
+      },
+      {
+        "sentence": "What many cars are there?",
+        "errorWord": "What",
+        "correctWord": "How",
+        "arabicReason": "نستخدم 'How' مع 'many' للسؤال عن الكمية (كم عدد)، وليس 'What many' لأنها غير صحيحة.",
+        "englishReason": "We use 'How' with 'many' to ask about quantity (How many), not 'What many' which is incorrect.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 347
+      },
+      {
+        "sentence": "How many cars is there?",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "نستخدم 'are' مع 'How many' لأن السؤال دائماً عن اسم جمع (cars) ويحتاج فعل جمع.",
+        "englishReason": "We use 'are' with 'How many' because the question is always about a plural noun (cars) and needs a plural verb.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 348
+      },
+      {
+        "sentence": "How many book does he read?",
+        "errorWord": "book",
+        "correctWord": "books",
+        "arabicReason": "نستخدم الاسم الجمع (books) مع 'How many' لأن السؤال دائماً عن أكثر من شيء.",
+        "englishReason": "We use the plural noun (books) with 'How many' because the question is always about more than one thing.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 349
+      },
+      {
+        "sentence": "How many books does he reads every day?",
+        "errorWord": "reads",
+        "correctWord": "read",
+        "arabicReason": "نحذف 's' من الفعل الرئيسي عند وجود 'does' في السؤال، لأن 'does' تحمل علامة المضارع.",
+        "englishReason": "We drop the 's' from the main verb when 'does' is present in the question, because 'does' carries the present tense marker.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 350
+      },
+      {
+        "sentence": "How many meals does you eat?",
+        "errorWord": "does",
+        "correctWord": "do",
+        "arabicReason": "نستخدم 'do' مع الضمير 'you' في أسئلة المضارع البسيط، وليس 'does' التي تُستخدم مع he/she/it.",
+        "englishReason": "We use 'do' with the pronoun 'you' in simple present questions, not 'does' which is used with he/she/it.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 351
+      },
+      {
+        "sentence": "How many games do she play every day?",
+        "errorWord": "do",
+        "correctWord": "does",
+        "arabicReason": "نستخدم 'does' مع الضمائر المفردة (he, she, it) في أسئلة المضارع البسيط، وليس 'do'.",
+        "englishReason": "We use 'does' with singular pronouns (he, she, it) in simple present questions, not 'do'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 352
+      },
+      {
+        "sentence": "How many pens is there?",
+        "errorWord": "is",
+        "correctWord": "are",
+        "arabicReason": "نستخدم 'are' مع 'How many' لأن السؤال عن اسم جمع (pens).",
+        "englishReason": "We use 'are' with 'How many' because the question is about a plural noun (pens).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 353
+      },
+      {
+        "sentence": "How many apples does he eats every day?",
+        "errorWord": "eats",
+        "correctWord": "eat",
+        "arabicReason": "نحذف 's' من 'eats' لأن 'does' موجودة في السؤال، والفعل يرجع لشكله الأساسي.",
+        "englishReason": "We drop the 's' from 'eats' because 'does' is present in the question, and the verb returns to its base form.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 354
+      },
+      {
+        "sentence": "How many cats do she have?",
+        "errorWord": "do",
+        "correctWord": "does",
+        "arabicReason": "نستخدم 'does' مع الضمير 'she' في أسئلة المضارع البسيط، وليس 'do'.",
+        "englishReason": "We use 'does' with the pronoun 'she' in simple present questions, not 'do'.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 355
+      },
+      {
+        "sentence": "How many brothers does you have?",
+        "errorWord": "does",
+        "correctWord": "do",
+        "arabicReason": "نستخدم 'do' مع الضمير 'you' في أسئلة المضارع البسيط، وليس 'does' التي تُستخدم مع he/she/it.",
+        "englishReason": "We use 'do' with the pronoun 'you' in simple present questions, not 'does' which is used with he/she/it.",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 356
       }
     ],
     "find_the_vowel": [
@@ -11493,6 +11613,244 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 383
+      },
+      {
+        "question": "How many cars ______ there?",
+        "correctAnswer": "are",
+        "arabicReason": "نستخدم 'are' مع 'How many' لأن السؤال دائماً عن اسم جمع (cars) ويحتاج فعل جمع.",
+        "englishReason": "We use 'are' with 'How many' because the question is always about a plural noun (cars) and needs a plural verb.",
+        "options": [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 384
+      },
+      {
+        "question": "How many books ______ he read?",
+        "correctAnswer": "does",
+        "arabicReason": "نستخدم 'does' مع الضمائر المفردة (he, she, it) في أسئلة المضارع البسيط.",
+        "englishReason": "We use 'does' with singular pronouns (he, she, it) in simple present questions.",
+        "options": [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 385
+      },
+      {
+        "question": "______ many meals do you eat?",
+        "correctAnswer": "How",
+        "arabicReason": "نستخدم 'How' مع 'many' للسؤال عن الكمية (كم عدد)، وليس 'What'.",
+        "englishReason": "We use 'How' with 'many' to ask about quantity (How many), not 'What'.",
+        "options": [
+          "How",
+          "What",
+          "Where",
+          "Who"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 386
+      },
+      {
+        "question": "How many ______ are there?",
+        "correctAnswer": "friends",
+        "arabicReason": "نستخدم الاسم الجمع (friends) مع 'How many' لأن السؤال دائماً عن أكثر من شيء.",
+        "englishReason": "We use the plural noun (friends) with 'How many' because the question is always about more than one thing.",
+        "options": [
+          "friend",
+          "friends",
+          "friendly",
+          "friendship"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 387
+      },
+      {
+        "question": "How many books does he ______?",
+        "correctAnswer": "read",
+        "arabicReason": "نحذف 's' من الفعل الرئيسي عند وجود 'does' في السؤال، لأن 'does' تحمل علامة المضارع.",
+        "englishReason": "We drop the 's' from the main verb when 'does' is present in the question, because 'does' carries the present tense marker.",
+        "options": [
+          "read",
+          "reads",
+          "reading",
+          "readed"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 388
+      },
+      {
+        "question": "How many apples does she ______ every day?",
+        "correctAnswer": "eat",
+        "arabicReason": "نحذف 's' من 'eats' لأن 'does' موجودة في السؤال، والفعل يبقى في شكله الأساسي.",
+        "englishReason": "We drop the 's' from 'eats' because 'does' is present in the question, and the verb stays in its base form.",
+        "options": [
+          "eat",
+          "eats",
+          "eating",
+          "eaten"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 389
+      },
+      {
+        "question": "______ many pens are there?",
+        "correctAnswer": "How",
+        "arabicReason": "نستخدم 'How' مع 'many' للسؤال عن الكمية، وليس 'What many' لأنها غير صحيحة.",
+        "englishReason": "We use 'How' with 'many' to ask about quantity, not 'What many' which is incorrect.",
+        "options": [
+          "How",
+          "What",
+          "Which",
+          "Where"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 390
+      },
+      {
+        "question": "How many ______ does she have?",
+        "correctAnswer": "cats",
+        "arabicReason": "نستخدم الاسم الجمع (cats) مع 'How many' لأن السؤال عن أكثر من قطة.",
+        "englishReason": "We use the plural noun (cats) with 'How many' because the question is about more than one cat.",
+        "options": [
+          "cat",
+          "cats",
+          "catty",
+          "catting"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 391
+      },
+      {
+        "question": "How many games do you ______?",
+        "correctAnswer": "play",
+        "arabicReason": "نحذف 's' من الفعل لأن 'do' موجودة في السؤال، والفعل يبقى في شكله الأساسي.",
+        "englishReason": "We drop the 's' from the verb because 'do' is present in the question, and the verb stays in its base form.",
+        "options": [
+          "play",
+          "plays",
+          "playing",
+          "played"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 392
+      },
+      {
+        "question": "How many balls ______ there?",
+        "correctAnswer": "are",
+        "arabicReason": "نستخدم 'are' مع 'How many' لأن السؤال عن اسم جمع (balls).",
+        "englishReason": "We use 'are' with 'How many' because the question is about a plural noun (balls).",
+        "options": [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 393
+      },
+      {
+        "question": "How many brothers ______ you have?",
+        "correctAnswer": "do",
+        "arabicReason": "نستخدم 'do' مع الضمير 'you' في أسئلة المضارع البسيط.",
+        "englishReason": "We use 'do' with the pronoun 'you' in simple present questions.",
+        "options": [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 394
+      },
+      {
+        "question": "How many meals does she ______ every day?",
+        "correctAnswer": "eat",
+        "arabicReason": "نحذف 's' من 'eats' لأن 'does' موجودة في السؤال، والفعل يرجع لشكله الأساسي.",
+        "englishReason": "We drop the 's' from 'eats' because 'does' is present in the question, and the verb returns to its base form.",
+        "options": [
+          "eat",
+          "eats",
+          "eating",
+          "eaten"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 395
+      },
+      {
+        "question": "There ______ three books in my bag.",
+        "correctAnswer": "are",
+        "arabicReason": "نستخدم 'are' مع الاسم الجمع (three books) لأن العدد أكبر من واحد.",
+        "englishReason": "We use 'are' with a plural noun (three books) because the number is more than one.",
+        "options": [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 396
+      },
+      {
+        "question": "How many ______ does he read every day?",
+        "correctAnswer": "books",
+        "arabicReason": "نستخدم الاسم الجمع (books) مع 'How many' لأن السؤال عن أكثر من كتاب.",
+        "englishReason": "We use the plural noun (books) with 'How many' because the question is about more than one book.",
+        "options": [
+          "book",
+          "books",
+          "bookish",
+          "booking"
+        ],
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 397
       }
     ],
     "justtalk": [
@@ -16774,6 +17132,106 @@
         "curriculum": "OL",
         "unit": "7",
         "id": 359
+      },
+      {
+        "sentence": "how many cars are there",
+        "arabicReason": "الترتيب الصحيح هو: أداة الاستفهام الكمية (how many) + الاسم الجمع (cars) + الفعل (are) + الفاعل (there).",
+        "englishReason": "The correct order is: quantifier question word (how many) + plural noun (cars) + verb (are) + subject (there).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 360
+      },
+      {
+        "sentence": "there is one car",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل (there) + الفعل للمفرد (is) + العدد (one) + الاسم المفرد (car).",
+        "englishReason": "The correct order is: subject (there) + singular verb (is) + number (one) + singular noun (car).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 361
+      },
+      {
+        "sentence": "how many meals do you eat",
+        "arabicReason": "الترتيب الصحيح هو: أداة الاستفهام الكمية (how many) + الاسم الجمع (meals) + الفعل المساعد (do) + الفاعل (you) + الفعل الرئيسي (eat).",
+        "englishReason": "The correct order is: quantifier question word (how many) + plural noun (meals) + auxiliary verb (do) + subject (you) + main verb (eat).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 362
+      },
+      {
+        "sentence": "i eat three meals every day",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل (i) + الفعل الرئيسي (eat) + العدد (three) + الاسم الجمع (meals) + ظرف الزمان (every day).",
+        "englishReason": "The correct order is: subject (i) + main verb (eat) + number (three) + plural noun (meals) + time expression (every day).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 363
+      },
+      {
+        "sentence": "how many games does she play",
+        "arabicReason": "الترتيب الصحيح هو: أداة الاستفهام الكمية (how many) + الاسم الجمع (games) + الفعل المساعد للمفرد (does) + الفاعل (she) + الفعل الرئيسي (play).",
+        "englishReason": "The correct order is: quantifier question word (how many) + plural noun (games) + singular auxiliary verb (does) + subject (she) + main verb (play).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 364
+      },
+      {
+        "sentence": "she plays two games every day",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل (she) + الفعل الرئيسي مع إضافة s (plays) + العدد (two) + الاسم الجمع (games) + ظرف الزمان (every day).",
+        "englishReason": "The correct order is: subject (she) + main verb with 's' (plays) + number (two) + plural noun (games) + time expression (every day).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 365
+      },
+      {
+        "sentence": "how many books does he read",
+        "arabicReason": "الترتيب الصحيح هو: أداة الاستفهام الكمية (how many) + الاسم الجمع (books) + الفعل المساعد للمفرد (does) + الفاعل (he) + الفعل الرئيسي (read).",
+        "englishReason": "The correct order is: quantifier question word (how many) + plural noun (books) + singular auxiliary verb (does) + subject (he) + main verb (read).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 366
+      },
+      {
+        "sentence": "he reads one book every day",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل (he) + الفعل الرئيسي مع إضافة s (reads) + العدد (one) + الاسم المفرد (book) + ظرف الزمان (every day).",
+        "englishReason": "The correct order is: subject (he) + main verb with 's' (reads) + number (one) + singular noun (book) + time expression (every day).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 367
+      },
+      {
+        "sentence": "how many friends do you have",
+        "arabicReason": "الترتيب الصحيح هو: أداة الاستفهام الكمية (how many) + الاسم الجمع (friends) + الفعل المساعد (do) + الفاعل (you) + الفعل الرئيسي (have).",
+        "englishReason": "The correct order is: quantifier question word (how many) + plural noun (friends) + auxiliary verb (do) + subject (you) + main verb (have).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 368
+      },
+      {
+        "sentence": "there are three pens",
+        "arabicReason": "الترتيب الصحيح هو: الفاعل (there) + الفعل للجمع (are) + العدد (three) + الاسم الجمع (pens).",
+        "englishReason": "The correct order is: subject (there) + plural verb (are) + number (three) + plural noun (pens).",
+        "level": "primary",
+        "grade": "3",
+        "curriculum": "OL",
+        "unit": "8",
+        "id": 369
       }
     ],
     "rewrite": [
